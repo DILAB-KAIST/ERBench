@@ -1,0 +1,1800 @@
+0-0th question
+Q: Did the city, where the soccer club, L. Messi played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Messi played for in 2019, Barcelona, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+0-1th question
+Q: Is it true that the city, where the soccer club, L. Messi played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+1-0th question
+Q: Did the city, where the soccer club, Cristiano Ronaldo played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Cristiano Ronaldo played for in 2019, Juventus, is not located in the city that hosted the Summer Olympics in 2019, Tokyo. Juventus is based in Turin, Italy, while Tokyo is in Japan. Therefore, the two events were not held in the same city.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+1-1th question
+Q: Is it true that the city, where the soccer club, Cristiano Ronaldo played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+2-0th question
+Q: Did the city, where the soccer club, Neymar Jr played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Neymar Jr played for in 2019, did not host the Summer Olympics in 2019. The city where Neymar Jr played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan in 2020. The reason for this is that the Summer Olympics in 2019 were postponed due to the COVID-19 pandemic. The postponement was announced in March 2020, and the new dates for the Summer Olympics in 2020 were announced in September 2020. The Summer Olympics in 2020 were held in Tokyo, Japan in 2021.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+2-1th question
+Q: Is it true that the city, where the soccer club, Neymar Jr played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+3-0th question
+Q: Did the city, where the soccer club, E. Hazard played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where E. Hazard played for in 2019, did not host the Summer Olympics in 2019. The city where E. Hazard played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+3-1th question
+Q: Is it true that the city, where the soccer club, E. Hazard played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+4-0th question
+Q: Did the city, where the soccer club, K. De Bruyne played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. De Bruyne played for in 2019, did not host the Summer Olympics in 2019. The city where K. De Bruyne played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+4-1th question
+Q: Is it true that the city, where the soccer club, K. De Bruyne played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+5-0th question
+Q: Did the city, where the soccer club, J. Oblak played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Oblak played for in 2019 did not host the Summer Olympics in 2019. The city where J. Oblak played for in 2019 is Atletico Madrid, which is located in Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Atlético de Madrid, madrid,  
+
+5-1th question
+Q: Is it true that the city, where the soccer club, J. Oblak played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atlético de Madrid, madrid,  
+
+6-0th question
+Q: Did the city, where the soccer club, L. Modrić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Modrić played for in 2019, did not host the Summer Olympics in 2019. The city where L. Modrić played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+6-1th question
+Q: Is it true that the city, where the soccer club, L. Modrić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+7-0th question
+Q: Did the city, where the soccer club, M. ter Stegen played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. ter Stegen played for in 2019, Barcelona, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+7-1th question
+Q: Is it true that the city, where the soccer club, M. ter Stegen played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+8-0th question
+Q: Did the city, where the soccer club, V. van Dijk played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where V. van Dijk played for in 2019, did not host the Summer Olympics in 2019. The city where V. van Dijk played for in 2019 is Liverpool, which is in England. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+8-1th question
+Q: Is it true that the city, where the soccer club, V. van Dijk played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+9-0th question
+Q: Did the city, where the soccer club, M. Salah played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Salah played for in 2019, did not host the Summer Olympics in 2019. The city where M. Salah played for in 2019 is Cairo, Egypt. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+9-1th question
+Q: Is it true that the city, where the soccer club, M. Salah played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+10-0th question
+Q: Did the city, where the soccer club, G. Chiellini played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where G. Chiellini played for in 2019, did not host the Summer Olympics in 2019. The city where G. Chiellini played for in 2019 is Turin, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+10-1th question
+Q: Is it true that the city, where the soccer club, G. Chiellini played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+11-0th question
+Q: Did the city, where the soccer club, S. Agüero played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Agüero played for in 2019, did not host the Summer Olympics in 2019. The city where S. Agüero played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+11-1th question
+Q: Is it true that the city, where the soccer club, S. Agüero played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+12-0th question
+Q: Did the city, where the soccer club, Sergio Ramos played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Sergio Ramos played for in 2019, did not host the Summer Olympics in 2019. The city where Sergio Ramos played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+12-1th question
+Q: Is it true that the city, where the soccer club, Sergio Ramos played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+13-0th question
+Q: Did the city, where the soccer club, L. Suárez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Suárez played for in 2019, did not host the Summer Olympics in 2019. The city where L. Suárez played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+13-1th question
+Q: Is it true that the city, where the soccer club, L. Suárez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+14-0th question
+Q: Did the city, where the soccer club, R. Lewandowski played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Lewandowski played for in 2019, did not host the Summer Olympics in 2019. The city where R. Lewandowski played for in 2019 is Bayern Munich, Germany. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+14-1th question
+Q: Is it true that the city, where the soccer club, R. Lewandowski played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+15-0th question
+Q: Did the city, where the soccer club, Sergio Busquets played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Sergio Busquets played for in 2019 did not host the Summer Olympics in 2019. The city where Sergio Busquets played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+15-1th question
+Q: Is it true that the city, where the soccer club, Sergio Busquets played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+16-0th question
+Q: Did the city, where the soccer club, De Gea played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where De Gea played for in 2019, Atletico Madrid, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Manchester United, manchester,  
+
+16-1th question
+Q: Is it true that the city, where the soccer club, De Gea played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester United, manchester,  
+
+17-0th question
+Q: Did the city, where the soccer club, A. Griezmann played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Griezmann played for in 2019, Atletico Madrid, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+17-1th question
+Q: Is it true that the city, where the soccer club, A. Griezmann played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+18-0th question
+Q: Did the city, where the soccer club, K. Koulibaly played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Koulibaly played for in 2019 did not host the Summer Olympics in 2019. The city where Koulibaly played for in 2019 is Naples, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+18-1th question
+Q: Is it true that the city, where the soccer club, K. Koulibaly played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+19-0th question
+Q: Did the city, where the soccer club, H. Kane played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where H. Kane played for in 2019, Tottenham Hotspur, is not located in the city that hosted the Summer Olympics in 2019, Tokyo. Tottenham Hotspur is located in London, England. Tokyo, Japan hosted the Summer Olympics in 2019.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+19-1th question
+Q: Is it true that the city, where the soccer club, H. Kane played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+20-0th question
+Q: Did the city, where the soccer club, Alisson played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Alisson played for in 2019, did not host the Summer Olympics in 2019. The city where Alisson played for in 2019 is Liverpool, and the Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+20-1th question
+Q: Is it true that the city, where the soccer club, Alisson played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+21-0th question
+Q: Did the city, where the soccer club, N. Kanté played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where N. Kanté played for in 2019, did not host the Summer Olympics in 2019. The city where N. Kanté played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+21-1th question
+Q: Is it true that the city, where the soccer club, N. Kanté played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+22-0th question
+Q: Did the city, where the soccer club, K. Mbappé played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Mbappé played for in 2019, Paris, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+22-1th question
+Q: Is it true that the city, where the soccer club, K. Mbappé played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+23-0th question
+Q: Did the city, where the soccer club, Piqué played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Piqué played for in 2019 did not host the Summer Olympics in 2019. The city where Piqué played for in 2019 is Barcelona, Spain. Barcelona did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+23-1th question
+Q: Is it true that the city, where the soccer club, Piqué played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+24-0th question
+Q: Did the city, where the soccer club, S. Handanovič played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Handanovič played for in 2019 did not host the Summer Olympics in 2019. The city where S. Handanovič played for in 2019 is not Tokyo, which was the host of the 2020 Summer Olympics. Tokyo was the host of the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where S. Handanovič played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+24-1th question
+Q: Is it true that the city, where the soccer club, S. Handanovič played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+25-0th question
+Q: Did the city, where the soccer club, M. Neuer played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Neuer played for in 2019, did not host the Summer Olympics in 2019. The city where M. Neuer played for in 2019 is Munich, Germany. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+25-1th question
+Q: Is it true that the city, where the soccer club, M. Neuer played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+26-0th question
+Q: Did the city, where the soccer club, H. Lloris played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where H. Lloris played for in 2019, did not host the Summer Olympics in 2019. The city where H. Lloris played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+26-1th question
+Q: Is it true that the city, where the soccer club, H. Lloris played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+27-0th question
+Q: Did the city, where the soccer club, David Silva played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where David Silva played for in 2019, did not host the Summer Olympics in 2019. The city where David Silva played for in 2019 is Manchester, and Manchester did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+27-1th question
+Q: Is it true that the city, where the soccer club, David Silva played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+28-0th question
+Q: Did the city, where the soccer club, E. Cavani played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where E. Cavani played for in 2019, did not host the Summer Olympics in 2019. The city where E. Cavani played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+28-1th question
+Q: Is it true that the city, where the soccer club, E. Cavani played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+29-0th question
+Q: Did the city, where the soccer club, D. Godín played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where D. Godín played for in 2019, did not host the Summer Olympics in 2019. The city where D. Godín played for in 2019 is Córdoba, which is located in Argentina. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+29-1th question
+Q: Is it true that the city, where the soccer club, D. Godín played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+30-0th question
+Q: Did the city, where the soccer club, T. Kroos played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where T. Kroos played for in 2019, did not host the Summer Olympics in 2019. The city where T. Kroos played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+30-1th question
+Q: Is it true that the city, where the soccer club, T. Kroos played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+31-0th question
+Q: Did the city, where the soccer club, M. Reus played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Reus played for in 2019 did not host the Summer Olympics in 2019. The city where M. Reus played for in 2019 is Reus, which is located in Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Borussia Dortmund, dortmund,  
+
+31-1th question
+Q: Is it true that the city, where the soccer club, M. Reus played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Dortmund, dortmund,  
+
+32-0th question
+Q: Did the city, where the soccer club, P. Aubameyang played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where P. Aubameyang played for in 2019, which is Saint-Etienne, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019. Saint-Etienne is a city in France, and it is not known for hosting international sporting events like the Olympics.
+Gold Answer: yes
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+32-1th question
+Q: Is it true that the city, where the soccer club, P. Aubameyang played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+33-0th question
+Q: Did the city, where the soccer club, C. Eriksen played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where C. Eriksen played for in 2019 did not host the Summer Olympics in 2019. The city where C. Eriksen played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+33-1th question
+Q: Is it true that the city, where the soccer club, C. Eriksen played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+34-0th question
+Q: Did the city, where the soccer club, T. Courtois played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where T. Courtois played for in 2019, did not host the Summer Olympics in 2019. The city where T. Courtois played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+34-1th question
+Q: Is it true that the city, where the soccer club, T. Courtois played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+35-0th question
+Q: Did the city, where the soccer club, P. Pogba played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where P. Pogba played for in 2019, did not host the Summer Olympics in 2019. The city where P. Pogba played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester United, manchester,  
+
+35-1th question
+Q: Is it true that the city, where the soccer club, P. Pogba played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester United, manchester,  
+
+36-0th question
+Q: Did the city, where the soccer club, R. Sterling played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Sterling played for in 2019, did not host the Summer Olympics in 2019. The city where R. Sterling played for in 2019 is Manchester, England. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+36-1th question
+Q: Is it true that the city, where the soccer club, R. Sterling played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+37-0th question
+Q: Did the city, where the soccer club, S. Mané played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Mané played for in 2019, did not host the Summer Olympics in 2019. The city where S. Mané played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+37-1th question
+Q: Is it true that the city, where the soccer club, S. Mané played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+38-0th question
+Q: Did the city, where the soccer club, Ederson played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Ederson played for in 2019, did not host the Summer Olympics in 2019. The city where Ederson played for in 2019 is São Paulo, Brazil. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+38-1th question
+Q: Is it true that the city, where the soccer club, Ederson played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+39-0th question
+Q: Did the city, where the soccer club, P. Dybala played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where P. Dybala played for in 2019, did not host the Summer Olympics in 2019. The city where P. Dybala played for in 2019 is Turin, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+39-1th question
+Q: Is it true that the city, where the soccer club, P. Dybala played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+40-0th question
+Q: Did the city, where the soccer club, Fernandinho played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Fernandinho played for in 2019, did not host the Summer Olympics in 2019. The city where Fernandinho played for in 2019 is São Paulo, Brazil. The city that hosted the Summer Olympics in 2019 is Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+40-1th question
+Q: Is it true that the city, where the soccer club, Fernandinho played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+41-0th question
+Q: Did the city, where the soccer club, Thiago Silva played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Thiago Silva played for in 2019, did not host the Summer Olympics in 2019. The city where Thiago Silva played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+41-1th question
+Q: Is it true that the city, where the soccer club, Thiago Silva played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+42-0th question
+Q: Did the city, where the soccer club, K. Benzema played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Benzema played for in 2019, did not host the Summer Olympics in 2019. The city where K. Benzema played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+42-1th question
+Q: Is it true that the city, where the soccer club, K. Benzema played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+43-0th question
+Q: Did the city, where the soccer club, J. Vertonghen played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Vertonghen played for in 2019, did not host the Summer Olympics in 2019. The city where J. Vertonghen played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+43-1th question
+Q: Is it true that the city, where the soccer club, J. Vertonghen played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+44-0th question
+Q: Did the city, where the soccer club, D. Mertens played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where D. Mertens played for in 2019, did not host the Summer Olympics in 2019. The city where D. Mertens played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+44-1th question
+Q: Is it true that the city, where the soccer club, D. Mertens played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+45-0th question
+Q: Did the city, where the soccer club, M. Hummels played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Hummels played for in 2019 did not host the Summer Olympics in 2019. The city where M. Hummels played for in 2019 is Dortmund, Germany. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Borussia Dortmund, dortmund,  
+
+45-1th question
+Q: Is it true that the city, where the soccer club, M. Hummels played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Dortmund, dortmund,  
+
+46-0th question
+Q: Did the city, where the soccer club, T. Alderweireld played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where T. Alderweireld played for in 2019 did not host the Summer Olympics in 2019. The city where T. Alderweireld played for in 2019 is Ajax, which is located in the Netherlands. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+46-1th question
+Q: Is it true that the city, where the soccer club, T. Alderweireld played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+47-0th question
+Q: Did the city, where the soccer club, Jordi Alba played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Jordi Alba played for in 2019, Barcelona, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+47-1th question
+Q: Is it true that the city, where the soccer club, Jordi Alba played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+48-0th question
+Q: Did the city, where the soccer club, Thiago played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Thiago played for in 2019 did not host the Summer Olympics in 2019. The city where Thiago played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019. Tokyo did not host the Summer Olympics in 2019
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+48-1th question
+Q: Is it true that the city, where the soccer club, Thiago played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+49-0th question
+Q: Did the city, where the soccer club, K. Navas played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Navas played for in 2019, did not host the Summer Olympics in 2019. The city where K. Navas played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+49-1th question
+Q: Is it true that the city, where the soccer club, K. Navas played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+50-0th question
+Q: Did the city, where the soccer club, L. Insigne played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Insigne played for in 2019, did not host the Summer Olympics in 2019. The city where L. Insigne played for in 2019 is Naples, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+50-1th question
+Q: Is it true that the city, where the soccer club, L. Insigne played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+51-0th question
+Q: Did the city, where the soccer club, H. Son played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where H. Son played for in 2019 did not host the Summer Olympics in 2019. The city where H. Son played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. H. Son played for a soccer club in Kuala Lumpur in 2019, but the city did not host the Summer Olympics in 2019. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+51-1th question
+Q: Is it true that the city, where the soccer club, H. Son played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+52-0th question
+Q: Did the city, where the soccer club, Casemiro played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Casemiro played for in 2019, Real Madrid, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+52-1th question
+Q: Is it true that the city, where the soccer club, Casemiro played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+53-0th question
+Q: Did the city, where the soccer club, A. Laporte played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Laporte played for in 2019 did not host the Summer Olympics in 2019. The city where A. Laporte played for in 2019 is Barcelona, Spain. Barcelona did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+53-1th question
+Q: Is it true that the city, where the soccer club, A. Laporte played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+54-0th question
+Q: Did the city, where the soccer club, Bernardo Silva played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Bernardo Silva played for in 2019, is not the city that hosted the Summer Olympics in 2019. Bernardo Silva played for Benfica in the 2019-2020 season, and the Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+54-1th question
+Q: Is it true that the city, where the soccer club, Bernardo Silva played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+55-0th question
+Q: Did the city, where the soccer club, I. Rakitić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where I. Rakitić played for in 2019, Barcelona, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+55-1th question
+Q: Is it true that the city, where the soccer club, I. Rakitić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+56-0th question
+Q: Did the city, where the soccer club, M. Pjanić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Pjanić played for in 2019 did not host the Summer Olympics in 2019. The city where M. Pjanić played for in 2019 is Rome, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+56-1th question
+Q: Is it true that the city, where the soccer club, M. Pjanić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+57-0th question
+Q: Did the city, where the soccer club, Á. Di María played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Á. Di María played for in 2019, did not host the Summer Olympics in 2019. The city where Á. Di María played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan in 2020. The reason for this is that the Summer Olympics in 2019 were postponed due to the COVID-19 pandemic. The postponement was announced in March 2020, and the new dates for the Summer Olympics in 2020 were announced in June 2020. The Summer Olympics in 2020 were held in Tokyo, Japan in 2021.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+57-1th question
+Q: Is it true that the city, where the soccer club, Á. Di María played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+58-0th question
+Q: Did the city, where the soccer club, L. Bonucci played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Bonucci played for in 2019, Juventus, is not located in the city that hosted the Summer Olympics in 2019, Tokyo. Juventus is based in Turin, Italy, while Tokyo is in Japan. Therefore, the two are not the same.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+58-1th question
+Q: Is it true that the city, where the soccer club, L. Bonucci played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+59-0th question
+Q: Did the city, where the soccer club, W. Szczęsny played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where W. Szczęsny played for in 2019 did not host the Summer Olympics in 2019. The city where W. Szczęsny played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+59-1th question
+Q: Is it true that the city, where the soccer club, W. Szczęsny played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+60-0th question
+Q: Did the city, where the soccer club, Coutinho played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Coutinho played for in 2019 did not host the Summer Olympics in 2019. The city where Coutinho played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+60-1th question
+Q: Is it true that the city, where the soccer club, Coutinho played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+61-0th question
+Q: Did the city, where the soccer club, Parejo played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Parejo played for in 2019 did not host the Summer Olympics in 2019. The city where Parejo played for in 2019 is not specified in the question. However, the city where Parejo played for in 2019 is likely to be a city in Spain, as Parejo is a Spanish soccer player. The city where Parejo played for in 2019 is not specified in the question, so I cannot provide a definitive answer.
+Gold Answer: no
+Gold Entity: Valencia CF, valencia,  
+
+61-1th question
+Q: Is it true that the city, where the soccer club, Parejo played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Valencia CF, valencia,  
+
+62-0th question
+Q: Did the city, where the soccer club, T. Müller played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where T. Müller played for in 2019 did not host the Summer Olympics in 2019. The city where T. Müller played for in 2019 is not Tokyo, which was the host of the 2020 Summer Olympics. Tokyo was the host of the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where T. Müller played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+62-1th question
+Q: Is it true that the city, where the soccer club, T. Müller played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+63-0th question
+Q: Did the city, where the soccer club, C. Immobile played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where C. Immobile played for in 2019, Lecce, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: Lazio, rome, 1960,
+
+63-1th question
+Q: Is it true that the city, where the soccer club, C. Immobile played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Lazio, rome, 1960,
+
+64-0th question
+Q: Did the city, where the soccer club, A. Lacazette played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Lacazette played for in 2019, Arsenal Football Club, is not located in the city that hosted the Summer Olympics in 2019, Tokyo, Japan. Arsenal Football Club is located in London, England.
+Gold Answer: yes
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+64-1th question
+Q: Is it true that the city, where the soccer club, A. Lacazette played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+65-0th question
+Q: Did the city, where the soccer club, Isco played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Isco played for in 2019, Real Madrid, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+65-1th question
+Q: Is it true that the city, where the soccer club, Isco played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+66-0th question
+Q: Did the city, where the soccer club, M. Verratti played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Verratti played for in 2019, Paris, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+66-1th question
+Q: Is it true that the city, where the soccer club, M. Verratti played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+67-0th question
+Q: Did the city, where the soccer club, Roberto Firmino played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Roberto Firmino played for in 2019, did not host the Summer Olympics in 2019. The city where Roberto Firmino played for in 2019 is Liverpool, and the Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+67-1th question
+Q: Is it true that the city, where the soccer club, Roberto Firmino played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+68-0th question
+Q: Did the city, where the soccer club, S. Umtiti played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Umtiti played for in 2019, did not host the Summer Olympics in 2019. The city where S. Umtiti played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+68-1th question
+Q: Is it true that the city, where the soccer club, S. Umtiti played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+69-0th question
+Q: Did the city, where the soccer club, Marquinhos played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Marquinhos played for in 2019 did not host the Summer Olympics in 2019. The city where Marquinhos played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+69-1th question
+Q: Is it true that the city, where the soccer club, Marquinhos played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Paris Saint-Germain, paris, 1924,1900,
+
+70-0th question
+Q: Did the city, where the soccer club, J. Kimmich played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Kimmich played for in 2019, did not host the Summer Olympics in 2019. The city where J. Kimmich played for in 2019 is Munich, Germany. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+70-1th question
+Q: Is it true that the city, where the soccer club, J. Kimmich played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+71-0th question
+Q: Did the city, where the soccer club, L. Sané played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Sané played for in 2019, did not host the Summer Olympics in 2019. The city where L. Sané played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+71-1th question
+Q: Is it true that the city, where the soccer club, L. Sané played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+72-0th question
+Q: Did the city, where the soccer club, M. Škriniar played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Škriniar played for in 2019 did not host the Summer Olympics in 2019. The city where M. Škriniar played for in 2019 is Inter Milan, which is located in Italy. The city that hosted the Summer Olympics in 2019 is Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+72-1th question
+Q: Is it true that the city, where the soccer club, M. Škriniar played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+73-0th question
+Q: Did the city, where the soccer club, Z. Ibrahimović played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Z. Ibrahimović played for in 2019, did not host the Summer Olympics in 2019. The city where Z. Ibrahimović played for in 2019 is Los Angeles, California, and the Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: LA Galaxy, los angeles, 1984,1932,
+
+73-1th question
+Q: Is it true that the city, where the soccer club, Z. Ibrahimović played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: LA Galaxy, los angeles, 1984,1932,
+
+74-0th question
+Q: Did the city, where the soccer club, A. Gómez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club A. Gómez played for in 2019 did not host the Summer Olympics in 2019. The city where A. Gómez played for in 2019 is not Tokyo, which was the host city for the 2019 Summer Olympics.
+Gold Answer: no
+Gold Entity: Atalanta, bergamo,  
+
+74-1th question
+Q: Is it true that the city, where the soccer club, A. Gómez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atalanta, bergamo,  
+
+75-0th question
+Q: Did the city, where the soccer club, G. Higuaín played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where G. Higuaín played for in 2019, did not host the Summer Olympics in 2019. The city where G. Higuaín played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+75-1th question
+Q: Is it true that the city, where the soccer club, G. Higuaín played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+76-0th question
+Q: Did the city, where the soccer club, B. Matuidi played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where B. Matuidi played for in 2019, did not host the Summer Olympics in 2019. The city where B. Matuidi played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+76-1th question
+Q: Is it true that the city, where the soccer club, B. Matuidi played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+77-0th question
+Q: Did the city, where the soccer club, G. Bale played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where G. Bale played for in 2019, did not host the Summer Olympics in 2019. The city where G. Bale played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+77-1th question
+Q: Is it true that the city, where the soccer club, G. Bale played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+78-0th question
+Q: Did the city, where the soccer club, Marcelo played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Marcelo played for in 2019 did not host the Summer Olympics in 2019. The city where Marcelo played for in 2019 is Madrid, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+78-1th question
+Q: Is it true that the city, where the soccer club, Marcelo played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+79-0th question
+Q: Did the city, where the soccer club, A. Witsel played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Witsel played for in 2019 did not host the Summer Olympics in 2019. The city where A. Witsel played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Borussia Dortmund, dortmund,  
+
+79-1th question
+Q: Is it true that the city, where the soccer club, A. Witsel played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Dortmund, dortmund,  
+
+80-0th question
+Q: Did the city, where the soccer club, P. Gulácsi played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where P. Gulácsi played for in 2019 did not host the Summer Olympics in 2019. The city where P. Gulácsi played for in 2019 is Budapest, Hungary. Budapest did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: RB Leipzig, leipzig,  
+
+80-1th question
+Q: Is it true that the city, where the soccer club, P. Gulácsi played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: RB Leipzig, leipzig,  
+
+81-0th question
+Q: Did the city, where the soccer club, R. Bürki played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Bürki played for in 2019 did not host the Summer Olympics in 2019. The city where R. Bürki played for in 2019 is not Tokyo, which was the host of the 2020 Summer Olympics. Tokyo was the host of the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where R. Bürki played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Borussia Dortmund, dortmund,  
+
+81-1th question
+Q: Is it true that the city, where the soccer club, R. Bürki played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Dortmund, dortmund,  
+
+82-0th question
+Q: Did the city, where the soccer club, Alex Sandro played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Alex Sandro played for in 2019, did not host the Summer Olympics in 2019. The city where Alex Sandro played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+82-1th question
+Q: Is it true that the city, where the soccer club, Alex Sandro played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+83-0th question
+Q: Did the city, where the soccer club, R. Lukaku played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Lukaku played for in 2019, did not host the Summer Olympics in 2019. The city where R. Lukaku played for in 2019 is Inter Milan, which is located in Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+83-1th question
+Q: Is it true that the city, where the soccer club, R. Lukaku played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+84-0th question
+Q: Did the city, where the soccer club, Iago Aspas played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Iago Aspas played for in 2019 did not host the Summer Olympics in 2019. Iago Aspas played for Celta de Vigo in the 2019-2020 season. The city of Vigo, where Celta de Vigo is based, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: RC Celta de Vigo, vigo,  
+
+84-1th question
+Q: Is it true that the city, where the soccer club, Iago Aspas played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: RC Celta de Vigo, vigo,  
+
+85-0th question
+Q: Did the city, where the soccer club, K. Manolas played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Manolas played for in 2019 did not host the Summer Olympics in 2019. The city where K. Manolas played for in 2019 is Athens, Greece. Athens did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+85-1th question
+Q: Is it true that the city, where the soccer club, K. Manolas played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+86-0th question
+Q: Did the city, where the soccer club, Koke played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Koke played for in 2019 did not host the Summer Olympics in 2019. The city where Koke played for in 2019 is Madrid, Spain. Madrid did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Atlético de Madrid, madrid,  
+
+86-1th question
+Q: Is it true that the city, where the soccer club, Koke played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atlético de Madrid, madrid,  
+
+87-0th question
+Q: Did the city, where the soccer club, Neto played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Neto played for in 2019, did not host the Summer Olympics in 2019. The city where Neto played for in 2019 is São Paulo, Brazil. The city that hosted the Summer Olympics in 2019 is Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+87-1th question
+Q: Is it true that the city, where the soccer club, Neto played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+88-0th question
+Q: Did the city, where the soccer club, D. Alaba played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where D. Alaba played for in 2019, did not host the Summer Olympics in 2019. The city where D. Alaba played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+88-1th question
+Q: Is it true that the city, where the soccer club, D. Alaba played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+89-0th question
+Q: Did the city, where the soccer club, J. Rodríguez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Rodríguez played for in 2019 did not host the Summer Olympics in 2019. The city where J. Rodríguez played for in 2019 is not specified in the question. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+89-1th question
+Q: Is it true that the city, where the soccer club, J. Rodríguez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+90-0th question
+Q: Did the city, where the soccer club, A. Lopes played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Lopes played for in 2019 did not host the Summer Olympics in 2019. The city where A. Lopes played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Olympique Lyonnais, lyon,  
+
+90-1th question
+Q: Is it true that the city, where the soccer club, A. Lopes played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Olympique Lyonnais, lyon,  
+
+91-0th question
+Q: Did the city, where the soccer club, Allan played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Allan played for in 2019 did not host the Summer Olympics in 2019. The city where Allan played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Allan played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+91-1th question
+Q: Is it true that the city, where the soccer club, Allan played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+92-0th question
+Q: Did the city, where the soccer club, M. Icardi played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club M. Icardi played for in 2019, Paris, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+92-1th question
+Q: Is it true that the city, where the soccer club, M. Icardi played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+93-0th question
+Q: Did the city, where the soccer club, R. Varane played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Varane played for in 2019, did not host the Summer Olympics in 2019. The city where R. Varane played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+93-1th question
+Q: Is it true that the city, where the soccer club, R. Varane played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+94-0th question
+Q: Did the city, where the soccer club, Carvajal played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Carvajal played for in 2019 did not host the Summer Olympics in 2019. The city where Carvajal played for in 2019 is Madrid, Spain. Madrid did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Real Madrid CF, madrid,  
+
+94-1th question
+Q: Is it true that the city, where the soccer club, Carvajal played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Madrid CF, madrid,  
+
+95-0th question
+Q: Did the city, where the soccer club, Saúl played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Saúl played for in 2019, is not the same city that hosted the Summer Olympics in 2019. Saúl played for Atlético Madrid in the 2019-2020 season, and the Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Atlético de Madrid, madrid,  
+
+95-1th question
+Q: Is it true that the city, where the soccer club, Saúl played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atlético de Madrid, madrid,  
+
+96-0th question
+Q: Did the city, where the soccer club, H. Ziyech played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where H. Ziyech played for in 2019, did not host the Summer Olympics in 2019. The city where H. Ziyech played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Ajax, amsterdam, 1928,
+
+96-1th question
+Q: Is it true that the city, where the soccer club, H. Ziyech played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Ajax, amsterdam, 1928,
+
+97-0th question
+Q: Did the city, where the soccer club, Fabinho played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Fabinho played for in 2019, did not host the Summer Olympics in 2019. The city where Fabinho played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+97-1th question
+Q: Is it true that the city, where the soccer club, Fabinho played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+98-0th question
+Q: Did the city, where the soccer club, N. Süle played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where N. Süle played for in 2019 did not host the Summer Olympics in 2019. The city where N. Süle played for in 2019 is not specified in the question. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+98-1th question
+Q: Is it true that the city, where the soccer club, N. Süle played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+99-0th question
+Q: Did the city, where the soccer club, Bruno Fernandes played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Bruno Fernandes played for in 2019, is not the city that hosted the Summer Olympics in 2019. Bruno Fernandes played for Sporting Lisbon in the 2019-2020 season, and the Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Sporting CP, lisbon,  
+
+99-1th question
+Q: Is it true that the city, where the soccer club, Bruno Fernandes played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Sporting CP, lisbon,  
+
+100-0th question
+Q: Did the city, where the soccer club, A. Robertson played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where A. Robertson played for in 2019 did not host the Summer Olympics in 2019. The city where A. Robertson played for in 2019 is Glasgow, Scotland. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+100-1th question
+Q: Is it true that the city, where the soccer club, A. Robertson played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+101-0th question
+Q: Did the city, where the soccer club, J. Giménez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Giménez played for in 2019 did not host the Summer Olympics in 2019. The city where J. Giménez played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. J. Giménez played for a soccer club in Kuala Lumpur in 2019, but the city did not host the Summer Olympics in 2019. Therefore, the answer is no.
+Gold Answer: no
+Gold Entity: Atlético de Madrid, madrid,  
+
+101-1th question
+Q: Is it true that the city, where the soccer club, J. Giménez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atlético de Madrid, madrid,  
+
+102-0th question
+Q: Did the city, where the soccer club, C. Lenglet played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club C. Lenglet played for in 2019, is not located in the city that hosted the Summer Olympics in 2019. C. Lenglet played for Barcelona in 2019, and the Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+102-1th question
+Q: Is it true that the city, where the soccer club, C. Lenglet played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+103-0th question
+Q: Did the city, where the soccer club, S. Milinković-Savić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Milinković-Savić played for in 2019 did not host the Summer Olympics in 2019. The city where S. Milinković-Savić played for in 2019 is Belgrade, Serbia. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Lazio, rome, 1960,
+
+103-1th question
+Q: Is it true that the city, where the soccer club, S. Milinković-Savić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Lazio, rome, 1960,
+
+104-0th question
+Q: Did the city, where the soccer club, F. de Jong played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where F. de Jong played for in 2019, Barcelona, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019. Barcelona is a city in Spain, and it is not known for hosting the Summer Olympics.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+104-1th question
+Q: Is it true that the city, where the soccer club, F. de Jong played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+105-0th question
+Q: Did the city, where the soccer club, G. Donnarumma played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where G. Donnarumma played for in 2019, did not host the Summer Olympics in 2019. The city where G. Donnarumma played for in 2019 is Milan, Italy. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: AC Milan, milan,  
+
+105-1th question
+Q: Is it true that the city, where the soccer club, G. Donnarumma played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: AC Milan, milan,  
+
+106-0th question
+Q: Did the city, where the soccer club, Rodri played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Rodri played for in 2019, Villarreal, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+106-1th question
+Q: Is it true that the city, where the soccer club, Rodri played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+107-0th question
+Q: Did the city, where the soccer club, M. de Ligt played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. de Ligt played for in 2019, did not host the Summer Olympics in 2019. The city where M. de Ligt played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+107-1th question
+Q: Is it true that the city, where the soccer club, M. de Ligt played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+108-0th question
+Q: Did the city, where the soccer club, Pepe played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Pepe played for in 2019 did not host the Summer Olympics in 2019. The city where Pepe played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Pepe played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: FC Porto, porto,  
+
+108-1th question
+Q: Is it true that the city, where the soccer club, Pepe played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: FC Porto, porto,  
+
+109-0th question
+Q: Did the city, where the soccer club, João Moutinho played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where João Moutinho played for in 2019, did not host the Summer Olympics in 2019. João Moutinho played for the Portuguese club, Sporting CP, in the 2019-2020 season. The city where Sporting CP is located is Lisbon, which did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Wolverhampton Wanderers, wolverhampton,  
+
+109-1th question
+Q: Is it true that the city, where the soccer club, João Moutinho played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Wolverhampton Wanderers, wolverhampton,  
+
+110-0th question
+Q: Did the city, where the soccer club, S. Ruffier played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Ruffier played for in 2019 did not host the Summer Olympics in 2019. The city where S. Ruffier played for in 2019 is not specified in the question. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: AS Saint-Étienne, saint-étienne,  
+
+110-1th question
+Q: Is it true that the city, where the soccer club, S. Ruffier played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: AS Saint-Étienne, saint-étienne,  
+
+111-0th question
+Q: Did the city, where the soccer club, S. Sirigu played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Sirigu played for in 2019 did not host the Summer Olympics in 2019. The city where S. Sirigu played for in 2019 is not Tokyo, which was the host of the 2019 Summer Olympics. S. Sirigu played for a soccer club in the city of Tokyo, but Tokyo did not host the Summer Olympics in 2019. Tokyo hosted the Summer Olympics in 2020, but the 2019 Summer Olympics were held in Kobe, Japan.
+Gold Answer: no
+Gold Entity: Torino F.C., turin,  
+
+111-1th question
+Q: Is it true that the city, where the soccer club, S. Sirigu played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Torino F.C., turin,  
+
+112-0th question
+Q: Did the city, where the soccer club, M. Hamšík played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club M. Hamšík played for in 2019 did not host the Summer Olympics in 2019. The city where M. Hamšík played for in 2019 is not specified in the question, but it is likely that the city is not Tokyo, which was the host of the 2019 Summer Olympics.
+Gold Answer: no
+Gold Entity: Dalian Professional Football Club, dalian,  
+
+112-1th question
+Q: Is it true that the city, where the soccer club, M. Hamšík played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Dalian Professional Football Club, dalian,  
+
+113-0th question
+Q: Did the city, where the soccer club, Sokratis played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Sokratis played for in 2019 did not host the Summer Olympics in 2019. The city where Sokratis played for in 2019 is Athens, Greece. Athens did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+113-1th question
+Q: Is it true that the city, where the soccer club, Sokratis played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+114-0th question
+Q: Did the city, where the soccer club, Lucas Leiva played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Lucas Leiva played for in 2019, did not host the Summer Olympics in 2019. The city where Lucas Leiva played for in 2019 is Sao Paulo, Brazil. The city that hosted the Summer Olympics in 2019 is Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Lazio, rome, 1960,
+
+114-1th question
+Q: Is it true that the city, where the soccer club, Lucas Leiva played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Lazio, rome, 1960,
+
+115-0th question
+Q: Did the city, where the soccer club, M. Özil played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Özil played for in 2019, is not the city where the Summer Olympics were hosted in 2019. M. Özil played for Arsenal Football Club in London, England in 2019. The Summer Olympics were hosted in Tokyo, Japan in 2019.
+Gold Answer: yes
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+115-1th question
+Q: Is it true that the city, where the soccer club, M. Özil played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+116-0th question
+Q: Did the city, where the soccer club, Javi Martínez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Javi Martínez played for in 2019 did not host the Summer Olympics in 2019. The city where Javi Martínez played for in 2019 is Barcelona, Spain. Barcelona did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+116-1th question
+Q: Is it true that the city, where the soccer club, Javi Martínez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+117-0th question
+Q: Did the city, where the soccer club, Y. Sommer played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Y. Sommer played for in 2019 did not host the Summer Olympics in 2019. The city where Y. Sommer played for in 2019 is not Tokyo, which was the host of the 2020 Summer Olympics. Tokyo was the host of the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Y. Sommer played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Borussia Mönchengladbach, mönchengladbach,  
+
+117-1th question
+Q: Is it true that the city, where the soccer club, Y. Sommer played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Mönchengladbach, mönchengladbach,  
+
+118-0th question
+Q: Did the city, where the soccer club, E. Džeko played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where E. Džeko played for in 2019 did not host the Summer Olympics in 2019. The city where E. Džeko played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Roma, rome, 1960,
+
+118-1th question
+Q: Is it true that the city, where the soccer club, E. Džeko played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Roma, rome, 1960,
+
+119-0th question
+Q: Did the city, where the soccer club, G. Wijnaldum played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where G. Wijnaldum played for in 2019 did not host the Summer Olympics in 2019. The city where G. Wijnaldum played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Liverpool, liverpool,  
+
+119-1th question
+Q: Is it true that the city, where the soccer club, G. Wijnaldum played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Liverpool, liverpool,  
+
+120-0th question
+Q: Did the city, where the soccer club, I. Perišić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where I. Perišić played for in 2019 did not host the Summer Olympics in 2019. The city where I. Perišić played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+120-1th question
+Q: Is it true that the city, where the soccer club, I. Perišić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+121-0th question
+Q: Did the city, where the soccer club, M. Mandžukić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club M. Mandžukić played for in 2019 did not host the Summer Olympics in 2019. The city where M. Mandžukić played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+121-1th question
+Q: Is it true that the city, where the soccer club, M. Mandžukić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+122-0th question
+Q: Did the city, where the soccer club, A. Vidal played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club A. Vidal played for in 2019, is not the same city where the Summer Olympics were hosted in 2019. A. Vidal played for the soccer club in Barcelona, Spain, while the Summer Olympics were hosted in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+122-1th question
+Q: Is it true that the city, where the soccer club, A. Vidal played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Barcelona, barcelona, 1992,
+
+123-0th question
+Q: Did the city, where the soccer club, J. Boateng played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Boateng played for in 2019, did not host the Summer Olympics in 2019. The city where J. Boateng played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+123-1th question
+Q: Is it true that the city, where the soccer club, J. Boateng played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+124-0th question
+Q: Did the city, where the soccer club, Azpilicueta played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Azpilicueta played for in 2019 did not host the Summer Olympics in 2019. The city where Azpilicueta played for in 2019 is Barcelona, Spain. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+124-1th question
+Q: Is it true that the city, where the soccer club, Azpilicueta played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+125-0th question
+Q: Did the city, where the soccer club, José Callejón played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where José Callejón played for in 2019 did not host the Summer Olympics in 2019. The city where José Callejón played for in 2019 is Madrid, Spain. Madrid did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Napoli, naples,  
+
+125-1th question
+Q: Is it true that the city, where the soccer club, José Callejón played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Napoli, naples,  
+
+126-0th question
+Q: Did the city, where the soccer club, İ. Gündoğan played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where İ. Gündoğan played for in 2019, which is Dortmund, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+126-1th question
+Q: Is it true that the city, where the soccer club, İ. Gündoğan played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+127-0th question
+Q: Did the city, where the soccer club, Paulinho played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Paulinho played for in 2019, did not host the Summer Olympics in 2019. The city where Paulinho played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan in 2020. The reason for this is that the Summer Olympics in 2019 were postponed due to the COVID-19 pandemic. The postponement was announced in March 2020, and the new dates for the Summer Olympics in 2020 were announced in July 2020. The Summer Olympics in 2020 were held in Tokyo, Japan in 2021.
+Gold Answer: no
+Gold Entity: Guangzhou FC, guangzhou,  
+
+127-1th question
+Q: Is it true that the city, where the soccer club, Paulinho played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Guangzhou FC, guangzhou,  
+
+128-0th question
+Q: Did the city, where the soccer club, K. Walker played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Walker played for in 2019 did not host the Summer Olympics in 2019. The city where K. Walker played for in 2019 is not Tokyo, which was the host of the 2020 Summer Olympics. Tokyo was the host of the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. K. Walker played for a soccer club in Kuala Lumpur in 2019, but the city did not host the Summer Olympics in 2019. Therefore, the answer is no.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+128-1th question
+Q: Is it true that the city, where the soccer club, K. Walker played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+129-0th question
+Q: Did the city, where the soccer club, Canales played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Canales played for in 2019 did not host the Summer Olympics in 2019. The city where Canales played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Canales played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Real Betis Balompié, seville,  
+
+129-1th question
+Q: Is it true that the city, where the soccer club, Canales played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Real Betis Balompié, seville,  
+
+130-0th question
+Q: Did the city, where the soccer club, Douglas Costa played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Douglas Costa played for in 2019, Juventus, is not located in the city that hosted the Summer Olympics in 2019, Tokyo. Juventus is based in Turin, Italy, while Tokyo is in Japan. Therefore, the two are not the same.
+Gold Answer: no
+Gold Entity: Juventus, turin,  
+
+130-1th question
+Q: Is it true that the city, where the soccer club, Douglas Costa played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Juventus, turin,  
+
+131-0th question
+Q: Did the city, where the soccer club, B. Leno played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where B. Leno played for in 2019 did not host the Summer Olympics in 2019. The city where B. Leno played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+131-1th question
+Q: Is it true that the city, where the soccer club, B. Leno played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Arsenal, london, 2012,1948,1908,
+
+132-0th question
+Q: Did the city, where the soccer club, Pizzi played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Pizzi played for in 2019 did not host the Summer Olympics in 2019. The city where Pizzi played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Pizzi played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: SL Benfica, lisbon,  
+
+132-1th question
+Q: Is it true that the city, where the soccer club, Pizzi played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: SL Benfica, lisbon,  
+
+133-0th question
+Q: Did the city, where the soccer club, S. de Vrij played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. de Vrij played for in 2019 did not host the Summer Olympics in 2019. The city where S. de Vrij played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan. Tokyo did not host the Summer Olympics in 20
+Gold Answer: no
+Gold Entity: Inter, milan,  
+
+133-1th question
+Q: Is it true that the city, where the soccer club, S. de Vrij played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Inter, milan,  
+
+134-0th question
+Q: Did the city, where the soccer club, Luis Alberto played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Luis Alberto played for in 2019 did not host the Summer Olympics in 2019. The city where Luis Alberto played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Luis Alberto played for a soccer club in Kuala Lumpur in 2019, but the city did not host the Summer Olympics in 2019. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Lazio, rome, 1960,
+
+134-1th question
+Q: Is it true that the city, where the soccer club, Luis Alberto played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Lazio, rome, 1960,
+
+135-0th question
+Q: Did the city, where the soccer club, D. Tadić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where D. Tadić played for in 2019, did not host the Summer Olympics in 2019. The city where D. Tadić played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan, but the games were held in 2020 due to the COVID-19 pandemic. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan, but the games were held in 2020 due to the COVID-19 pandemic.
+Gold Answer: yes
+Gold Entity: Ajax, amsterdam, 1928,
+
+135-1th question
+Q: Is it true that the city, where the soccer club, D. Tadić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Ajax, amsterdam, 1928,
+
+136-0th question
+Q: Did the city, where the soccer club, J. Iličić played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Iličić played for in 2019 did not host the Summer Olympics in 2019. The city where J. Iličić played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan in 2020.
+Gold Answer: no
+Gold Entity: Atalanta, bergamo,  
+
+136-1th question
+Q: Is it true that the city, where the soccer club, J. Iličić played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atalanta, bergamo,  
+
+137-0th question
+Q: Did the city, where the soccer club, Felipe Anderson played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Felipe Anderson played for in 2019 did not host the Summer Olympics in 2019. The city where Felipe Anderson played for in 2019 is Santos, Brazil. The city that hosted the Summer Olympics in 2019 is Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: West Ham United, london, 2012,1948,1908,
+
+137-1th question
+Q: Is it true that the city, where the soccer club, Felipe Anderson played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: West Ham United, london, 2012,1948,1908,
+
+138-0th question
+Q: Did the city, where the soccer club, M. Depay played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where M. Depay played for in 2019, did not host the Summer Olympics in 2019. The city where M. Depay played for in 2019 is Lyon, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Olympique Lyonnais, lyon,  
+
+138-1th question
+Q: Is it true that the city, where the soccer club, M. Depay played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Olympique Lyonnais, lyon,  
+
+139-0th question
+Q: Did the city, where the soccer club, R. Mahrez played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where R. Mahrez played for in 2019, Leicester City, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019. Leicester City is located in England, and the Summer Olympics are typically held in a different country every four years. Therefore, it is unlikely that Leicester City would have been able to host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+139-1th question
+Q: Is it true that the city, where the soccer club, R. Mahrez played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+140-0th question
+Q: Did the city, where the soccer club, E. Višća played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where E. Višća played for in 2019 did not host the Summer Olympics in 2019. The city where E. Višća played for in 2019 is Split, which is located in Croatia. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: İstanbul Başakşehir FK, istanbul,  
+
+140-1th question
+Q: Is it true that the city, where the soccer club, E. Višća played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: İstanbul Başakşehir FK, istanbul,  
+
+141-0th question
+Q: Did the city, where the soccer club, S. Gnabry played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where S. Gnabry played for in 2019, did not host the Summer Olympics in 2019. The city where S. Gnabry played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The Summer Olympics in 2019 were held in Tokyo, Japan in 2020. The reason for this is that the Summer Olympics in 2019 were postponed due to the COVID-19 pandemic. The postponement was announced in March 2020, and the new dates for the Summer Olympics in 2020 were announced in September 2020. The Summer Olympics in 2020 were held in Tokyo, Japan in 2021.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+141-1th question
+Q: Is it true that the city, where the soccer club, S. Gnabry played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+142-0th question
+Q: Did the city, where the soccer club, Kepa played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Kepa played for in 2019 did not host the Summer Olympics in 2019. The city where Kepa played for in 2019 is Barcelona, Spain. Barcelona did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+142-1th question
+Q: Is it true that the city, where the soccer club, Kepa played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Chelsea, london, 2012,1948,1908,
+
+143-0th question
+Q: Did the city, where the soccer club, Felipe played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where the soccer club Felipe played for in 2019 did not host the Summer Olympics in 2019. The city where Felipe played for in 2019 is not Tokyo, which was the host city for the 2020 Summer Olympics. Tokyo was the host city for the 2020 Summer Olympics, not 2019. The 2019 Summer Olympics were held in Kuala Lumpur, Malaysia. Therefore, the city where Felipe played for in 2019 did not host the Summer Olympics in 2019.
+Gold Answer: no
+Gold Entity: Atlético de Madrid, madrid,  
+
+143-1th question
+Q: Is it true that the city, where the soccer club, Felipe played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Atlético de Madrid, madrid,  
+
+144-0th question
+Q: Did the city, where the soccer club, L. Goretzka played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where L. Goretzka played for in 2019, did not host the Summer Olympics in 2019. The city where L. Goretzka played for in 2019 is Dortmund, Germany. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+144-1th question
+Q: Is it true that the city, where the soccer club, L. Goretzka played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+
+145-0th question
+Q: Did the city, where the soccer club, João Cancelo played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where João Cancelo played for in 2019, did not host the Summer Olympics in 2019. João Cancelo played for Benfica in the 2019-2020 season, and the Summer Olympics were held in Tokyo, Japan in 2020.
+Gold Answer: no
+Gold Entity: Manchester City, manchester,  
+
+145-1th question
+Q: Is it true that the city, where the soccer club, João Cancelo played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Manchester City, manchester,  
+
+146-0th question
+Q: Did the city, where the soccer club, D. Alli played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where D. Alli played for in 2019 did not host the Summer Olympics in 2019. The city where D. Alli played for in 2019 is Tokyo, Japan. Tokyo did not host the Summer Olympics in 2019. The city that hosted the Summer Olympics in 2019 was Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+146-1th question
+Q: Is it true that the city, where the soccer club, D. Alli played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tottenham Hotspur, london, 2012,1948,1908,
+
+147-0th question
+Q: Did the city, where the soccer club, J. Brandt played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where J. Brandt played for in 2019 did not host the Summer Olympics in 2019. The city where J. Brandt played for in 2019 is not specified in the question. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: no
+Gold Entity: Borussia Dortmund, dortmund,  
+
+147-1th question
+Q: Is it true that the city, where the soccer club, J. Brandt played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: Borussia Dortmund, dortmund,  
+
+148-0th question
+Q: Did the city, where the soccer club, Alex Telles played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where Alex Telles played for in 2019, Porto, did not host the Summer Olympics in 2019. The Summer Olympics were held in Tokyo, Japan in 2019.
+Gold Answer: no
+Gold Entity: FC Porto, porto,  
+
+148-1th question
+Q: Is it true that the city, where the soccer club, Alex Telles played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: yes
+Gold Entity: FC Porto, porto,  
+
+149-0th question
+Q: Did the city, where the soccer club, K. Coman played for in 2019, is located in, hosted the Summer Olympics?
+A:No, the city where K. Coman played for in 2019, did not host the Summer Olympics in 2019. The city where K. Coman played for in 2019 is Paris, France. The Summer Olympics in 2019 were held in Tokyo, Japan.
+Gold Answer: yes
+Gold Entity: FC Bayern München, munich, 1972,
+
+149-1th question
+Q: Is it true that the city, where the soccer club, K. Coman played for in 2019, is located in, never hosted the Summer Olympics?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: FC Bayern München, munich, 1972,
+

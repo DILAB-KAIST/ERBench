@@ -1,0 +1,23 @@
+Q: Is there an airport located at latitude 33.7756 and longitude -84.3963?
+A: No, there are no airports located at latitude 33.7756 and longitude -84.3963. This location corresponds to Georgia Institute of Technology, located in Atlanta, Georiga, United States of America.
+
+Q: Is it true that there are no airports located at latitude -33.4445 and longitude -70.6510?
+A: Yes, it is true. There are no airports located at latitude -33.4445 and longitude -70.6510. This location corresponds to University of Chile, located in Santiago, Región Metropolitana, Chile.
+
+Q: Is it true that there are no airports located at latitude 48.1180 and longitude 16.5663?
+A: No, it is not true. There is an airport located at latitude 48.1180 and longitude 16.5663. The airport is called Vienna International Airport and is located in Vienna, Austria.
+
+Q: Is there an airport located at latitude -32.2189 and longitude 148.5697?
+A: Yes, there is an airport located at latitude -32.2189 and longitude 148.5697. The airport is called Dubbo Regional Airport, located in Dubbo, New South Wales, Australia.
+
+Q: Is there an airport located at latitude 25.420738 and longitude 51.490154?
+A: No, there are no airports located at latitude 25.420738 and longitude 51.490154. This location corresponds to Lusail Stadium, located in Lusail, Qatar.
+
+Q: Is it true that there are no airports located at latitude -32.9277 and longitude 18.4237?
+A: Yes, it is true. There are no airports located at latitude -32.9277 and longitude 18.4237. This location corresponds to District Six Museum, located in District Six, Cape Town, South Africa.
+
+Q: Is there an airport located at latitude 37.469101 and longitude 126.450996?
+A: Yes, there is an airport located at latitude 37.469101 and longitude 126.450996. The airport is called Incheon International Airport and is located in Incheon, Republic of Korea.
+
+Q: Is it true that there are no airports located at latitude 49.1951 and longitude -123.1788?
+A: No, it is not true. There is an airport located at latitude 49.1951 and longitude -123.1788. The airport is called Vancouver International Airport, located in Richmond, British Columbia, Canada.

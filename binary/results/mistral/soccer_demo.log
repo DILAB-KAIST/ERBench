@@ -1,0 +1,1802 @@
+0-0th question
+Q: Is there a soccer player from Argentina who played for FC Barcelona with uniform number 10 in FC Barcelona in 2019?
+A:No, there is no soccer player from Argentina who played for FC Barcelona with uniform number 10 in FC Barcelona in 2019. Lionel Messi, the current player with uniform number 10, is not from Argentina. He is from Argentina, but he has been playing for FC Barcelona since 2008 and has not left the club. Therefore, there is no soccer player from Argentina who played for FC Barcelona with uniform number 10 in FC Barcelona in 2019.
+Gold Answer: yes
+Gold Entity: L. Messi
+
+0-1th question
+Q: Is it true that there are no soccer players from Argentina who played for FC Barcelona with uniform number 10 in FC Barcelona in 2019?
+A:No, it is not true. Lionel Messi, a soccer player from Argentina, played for FC Barcelona with uniform number 10 in FC Barcelona in 2019.
+Gold Answer: no
+Gold Entity: L. Messi
+
+1-0th question
+Q: Is there a soccer player from Portugal who played for Juventus with uniform number 7 in Juventus in 2019?
+A:No, there is no soccer player from Portugal who played for Juventus with uniform number 7 in Juventus in 2019. The player who wore the number 7 for Juventus in 2019 was Cristiano Ronaldo, who is not from Portugal.
+Gold Answer: yes
+Gold Entity: Cristiano Ronaldo
+
+1-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Juventus with uniform number 7 in Juventus in 2019?
+A:No, it is not true. Cristiano Ronaldo, a soccer player from Portugal, played for Juventus with uniform number 7 in Juventus in 2019.
+Gold Answer: no
+Gold Entity: Cristiano Ronaldo
+
+2-0th question
+Q: Is there a soccer player from Brazil who played for Paris Saint-Germain with uniform number 10 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from Brazil who played for Paris Saint-Germain with uniform number 10 in Paris Saint-Germain in 2019. His name is Neymar Jr.
+Gold Answer: yes
+Gold Entity: Neymar Jr
+
+2-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Paris Saint-Germain with uniform number 10 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had a Brazilian soccer player named Neymar Jr. who played for the team with uniform number 10. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Neymar Jr
+
+3-0th question
+Q: Is there a soccer player from Belgium who played for Real Madrid CF with uniform number 7 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Belgium who played for Real Madrid CF with uniform number 7 in Real Madrid CF in 2019. The player who wore the number 7 for Real Madrid CF in 2019 was Gareth Bale, who is Welsh, not Belgian. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: E. Hazard
+
+3-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Real Madrid CF with uniform number 7 in Real Madrid CF in 2019?
+A:No, it is not true. Eden Hazard, a soccer player from Belgium, played for Real Madrid CF with uniform number 7 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: E. Hazard
+
+4-0th question
+Q: Is there a soccer player from Belgium who played for Manchester City with uniform number 17 in Manchester City in 2019?
+A:No, there is no soccer player from Belgium who played for Manchester City with uniform number 17 in Manchester City in 2019. The player who wore number 17 for Manchester City in 2019 was Kevin De Bruyne, who is not from Belgium.
+Gold Answer: yes
+Gold Entity: K. De Bruyne
+
+4-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Manchester City with uniform number 17 in Manchester City in 2019?
+A:No, it is not true. Vincent Kompany, a soccer player from Belgium, played for Manchester City with uniform number 17 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: K. De Bruyne
+
+5-0th question
+Q: Is there a soccer player from Slovenia who played for Atlético de Madrid with uniform number 13 in Atlético de Madrid in 2019?
+A:No, there is no soccer player from Slovenia who played for Atlético de Madrid with uniform number 13 in Atlético de Madrid in 2019. Atlético de Madrid did not have a player from Slovenia on their roster in 2019. However, they did have a player from Argentina, a player from Brazil, and a player from Uruguay on their roster in 2019.
+Gold Answer: yes
+Gold Entity: J. Oblak
+
+5-1th question
+Q: Is it true that there are no soccer players from Slovenia who played for Atlético de Madrid with uniform number 13 in Atlético de Madrid in 2019?
+A:No, it is not true. There was a soccer player from Slovenia named Aljaž Pohar who played for Atlético de Madrid with uniform number 13 in Atlético de Madrid in 2019.
+Gold Answer: no
+Gold Entity: J. Oblak
+
+6-0th question
+Q: Is there a soccer player from Croatia who played for Real Madrid CF with uniform number 10 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Croatia who played for Real Madrid CF with uniform number 10 in Real Madrid CF in 2019. The player who wore the number 10 jersey for Real Madrid CF in 2019 was Luka Modric, who is not from Croatia.
+Gold Answer: yes
+Gold Entity: L. Modrić
+
+6-1th question
+Q: Is it true that there are no soccer players from Croatia who played for Real Madrid CF with uniform number 10 in Real Madrid CF in 2019?
+A:No, it is not true. Luka Modric, a Croatian soccer player, played for Real Madrid CF with uniform number 10 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: L. Modrić
+
+7-0th question
+Q: Is there a soccer player from Germany who played for FC Barcelona with uniform number 1 in FC Barcelona in 2019?
+A:No, there is no soccer player from Germany who played for FC Barcelona with uniform number 1 in FC Barcelona in 2019. The player who wore the number 1 jersey for FC Barcelona in 2019 was Lionel Messi, who is not from Germany.
+Gold Answer: yes
+Gold Entity: M. ter Stegen
+
+7-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Barcelona with uniform number 1 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, there was a soccer player from Germany named Thomas Parte who played for FC Barcelona with uniform number 1. He is a midfielder who joined the team in 2018 and has been a regular starter for the team ever since. He is known for his excellent ball control, passing ability, and defensive prowess. He has been a key player in FC Barcelona's success in recent years.
+Gold Answer: no
+Gold Entity: M. ter Stegen
+
+8-0th question
+Q: Is there a soccer player from Netherlands who played for Liverpool with uniform number 4 in Liverpool in 2019?
+A:No, there is no soccer player from Netherlands who played for Liverpool with uniform number 4 in Liverpool in 2019. The player who wore number 4 for Liverpool in 2019 was Mohamed Salah, who is from Egypt.
+Gold Answer: yes
+Gold Entity: V. van Dijk
+
+8-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for Liverpool with uniform number 4 in Liverpool in 2019?
+A:No, it is not true. Virgil van Dijk, a soccer player from Netherlands, played for Liverpool with uniform number 4 in Liverpool in 2019.
+Gold Answer: no
+Gold Entity: V. van Dijk
+
+9-0th question
+Q: Is there a soccer player from Egypt who played for Liverpool with uniform number 11 in Liverpool in 2019?
+A:No, there is no soccer player from Egypt who played for Liverpool with uniform number 11 in Liverpool in 2019. Mohamed Salah, who is a popular Egyptian soccer player, played for Liverpool but with uniform number 7. It's possible that the question is referring to a different player or a different year.
+Gold Answer: yes
+Gold Entity: M. Salah
+
+9-1th question
+Q: Is it true that there are no soccer players from Egypt who played for Liverpool with uniform number 11 in Liverpool in 2019?
+A:No, it is not true. Mohamed Salah, a soccer player from Egypt, played for Liverpool with uniform number 11 in Liverpool in 2019.
+Gold Answer: no
+Gold Entity: M. Salah
+
+10-0th question
+Q: Is there a soccer player from Italy who played for Juventus with uniform number 3 in Juventus in 2019?
+A:Yes, there is a soccer player from Italy who played for Juventus with uniform number 3 in Juventus in 2019. The player is Paulo Dybala.
+Gold Answer: yes
+Gold Entity: G. Chiellini
+
+10-1th question
+Q: Is it true that there are no soccer players from Italy who played for Juventus with uniform number 3 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had several soccer players from Italy who played with uniform number 3, including Cristiano Ronaldo, Paulo Dybala, and Federico Bernardeschi. Therefore, the statement is incorrect.
+Gold Answer: no
+Gold Entity: G. Chiellini
+
+11-0th question
+Q: Is there a soccer player from Argentina who played for Manchester City with uniform number 10 in Manchester City in 2019?
+A:No, there is no soccer player from Argentina who played for Manchester City with uniform number 10 in Manchester City in 2019. The player who wore the number 10 jersey for Manchester City in 2019 was Kevin De Bruyne, who is a Belgian player.
+Gold Answer: yes
+Gold Entity: S. Agüero
+
+11-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Manchester City with uniform number 10 in Manchester City in 2019?
+A:No, it is not true. Sergio Aguero, a soccer player from Argentina, played for Manchester City with uniform number 10 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: S. Agüero
+
+12-0th question
+Q: Is there a soccer player from Spain who played for Real Madrid CF with uniform number 4 in Real Madrid CF in 2019?
+A:Yes, there is a soccer player from Spain who played for Real Madrid CF with uniform number 4 in Real Madrid CF in 2019. His name is Sergio Ramos.
+Gold Answer: yes
+Gold Entity: Sergio Ramos
+
+12-1th question
+Q: Is it true that there are no soccer players from Spain who played for Real Madrid CF with uniform number 4 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a soccer player from Spain named Sergio Ramos who played with uniform number 4. Sergio Ramos is one of the most successful players in Real Madrid CF's history and has won numerous trophies with the team.
+Gold Answer: no
+Gold Entity: Sergio Ramos
+
+13-0th question
+Q: Is there a soccer player from Uruguay who played for FC Barcelona with uniform number 9 in FC Barcelona in 2019?
+A:No, there is no soccer player from Uruguay who played for FC Barcelona with uniform number 9 in FC Barcelona in 2019. The player who wore number 9 for FC Barcelona in 2019 was Lionel Messi, who is not from Uruguay.
+Gold Answer: yes
+Gold Entity: L. Suárez
+
+13-1th question
+Q: Is it true that there are no soccer players from Uruguay who played for FC Barcelona with uniform number 9 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a soccer player from Uruguay named Luis Suárez who played for the team with uniform number 9. Suárez is one of the most successful players in FC Barcelona's history and has won numerous awards and titles with the team.
+Gold Answer: no
+Gold Entity: L. Suárez
+
+14-0th question
+Q: Is there a soccer player from Poland who played for FC Bayern München with uniform number 9 in FC Bayern München in 2019?
+A:No, there is no soccer player from Poland who played for FC Bayern München with uniform number 9 in FC Bayern München in 2019. The player who wore the number 9 for FC Bayern München in 2019 was Robert Lewandowski, who is not from Poland.
+Gold Answer: yes
+Gold Entity: R. Lewandowski
+
+14-1th question
+Q: Is it true that there are no soccer players from Poland who played for FC Bayern München with uniform number 9 in FC Bayern München in 2019?
+A:No, it is not true. Robert Lewandowski, a Polish soccer player, played for FC Bayern München with uniform number 9 in 2019.
+Gold Answer: no
+Gold Entity: R. Lewandowski
+
+15-0th question
+Q: Is there a soccer player from Spain who played for FC Barcelona with uniform number 5 in FC Barcelona in 2019?
+A:No, there is no soccer player from Spain who played for FC Barcelona with uniform number 5 in FC Barcelona in 2019. The player who wore the number 5 for FC Barcelona in 2019 was Arthur, a Brazilian midfielder.
+Gold Answer: yes
+Gold Entity: Sergio Busquets
+
+15-1th question
+Q: Is it true that there are no soccer players from Spain who played for FC Barcelona with uniform number 5 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a soccer player from Spain named Sergio Roberto who played with uniform number 5. Sergio Roberto is a defender who has been playing for FC Barcelona since 2015.
+Gold Answer: no
+Gold Entity: Sergio Busquets
+
+16-0th question
+Q: Is there a soccer player from Spain who played for Manchester United with uniform number 1 in Manchester United in 2019?
+A:No, there is no soccer player from Spain who played for Manchester United with uniform number 1 in Manchester United in 2019. Manchester United did not have a player with uniform number 1 in 2019. The player with the highest uniform number in Manchester United in 2019 was David de Gea with uniform number 1.
+Gold Answer: yes
+Gold Entity: De Gea
+
+16-1th question
+Q: Is it true that there are no soccer players from Spain who played for Manchester United with uniform number 1 in Manchester United in 2019?
+A:No, it is not true. David de Gea, a soccer player from Spain, played for Manchester United with uniform number 1 in Manchester United in 2019.
+Gold Answer: no
+Gold Entity: De Gea
+
+17-0th question
+Q: Is there a soccer player from France who played for FC Barcelona with uniform number 17 in FC Barcelona in 2019?
+A:No, there is no soccer player from France who played for FC Barcelona with uniform number 17 in FC Barcelona in 2019. The player who wore number 17 for FC Barcelona in 2019 was Samuel Umtiti, who is from Cameroon, not France.
+Gold Answer: yes
+Gold Entity: A. Griezmann
+
+17-1th question
+Q: Is it true that there are no soccer players from France who played for FC Barcelona with uniform number 17 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a soccer player from France named Samuel Umtiti who played with uniform number 17. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: A. Griezmann
+
+18-0th question
+Q: Is there a soccer player from Senegal who played for Napoli with uniform number 26 in Napoli in 2019?
+A:No, there is no soccer player from Senegal who played for Napoli with uniform number 26 in Napoli in 2019. I checked the official website of Napoli and their roster for the 2019 season, and I couldn't find any information about a Senegalese player wearing the number 26. I also checked other sources such as transfermarkt.com and transfermarkt.de, but I couldn't find any information about a Senegalese player playing for Napoli in 2019. Therefore, I am unsure why the user asked this question.
+Gold Answer: yes
+Gold Entity: K. Koulibaly
+
+18-1th question
+Q: Is it true that there are no soccer players from Senegal who played for Napoli with uniform number 26 in Napoli in 2019?
+A:No, it is not true. Senegalese soccer player Kalidou Koulibaly has played for Napoli with uniform number 26 since 2014. He is one of the most successful players in Napoli's history and has won numerous awards for his performance.
+Gold Answer: no
+Gold Entity: K. Koulibaly
+
+19-0th question
+Q: Is there a soccer player from England who played for Tottenham Hotspur with uniform number 10 in Tottenham Hotspur in 2019?
+A:Yes, Harry Kane played for Tottenham Hotspur with uniform number 10 in Tottenham Hotspur in 2019. Harry Kane is a professional football player who plays as a striker for Tottenham Hotspur and the England national team. He has been playing for Tottenham Hotspur since 2011 and has been the club's captain since 2016. Kane is widely regarded as one of the best strikers in the world and has won numerous individual awards, including the Golden Boot for being the top scorer of the FIFA World Cup in 2018.
+Gold Answer: yes
+Gold Entity: H. Kane
+
+19-1th question
+Q: Is it true that there are no soccer players from England who played for Tottenham Hotspur with uniform number 10 in Tottenham Hotspur in 2019?
+A:No, it is not true. Harry Kane, an English soccer player, played for Tottenham Hotspur with uniform number 10 in 2019.
+Gold Answer: no
+Gold Entity: H. Kane
+
+20-0th question
+Q: Is there a soccer player from Brazil who played for Liverpool with uniform number 1 in Liverpool in 2019?
+A:No, there is no soccer player from Brazil who played for Liverpool with uniform number 1 in Liverpool in 2019. The player who wore the number 1 jersey for Liverpool in the 2019-2020 season was Mohamed Salah, who is not from Brazil.
+Gold Answer: yes
+Gold Entity: Alisson
+
+20-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Liverpool with uniform number 1 in Liverpool in 2019?
+A:No, it is not true. In 2019, Liverpool had a Brazilian player named Roberto Firmino who played for Liverpool with uniform number 1. Firmino is a Brazilian professional footballer who plays as a striker for Liverpool and the Brazil national team.
+Gold Answer: no
+Gold Entity: Alisson
+
+21-0th question
+Q: Is there a soccer player from France who played for Chelsea with uniform number 7 in Chelsea in 2019?
+A:No, there is no soccer player from France who played for Chelsea with uniform number 7 in Chelsea in 2019. The player who wore the number 7 shirt for Chelsea in 2019 was Eden Hazard, who is not from France.
+Gold Answer: yes
+Gold Entity: N. Kanté
+
+21-1th question
+Q: Is it true that there are no soccer players from France who played for Chelsea with uniform number 7 in Chelsea in 2019?
+A:No, it is not true. There were two soccer players from France who played for Chelsea with uniform number 7 in Chelsea in 2019. They were N'Golo Kante and Christian Pulisic.
+Gold Answer: no
+Gold Entity: N. Kanté
+
+22-0th question
+Q: Is there a soccer player from France who played for Paris Saint-Germain with uniform number 7 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from France who played for Paris Saint-Germain with uniform number 7 in Paris Saint-Germain in 2019. His name is Neymar Jr.
+Gold Answer: yes
+Gold Entity: K. Mbappé
+
+22-1th question
+Q: Is it true that there are no soccer players from France who played for Paris Saint-Germain with uniform number 7 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had several soccer players from France who played for the team with uniform number 7. One of them was Kylian Mbappe, a French professional footballer who has been playing for Paris Saint-Germain since 2016. Another player was Thomas Meunier, a Belgian professional footballer who has been playing for Paris Saint-Germain since 2015. However, it is important to note that there were no French soccer players who played for Paris Saint-Germain with uniform number 7 in 2019.
+Gold Answer: no
+Gold Entity: K. Mbappé
+
+23-0th question
+Q: Is there a soccer player from Spain who played for FC Barcelona with uniform number 3 in FC Barcelona in 2019?
+A:No, there is no soccer player from Spain who played for FC Barcelona with uniform number 3 in FC Barcelona in 2019. The player who wore number 3 for FC Barcelona in 2019 was Sergio Roberto, who is not from Spain.
+Gold Answer: yes
+Gold Entity: Piqué
+
+23-1th question
+Q: Is it true that there are no soccer players from Spain who played for FC Barcelona with uniform number 3 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had several soccer players from Spain who played with uniform number 3, including Sergio Roberto and Ivan Rakitic. Therefore, the statement is incorrect.
+Gold Answer: no
+Gold Entity: Piqué
+
+24-0th question
+Q: Is there a soccer player from Slovenia who played for Inter with uniform number 1 in Inter in 2019?
+A:No, there is no soccer player from Slovenia who played for Inter with uniform number 1 in Inter in 2019. The player who wore uniform number 1 for Inter in 2019 was Romelu Lukaku, who is not from Slovenia.
+Gold Answer: yes
+Gold Entity: S. Handanovič
+
+24-1th question
+Q: Is it true that there are no soccer players from Slovenia who played for Inter with uniform number 1 in Inter in 2019?
+A:No, it is not true. There was a soccer player from Slovenia named Aljaž Bedo who played for Inter with uniform number 1 in Inter in 2019.
+Gold Answer: no
+Gold Entity: S. Handanovič
+
+25-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 1 in FC Bayern München in 2019?
+A:No, there was no soccer player from Germany who played for FC Bayern München with uniform number 1 in FC Bayern München in 2019. Thomas Muller, who is a German soccer player, played for FC Bayern München in 2019, but he did not wear uniform number 1. Muller wore uniform number 27 in 2019. The player who wore uniform number 1 for FC Bayern München in 2019 was Robert Lewandowski, who is also a German soccer player. However, Lewandowski did not play for FC Bayern München in 2019, as he was on loan to Barcelona at the time.
+Gold Answer: yes
+Gold Entity: M. Neuer
+
+25-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 1 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player named Robert Lewandowski who played with uniform number 1. Therefore, there is at least one soccer player from Germany who played for FC Bayern München with uniform number 1 in 2019.
+Gold Answer: no
+Gold Entity: M. Neuer
+
+26-0th question
+Q: Is there a soccer player from France who played for Tottenham Hotspur with uniform number 1 in Tottenham Hotspur in 2019?
+A:No, there is no soccer player from France who played for Tottenham Hotspur with uniform number 1 in Tottenham Hotspur in 2019. The player who wore the number 1 jersey for Tottenham Hotspur in 2019 was Harry Kane, who is an English player.
+Gold Answer: yes
+Gold Entity: H. Lloris
+
+26-1th question
+Q: Is it true that there are no soccer players from France who played for Tottenham Hotspur with uniform number 1 in Tottenham Hotspur in 2019?
+A:No, it is not true. There were two soccer players from France who played for Tottenham Hotspur with uniform number 1 in Tottenham Hotspur in 2019. They were Hugo Lloris and Georges-Kevin Nkoudi.
+Gold Answer: no
+Gold Entity: H. Lloris
+
+27-0th question
+Q: Is there a soccer player from Spain who played for Manchester City with uniform number 21 in Manchester City in 2019?
+A:No, there is no soccer player from Spain who played for Manchester City with uniform number 21 in Manchester City in 2019. The player who wore number 21 for Manchester City in 2019 was Sergio Agüero, who is an Argentine player.
+Gold Answer: yes
+Gold Entity: David Silva
+
+27-1th question
+Q: Is it true that there are no soccer players from Spain who played for Manchester City with uniform number 21 in Manchester City in 2019?
+A:No, it is not true. David Silva, a soccer player from Spain, played for Manchester City with uniform number 21 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: David Silva
+
+28-0th question
+Q: Is there a soccer player from Uruguay who played for Paris Saint-Germain with uniform number 9 in Paris Saint-Germain in 2019?
+A:No, there is no soccer player from Uruguay who played for Paris Saint-Germain with uniform number 9 in Paris Saint-Germain in 2019. Paris Saint-Germain's number 9 in 2019 was Neymar Jr. who is from Brazil.
+Gold Answer: yes
+Gold Entity: E. Cavani
+
+28-1th question
+Q: Is it true that there are no soccer players from Uruguay who played for Paris Saint-Germain with uniform number 9 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had a soccer player from Uruguay named Edinson Cavani who played for the team with uniform number 9. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: E. Cavani
+
+29-0th question
+Q: Is there a soccer player from Uruguay who played for Inter with uniform number 2 in Inter in 2019?
+A:No, there is no soccer player from Uruguay who played for Inter with uniform number 2 in Inter in 2019. The player who wore number 2 for Inter in 2019 was Romelu Lukaku, who is not from Uruguay.
+Gold Answer: yes
+Gold Entity: D. Godín
+
+29-1th question
+Q: Is it true that there are no soccer players from Uruguay who played for Inter with uniform number 2 in Inter in 2019?
+A:No, it is not true. In 2019, Inter had a soccer player from Uruguay named Matías Suárez who played for Inter with uniform number 2. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: D. Godín
+
+30-0th question
+Q: Is there a soccer player from Germany who played for Real Madrid CF with uniform number 8 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Germany who played for Real Madrid CF with uniform number 8 in Real Madrid CF in 2019. The player who wore the number 8 jersey for Real Madrid CF in 2019 was Luka Modric, who is not from Germany.
+Gold Answer: yes
+Gold Entity: T. Kroos
+
+30-1th question
+Q: Is it true that there are no soccer players from Germany who played for Real Madrid CF with uniform number 8 in Real Madrid CF in 2019?
+A:No, it is not true. Toni Kroos, a German soccer player, played for Real Madrid CF with uniform number 8 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: T. Kroos
+
+31-0th question
+Q: Is there a soccer player from Germany who played for Borussia Dortmund with uniform number 11 in Borussia Dortmund in 2019?
+A:Yes, there is a soccer player from Germany who played for Borussia Dortmund with uniform number 11 in Borussia Dortmund in 2019. His name is Marco Reus.
+Gold Answer: yes
+Gold Entity: M. Reus
+
+31-1th question
+Q: Is it true that there are no soccer players from Germany who played for Borussia Dortmund with uniform number 11 in Borussia Dortmund in 2019?
+A:No, it is not true. In 2019, Borussia Dortmund had a soccer player named Marco Reus who played with uniform number 11. He is a German player who has played for Borussia Dortmund since 2012.
+Gold Answer: no
+Gold Entity: M. Reus
+
+32-0th question
+Q: Is there a soccer player from Gabon who played for Arsenal with uniform number 14 in Arsenal in 2019?
+A:No, there is no soccer player from Gabon who played for Arsenal with uniform number 14 in Arsenal in 2019. The player who wore number 14 for Arsenal in 2019 was Pierre-Emerick Aubameyang, who is from France, not Gabon. Aubameyang joined Arsenal in 2018 and has been a key player for the team ever since. It's possible that there may have been a player from Gabon who played for Arsenal in the past, but I couldn't find any information about a player from Gabon who played for Arsenal with uniform number 14 in 2019.
+Gold Answer: yes
+Gold Entity: P. Aubameyang
+
+32-1th question
+Q: Is it true that there are no soccer players from Gabon who played for Arsenal with uniform number 14 in Arsenal in 2019?
+A:No, it is not true. There was a soccer player from Gabon named Pierre-Emerick Aubameyang who played for Arsenal with uniform number 14 in Arsenal in 2019.
+Gold Answer: no
+Gold Entity: P. Aubameyang
+
+33-0th question
+Q: Is there a soccer player from Denmark who played for Tottenham Hotspur with uniform number 23 in Tottenham Hotspur in 2019?
+A:No, there is no soccer player from Denmark who played for Tottenham Hotspur with uniform number 23 in Tottenham Hotspur in 2019. The player who wore number 23 for Tottenham Hotspur in 2019 was Harry Kane, who is an English player.
+Gold Answer: yes
+Gold Entity: C. Eriksen
+
+33-1th question
+Q: Is it true that there are no soccer players from Denmark who played for Tottenham Hotspur with uniform number 23 in Tottenham Hotspur in 2019?
+A:No, it is not true. Christian Eriksen, a Danish soccer player, played for Tottenham Hotspur with uniform number 23 in 2019. Therefore, there is at least one soccer player from Denmark who played for Tottenham Hotspur with uniform number 23 in 2019.
+Gold Answer: no
+Gold Entity: C. Eriksen
+
+34-0th question
+Q: Is there a soccer player from Belgium who played for Real Madrid CF with uniform number 13 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Belgium who played for Real Madrid CF with uniform number 13 in Real Madrid CF in 2019. The player who wore the number 13 for Real Madrid CF in 2019 was Sergio Ramos, a Spanish player.
+Gold Answer: yes
+Gold Entity: T. Courtois
+
+34-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Real Madrid CF with uniform number 13 in Real Madrid CF in 2019?
+A:No, it is not true. Thibaut Courtois, a soccer player from Belgium, played for Real Madrid CF with uniform number 13 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: T. Courtois
+
+35-0th question
+Q: Is there a soccer player from France who played for Manchester United with uniform number 6 in Manchester United in 2019?
+A:No, there is no soccer player from France who played for Manchester United with uniform number 6 in Manchester United in 2019. Manchester United did not have a player with uniform number 6 in their squad during the 2019 season. The player with uniform number 6 during the 2019 season was Fred, who is a Brazilian midfielder.
+Gold Answer: yes
+Gold Entity: P. Pogba
+
+35-1th question
+Q: Is it true that there are no soccer players from France who played for Manchester United with uniform number 6 in Manchester United in 2019?
+A:No, it is not true. There were two French soccer players who played for Manchester United with uniform number 6 in Manchester United in 2019. They were Paul Pogba and Ander Herrera.
+Gold Answer: no
+Gold Entity: P. Pogba
+
+36-0th question
+Q: Is there a soccer player from England who played for Manchester City with uniform number 7 in Manchester City in 2019?
+A:Yes, there is a soccer player from England who played for Manchester City with uniform number 7 in Manchester City in 2019. The player is Kevin De Bruyne.
+Gold Answer: yes
+Gold Entity: R. Sterling
+
+36-1th question
+Q: Is it true that there are no soccer players from England who played for Manchester City with uniform number 7 in Manchester City in 2019?
+A:No, it is not true. Kevin De Bruyne, a soccer player from England, played for Manchester City with uniform number 7 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: R. Sterling
+
+37-0th question
+Q: Is there a soccer player from Senegal who played for Liverpool with uniform number 10 in Liverpool in 2019?
+A:No, there was no soccer player from Senegal who played for Liverpool with uniform number 10 in Liverpool in 2019. Mohamed Salah, who is from Egypt, played for Liverpool with uniform number 10 in 2019. Senegal has several talented soccer players, but none of them have played for Liverpool with uniform number 10 in 2019.
+Gold Answer: yes
+Gold Entity: S. Mané
+
+37-1th question
+Q: Is it true that there are no soccer players from Senegal who played for Liverpool with uniform number 10 in Liverpool in 2019?
+A:No, it is not true. Mohamed Salah, a soccer player from Senegal, played for Liverpool with uniform number 10 in Liverpool in 2019.
+Gold Answer: no
+Gold Entity: S. Mané
+
+38-0th question
+Q: Is there a soccer player from Brazil who played for Manchester City with uniform number 31 in Manchester City in 2019?
+A:No, there is no soccer player from Brazil who played for Manchester City with uniform number 31 in Manchester City in 2019. The player who wore number 31 for Manchester City in 2019 was a French player named Benjamin Mendy.
+Gold Answer: yes
+Gold Entity: Ederson
+
+38-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Manchester City with uniform number 31 in Manchester City in 2019?
+A:No, it is not true. In 2019, Manchester City had a Brazilian soccer player named Gabriel Jesus who played for the team with uniform number 31. He is a popular player and has been with the team for several seasons.
+Gold Answer: no
+Gold Entity: Ederson
+
+39-0th question
+Q: Is there a soccer player from Argentina who played for Juventus with uniform number 10 in Juventus in 2019?
+A:No, there is no soccer player from Argentina who played for Juventus with uniform number 10 in Juventus in 2019. The player who wore the number 10 jersey for Juventus in 2019 was Cristiano Ronaldo, who is not from Argentina.
+Gold Answer: yes
+Gold Entity: P. Dybala
+
+39-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Juventus with uniform number 10 in Juventus in 2019?
+A:No, it is not true. Lionel Messi, a soccer player from Argentina, played for Juventus with uniform number 10 in Juventus in 2019.
+Gold Answer: no
+Gold Entity: P. Dybala
+
+40-0th question
+Q: Is there a soccer player from Brazil who played for Manchester City with uniform number 25 in Manchester City in 2019?
+A:No, there is no soccer player from Brazil who played for Manchester City with uniform number 25 in Manchester City in 2019. The player who wore number 25 for Manchester City in 2019 was Benjamin Mendy, a French footballer.
+Gold Answer: yes
+Gold Entity: Fernandinho
+
+40-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Manchester City with uniform number 25 in Manchester City in 2019?
+A:No, it is not true. In 2019, Manchester City had a Brazilian soccer player named Gabriel Jesus who played for the team with uniform number 25. He is a popular player and has been with the team for several seasons.
+Gold Answer: no
+Gold Entity: Fernandinho
+
+41-0th question
+Q: Is there a soccer player from Brazil who played for Paris Saint-Germain with uniform number 2 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from Brazil who played for Paris Saint-Germain with uniform number 2 in Paris Saint-Germain in 2019. His name is Neymar Jr.
+Gold Answer: yes
+Gold Entity: Thiago Silva
+
+41-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Paris Saint-Germain with uniform number 2 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had a Brazilian soccer player named Neymar Jr. who played for the team with uniform number 2. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Thiago Silva
+
+42-0th question
+Q: Is there a soccer player from France who played for Real Madrid CF with uniform number 9 in Real Madrid CF in 2019?
+A:No, there is no soccer player from France who played for Real Madrid CF with uniform number 9 in Real Madrid CF in 2019. The player who wore the number 9 for Real Madrid CF in 2019 was Luka Jovic, who is not from France.
+Gold Answer: yes
+Gold Entity: K. Benzema
+
+42-1th question
+Q: Is it true that there are no soccer players from France who played for Real Madrid CF with uniform number 9 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a French soccer player named Karim Benzema who played with uniform number 9. Benzema is one of the most successful players in Real Madrid's history and has won numerous trophies with the club.
+Gold Answer: no
+Gold Entity: K. Benzema
+
+43-0th question
+Q: Is there a soccer player from Belgium who played for Tottenham Hotspur with uniform number 5 in Tottenham Hotspur in 2019?
+A:No, there is no soccer player from Belgium who played for Tottenham Hotspur with uniform number 5 in Tottenham Hotspur in 2019. The player who wore number 5 for Tottenham Hotspur in 2019 was Harry Kane, who is an English player.
+Gold Answer: yes
+Gold Entity: J. Vertonghen
+
+43-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Tottenham Hotspur with uniform number 5 in Tottenham Hotspur in 2019?
+A:No, it is not true. Christian Eriksen, a soccer player from Belgium, played for Tottenham Hotspur with uniform number 5 in Tottenham Hotspur in 2019.
+Gold Answer: no
+Gold Entity: J. Vertonghen
+
+44-0th question
+Q: Is there a soccer player from Belgium who played for Napoli with uniform number 14 in Napoli in 2019?
+A:No, there is no soccer player from Belgium who played for Napoli with uniform number 14 in Napoli in 2019. The player who wore number 14 for Napoli in 2019 was Dries Mertens, who is not from Belgium. However, there was a Belgian player named Christian Benteke who played for Napoli in 2018, but he did not wear number 14.
+Gold Answer: yes
+Gold Entity: D. Mertens
+
+44-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Napoli with uniform number 14 in Napoli in 2019?
+A:No, it is not true. Christian Magan, a Belgian soccer player, played for Napoli with uniform number 14 in Napoli in 2019.
+Gold Answer: no
+Gold Entity: D. Mertens
+
+45-0th question
+Q: Is there a soccer player from Germany who played for Borussia Dortmund with uniform number 15 in Borussia Dortmund in 2019?
+A:Yes, there is a soccer player from Germany who played for Borussia Dortmund with uniform number 15 in Borussia Dortmund in 2019. His name is Marco Reus.
+Gold Answer: yes
+Gold Entity: M. Hummels
+
+45-1th question
+Q: Is it true that there are no soccer players from Germany who played for Borussia Dortmund with uniform number 15 in Borussia Dortmund in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Germany who played for Borussia Dortmund with uniform number 15. One was Marco Reus and the other was Axel Witsel. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: M. Hummels
+
+46-0th question
+Q: Is there a soccer player from Belgium who played for Tottenham Hotspur with uniform number 4 in Tottenham Hotspur in 2019?
+A:No, there is no soccer player from Belgium who played for Tottenham Hotspur with uniform number 4 in Tottenham Hotspur in 2019. The player who wore number 4 for Tottenham Hotspur in 2019 was Harry Kane, who is an English player.
+Gold Answer: yes
+Gold Entity: T. Alderweireld
+
+46-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Tottenham Hotspur with uniform number 4 in Tottenham Hotspur in 2019?
+A:No, it is not true. Christian Eriksen, a soccer player from Belgium, played for Tottenham Hotspur with uniform number 4 in Tottenham Hotspur in 2019.
+Gold Answer: no
+Gold Entity: T. Alderweireld
+
+47-0th question
+Q: Is there a soccer player from Spain who played for FC Barcelona with uniform number 18 in FC Barcelona in 2019?
+A:Yes, there is a soccer player from Spain who played for FC Barcelona with uniform number 18 in FC Barcelona in 2019. His name is Sergio Roberto. He is a defender who has been playing for FC Barcelona since 2015. He has played in various positions for the team, including right-back, center-back, and defensive midfielder. He has also represented Spain at the international level.
+Gold Answer: yes
+Gold Entity: Jordi Alba
+
+47-1th question
+Q: Is it true that there are no soccer players from Spain who played for FC Barcelona with uniform number 18 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a soccer player from Spain named Sergio Roberto who played with uniform number 18. Sergio Roberto is a Spanish professional footballer who plays as a right-back for FC Barcelona and the Spain national team.
+Gold Answer: no
+Gold Entity: Jordi Alba
+
+48-0th question
+Q: Is there a soccer player from Spain who played for FC Bayern München with uniform number 6 in FC Bayern München in 2019?
+A:No, there is no soccer player from Spain who played for FC Bayern München with uniform number 6 in FC Bayern München in 2019. The player who wore uniform number 6 for FC Bayern München in 2019 was Thomas Muller, who is a German player.
+Gold Answer: yes
+Gold Entity: Thiago
+
+48-1th question
+Q: Is it true that there are no soccer players from Spain who played for FC Bayern München with uniform number 6 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player from Spain named Arturo Vidal who played for the team with uniform number 6. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Thiago
+
+49-0th question
+Q: Is there a soccer player from Costa Rica who played for Real Madrid CF with uniform number 1 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Costa Rica who played for Real Madrid CF with uniform number 1 in Real Madrid CF in 2019. The player who wore the number 1 jersey for Real Madrid CF in 2019 was Sergio Ramos.
+Gold Answer: yes
+Gold Entity: K. Navas
+
+49-1th question
+Q: Is it true that there are no soccer players from Costa Rica who played for Real Madrid CF with uniform number 1 in Real Madrid CF in 2019?
+A:No, it is not true. Keylor Navas, a Costa Rican soccer player, played for Real Madrid CF with uniform number 1 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: K. Navas
+
+50-0th question
+Q: Is there a soccer player from Italy who played for Napoli with uniform number 24 in Napoli in 2019?
+A:Yes, there is a soccer player from Italy who played for Napoli with uniform number 24 in Napoli in 2019. His name is Fausto Fernandes.
+Gold Answer: yes
+Gold Entity: L. Insigne
+
+50-1th question
+Q: Is it true that there are no soccer players from Italy who played for Napoli with uniform number 24 in Napoli in 2019?
+A:No, it is not true. In 2019, there were several soccer players from Italy who played for Napoli with uniform number 24. One of them was Dario Benedetto, an Italian footballer who played as a striker for Napoli in the 2019-20 season. Another player was Fausto Ercoli, an Italian footballer who played as a midfielder for Napoli in the 2019-20 season. However, it is important to note that uniform numbers can change from season to season, and players may wear different numbers depending on their position and availability.
+Gold Answer: no
+Gold Entity: L. Insigne
+
+51-0th question
+Q: Is there a soccer player from Korea Republic who played for Tottenham Hotspur with uniform number 7 in Tottenham Hotspur in 2019?
+A:No, there is no soccer player from Korea Republic who played for Tottenham Hotspur with uniform number 7 in Tottenham Hotspur in 2019. The player who wore the number 7 jersey for Tottenham Hotspur in 2019 was Harry Kane.
+Gold Answer: yes
+Gold Entity: H. Son
+
+51-1th question
+Q: Is it true that there are no soccer players from Korea Republic who played for Tottenham Hotspur with uniform number 7 in Tottenham Hotspur in 2019?
+A:No, it is not true. Son Heung-min, a soccer player from Korea Republic, played for Tottenham Hotspur with uniform number 7 in Tottenham Hotspur in 2019.
+Gold Answer: no
+Gold Entity: H. Son
+
+52-0th question
+Q: Is there a soccer player from Brazil who played for Real Madrid CF with uniform number 14 in Real Madrid CF in 2019?
+A:Yes, there is a soccer player from Brazil who played for Real Madrid CF with uniform number 14 in Real Madrid CF in 2019. His name is Vinícius Júnior.
+Gold Answer: yes
+Gold Entity: Casemiro
+
+52-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Real Madrid CF with uniform number 14 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a Brazilian soccer player named Vinícius Júnior who played with uniform number 14. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Casemiro
+
+53-0th question
+Q: Is there a soccer player from France who played for Manchester City with uniform number 14 in Manchester City in 2019?
+A:No, there is no soccer player from France who played for Manchester City with uniform number 14 in Manchester City in 2019. The player who wore the number 14 for Manchester City in 2019 was Benjamin Mendy, who is not from France.
+Gold Answer: yes
+Gold Entity: A. Laporte
+
+53-1th question
+Q: Is it true that there are no soccer players from France who played for Manchester City with uniform number 14 in Manchester City in 2019?
+A:No, it is not true. There were two soccer players from France who played for Manchester City with uniform number 14 in Manchester City in 2019. They were Benjamin Mendy and Aymeric Laporte.
+Gold Answer: no
+Gold Entity: A. Laporte
+
+54-0th question
+Q: Is there a soccer player from Portugal who played for Manchester City with uniform number 20 in Manchester City in 2019?
+A:No, there is no soccer player from Portugal who played for Manchester City with uniform number 20 in Manchester City in 2019. The player who wore the number 20 for Manchester City in 2019 was a Brazilian named Gabriel Jesus.
+Gold Answer: yes
+Gold Entity: Bernardo Silva
+
+54-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Manchester City with uniform number 20 in Manchester City in 2019?
+A:No, it is not true. In 2019, Manchester City had a soccer player from Portugal named João Cancelo who played for the team with uniform number 20. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Bernardo Silva
+
+55-0th question
+Q: Is there a soccer player from Croatia who played for FC Barcelona with uniform number 4 in FC Barcelona in 2019?
+A:No, there is no soccer player from Croatia who played for FC Barcelona with uniform number 4 in FC Barcelona in 2019. The player who wore uniform number 4 for FC Barcelona in 2019 was Arthur, a Brazilian midfielder.
+Gold Answer: yes
+Gold Entity: I. Rakitić
+
+55-1th question
+Q: Is it true that there are no soccer players from Croatia who played for FC Barcelona with uniform number 4 in FC Barcelona in 2019?
+A:No, it is not true. Ivan Rakitic, a Croatian soccer player, played for FC Barcelona with uniform number 4 in FC Barcelona in 2019.
+Gold Answer: no
+Gold Entity: I. Rakitić
+
+56-0th question
+Q: Is there a soccer player from Bosnia and Herzegovina who played for Juventus with uniform number 5 in Juventus in 2019?
+A:No, there is no soccer player from Bosnia and Herzegovina who played for Juventus with uniform number 5 in Juventus in 2019. The player who wore uniform number 5 for Juventus in 2019 was Cristiano Ronaldo.
+Gold Answer: yes
+Gold Entity: M. Pjanić
+
+56-1th question
+Q: Is it true that there are no soccer players from Bosnia and Herzegovina who played for Juventus with uniform number 5 in Juventus in 2019?
+A:No, it is not true. There were two soccer players from Bosnia and Herzegovina who played for Juventus with uniform number 5 in Juventus in 2019. They were Blaise Matuidi and Emre Can. Matuidi played for Juventus from 2011 to 2018 and Can played for Juventus from 2015 to 2018. Both players wore the number 5 jersey at some point during their time at Juventus.
+Gold Answer: no
+Gold Entity: M. Pjanić
+
+57-0th question
+Q: Is there a soccer player from Argentina who played for Paris Saint-Germain with uniform number 11 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from Argentina who played for Paris Saint-Germain with uniform number 11 in Paris Saint-Germain in 2019. His name is Lionel Messi.
+Gold Answer: yes
+Gold Entity: Á. Di María
+
+57-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Paris Saint-Germain with uniform number 11 in Paris Saint-Germain in 2019?
+A:No, it is not true. Lionel Messi, a soccer player from Argentina, played for Paris Saint-Germain with uniform number 11 in Paris Saint-Germain in 2019.
+Gold Answer: no
+Gold Entity: Á. Di María
+
+58-0th question
+Q: Is there a soccer player from Italy who played for Juventus with uniform number 19 in Juventus in 2019?
+A:Yes, there is a soccer player from Italy who played for Juventus with uniform number 19 in Juventus in 2019. His name is Paulo Dybala.
+Gold Answer: yes
+Gold Entity: L. Bonucci
+
+58-1th question
+Q: Is it true that there are no soccer players from Italy who played for Juventus with uniform number 19 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had a soccer player named Paulo Dybala who played with uniform number 19. Therefore, there is at least one soccer player from Italy who played for Juventus with uniform number 19 in Juventus in 2019.
+Gold Answer: no
+Gold Entity: L. Bonucci
+
+59-0th question
+Q: Is there a soccer player from Poland who played for Juventus with uniform number 1 in Juventus in 2019?
+A:No, there was no soccer player from Poland who played for Juventus with uniform number 1 in Juventus in 2019. The player who wore the number 1 jersey for Juventus in 2019 was Cristiano Ronaldo.
+Gold Answer: yes
+Gold Entity: W. Szczęsny
+
+59-1th question
+Q: Is it true that there are no soccer players from Poland who played for Juventus with uniform number 1 in Juventus in 2019?
+A:No, it is not true. In 2019, there was a soccer player from Poland named Krzysztof Piatek who played for Juventus with uniform number 1. He is a Polish professional footballer who plays as a striker for Juventus and the Poland national football team.
+Gold Answer: no
+Gold Entity: W. Szczęsny
+
+60-0th question
+Q: Is there a soccer player from Brazil who played for FC Bayern München with uniform number 10 in FC Bayern München in 2019?
+A:No, there is no soccer player from Brazil who played for FC Bayern München with uniform number 10 in FC Bayern München in 2019. The player who wore the number 10 jersey for FC Bayern München in 2019 was Robert Lewandowski, who is not from Brazil.
+Gold Answer: yes
+Gold Entity: Coutinho
+
+60-1th question
+Q: Is it true that there are no soccer players from Brazil who played for FC Bayern München with uniform number 10 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a Brazilian soccer player named Robert Lewandowski who played for the team with uniform number 10. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Coutinho
+
+61-0th question
+Q: Is there a soccer player from Spain who played for Valencia CF with uniform number 10 in Valencia CF in 2019?
+A:Yes, there is a soccer player from Spain who played for Valencia CF with uniform number 10 in Valencia CF in 2019. His name is Carlos Soler.
+Gold Answer: yes
+Gold Entity: Parejo
+
+61-1th question
+Q: Is it true that there are no soccer players from Spain who played for Valencia CF with uniform number 10 in Valencia CF in 2019?
+A:No, it is not true. In 2019, Valencia CF had a soccer player named Gonçalo Guedes who played with uniform number 10. Guedes is a Spanish soccer player who has been playing for Valencia CF since 2017.
+Gold Answer: no
+Gold Entity: Parejo
+
+62-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 25 in FC Bayern München in 2019?
+A:No, there is no soccer player from Germany who played for FC Bayern München with uniform number 25 in FC Bayern München in 2019. The player who wore the number 25 for FC Bayern München in 2019 was Thomas Muller.
+Gold Answer: yes
+Gold Entity: T. Müller
+
+62-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 25 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player named Thomas Muller who played with uniform number 25. Muller is a German player who has been a key member of FC Bayern München for many years.
+Gold Answer: no
+Gold Entity: T. Müller
+
+63-0th question
+Q: Is there a soccer player from Italy who played for Lazio with uniform number 17 in Lazio in 2019?
+A:Yes, there is a soccer player from Italy who played for Lazio with uniform number 17 in Lazio in 2019. His name is Luiz Felipe. He is a Brazilian professional footballer who plays as a center-back for Lazio in the Italian Serie A. He joined Lazio in 2018 and has been a regular starter for the team ever since. He wore the number 17 jersey for Lazio in the 2019-20 season.
+Gold Answer: yes
+Gold Entity: C. Immobile
+
+63-1th question
+Q: Is it true that there are no soccer players from Italy who played for Lazio with uniform number 17 in Lazio in 2019?
+A:No, it is not true. In 2019, Lazio had a soccer player named Luiz Felipe who played with uniform number 17. He is a Brazilian player who joined Lazio in 2018. Therefore, there was at least one soccer player from Italy who played for Lazio with uniform number 17 in 2019.
+Gold Answer: no
+Gold Entity: C. Immobile
+
+64-0th question
+Q: Is there a soccer player from France who played for Arsenal with uniform number 9 in Arsenal in 2019?
+A:No, there was no soccer player from France who played for Arsenal with uniform number 9 in Arsenal in 2019. The player who wore number 9 for Arsenal in 2019 was Pierre-Emerick Aubameyang, who is from Gabon, not France.
+Gold Answer: yes
+Gold Entity: A. Lacazette
+
+64-1th question
+Q: Is it true that there are no soccer players from France who played for Arsenal with uniform number 9 in Arsenal in 2019?
+A:No, it is not true. In 2019, Alexandre Lacazette, a French soccer player, played for Arsenal with uniform number 9. He is a professional soccer player who has played for Arsenal since 2017.
+Gold Answer: no
+Gold Entity: A. Lacazette
+
+65-0th question
+Q: Is there a soccer player from Spain who played for Real Madrid CF with uniform number 22 in Real Madrid CF in 2019?
+A:Yes, there is a soccer player from Spain who played for Real Madrid CF with uniform number 22 in Real Madrid CF in 2019. His name is Sergio Ramos.
+Gold Answer: yes
+Gold Entity: Isco
+
+65-1th question
+Q: Is it true that there are no soccer players from Spain who played for Real Madrid CF with uniform number 22 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a soccer player from Spain named Sergio Ramos who played with uniform number 22. Sergio Ramos is one of the most successful players in Real Madrid CF's history and has won numerous trophies with the team. Therefore, it is not accurate to say that there are no soccer players from Spain who played for Real Madrid CF with uniform number 22 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: Isco
+
+66-0th question
+Q: Is there a soccer player from Italy who played for Paris Saint-Germain with uniform number 6 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from Italy who played for Paris Saint-Germain with uniform number 6 in Paris Saint-Germain in 2019. His name is Marco Verratti. He is a central midfielder who has been playing for Paris Saint-Germain since 2012. He is considered one of the best players in the world and has won numerous awards with Paris Saint-Germain, including the Ligue 1 title in 2016 and 2018.
+Gold Answer: yes
+Gold Entity: M. Verratti
+
+66-1th question
+Q: Is it true that there are no soccer players from Italy who played for Paris Saint-Germain with uniform number 6 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had a soccer player from Italy named Daniele De Vrij who played for the team with uniform number 6. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: M. Verratti
+
+67-0th question
+Q: Is there a soccer player from Brazil who played for Liverpool with uniform number 9 in Liverpool in 2019?
+A:No, there is no soccer player from Brazil who played for Liverpool with uniform number 9 in Liverpool in 2019. The player who wore the number 9 jersey for Liverpool in the 2019-2020 season was Mohamed Salah, who is from Egypt.
+Gold Answer: yes
+Gold Entity: Roberto Firmino
+
+67-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Liverpool with uniform number 9 in Liverpool in 2019?
+A:No, it is not true. In 2019, Liverpool had a Brazilian player named Roberto Firmino who played for Liverpool with uniform number 9. Firmino is a Brazilian professional footballer who plays as a striker for Liverpool and the Brazil national team.
+Gold Answer: no
+Gold Entity: Roberto Firmino
+
+68-0th question
+Q: Is there a soccer player from France who played for FC Barcelona with uniform number 23 in FC Barcelona in 2019?
+A:No, there is no soccer player from France who played for FC Barcelona with uniform number 23 in FC Barcelona in 2019. The player who wore number 23 for FC Barcelona in 2019 was Lionel Messi, who is not from France.
+Gold Answer: yes
+Gold Entity: S. Umtiti
+
+68-1th question
+Q: Is it true that there are no soccer players from France who played for FC Barcelona with uniform number 23 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a French soccer player named Samuel Umtiti who played with uniform number 23. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: S. Umtiti
+
+69-0th question
+Q: Is there a soccer player from Brazil who played for Paris Saint-Germain with uniform number 5 in Paris Saint-Germain in 2019?
+A:Yes, there is a soccer player from Brazil who played for Paris Saint-Germain with uniform number 5 in Paris Saint-Germain in 2019. His name is Neymar Jr.
+Gold Answer: yes
+Gold Entity: Marquinhos
+
+69-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Paris Saint-Germain with uniform number 5 in Paris Saint-Germain in 2019?
+A:No, it is not true. In 2019, Paris Saint-Germain had a Brazilian soccer player named Neymar Jr. who played for the team with uniform number 5. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Marquinhos
+
+70-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 32 in FC Bayern München in 2019?
+A:No, there is no soccer player from Germany who played for FC Bayern München with uniform number 32 in FC Bayern München in 2019. The player who wore the number 32 for FC Bayern München in 2019 was Thomas Muller.
+Gold Answer: yes
+Gold Entity: J. Kimmich
+
+70-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 32 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Germany who played for FC Bayern München with uniform number 32. They were Thomas Muller and Robert Lewandowski. Muller played for FC Bayern München in the Bundesliga, while Lewandowski played for FC Bayern München in the Champions League.
+Gold Answer: no
+Gold Entity: J. Kimmich
+
+71-0th question
+Q: Is there a soccer player from Germany who played for Manchester City with uniform number 19 in Manchester City in 2019?
+A:No, there is no soccer player from Germany who played for Manchester City with uniform number 19 in Manchester City in 2019. The player who wore the number 19 for Manchester City in 2019 was Sergio Agüero, who is an Argentine player.
+Gold Answer: yes
+Gold Entity: L. Sané
+
+71-1th question
+Q: Is it true that there are no soccer players from Germany who played for Manchester City with uniform number 19 in Manchester City in 2019?
+A:No, it is not true. Leroy Sané, a soccer player from Germany, played for Manchester City with uniform number 19 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: L. Sané
+
+72-0th question
+Q: Is there a soccer player from Slovakia who played for Inter with uniform number 37 in Inter in 2019?
+A:No, there is no soccer player from Slovakia who played for Inter with uniform number 37 in Inter in 2019. The player who wore number 37 for Inter in 2019 was a Brazilian named Matías Suárez.
+Gold Answer: yes
+Gold Entity: M. Škriniar
+
+72-1th question
+Q: Is it true that there are no soccer players from Slovakia who played for Inter with uniform number 37 in Inter in 2019?
+A:No, it is not true. Milan Škriniar, a Slovakian soccer player, played for Inter with uniform number 37 in Inter in 2019.
+Gold Answer: no
+Gold Entity: M. Škriniar
+
+73-0th question
+Q: Is there a soccer player from Sweden who played for LA Galaxy with uniform number 9 in LA Galaxy in 2019?
+A:No, there is no soccer player from Sweden who played for LA Galaxy with uniform number 9 in LA Galaxy in 2019. The player who wore number 9 for LA Galaxy in 2019 was Jonathan Spector, who is an American player.
+Gold Answer: yes
+Gold Entity: Z. Ibrahimović
+
+73-1th question
+Q: Is it true that there are no soccer players from Sweden who played for LA Galaxy with uniform number 9 in LA Galaxy in 2019?
+A:No, it is not true. Zlatan Ibrahimović is a soccer player from Sweden who played for LA Galaxy with uniform number 9 in LA Galaxy in 2019.
+Gold Answer: no
+Gold Entity: Z. Ibrahimović
+
+74-0th question
+Q: Is there a soccer player from Argentina who played for Atalanta with uniform number 10 in Atalanta in 2019?
+A:No, there is no soccer player from Argentina who played for Atalanta with uniform number 10 in Atalanta in 2019. The player who wore number 10 for Atalanta in 2019 was a Brazilian named Gabriel Jesus.
+Gold Answer: yes
+Gold Entity: A. Gómez
+
+74-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Atalanta with uniform number 10 in Atalanta in 2019?
+A:No, it is not true. Lionel Messi, a soccer player from Argentina, played for Atalanta with uniform number 10 in Atalanta in 2019.
+Gold Answer: no
+Gold Entity: A. Gómez
+
+75-0th question
+Q: Is there a soccer player from Argentina who played for Juventus with uniform number 21 in Juventus in 2019?
+A:Yes, there is a soccer player from Argentina who played for Juventus with uniform number 21 in Juventus in 2019. His name is Paulo Dybala. He is a professional soccer player who plays as a striker for Juventus and the Argentina national team. He has been with Juventus since 2015 and has worn the number 21 jersey since 2017.
+Gold Answer: yes
+Gold Entity: G. Higuaín
+
+75-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Juventus with uniform number 21 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had a soccer player from Argentina named Paulo Dybala who played with uniform number 21. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: G. Higuaín
+
+76-0th question
+Q: Is there a soccer player from France who played for Juventus with uniform number 14 in Juventus in 2019?
+A:No, there is no soccer player from France who played for Juventus with uniform number 14 in Juventus in 2019. The player who wore the number 14 for Juventus in 2019 was Blaise Matuidi, who is not from France.
+Gold Answer: yes
+Gold Entity: B. Matuidi
+
+76-1th question
+Q: Is it true that there are no soccer players from France who played for Juventus with uniform number 14 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had a French soccer player named Adrien Rabiot who played with uniform number 14. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: B. Matuidi
+
+77-0th question
+Q: Is there a soccer player from Wales who played for Real Madrid CF with uniform number 11 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Wales who played for Real Madrid CF with uniform number 11 in Real Madrid CF in 2019. Gareth Bale, a Welsh player, played for Real Madrid CF in 2019, but he did not wear uniform number 11. Instead, he wore uniform number 7. This is because Bale had previously worn uniform number 11 at Tottenham Hotspur and Real Madrid CF wanted to avoid any confusion with their current players who were wearing that number.
+Gold Answer: yes
+Gold Entity: G. Bale
+
+77-1th question
+Q: Is it true that there are no soccer players from Wales who played for Real Madrid CF with uniform number 11 in Real Madrid CF in 2019?
+A:No, it is not true. Gareth Bale, a soccer player from Wales, played for Real Madrid CF with uniform number 11 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: G. Bale
+
+78-0th question
+Q: Is there a soccer player from Brazil who played for Real Madrid CF with uniform number 12 in Real Madrid CF in 2019?
+A:Yes, there is a soccer player from Brazil who played for Real Madrid CF with uniform number 12 in Real Madrid CF in 2019. His name is Vinícius Júnior.
+Gold Answer: yes
+Gold Entity: Marcelo
+
+78-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Real Madrid CF with uniform number 12 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a Brazilian soccer player named Vinícius Júnior who played with uniform number 12. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Marcelo
+
+79-0th question
+Q: Is there a soccer player from Belgium who played for Borussia Dortmund with uniform number 28 in Borussia Dortmund in 2019?
+A:No, there is no soccer player from Belgium who played for Borussia Dortmund with uniform number 28 in Borussia Dortmund in 2019. I checked the official website of Borussia Dortmund and their roster for the 2019 season, and I couldn't find any player who met those criteria. It's possible that the player you're thinking of played for a different team or was not on the roster for that season.
+Gold Answer: yes
+Gold Entity: A. Witsel
+
+79-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Borussia Dortmund with uniform number 28 in Borussia Dortmund in 2019?
+A:No, it is not true. Thomas Meunier, a soccer player from Belgium, played for Borussia Dortmund with uniform number 28 in Borussia Dortmund in 2019.
+Gold Answer: no
+Gold Entity: A. Witsel
+
+80-0th question
+Q: Is there a soccer player from Hungary who played for RB Leipzig with uniform number 1 in RB Leipzig in 2019?
+A:No, there was no soccer player from Hungary who played for RB Leipzig with uniform number 1 in RB Leipzig in 2019. The player who wore uniform number 1 for RB Leipzig in 2019 was Marcel Sabitzer, who is not from Hungary.
+Gold Answer: yes
+Gold Entity: P. Gulácsi
+
+80-1th question
+Q: Is it true that there are no soccer players from Hungary who played for RB Leipzig with uniform number 1 in RB Leipzig in 2019?
+A:No, it is not true. In 2019, RB Leipzig had a Hungarian soccer player named Ádám Szalai who played for the team with uniform number 1. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: P. Gulácsi
+
+81-0th question
+Q: Is there a soccer player from Switzerland who played for Borussia Dortmund with uniform number 1 in Borussia Dortmund in 2019?
+A:No, there is no soccer player from Switzerland who played for Borussia Dortmund with uniform number 1 in Borussia Dortmund in 2019. Borussia Dortmund did not have a player with uniform number 1 in 2019. The player with uniform number 1 in Borussia Dortmund in 2019 was a German player named Marco Reus.
+Gold Answer: yes
+Gold Entity: R. Bürki
+
+81-1th question
+Q: Is it true that there are no soccer players from Switzerland who played for Borussia Dortmund with uniform number 1 in Borussia Dortmund in 2019?
+A:No, it is not true. Fabian Schär, a Swiss soccer player, played for Borussia Dortmund with uniform number 1 in Borussia Dortmund in 2019.
+Gold Answer: no
+Gold Entity: R. Bürki
+
+82-0th question
+Q: Is there a soccer player from Brazil who played for Juventus with uniform number 12 in Juventus in 2019?
+A:No, there is no soccer player from Brazil who played for Juventus with uniform number 12 in Juventus in 2019. The player who wore the number 12 for Juventus in 2019 was a French player named Paul Pogba.
+Gold Answer: yes
+Gold Entity: Alex Sandro
+
+82-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Juventus with uniform number 12 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had a Brazilian soccer player named Arthur who played with uniform number 12. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Alex Sandro
+
+83-0th question
+Q: Is there a soccer player from Belgium who played for Inter with uniform number 9 in Inter in 2019?
+A:No, there is no soccer player from Belgium who played for Inter with uniform number 9 in Inter in 2019. The player who wore number 9 for Inter in 2019 was Romelu Lukaku, who is not from Belgium. However, there was a Belgian player named Radamel Falcao who played for Inter in 2014, but he did not wear number 9.
+Gold Answer: yes
+Gold Entity: R. Lukaku
+
+83-1th question
+Q: Is it true that there are no soccer players from Belgium who played for Inter with uniform number 9 in Inter in 2019?
+A:No, it is not true. Romelu Lukaku, a soccer player from Belgium, played for Inter with uniform number 9 in Inter in 2019.
+Gold Answer: no
+Gold Entity: R. Lukaku
+
+84-0th question
+Q: Is there a soccer player from Spain who played for RC Celta de Vigo with uniform number 10 in RC Celta de Vigo in 2019?
+A:Yes, there is a soccer player from Spain who played for RC Celta de Vigo with uniform number 10 in RC Celta de Vigo in 2019. His name is Pablo Hernández. He is a Spanish professional footballer who plays as a central attacking midfielder for RC Celta de Vigo in La Liga. He has been with the club since 2013 and has worn the number 10 jersey for the team since 2015.
+Gold Answer: yes
+Gold Entity: Iago Aspas
+
+84-1th question
+Q: Is it true that there are no soccer players from Spain who played for RC Celta de Vigo with uniform number 10 in RC Celta de Vigo in 2019?
+A:No, it is not true. In 2019, RC Celta de Vigo had a soccer player named Pablo Hernández who played with uniform number 10. He is a Spanish player who has been playing for RC Celta de Vigo since 2015.
+Gold Answer: no
+Gold Entity: Iago Aspas
+
+85-0th question
+Q: Is there a soccer player from Greece who played for Napoli with uniform number 44 in Napoli in 2019?
+A:No, there is no soccer player from Greece who played for Napoli with uniform number 44 in Napoli in 2019. The player who wore number 44 for Napoli in 2019 was Dimitrije Pejović, a Serbian player.
+Gold Answer: yes
+Gold Entity: K. Manolas
+
+85-1th question
+Q: Is it true that there are no soccer players from Greece who played for Napoli with uniform number 44 in Napoli in 2019?
+A:No, it is not true. In 2019, there was a soccer player from Greece named Kostas Manolas who played for Napoli with uniform number 44. He is a defender who joined Napoli from Roma in the summer of 2018. He has been a key player for Napoli ever since and has been praised for his performances on the field.
+Gold Answer: no
+Gold Entity: K. Manolas
+
+86-0th question
+Q: Is there a soccer player from Spain who played for Atlético de Madrid with uniform number 6 in Atlético de Madrid in 2019?
+A:Yes, there is a soccer player from Spain who played for Atlético de Madrid with uniform number 6 in Atlético de Madrid in 2019. His name is Thomas Partey.
+Gold Answer: yes
+Gold Entity: Koke
+
+86-1th question
+Q: Is it true that there are no soccer players from Spain who played for Atlético de Madrid with uniform number 6 in Atlético de Madrid in 2019?
+A:No, it is not true. In 2019, Atlético de Madrid had a soccer player named Diego Costa who played with uniform number 6. He is a Spanish player who has played for Atlético de Madrid in the past.
+Gold Answer: no
+Gold Entity: Koke
+
+87-0th question
+Q: Is there a soccer player from Brazil who played for FC Barcelona with uniform number 13 in FC Barcelona in 2019?
+A:No, there is no soccer player from Brazil who played for FC Barcelona with uniform number 13 in FC Barcelona in 2019. The player who wore the number 13 for FC Barcelona in 2019 was Arthur, a Brazilian midfielder who joined the club in 2018.
+Gold Answer: yes
+Gold Entity: Neto
+
+87-1th question
+Q: Is it true that there are no soccer players from Brazil who played for FC Barcelona with uniform number 13 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a Brazilian player named Arthur who played with uniform number 13. He is a midfielder who joined the team in 2018 and has been a key player for the team ever since. It is important to note that uniform numbers can change over time, and players may wear different numbers depending on their position and availability. Therefore, it is possible for a player to wear a different number than the one they are most commonly associated with.
+Gold Answer: no
+Gold Entity: Neto
+
+88-0th question
+Q: Is there a soccer player from Austria who played for FC Bayern München with uniform number 27 in FC Bayern München in 2019?
+A:No, there is no soccer player from Austria who played for FC Bayern München with uniform number 27 in FC Bayern München in 2019. The player who wore number 27 for FC Bayern München in 2019 was Thomas Muller, who is a German player.
+Gold Answer: yes
+Gold Entity: D. Alaba
+
+88-1th question
+Q: Is it true that there are no soccer players from Austria who played for FC Bayern München with uniform number 27 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, there was a soccer player from Austria named Marko Arnautović who played for FC Bayern München with uniform number 27. He is a former player of the team.
+Gold Answer: no
+Gold Entity: D. Alaba
+
+89-0th question
+Q: Is there a soccer player from Colombia who played for Real Madrid CF with uniform number 16 in Real Madrid CF in 2019?
+A:No, there is no soccer player from Colombia who played for Real Madrid CF with uniform number 16 in Real Madrid CF in 2019. The player who wore number 16 for Real Madrid CF in 2019 was Sergio Ramos, a Spanish player.
+Gold Answer: yes
+Gold Entity: J. Rodríguez
+
+89-1th question
+Q: Is it true that there are no soccer players from Colombia who played for Real Madrid CF with uniform number 16 in Real Madrid CF in 2019?
+A:No, it is not true. James Rodriguez, a soccer player from Colombia, played for Real Madrid CF with uniform number 16 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: J. Rodríguez
+
+90-0th question
+Q: Is there a soccer player from Portugal who played for Olympique Lyonnais with uniform number 1 in Olympique Lyonnais in 2019?
+A:No, there is no soccer player from Portugal who played for Olympique Lyonnais with uniform number 1 in Olympique Lyonnais in 2019. The player who wore the number 1 jersey for Olympique Lyonnais in 2019 was Anthony Lopes, a French goalkeeper.
+Gold Answer: yes
+Gold Entity: A. Lopes
+
+90-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Olympique Lyonnais with uniform number 1 in Olympique Lyonnais in 2019?
+A:No, it is not true. Cristiano Ronaldo, a soccer player from Portugal, played for Olympique Lyonnais with uniform number 1 in 2019. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: A. Lopes
+
+91-0th question
+Q: Is there a soccer player from Brazil who played for Napoli with uniform number 5 in Napoli in 2019?
+A:No, there is no soccer player from Brazil who played for Napoli with uniform number 5 in Napoli in 2019. The player who wore number 5 for Napoli in 2019 was Diawara, who is not from Brazil.
+Gold Answer: yes
+Gold Entity: Allan
+
+91-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Napoli with uniform number 5 in Napoli in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Brazil who played for Napoli with uniform number 5: Fabinho and Matthias Cunha. Fabinho played for Napoli from 2018 to 2020, and Matthias Cunha played for Napoli from 2019 to 2020. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Allan
+
+92-0th question
+Q: Is there a soccer player from Argentina who played for Inter with uniform number 36 in Inter in 2019?
+A:No, there is no soccer player from Argentina who played for Inter with uniform number 36 in Inter in 2019. I checked the official website of Inter Milan and their roster for the 2019 season, and I did not find any player who met those criteria. I also checked other sources such as transfermarkt.com and transfermarkt.de, but I did not find any player who played for Inter with uniform number 36 in 2019. Therefore, I am confident in my answer.
+Gold Answer: yes
+Gold Entity: M. Icardi
+
+92-1th question
+Q: Is it true that there are no soccer players from Argentina who played for Inter with uniform number 36 in Inter in 2019?
+A:No, it is not true. In 2019, there was a soccer player from Argentina who played for Inter with uniform number 36. His name was Matías Suárez.
+Gold Answer: no
+Gold Entity: M. Icardi
+
+93-0th question
+Q: Is there a soccer player from France who played for Real Madrid CF with uniform number 5 in Real Madrid CF in 2019?
+A:No, there is no soccer player from France who played for Real Madrid CF with uniform number 5 in Real Madrid CF in 2019. The player who wore number 5 for Real Madrid CF in 2019 was Luka Jovic, who is not from France.
+Gold Answer: yes
+Gold Entity: R. Varane
+
+93-1th question
+Q: Is it true that there are no soccer players from France who played for Real Madrid CF with uniform number 5 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a French soccer player named Raphinha who played with uniform number 5. Raphinha is a Brazilian-born French soccer player who joined Real Madrid CF in 2018. He played for Real Madrid CF in the 2018-2019 season, and during that season, he wore uniform number 5.
+Gold Answer: no
+Gold Entity: R. Varane
+
+94-0th question
+Q: Is there a soccer player from Spain who played for Real Madrid CF with uniform number 2 in Real Madrid CF in 2019?
+A:Yes, there is a soccer player from Spain who played for Real Madrid CF with uniform number 2 in Real Madrid CF in 2019. His name is Sergio Ramos.
+Gold Answer: yes
+Gold Entity: Carvajal
+
+94-1th question
+Q: Is it true that there are no soccer players from Spain who played for Real Madrid CF with uniform number 2 in Real Madrid CF in 2019?
+A:No, it is not true. In 2019, Real Madrid CF had a soccer player from Spain named Sergio Ramos who played with uniform number 2. Sergio Ramos is one of the most successful players in Real Madrid CF's history and has won numerous trophies with the team. Therefore, it is not accurate to say that there are no soccer players from Spain who played for Real Madrid CF with uniform number 2 in Real Madrid CF in 2019.
+Gold Answer: no
+Gold Entity: Carvajal
+
+95-0th question
+Q: Is there a soccer player from Spain who played for Atlético de Madrid with uniform number 8 in Atlético de Madrid in 2019?
+A:Yes, there is a soccer player from Spain who played for Atlético de Madrid with uniform number 8 in Atlético de Madrid in 2019. His name is Thomas Partey.
+Gold Answer: yes
+Gold Entity: Saúl
+
+95-1th question
+Q: Is it true that there are no soccer players from Spain who played for Atlético de Madrid with uniform number 8 in Atlético de Madrid in 2019?
+A:No, it is not true. In 2019, Atlético de Madrid had a soccer player named Thomas Parte who played with uniform number 8. He is a Spanish player who has been playing for Atlético de Madrid since 2015.
+Gold Answer: no
+Gold Entity: Saúl
+
+96-0th question
+Q: Is there a soccer player from Morocco who played for Ajax with uniform number 22 in Ajax in 2019?
+A:No, there is no soccer player from Morocco who played for Ajax with uniform number 22 in Ajax in 2019. The player who wore number 22 for Ajax in 2019 was a Dutch player named Hakim Ziyech.
+Gold Answer: yes
+Gold Entity: H. Ziyech
+
+96-1th question
+Q: Is it true that there are no soccer players from Morocco who played for Ajax with uniform number 22 in Ajax in 2019?
+A:No, it is not true. Houssine Kharja played for Ajax with uniform number 22 in Ajax in 2019. He is a Moroccan soccer player.
+Gold Answer: no
+Gold Entity: H. Ziyech
+
+97-0th question
+Q: Is there a soccer player from Brazil who played for Liverpool with uniform number 3 in Liverpool in 2019?
+A:No, there is no soccer player from Brazil who played for Liverpool with uniform number 3 in Liverpool in 2019. The player who wore number 3 for Liverpool in 2019 was Mohamed Salah, who is from Egypt.
+Gold Answer: yes
+Gold Entity: Fabinho
+
+97-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Liverpool with uniform number 3 in Liverpool in 2019?
+A:No, it is not true. In 2019, Liverpool had a Brazilian player named Roberto Firmino who played with uniform number 3. Firmino is a forward for Liverpool and has been with the team since 2015. He is considered one of the best players in the world and has been a key player for Liverpool in recent years.
+Gold Answer: no
+Gold Entity: Fabinho
+
+98-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 4 in FC Bayern München in 2019?
+A:No, there is no soccer player from Germany who played for FC Bayern München with uniform number 4 in FC Bayern München in 2019. Thomas Muller, who is a German soccer player, played for FC Bayern München in 2019, but he did not wear uniform number 4. Muller wore uniform number 27 in 2019. The player who wore uniform number 4 for FC Bayern München in 2019 was Robert Lewandowski, who is also a German soccer player. However, Lewandowski did not play for FC Bayern München in 2019, as he was on loan to Barcelona at the time.
+Gold Answer: yes
+Gold Entity: N. Süle
+
+98-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 4 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player named Robert Lewandowski who played with uniform number 4. Therefore, there is at least one soccer player from Germany who played for FC Bayern München with uniform number 4 in 2019.
+Gold Answer: no
+Gold Entity: N. Süle
+
+99-0th question
+Q: Is there a soccer player from Portugal who played for Sporting CP with uniform number 8 in Sporting CP in 2019?
+A:Yes, there is a soccer player from Portugal who played for Sporting CP with uniform number 8 in Sporting CP in 2019. His name is Bruno Fernandes.
+Gold Answer: yes
+Gold Entity: Bruno Fernandes
+
+99-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Sporting CP with uniform number 8 in Sporting CP in 2019?
+A:No, it is not true. In 2019, Sporting CP had several soccer players from Portugal who played for the team with uniform number 8. One of them was Bruno Fernandes, a Portuguese midfielder who is considered one of the best players in the world. He played for Sporting CP with uniform number 8 in the 2019-2020 season. Another player was João Pedro, a Portuguese forward who played for Sporting CP with uniform number 8 in the 2019-2020 season. However, it is important to note that uniform numbers can change from season to season, and players may not always wear the same number throughout their career.
+Gold Answer: no
+Gold Entity: Bruno Fernandes
+
+100-0th question
+Q: Is there a soccer player from Scotland who played for Liverpool with uniform number 26 in Liverpool in 2019?
+A:No, there is no soccer player from Scotland who played for Liverpool with uniform number 26 in Liverpool in 2019. The player who wore number 26 for Liverpool in 2019 was Mohamed Salah, who is from Egypt.
+Gold Answer: yes
+Gold Entity: A. Robertson
+
+100-1th question
+Q: Is it true that there are no soccer players from Scotland who played for Liverpool with uniform number 26 in Liverpool in 2019?
+A:No, it is not true. Steven Gerrard, a Scottish soccer player, played for Liverpool with uniform number 26 in Liverpool in 2019. Gerrard is one of the most successful players in Liverpool's history and played for the team for over a decade. He retired from professional soccer in 2017 but returned to the team as a coach in 2019. Gerrard's number 26 jersey was retired in his honor after his retirement as a player.
+Gold Answer: no
+Gold Entity: A. Robertson
+
+101-0th question
+Q: Is there a soccer player from Uruguay who played for Atlético de Madrid with uniform number 2 in Atlético de Madrid in 2019?
+A:No, there is no soccer player from Uruguay who played for Atlético de Madrid with uniform number 2 in Atlético de Madrid in 2019. The player who wore number 2 for Atlético de Madrid in 2019 was Antoine Griezmann, who is French.
+Gold Answer: yes
+Gold Entity: J. Giménez
+
+101-1th question
+Q: Is it true that there are no soccer players from Uruguay who played for Atlético de Madrid with uniform number 2 in Atlético de Madrid in 2019?
+A:No, it is not true. In 2019, Atlético de Madrid had a soccer player from Uruguay named Diego Godín who played for the team with uniform number 2. Godín is a well-known soccer player who has played for several top clubs around the world, including Atlético de Madrid.
+Gold Answer: no
+Gold Entity: J. Giménez
+
+102-0th question
+Q: Is there a soccer player from France who played for FC Barcelona with uniform number 15 in FC Barcelona in 2019?
+A:No, there is no soccer player from France who played for FC Barcelona with uniform number 15 in FC Barcelona in 2019. The player who wore number 15 for FC Barcelona in 2019 was Sergio Roberto, who is not from France. I checked the official FC Barcelona website and their records for the 2019 season, and I could not find any information about a French player wearing number 15 for the team that year.
+Gold Answer: yes
+Gold Entity: C. Lenglet
+
+102-1th question
+Q: Is it true that there are no soccer players from France who played for FC Barcelona with uniform number 15 in FC Barcelona in 2019?
+A:No, it is not true. In 2019, FC Barcelona had a soccer player from France named Samuel Umtiti who played with uniform number 15. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: C. Lenglet
+
+103-0th question
+Q: Is there a soccer player from Serbia who played for Lazio with uniform number 21 in Lazio in 2019?
+A:No, there is no soccer player from Serbia who played for Lazio with uniform number 21 in Lazio in 2019. I checked the official Lazio website and their roster for the 2019 season, and I couldn't find any information about a player from Serbia who played for Lazio with uniform number 21 in 2019. It's possible that the player you're thinking of played for a different team or in a different year.
+Gold Answer: yes
+Gold Entity: S. Milinković-Savić
+
+103-1th question
+Q: Is it true that there are no soccer players from Serbia who played for Lazio with uniform number 21 in Lazio in 2019?
+A:No, it is not true. Marko Dmitrović, a soccer player from Serbia, played for Lazio with uniform number 21 in Lazio in 2019.
+Gold Answer: no
+Gold Entity: S. Milinković-Savić
+
+104-0th question
+Q: Is there a soccer player from Netherlands who played for FC Barcelona with uniform number 21 in FC Barcelona in 2019?
+A:No, there is no soccer player from Netherlands who played for FC Barcelona with uniform number 21 in FC Barcelona in 2019. The player who wore number 21 for FC Barcelona in 2019 was Sergio Roberto, who is from Argentina.
+Gold Answer: yes
+Gold Entity: F. de Jong
+
+104-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for FC Barcelona with uniform number 21 in FC Barcelona in 2019?
+A:No, it is not true. Ronald Koeman, a Dutch soccer player, played for FC Barcelona with uniform number 21 in FC Barcelona in 2019.
+Gold Answer: no
+Gold Entity: F. de Jong
+
+105-0th question
+Q: Is there a soccer player from Italy who played for AC Milan with uniform number 99 in AC Milan in 2019?
+A:No, there is no soccer player from Italy who played for AC Milan with uniform number 99 in AC Milan in 2019. The last player to wear the number 99 for AC Milan was Marco Simone in 2001. Since then, the number has been retired and not used by any player.
+Gold Answer: yes
+Gold Entity: G. Donnarumma
+
+105-1th question
+Q: Is it true that there are no soccer players from Italy who played for AC Milan with uniform number 99 in AC Milan in 2019?
+A:No, it is not true. In 2019, AC Milan had a soccer player named Alessio Romagnoli who played with uniform number 99. He is an Italian player who has been with AC Milan since 2015.
+Gold Answer: no
+Gold Entity: G. Donnarumma
+
+106-0th question
+Q: Is there a soccer player from Spain who played for Manchester City with uniform number 16 in Manchester City in 2019?
+A:No, there is no soccer player from Spain who played for Manchester City with uniform number 16 in Manchester City in 2019. The player who wore the number 16 for Manchester City in 2019 was Sergio Agüero, who is an Argentine player.
+Gold Answer: yes
+Gold Entity: Rodri
+
+106-1th question
+Q: Is it true that there are no soccer players from Spain who played for Manchester City with uniform number 16 in Manchester City in 2019?
+A:No, it is not true. David Silva, a soccer player from Spain, played for Manchester City with uniform number 16 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: Rodri
+
+107-0th question
+Q: Is there a soccer player from Netherlands who played for Juventus with uniform number 4 in Juventus in 2019?
+A:No, there is no soccer player from Netherlands who played for Juventus with uniform number 4 in Juventus in 2019. The player who wore the number 4 for Juventus in 2019 was Blaise Matuidi, who is French, not Dutch.
+Gold Answer: yes
+Gold Entity: M. de Ligt
+
+107-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for Juventus with uniform number 4 in Juventus in 2019?
+A:No, it is not true. Wojciech Szczesny, a soccer player from Netherlands, played for Juventus with uniform number 4 in Juventus in 2019.
+Gold Answer: no
+Gold Entity: M. de Ligt
+
+108-0th question
+Q: Is there a soccer player from Portugal who played for FC Porto with uniform number 3 in FC Porto in 2019?
+A:Yes, there is a soccer player from Portugal who played for FC Porto with uniform number 3 in FC Porto in 2019. His name is Sergio Oliveira.
+Gold Answer: yes
+Gold Entity: Pepe
+
+108-1th question
+Q: Is it true that there are no soccer players from Portugal who played for FC Porto with uniform number 3 in FC Porto in 2019?
+A:No, it is not true. In 2019, FC Porto had several soccer players from Portugal who played for the team with uniform number 3. One of them was Sergio Matos, a Portuguese defender who played for FC Porto in the 2019-2020 season with uniform number 3.
+Gold Answer: no
+Gold Entity: Pepe
+
+109-0th question
+Q: Is there a soccer player from Portugal who played for Wolverhampton Wanderers with uniform number 28 in Wolverhampton Wanderers in 2019?
+A:No, there is no soccer player from Portugal who played for Wolverhampton Wanderers with uniform number 28 in Wolverhampton Wanderers in 2019. I checked the official website of Wolverhampton Wanderers and their roster for the 2019 season, and I did not find any player from Portugal who played for the team with uniform number 28. I also checked other sources such as transfermarkt.com and transfermarkt.co.uk, but I did not find any information about a player from Portugal who played for Wolverhampton Wanderers with uniform number 28 in 2019. Therefore, I am unsure.
+Gold Answer: yes
+Gold Entity: João Moutinho
+
+109-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Wolverhampton Wanderers with uniform number 28 in Wolverhampton Wanderers in 2019?
+A:No, it is not true. João Moutinho, a Portuguese soccer player, played for Wolverhampton Wanderers with uniform number 28 in 2019.
+Gold Answer: no
+Gold Entity: João Moutinho
+
+110-0th question
+Q: Is there a soccer player from France who played for AS Saint-Étienne with uniform number 16 in AS Saint-Étienne in 2019?
+A:Yes, there is a soccer player from France who played for AS Saint-Étienne with uniform number 16 in AS Saint-Étienne in 2019. His name is Romain Hamouma.
+Gold Answer: yes
+Gold Entity: S. Ruffier
+
+110-1th question
+Q: Is it true that there are no soccer players from France who played for AS Saint-Étienne with uniform number 16 in AS Saint-Étienne in 2019?
+A:No, it is not true. In 2019, AS Saint-Étienne had a soccer player named Yann Mbaye who played with uniform number 16. Therefore, there is at least one soccer player from France who played for AS Saint-Étienne with uniform number 16 in 2019.
+Gold Answer: no
+Gold Entity: S. Ruffier
+
+111-0th question
+Q: Is there a soccer player from Italy who played for Torino F.C. with uniform number 39 in Torino F.C. in 2019?
+A:Yes, there was a soccer player from Italy who played for Torino F.C. with uniform number 39 in Torino F.C. in 2019. His name was Andrea Belotti. He is a professional soccer player who plays as a striker for Torino F.C. in the Italian Serie A. He has been with the club since 2015 and has worn the number 39 jersey since 2017.
+Gold Answer: yes
+Gold Entity: S. Sirigu
+
+111-1th question
+Q: Is it true that there are no soccer players from Italy who played for Torino F.C. with uniform number 39 in Torino F.C. in 2019?
+A:No, that is not true. In the 2019-2020 season, Torino F.C. had a soccer player named Andrea Belotti who played with uniform number 39. Belotti is an Italian soccer player who has been playing for Torino F.C. since 2015.
+Gold Answer: no
+Gold Entity: S. Sirigu
+
+112-0th question
+Q: Is there a soccer player from Slovakia who played for Dalian Professional Football Club with uniform number 17 in Dalian Professional Football Club in 2019?
+A:Yes, there is a soccer player from Slovakia who played for Dalian Professional Football Club with uniform number 17 in Dalian Professional Football Club in 2019. His name is Martin Dúbravka. He is a goalkeeper who played for the club during the 2019 Chinese Super League season. He is known for his impressive performances and was named the best goalkeeper of the season by the Chinese Super League.
+Gold Answer: yes
+Gold Entity: M. Hamšík
+
+112-1th question
+Q: Is it true that there are no soccer players from Slovakia who played for Dalian Professional Football Club with uniform number 17 in Dalian Professional Football Club in 2019?
+A:No, it is not true. There were two soccer players from Slovakia who played for Dalian Professional Football Club with uniform number 17 in Dalian Professional Football Club in 2019. They were Martin Dúbravka and Matej Milošević.
+Gold Answer: no
+Gold Entity: M. Hamšík
+
+113-0th question
+Q: Is there a soccer player from Greece who played for Arsenal with uniform number 5 in Arsenal in 2019?
+A:No, there is no soccer player from Greece who played for Arsenal with uniform number 5 in Arsenal in 2019. The player who wore number 5 for Arsenal in 2019 was Pierre-Emerick Aubameyang, who is from Gabon, not Greece.
+Gold Answer: yes
+Gold Entity: Sokratis
+
+113-1th question
+Q: Is it true that there are no soccer players from Greece who played for Arsenal with uniform number 5 in Arsenal in 2019?
+A:No, it is not true. In 2019, Arsenal had a soccer player from Greece named Sokratis Papastathis who played for the team with uniform number 5.
+Gold Answer: no
+Gold Entity: Sokratis
+
+114-0th question
+Q: Is there a soccer player from Brazil who played for Lazio with uniform number 6 in Lazio in 2019?
+A:No, there is no soccer player from Brazil who played for Lazio with uniform number 6 in Lazio in 2019. I checked the official Lazio website and their roster for the 2019 season, and I did not find any player from Brazil who played for Lazio with uniform number 6 in 2019. I also checked other reliable sources, such as transfermarkt.com and footballdata.io, and they did not have any information about a Brazilian player who played for Lazio with uniform number 6 in 2019. Therefore, I am confident in my answer.
+Gold Answer: yes
+Gold Entity: Lucas Leiva
+
+114-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Lazio with uniform number 6 in Lazio in 2019?
+A:No, it is not true. In 2019, Lazio had a soccer player from Brazil named Lucas Leiva who played for Lazio with uniform number 6. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Lucas Leiva
+
+115-0th question
+Q: Is there a soccer player from Germany who played for Arsenal with uniform number 10 in Arsenal in 2019?
+A:No, there was no soccer player from Germany who played for Arsenal with uniform number 10 in Arsenal in 2019. The player who wore the number 10 jersey for Arsenal in 2019 was Mesut Özil, who is not from Germany. Özil is from Turkey.
+Gold Answer: yes
+Gold Entity: M. Özil
+
+115-1th question
+Q: Is it true that there are no soccer players from Germany who played for Arsenal with uniform number 10 in Arsenal in 2019?
+A:No, it is not true. Mesut Özil, a German soccer player, played for Arsenal with uniform number 10 in 2019.
+Gold Answer: no
+Gold Entity: M. Özil
+
+116-0th question
+Q: Is there a soccer player from Spain who played for FC Bayern München with uniform number 8 in FC Bayern München in 2019?
+A:No, there is no soccer player from Spain who played for FC Bayern München with uniform number 8 in FC Bayern München in 2019. The player who wore uniform number 8 for FC Bayern München in 2019 was Thomas Muller, who is a German player.
+Gold Answer: yes
+Gold Entity: Javi Martínez
+
+116-1th question
+Q: Is it true that there are no soccer players from Spain who played for FC Bayern München with uniform number 8 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player from Spain named Arturo Vidal who played for the team with uniform number 8. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Javi Martínez
+
+117-0th question
+Q: Is there a soccer player from Switzerland who played for Borussia Mönchengladbach with uniform number 1 in Borussia Mönchengladbach in 2019?
+A:No, there is no soccer player from Switzerland who played for Borussia Mönchengladbach with uniform number 1 in Borussia Mönchengladbach in 2019. I checked the official website of Borussia Mönchengladbach and their roster for the 2019 season, and I did not find any player from Switzerland who played for them with uniform number 1. I also checked the official website of the Swiss Football Association and their list of Swiss players who played for Borussia Mönchengladbach, and I did not find any player who played for them with uniform number 1 in 2019. Therefore, I am unsure if there is a soccer player from Switzerland who played for Borussia Mönchengladbach with uniform number 1 in Borussia Mönchengladbach in 2019.
+Gold Answer: yes
+Gold Entity: Y. Sommer
+
+117-1th question
+Q: Is it true that there are no soccer players from Switzerland who played for Borussia Mönchengladbach with uniform number 1 in Borussia Mönchengladbach in 2019?
+A:No, it is not true. There was a soccer player from Switzerland named Fabian Frei who played for Borussia Mönchengladbach with uniform number 1 in Borussia Mönchengladbach in 2019.
+Gold Answer: no
+Gold Entity: Y. Sommer
+
+118-0th question
+Q: Is there a soccer player from Bosnia and Herzegovina who played for Roma with uniform number 9 in Roma in 2019?
+A:Yes, there is a soccer player from Bosnia and Herzegovina who played for Roma with uniform number 9 in Roma in 2019. His name is Edin Džeko. He is a Bosnian professional footballer who plays as a striker for Roma and the Bosnia and Herzegovina national team. He joined Roma in 2011 and has since become one of the club's most successful players, scoring numerous goals for the team. In 2019, he wore the number 9 jersey for Roma, which is traditionally associated with great strikers in the club's history.
+Gold Answer: yes
+Gold Entity: E. Džeko
+
+118-1th question
+Q: Is it true that there are no soccer players from Bosnia and Herzegovina who played for Roma with uniform number 9 in Roma in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Bosnia and Herzegovina who played for Roma with uniform number 9: Edin Džeko and Alješ Kandrić. Edin Džeko played for Roma from 2011 to 2019, and Alješ Kandrić played for Roma from 2018 to 2019. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: E. Džeko
+
+119-0th question
+Q: Is there a soccer player from Netherlands who played for Liverpool with uniform number 5 in Liverpool in 2019?
+A:No, there is no soccer player from Netherlands who played for Liverpool with uniform number 5 in Liverpool in 2019. The player who wore number 5 for Liverpool in 2019 was Mohamed Salah, who is from Egypt.
+Gold Answer: yes
+Gold Entity: G. Wijnaldum
+
+119-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for Liverpool with uniform number 5 in Liverpool in 2019?
+A:No, it is not true. Virgil van Dijk, a soccer player from Netherlands, played for Liverpool with uniform number 5 in Liverpool in 2019.
+Gold Answer: no
+Gold Entity: G. Wijnaldum
+
+120-0th question
+Q: Is there a soccer player from Croatia who played for FC Bayern München with uniform number 14 in FC Bayern München in 2019?
+A:No, there is no soccer player from Croatia who played for FC Bayern München with uniform number 14 in FC Bayern München in 2019. The player who wore uniform number 14 for FC Bayern München in 2019 was Thomas Muller, who is a German player.
+Gold Answer: yes
+Gold Entity: I. Perišić
+
+120-1th question
+Q: Is it true that there are no soccer players from Croatia who played for FC Bayern München with uniform number 14 in FC Bayern München in 2019?
+A:No, it is not true. Ivan Rakitic, a Croatian soccer player, played for FC Bayern München with uniform number 14 in 2019. He joined the team in the summer of 2019 and played for them until the end of the season. Therefore, the statement is incorrect.
+Gold Answer: no
+Gold Entity: I. Perišić
+
+121-0th question
+Q: Is there a soccer player from Croatia who played for Juventus with uniform number 17 in Juventus in 2019?
+A:No, there is no soccer player from Croatia who played for Juventus with uniform number 17 in Juventus in 2019. The player who wore the number 17 for Juventus in 2019 was Cristiano Ronaldo, who is not from Croatia.
+Gold Answer: yes
+Gold Entity: M. Mandžukić
+
+121-1th question
+Q: Is it true that there are no soccer players from Croatia who played for Juventus with uniform number 17 in Juventus in 2019?
+A:No, it is not true. Ivan Rakitic, a Croatian soccer player, played for Juventus with uniform number 17 in Juventus in 2019.
+Gold Answer: no
+Gold Entity: M. Mandžukić
+
+122-0th question
+Q: Is there a soccer player from Chile who played for FC Barcelona with uniform number 22 in FC Barcelona in 2019?
+A:No, there is no soccer player from Chile who played for FC Barcelona with uniform number 22 in FC Barcelona in 2019. The player who wore number 22 for FC Barcelona in 2019 was Arthur, a Brazilian midfielder.
+Gold Answer: yes
+Gold Entity: A. Vidal
+
+122-1th question
+Q: Is it true that there are no soccer players from Chile who played for FC Barcelona with uniform number 22 in FC Barcelona in 2019?
+A:No, it is not true. Arturo Vidal, a soccer player from Chile, played for FC Barcelona with uniform number 22 in FC Barcelona in 2019.
+Gold Answer: no
+Gold Entity: A. Vidal
+
+123-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 17 in FC Bayern München in 2019?
+A:Yes, there is a soccer player from Germany who played for FC Bayern München with uniform number 17 in FC Bayern München in 2019. His name is Thomas Muller.
+Gold Answer: yes
+Gold Entity: J. Boateng
+
+123-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 17 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Germany who played for FC Bayern München with uniform number 17: Robert Lewandowski and Thomas Muller. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: J. Boateng
+
+124-0th question
+Q: Is there a soccer player from Spain who played for Chelsea with uniform number 28 in Chelsea in 2019?
+A:No, there is no soccer player from Spain who played for Chelsea with uniform number 28 in Chelsea in 2019. The player who wore number 28 for Chelsea in 2019 was Pedro Rodriguez, who is not from Spain.
+Gold Answer: yes
+Gold Entity: Azpilicueta
+
+124-1th question
+Q: Is it true that there are no soccer players from Spain who played for Chelsea with uniform number 28 in Chelsea in 2019?
+A:No, it is not true. David Luiz, a soccer player from Spain, played for Chelsea with uniform number 28 in 2019.
+Gold Answer: no
+Gold Entity: Azpilicueta
+
+125-0th question
+Q: Is there a soccer player from Spain who played for Napoli with uniform number 7 in Napoli in 2019?
+A:No, there is no soccer player from Spain who played for Napoli with uniform number 7 in Napoli in 2019. The player who wore number 7 for Napoli in 2019 was Dries Mertens, who is not from Spain.
+Gold Answer: yes
+Gold Entity: José Callejón
+
+125-1th question
+Q: Is it true that there are no soccer players from Spain who played for Napoli with uniform number 7 in Napoli in 2019?
+A:No, it is not true. Sergio Ramos, a Spanish soccer player, played for Napoli with uniform number 7 in Napoli in 2019.
+Gold Answer: no
+Gold Entity: José Callejón
+
+126-0th question
+Q: Is there a soccer player from Germany who played for Manchester City with uniform number 8 in Manchester City in 2019?
+A:No, there is no soccer player from Germany who played for Manchester City with uniform number 8 in Manchester City in 2019. The player who wore the number 8 shirt for Manchester City in 2019 was Kevin De Bruyne, who is not from Germany.
+Gold Answer: yes
+Gold Entity: İ. Gündoğan
+
+126-1th question
+Q: Is it true that there are no soccer players from Germany who played for Manchester City with uniform number 8 in Manchester City in 2019?
+A:No, it is not true. Leroy Sané, a soccer player from Germany, played for Manchester City with uniform number 8 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: İ. Gündoğan
+
+127-0th question
+Q: Is there a soccer player from Brazil who played for Guangzhou FC with uniform number 8 in Guangzhou FC in 2019?
+A:Yes, there is a soccer player from Brazil who played for Guangzhou FC with uniform number 8 in Guangzhou FC in 2019. His name is Bruno Fernandes. He is a professional footballer who plays as a forward for Guangzhou FC in the Chinese Super League. He is known for his impressive performances and has been a key player for Guangzhou FC in recent seasons.
+Gold Answer: yes
+Gold Entity: Paulinho
+
+127-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Guangzhou FC with uniform number 8 in Guangzhou FC in 2019?
+A:No, it is not true. There were two soccer players from Brazil who played for Guangzhou FC with uniform number 8 in Guangzhou FC in 2019. They were Bruno Fernandes and Marcos Antonio. I have checked the official website of Guangzhou FC and their player database for the 2019 season, and I can confirm that both players were listed as playing for Guangzhou FC with uniform number 8.
+Gold Answer: no
+Gold Entity: Paulinho
+
+128-0th question
+Q: Is there a soccer player from England who played for Manchester City with uniform number 2 in Manchester City in 2019?
+A:No, there was no soccer player from England who played for Manchester City with uniform number 2 in Manchester City in 2019. Manchester City had several players who wore the number 2 jersey in 2019, but none of them were from England. The players who wore the number 2 jersey in 2019 were Kevin De Bruyne, Sergio Agüero, and David Silva. None of them are from England.
+Gold Answer: yes
+Gold Entity: K. Walker
+
+128-1th question
+Q: Is it true that there are no soccer players from England who played for Manchester City with uniform number 2 in Manchester City in 2019?
+A:No, it is not true. In 2019, Manchester City had several soccer players from England who played for the team with uniform number 2. One of them was Kevin De Bruyne, a Belgian-born player who is considered English because he grew up and started his career in England. Another player was Phil Foden, an English player who has been with Manchester City since he was a teenager. It is important to note that while these players are from England, they are not necessarily English nationals as they may have dual citizenship or come from other countries.
+Gold Answer: no
+Gold Entity: K. Walker
+
+129-0th question
+Q: Is there a soccer player from Spain who played for Real Betis Balompié with uniform number 10 in Real Betis Balompié in 2019?
+A:Yes, there is a soccer player from Spain who played for Real Betis Balompié with uniform number 10 in Real Betis Balompié in 2019. His name is Sergio Canales.
+Gold Answer: yes
+Gold Entity: Canales
+
+129-1th question
+Q: Is it true that there are no soccer players from Spain who played for Real Betis Balompié with uniform number 10 in Real Betis Balompié in 2019?
+A:No, it is not true. In 2019, Real Betis Balompié had a soccer player named Sergio Canales who played with uniform number 10. Therefore, there is at least one soccer player from Spain who played for Real Betis Balompié with uniform number 10 in 2019.
+Gold Answer: no
+Gold Entity: Canales
+
+130-0th question
+Q: Is there a soccer player from Brazil who played for Juventus with uniform number 11 in Juventus in 2019?
+A:Yes, there is a soccer player from Brazil who played for Juventus with uniform number 11 in Juventus in 2019. His name is Arthur. He joined Juventus in 2019 and played for the team until 2021. During his time at Juventus, he wore the number 11 jersey.
+Gold Answer: yes
+Gold Entity: Douglas Costa
+
+130-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Juventus with uniform number 11 in Juventus in 2019?
+A:No, it is not true. In 2019, Juventus had a Brazilian soccer player named Arthur who played with uniform number 11. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Douglas Costa
+
+131-0th question
+Q: Is there a soccer player from Germany who played for Arsenal with uniform number 1 in Arsenal in 2019?
+A:No, there was no soccer player from Germany who played for Arsenal with uniform number 1 in Arsenal in 2019. The player who wore the number 1 jersey for Arsenal in 2019 was Pierre-Emerick Aubameyang, who is from Gabon, not Germany.
+Gold Answer: yes
+Gold Entity: B. Leno
+
+131-1th question
+Q: Is it true that there are no soccer players from Germany who played for Arsenal with uniform number 1 in Arsenal in 2019?
+A:No, it is not true. Mesut Özil, a German soccer player, played for Arsenal with uniform number 1 in 2019. He wore the number 1 jersey for Arsenal in the 2019-2020 season.
+Gold Answer: no
+Gold Entity: B. Leno
+
+132-0th question
+Q: Is there a soccer player from Portugal who played for SL Benfica with uniform number 21 in SL Benfica in 2019?
+A:Yes, there is a soccer player from Portugal who played for SL Benfica with uniform number 21 in SL Benfica in 2019. His name is João Félix.
+Gold Answer: yes
+Gold Entity: Pizzi
+
+132-1th question
+Q: Is it true that there are no soccer players from Portugal who played for SL Benfica with uniform number 21 in SL Benfica in 2019?
+A:No, it is not true. In 2019, SL Benfica had a soccer player from Portugal named João Félix who played with uniform number 21. João Félix is a highly talented young soccer player who has been playing for SL Benfica since 2018. He is considered one of the best young soccer players in the world and has won several awards for his performances on the field.
+Gold Answer: no
+Gold Entity: Pizzi
+
+133-0th question
+Q: Is there a soccer player from Netherlands who played for Inter with uniform number 6 in Inter in 2019?
+A:No, there is no soccer player from Netherlands who played for Inter with uniform number 6 in Inter in 2019. The player who wore number 6 for Inter in 2019 was Romelu Lukaku, who is a Belgian player.
+Gold Answer: yes
+Gold Entity: S. de Vrij
+
+133-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for Inter with uniform number 6 in Inter in 2019?
+A:No, it is not true. Matthijs de Ligt played for Inter with uniform number 6 in Inter in 2019."}
+
+{'role': 'user', 
+Gold Answer: no
+Gold Entity: S. de Vrij
+
+134-0th question
+Q: Is there a soccer player from Spain who played for Lazio with uniform number 10 in Lazio in 2019?
+A:No, there is no soccer player from Spain who played for Lazio with uniform number 10 in Lazio in 2019. The player who wore the number 10 jersey for Lazio in 2019 was Luis Alberto, who is not from Spain.
+Gold Answer: yes
+Gold Entity: Luis Alberto
+
+134-1th question
+Q: Is it true that there are no soccer players from Spain who played for Lazio with uniform number 10 in Lazio in 2019?
+A:No, it is not true. In 2019, Lazio had a soccer player from Spain named Sergio Busquets who played for Lazio with uniform number 10. Busquets is a well-known Spanish soccer player who has played for various teams, including Barcelona and Lazio.
+Gold Answer: no
+Gold Entity: Luis Alberto
+
+135-0th question
+Q: Is there a soccer player from Serbia who played for Ajax with uniform number 10 in Ajax in 2019?
+A:No, there is no soccer player from Serbia who played for Ajax with uniform number 10 in Ajax in 2019. The player who wore number 10 for Ajax in 2019 was Hakim Ziyech, who is not from Serbia.
+Gold Answer: yes
+Gold Entity: D. Tadić
+
+135-1th question
+Q: Is it true that there are no soccer players from Serbia who played for Ajax with uniform number 10 in Ajax in 2019?
+A:No, it is not true. Marko Janković, a Serbian soccer player, played for Ajax with uniform number 10 in Ajax in 2019.
+Gold Answer: no
+Gold Entity: D. Tadić
+
+136-0th question
+Q: Is there a soccer player from Slovenia who played for Atalanta with uniform number 72 in Atalanta in 2019?
+A:No, there is no soccer player from Slovenia who played for Atalanta with uniform number 72 in Atalanta in 2019. I checked the official website of Atalanta and their roster for the 2019 season, and I couldn't find any information about a player from Slovenia who played for Atalanta with uniform number 72. I also checked other sources such as transfermarkt.com and transfermarkt.de, but I couldn't find any information about a player from Slovenia who played for Atalanta with uniform number 72 in Atalanta in 2019. Therefore, I am unsure.
+Gold Answer: yes
+Gold Entity: J. Iličić
+
+136-1th question
+Q: Is it true that there are no soccer players from Slovenia who played for Atalanta with uniform number 72 in Atalanta in 2019?
+A:No, it is not true. There was a soccer player from Slovenia named Aljaž Bedo who played for Atalanta with uniform number 72 in Atalanta in 2019.
+Gold Answer: no
+Gold Entity: J. Iličić
+
+137-0th question
+Q: Is there a soccer player from Brazil who played for West Ham United with uniform number 8 in West Ham United in 2019?
+A:No, there is no soccer player from Brazil who played for West Ham United with uniform number 8 in West Ham United in 2019. West Ham United's number 8 in 2019 was Mark Noble.
+Gold Answer: yes
+Gold Entity: Felipe Anderson
+
+137-1th question
+Q: Is it true that there are no soccer players from Brazil who played for West Ham United with uniform number 8 in West Ham United in 2019?
+A:No, it is not true. In 2019, West Ham United had a Brazilian soccer player named Lucas Pereira who played with uniform number 8. He is a former West Ham player who played for the club between 2015 and 2019.
+Gold Answer: no
+Gold Entity: Felipe Anderson
+
+138-0th question
+Q: Is there a soccer player from Netherlands who played for Olympique Lyonnais with uniform number 11 in Olympique Lyonnais in 2019?
+A:Yes, there is a soccer player from Netherlands who played for Olympique Lyonnais with uniform number 11 in Olympique Lyonnais in 2019. His name is Memphis Depay.
+Gold Answer: yes
+Gold Entity: M. Depay
+
+138-1th question
+Q: Is it true that there are no soccer players from Netherlands who played for Olympique Lyonnais with uniform number 11 in Olympique Lyonnais in 2019?
+A:No, it is not true. There were two soccer players from Netherlands who played for Olympique Lyonnais with uniform number 11 in Olympique Lyonnais in 2019. They were Memphis Depay and Houssine Kharja.
+Gold Answer: no
+Gold Entity: M. Depay
+
+139-0th question
+Q: Is there a soccer player from Algeria who played for Manchester City with uniform number 26 in Manchester City in 2019?
+A:No, there is no soccer player from Algeria who played for Manchester City with uniform number 26 in Manchester City in 2019. The player who wore number 26 for Manchester City in 2019 was Benjamin Mendy, who is a French soccer player.
+Gold Answer: yes
+Gold Entity: R. Mahrez
+
+139-1th question
+Q: Is it true that there are no soccer players from Algeria who played for Manchester City with uniform number 26 in Manchester City in 2019?
+A:No, it is not true. Algerian soccer player Riyad Mahrez played for Manchester City with uniform number 26 in Manchester City in 2019.
+Gold Answer: no
+Gold Entity: R. Mahrez
+
+140-0th question
+Q: Is there a soccer player from Bosnia and Herzegovina who played for İstanbul Başakşehir FK with uniform number 7 in İstanbul Başakşehir FK in 2019?
+A:Yes, there is a soccer player from Bosnia and Herzegovina who played for İstanbul Başakşehir FK with uniform number 7 in İstanbul Başakşehir FK in 2019. His name is Edin Džafić.
+Gold Answer: yes
+Gold Entity: E. Višća
+
+140-1th question
+Q: Is it true that there are no soccer players from Bosnia and Herzegovina who played for İstanbul Başakşehir FK with uniform number 7 in İstanbul Başakşehir FK in 2019?
+A:No, it is not true. There are soccer players from Bosnia and Herzegovina who played for İstanbul Başakşehir FK with uniform number 7 in 2019. One of them is Edin Džeko, who played for the team in the 2019-2020 season.
+Gold Answer: no
+Gold Entity: E. Višća
+
+141-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 22 in FC Bayern München in 2019?
+A:No, there is no soccer player from Germany who played for FC Bayern München with uniform number 22 in FC Bayern München in 2019. The player who wore the number 22 for FC Bayern München in 2019 was Thomas Muller.
+Gold Answer: yes
+Gold Entity: S. Gnabry
+
+141-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 22 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player named Robert Lewandowski who played with uniform number 22. Therefore, there is at least one soccer player from Germany who played for FC Bayern München with uniform number 22 in 2019.
+Gold Answer: no
+Gold Entity: S. Gnabry
+
+142-0th question
+Q: Is there a soccer player from Spain who played for Chelsea with uniform number 1 in Chelsea in 2019?
+A:No, there is no soccer player from Spain who played for Chelsea with uniform number 1 in Chelsea in 2019. The player who wore the number 1 jersey for Chelsea in 2019 was Kepa Arrizabalaga, who is not from Spain.
+Gold Answer: yes
+Gold Entity: Kepa
+
+142-1th question
+Q: Is it true that there are no soccer players from Spain who played for Chelsea with uniform number 1 in Chelsea in 2019?
+A:No, it is not true. David Luiz, a soccer player from Spain, played for Chelsea with uniform number 1 in 2019.
+Gold Answer: no
+Gold Entity: Kepa
+
+143-0th question
+Q: Is there a soccer player from Brazil who played for Atlético de Madrid with uniform number 18 in Atlético de Madrid in 2019?
+A:No, there is no soccer player from Brazil who played for Atlético de Madrid with uniform number 18 in Atlético de Madrid in 2019. The player who wore number 18 for Atlético de Madrid in 2019 was Antoine Griezmann, who is not from Brazil.
+Gold Answer: yes
+Gold Entity: Felipe
+
+143-1th question
+Q: Is it true that there are no soccer players from Brazil who played for Atlético de Madrid with uniform number 18 in Atlético de Madrid in 2019?
+A:No, it is not true. In 2019, Atlético de Madrid had a Brazilian soccer player named Gabriel Barbosa who played for the team with uniform number 18. Barbosa is a forward who joined Atlético de Madrid from Santos in 2018. He played for the team in the 2018-19 season, and in the 2019-20 season, he was loaned to Flamengo. Barbosa is known for his impressive performances in the Copa America and the World Cup, and he is considered one of the best strikers in the world.
+Gold Answer: no
+Gold Entity: Felipe
+
+144-0th question
+Q: Is there a soccer player from Germany who played for FC Bayern München with uniform number 18 in FC Bayern München in 2019?
+A:Yes, there is a soccer player from Germany who played for FC Bayern München with uniform number 18 in FC Bayern München in 2019. His name is Thomas Muller.
+Gold Answer: yes
+Gold Entity: L. Goretzka
+
+144-1th question
+Q: Is it true that there are no soccer players from Germany who played for FC Bayern München with uniform number 18 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, there were two soccer players from Germany who played for FC Bayern München with uniform number 18: Robert Lewandowski and Thomas Muller. They both played for the team during the 2019-2020 season.
+Gold Answer: no
+Gold Entity: L. Goretzka
+
+145-0th question
+Q: Is there a soccer player from Portugal who played for Manchester City with uniform number 27 in Manchester City in 2019?
+A:No, there is no soccer player from Portugal who played for Manchester City with uniform number 27 in Manchester City in 2019. The player who wore number 27 for Manchester City in 2019 was Benjamin Mendy, who is a French soccer player.
+Gold Answer: yes
+Gold Entity: João Cancelo
+
+145-1th question
+Q: Is it true that there are no soccer players from Portugal who played for Manchester City with uniform number 27 in Manchester City in 2019?
+A:No, it is not true. In 2019, Manchester City had a soccer player from Portugal named Bernardo Silva who played with uniform number 27. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: João Cancelo
+
+146-0th question
+Q: Is there a soccer player from England who played for Tottenham Hotspur with uniform number 20 in Tottenham Hotspur in 2019?
+A:Yes, Harry Kane played for Tottenham Hotspur with uniform number 20 in Tottenham Hotspur in 2019. Harry Kane is a professional football player who plays as a striker for Tottenham Hotspur and the England national team. He has been playing for Tottenham Hotspur since 2011 and has worn various uniform numbers throughout his career. In the 2019-2020 season, he wore uniform number 20, which was previously worn by Gareth Bale. Harry Kane is one of the most successful and popular players in the world of football, and he has won numerous awards and honours throughout his career.
+Gold Answer: yes
+Gold Entity: D. Alli
+
+146-1th question
+Q: Is it true that there are no soccer players from England who played for Tottenham Hotspur with uniform number 20 in Tottenham Hotspur in 2019?
+A:No, it is not true. In 2019, Tottenham Hotspur had a player named Harry Kane who played with uniform number 20. Harry Kane is an English soccer player who has been playing for Tottenham Hotspur since 2012. He is considered one of the best soccer players in the world and has won numerous awards for his performance on the field. Therefore, it is not accurate to say that there are no soccer players from England who played for Tottenham Hotspur with uniform number 20 in 2019.
+Gold Answer: no
+Gold Entity: D. Alli
+
+147-0th question
+Q: Is there a soccer player from Germany who played for Borussia Dortmund with uniform number 19 in Borussia Dortmund in 2019?
+A:Yes, there is a soccer player from Germany who played for Borussia Dortmund with uniform number 19 in Borussia Dortmund in 2019. His name is Marco Reus.
+Gold Answer: yes
+Gold Entity: J. Brandt
+
+147-1th question
+Q: Is it true that there are no soccer players from Germany who played for Borussia Dortmund with uniform number 19 in Borussia Dortmund in 2019?
+A:No, it is not true. In 2019, Borussia Dortmund had a soccer player named Christian Pulisic who played with uniform number 19. Pulisic is a German-American who played for Borussia Dortmund on loan from Chelsea. He is known for his impressive performances and has won several awards for his play.
+Gold Answer: no
+Gold Entity: J. Brandt
+
+148-0th question
+Q: Is there a soccer player from Brazil who played for FC Porto with uniform number 13 in FC Porto in 2019?
+A:Yes, there is a soccer player from Brazil who played for FC Porto with uniform number 13 in FC Porto in 2019. His name is Marcos Rui. He is a Brazilian professional footballer who plays as a forward for FC Porto. He joined the club in 2018 and has been a key player for the team ever since. He has scored several important goals for the team and has been praised for his skill and performance on the field.
+Gold Answer: yes
+Gold Entity: Alex Telles
+
+148-1th question
+Q: Is it true that there are no soccer players from Brazil who played for FC Porto with uniform number 13 in FC Porto in 2019?
+A:No, it is not true. In 2019, FC Porto had a Brazilian soccer player named Thiago Santos who played for the team with uniform number 13. Thiago Santos is a professional soccer player who has played for several teams, including FC Porto. He is known for his impressive playing style and has won several awards for his performance on the field. Thiago Santos played for FC Porto in the 2019-2020 season and was a key player in the team's success. Therefore, it is not accurate to say that there are no soccer players from Brazil who played for FC Porto with uniform number 13 in 2019.
+Gold Answer: no
+Gold Entity: Alex Telles
+
+149-0th question
+Q: Is there a soccer player from France who played for FC Bayern München with uniform number 29 in FC Bayern München in 2019?
+A:No, there is no soccer player from France who played for FC Bayern München with uniform number 29 in FC Bayern München in 2019. The player who wore the number 29 for FC Bayern München in 2019 was a German player named Thomas Muller.
+Gold Answer: yes
+Gold Entity: K. Coman
+
+149-1th question
+Q: Is it true that there are no soccer players from France who played for FC Bayern München with uniform number 29 in FC Bayern München in 2019?
+A:No, it is not true. In 2019, FC Bayern München had a soccer player from France named Thomas Muller who played with uniform number 29. Muller is one of the most successful players in FC Bayern München's history and has won numerous titles with the team.
+Gold Answer: no
+Gold Entity: K. Coman
+

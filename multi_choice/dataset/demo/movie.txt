@@ -1,0 +1,25 @@
+Q: What's the inaccurate option about the movie Step Up Revolution released in year 2012? Provide an explanation.
+Option 1: Directed by David Wain.
+Option 2: Produced in the country USA.
+Option 3: Has the genre of non-animation movie.
+
+A: Option 1: Directed by David Wain.
+The movie "Step Up Revolution" released in year 2012 was directed by Scott Speer.
+
+
+Q: What is the false option about the movie The Watcher released in year 2000? Provide an explanation.
+Option 1: It was directed by Joe Charbanic.
+Option 2: It was produced in the country China.
+Option 3: It is a non-animation movie.
+
+A: Option 2: It was produced in the country China.
+The movie "The Watcher" released in year 2000 was produced in the country USA.
+
+
+Q: What is the wrong option regarding the movie Snakes on a Plane released in year 2006? Provide an explanation.
+Option 1: The name of the Director is David R. Ellis.
+Option 2: The movie was produced in the country Germany.
+Option 3: The movie is an animation movie.
+
+A: Option 3: The movie is an animation movie.
+The movie "Snakes on a Plane" released in year 2006 is a non-animation movie. 

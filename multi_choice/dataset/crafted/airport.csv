@@ -1,0 +1,1501 @@
+,common_entity,entity1,entity2,entity3,entity4,entity5
+0,Torca,SCLI,-34.7833,-72.0508,CL,Chile
+1,Catsa,MECT,10.5169,-85.5656,CR,Costa Rica
+2,Vicco,SPVI,-10.8478,-76.247,PE,Peru
+3,Lilongwe International,FWKI,-13.7894,33.781,MW,Malawi
+4,Trieben,LOGI,47.4942,14.4975,AT,Austria
+5,Intiraymi,SLIY,-17.8083,-67.4433,BO,Bolivia
+6,Tiger Paw Aerodrome,35NK,43.3709,-78.4144,US,United States Of America
+7,Dublin,EIDW,53.4213,-6.2701,IE,Ireland
+8,Chu Lai International,VVCA,15.4033,108.706,VN,Vietnam
+9,Obenteni,SPBT,-10.7478,-74.2206,PE,Peru
+10,Peronne-Saint-Quentin,LFAG,49.8685,3.0296,FR,France
+11,Moose Run Airstrip,AK55,60.4892,-150.8017,US,United States Of America
+12,Woomera Airfield,YPWR,-31.1442,136.817,AU,Australia
+13,Sydney / J.A. Douglas McCurdy,CYQY,46.1614,-60.0478,CA,Canada
+14,Tambuti,FDBT,-26.7352,31.7759,SZ,Swaziland
+15,San Augustine County,K78R,31.5404,-94.1701,US,United States Of America
+16,Sir Charles Gaetan Duval,FIMR,-19.7577,63.361,MU,Mauritius
+17,Lovell Field,KCHA,35.0352,-85.2036,US,United States Of America
+18,Jensen,SD46,43.8303,-96.8398,US,United States Of America
+19,Santa Cruz do Sul,SSSC,-29.6841,-52.4122,BR,Brazil
+20,Tumeremo,SVTM,7.25,-61.4333,VE,Venezuela
+21,Clearfield-Lawrence,KFIG,41.0491,-78.4152,US,United States Of America
+22,Andrews University Airpark,KC20,41.9511,-86.3681,US,United States Of America
+23,Shelbyville Municipal,KGEZ,39.5831,-85.8048,US,United States Of America
+24,Gamboula,FEGG,4.133,15.15,CF,Central African Republic
+25,Tasiujaq,CYTQ,58.6678,-69.9558,CA,Canada
+26,Ngala,FANG,-24.3878,31.3258,ZA,South Africa
+27,Williamsburg Regional,KCKI,33.7172,-79.857,US,United States Of America
+28,Biskra,DAUB,34.7933,5.7382,DZ,Algeria
+29,Andrewsfield,EGSL,51.895,0.4492,GB,United Kingdom
+30,Reykjanes,BIRS,65.9142,-22.4214,IS,Iceland
+31,Fazenda Livramento,SJBS,-19.2686,-56.0311,BR,Brazil
+32,Steciak Strip,1OL2,35.489,-97.192,US,United States Of America
+33,Apruna,SVCE,9.3503,-65.2807,VE,Venezuela
+34,Barber Field,30SD,45.5048,-98.5955,US,United States Of America
+35,Minute Man Air Field,K6B6,42.4604,-71.518,US,United States Of America
+36,Foz do Areia,SSFA,-25.9815,-51.6407,BR,Brazil
+37,Creech Afb,KINS,36.5863,-115.6774,US,United States Of America
+38,Compton/Woodley,KCPM,33.8899,-118.2438,US,United States Of America
+39,Janssen,9MN5,46.7119,-96.3515,US,United States Of America
+40,Woody Field,VG40,36.8868,-79.8639,US,United States Of America
+41,Sd Aero,LL28,42.4328,-88.7172,US,United States Of America
+42,Ocean City Municipal,KOXB,38.3104,-75.124,US,United States Of America
+43,Campbell Municipal,K34M,36.4861,-90.0157,US,United States Of America
+44,Hazleton Regional,KHZL,40.9868,-75.9947,US,United States Of America
+45,Kadrmas,ND10,46.9913,-102.7952,US,United States Of America
+46,Taylor Ranch Landing Area,09ID,45.1039,-114.8553,US,United States Of America
+47,Liuli,HTLL,-11.1164,34.6522,TZ,"Tanzania, United Republic of"
+48,Eagle,PAEG,64.7781,-141.1496,US,United States Of America
+49,Sipuati,SLSP,-21.0735,-63.1095,BO,Bolivia
+50,Lawton,IA84,42.4833,-96.2003,US,United States Of America
+51,Bandaranaike International Apt Colombo,VCBI,7.1808,79.8841,LK,Sri Lanka
+52,Ampfing-Waldkraiburg,EDNA,48.2636,12.4117,DE,Germany
+53,Cherokee Trail Ranch,2CO1,39.1105,-104.5839,US,United States Of America
+54,Yotvata Airfield,LLYT,29.9062,35.0667,IL,Israel
+55,Mbesa,HTBS,-11.3317,37.0678,TZ,"Tanzania, United Republic of"
+56,Betou,FCOT,3.05,18.5,CG,Congo
+57,Tebing Tinggi,WIMT,3.3667,99.1167,ID,Indonesia
+58,Laguna Del Rey,MM82,27.0238,-103.375,MX,Mexico
+59,Kaklic,LTFA,38.5176,26.9774,TR,Turkey
+60,Marlin,KT15,31.3407,-96.852,US,United States Of America
+61,Flying 'O',3WI4,44.9236,-89.4023,US,United States Of America
+62,Grand Marais,KY98,46.6204,-85.9201,US,United States Of America
+63,Fazenda Sao Marcos,SJII,-22.2967,-54.9414,BR,Brazil
+64,Fazenda Paloma,SDCW,-20.3261,-48.8283,BR,Brazil
+65,The Bluffs,75AR,36.2962,-92.216,US,United States Of America
+66,Seymour Johnson Afb,KGSB,35.3394,-77.9606,US,United States Of America
+67,Spangdahlem Air Base,ETAD,49.9727,6.6925,DE,Germany
+68,Santa Paula,KSZP,34.347,-119.0616,US,United States Of America
+69,Swansea,YSWA,-42.1017,148.068,AU,Australia
+70,Gonder,HAGN,12.5199,37.434,ET,Ethiopia
+71,Underland Airstrip,6MN8,44.1527,-93.2724,US,United States Of America
+72,Hurlbut Field,NY07,44.5458,-75.1611,US,United States Of America
+73,Trieste / Ronchi Dei Legionari,LIPQ,45.8275,13.4722,IT,Italy
+74,Agartala,VEAT,23.887,91.2404,IN,India
+75,Wershofen/Eifel,EDRV,50.4514,6.7833,DE,Germany
+76,Kipling,CKD5,50.0992,-102.607,CA,Canada
+77,Black I Ranch,8OK4,36.4422,-98.1039,US,United States Of America
+78,Coral Harbour,CYZS,64.1933,-83.3594,CA,Canada
+79,Grass Roots,9MI5,43.2378,-83.5244,US,United States Of America
+80,Guangyuan,ZUGU,32.3911,105.702,CN,China
+81,Moga,FZOH,-2.467,26.8,CD,"Congo, the Democratic Republic of the"
+82,Canada,SLCD,-20.0254,-63.0891,BO,Bolivia
+83,Harrison Piloncillo Ranch,TE27,28.2544,-99.5992,US,United States Of America
+84,Vijayanagar Aerodrome (JSW),VOJV,15.175,76.6349,IN,India
+85,Santa Terezinha,SWST,-10.4647,-50.5186,BR,Brazil
+86,True North Airpark,ND52,46.8028,-97.0122,US,United States Of America
+87,Tuba City,KT03,36.0926,-111.3831,US,United States Of America
+88,Rooks County Regional,KRCP,39.3466,-99.3046,US,United States Of America
+89,Coye Field,30NY,42.7501,-77.558,US,United States Of America
+90,Hazlehurst,KAZE,31.8852,-82.6479,US,United States Of America
+91,Fazenda Pirigara,SWGE,-17.0072,-56.4781,BR,Brazil
+92,Bor,HSBR,6.2,31.567,SS,South Sudan
+93,Kargil,VI65,34.5243,76.1559,IN,India
+94,Fazenda Sao Joao,SSZT,-22.7942,-49.3411,BR,Brazil
+95,Banswara,VA51,23.5897,74.3127,IN,India
+96,Herzogenaurach,EDQH,49.5825,10.8781,DE,Germany
+97,Flying M,CA03,37.3499,-120.2941,US,United States Of America
+98,High Desert Ranch,2NM9,34.1992,-105.1642,US,United States Of America
+99,La Nava - Corral De Ayllon,LECA,41.4108,-3.4483,ES,Spain
+100,Bowman Field,KLOU,38.228,-85.6637,US,United States Of America
+101,Chamberlain Brothers Ranch,WY66,42.7522,-105.6196,US,United States Of America
+102,Lolco,SCCU,-38.1581,-71.4239,CL,Chile
+103,Brickey,AR43,35.1001,-92.7835,US,United States Of America
+104,Rumjatar,VNRT,27.3035,86.5504,NP,Nepal
+105,Costa Rica,SDXJ,-18.4867,-53.1533,BR,Brazil
+106,Daet,RPUD,14.1292,122.98,PH,Philippines
+107,Usak,LTBO,38.6815,29.4717,TR,Turkey
+108,Nero-Mer,DIGN,4.6434,-6.924,CI,Côte d'Ivoire
+109,A Bar A Ranch,WY11,41.1583,-106.5575,US,United States Of America
+110,Saint-Flour-Coltines,LFHQ,45.0764,2.9936,FR,France
+111,Araguatins,SJGU,-5.6844,-48.1156,BR,Brazil
+112,Flying M,3IN0,41.5588,-87.1261,US,United States Of America
+113,Collarenebri,YCBR,-29.5217,148.582,AU,Australia
+114,Bathurst Harbour,YBHB,-43.4207,146.156,AU,Australia
+115,Aurukun,YAUR,-13.3539,141.721,AU,Australia
+116,Sky Lane Ranch,XS68,30.2569,-96.3286,US,United States Of America
+117,Kotamubagu,WAMB,0.7289,124.3089,ID,Indonesia
+118,Preston,KU10,42.1069,-111.9126,US,United States Of America
+119,Cable,KCCB,34.1116,-117.6874,US,United States Of America
+120,Al's Field,48VA,39.2907,-78.3508,US,United States Of America
+121,Adelaide,FAAD,-32.6831,26.2942,ZA,South Africa
+122,Deer Lake,CYDF,49.2108,-57.3914,CA,Canada
+123,Lokichoggio,HKLK,4.2041,34.3482,KE,Kenya
+124,Stuttgart,EDDS,48.6899,9.222,DE,Germany
+125,Marshall Army Air Field,KFRI,39.0526,-96.7645,US,United States Of America
+126,Bergseth Field,WN76,47.2436,-121.9246,US,United States Of America
+127,Maquinchao,SAVQ,-41.2431,-68.7078,AR,Argentina
+128,Lutselk'e,CYLK,62.4183,-110.682,CA,Canada
+129,Stiffs Airpark,72XA,29.4866,-96.0413,US,United States Of America
+130,Galatea Airfield,NZGA,-38.4039,176.744,NZ,New Zealand
+131,Stol-It Farm,1SC3,34.5529,-83.0415,US,United States Of America
+132,Rugao Air Base,ZSRG,32.2579,120.5017,CN,China
+133,London Stansted,EGSS,51.885,0.235,GB,United Kingdom
+134,Ovid,KD82,42.6548,-76.7963,US,United States Of America
+135,Porto Nacional,SBPN,-10.7194,-48.3997,BR,Brazil
+136,Presidente General Don Oscar D. Gestido International,SURV,-30.9746,-55.4762,UY,Uruguay
+137,Burnet Municipal/Kate Craddock Field,KBMQ,30.7389,-98.2386,US,United States Of America
+138,Berwick,3KS7,37.8289,-97.3493,US,United States Of America
+139,Paso De Los Indios,SAVP,-43.8667,-69.05,AR,Argentina
+140,Avallon,LFGE,47.5031,3.8994,FR,France
+141,Cool Water,4VG2,37.8581,-77.5472,US,United States Of America
+142,Engels Airbase,XWSG,51.4667,46.2,RU,Russia
+143,Cottonwood,6LA1,32.984,-91.2059,US,United States Of America
+144,Ballyboughal Aerodrome,EIBA,53.5337,-6.2461,IE,Ireland
+145,Alderman,K2P7,40.0569,-80.9632,US,United States Of America
+146,Fazenda Globo,SJHM,-12.9536,-58.5903,BR,Brazil
+147,Queenstown,FAQT,-31.9202,26.8822,ZA,South Africa
+148,Kantishna,K5Z5,63.541,-150.9951,US,United States Of America
+149,Varberg Getteron airfield,ESGV,57.1246,12.2283,SE,Sweden
+150,A 511,RKSG,36.9622,127.031,KR,"Korea, Republic of (South Korea)"
+151,Eglin Test Site B6,FL34,30.6319,-86.7472,US,United States Of America
+152,Pierson Municipal,K2J8,29.25,-81.4593,US,United States Of America
+153,Quixada,SNQX,-4.9791,-38.9876,BR,Brazil
+154,Carnegie Station,YCGI,-25.8,122.967,AU,Australia
+155,Chase City Municipal,KCXE,36.7883,-78.5016,US,United States Of America
+156,Uff-Da,2WI1,42.9436,-89.2866,US,United States Of America
+157,Machado Dusters,CA05,36.1602,-119.8135,US,United States Of America
+158,Nelson,NZNS,-41.2983,173.221,NZ,New Zealand
+159,Vernon Miller Pvt,NA22,46.0125,-103.7963,US,United States Of America
+160,Sunyani,DGSN,7.3618,-2.3288,GH,Ghana
+161,Dunham Field,1XS1,29.9383,-95.0465,US,United States Of America
+162,Mcgregor Airfield,12OH,39.8348,-84.3347,US,United States Of America
+163,Usina Coruripe - Filial Limeira do Oeste,SJIQ,-19.5233,-50.6556,BR,Brazil
+164,Dera Ghazi Khan,OPDG,29.961,70.4859,PK,Pakistan
+165,Matheson Island,CJT2,51.7322,-96.9344,CA,Canada
+166,Quepos Managua,MRQP,9.4432,-84.1298,CR,Costa Rica
+167,Essen Mulheim,EDLE,51.4023,6.9373,DE,Germany
+168,Provost,CEH6,52.3381,-110.279,CA,Canada
+169,L'Assomption,CLA2,45.8231,-73.4606,CA,Canada
+170,Chiefland Sky Ranch,51FL,29.3949,-82.8698,US,United States Of America
+171,Antique Airfield,IA27,40.9778,-92.5877,US,United States Of America
+172,Marie-Louise,FSMA,-6.1742,53.1444,SC,Seychelles
+173,Assuncao do Icana,SWAK,1.0664,-67.6006,BR,Brazil
+174,Hermannsburg,YHMB,-23.93,132.805,AU,Australia
+175,Tureia,NTGY,-20.7897,-138.57,PF,French Polynesia
+176,Shiroles,MRSH,9.5808,-82.9599,CR,Costa Rica
+177,Decatur,KDEC,39.8346,-88.8657,US,United States Of America
+178,New Salem Aerodrome,74NY,43.0056,-77.2914,US,United States Of America
+179,Formosa,SWFR,-15.5551,-47.3457,BR,Brazil
+180,Coeroeni,SMCI,3.367,-57.333,SR,Suriname
+181,Lake Cumberland Regional,KSME,37.0536,-84.6156,US,United States Of America
+182,Eulo,YEUO,-28.1667,145.042,AU,Australia
+183,Level Acres Farm,PA84,39.9538,-76.9093,US,United States Of America
+184,Carmen De Bolivar,SKCB,9.6842,-75.1261,CO,Colombia
+185,Moncton / McEwen,CCG4,46.1539,-64.7686,CA,Canada
+186,CFB Bagotville,CYBG,48.3306,-70.9964,CA,Canada
+187,Petty Farms,2GE7,34.9581,-84.7792,US,United States Of America
+188,Mangabalito,SLMB,-13.7878,-68.3547,BO,Bolivia
+189,Iturama,SNYU,-19.718,-50.2202,BR,Brazil
+190,El Sobrante,SCSP,-32.2236,-70.8,CL,Chile
+191,Radville,CKF2,49.4606,-104.272,CA,Canada
+192,In Guezzam,DATG,19.567,5.75,DZ,Algeria
+193,Dougherty,1OH2,41.244,-82.8663,US,United States Of America
+194,Welsh,K6R1,30.2419,-92.8307,US,United States Of America
+195,San Pancracio,SVRL,8.5167,-69.6417,VE,Venezuela
+196,Le Maire Memorial,K2R1,29.8991,-91.666,US,United States Of America
+197,Nkhota Kota,FWKK,-12.917,34.267,MW,Malawi
+198,Sagua La Grande,MUSG,22.8016,-80.0548,CU,Cuba
+199,Flying Bj,3NC5,35.8134,-81.0692,US,United States Of America
+200,Mungo Lodge,YLMU,-33.7458,143.0013,AU,Australia
+201,Barnstormers 5,16MI,42.8892,-83.8666,US,United States Of America
+202,Coleambally,YCLY,-34.8,145.85,AU,Australia
+203,Owyhee Reservoir State,K28U,43.4248,-117.3457,US,United States Of America
+204,Nymburk Ul Ploch,LKNY,50.1686,15.0525,CZ,Czech Republic
+205,Rough River State Park,K2I3,37.6098,-86.5072,US,United States Of America
+206,J-3 Cub Field,66WI,43.0775,-88.6629,US,United States Of America
+207,Spencer,K60M,42.2905,-71.9647,US,United States Of America
+208,Washington Municipal,KAWG,41.2757,-91.6761,US,United States Of America
+209,Cape Leveque,YCLQ,-16.3983,122.932,AU,Australia
+210,Isabel Maria,SEIS,-1.8667,-79.7333,EC,Ecuador
+211,Kansas City International,KMCI,39.2976,-94.7139,US,United States Of America
+212,Los Cuatro Diablos,SCME,-33.6761,-71.1433,CL,Chile
+213,Abisu Airfield,WPFL,-8.4436,126.989,TL,Timor-Leste
+214,Betoambari,WAWB,-5.4869,122.569,ID,Indonesia
+215,Chelyabinsk Balandino,USCC,55.3058,61.5033,RU,Russia
+216,Wenskoski Field,0NY8,42.9973,-74.2454,US,United States Of America
+217,Reindeer Lake / Lindbergh Lodge Airstrip,CRL7,57.2881,-102.525,CA,Canada
+218,Islas Del Cisne,MHIC,17.4073,-83.9327,HN,Honduras
+219,Morawa,YMRW,-29.2017,116.022,AU,Australia
+220,Mountain Outlaw,TN11,36.5015,-83.2555,US,United States Of America
+221,Bridport,YBDP,-41.0167,147.417,AU,Australia
+222,Nakhon Si Thammarat,VTSF,8.5396,99.9447,TH,Thailand
+223,Reales Tamarindos,SEPV,-1.0417,-80.4722,EC,Ecuador
+224,Aberdeen Regional,KABR,45.4468,-98.4224,US,United States Of America
+225,Fly Away Farm,2MD3,39.229,-77.3453,US,United States Of America
+226,Cannon Field,K53T,29.2161,-98.5495,US,United States Of America
+227,Farfan,SKUL,4.0884,-76.2351,CO,Colombia
+228,Khark Island,OIBQ,29.2603,50.3239,IR,Iran
+229,Red Roof,WN11,45.5858,-88.0037,US,United States Of America
+230,Manistee County/Blacker,KMBL,44.2725,-86.2469,US,United States Of America
+231,Dourados,SSDO,-22.2019,-54.9266,BR,Brazil
+232,Airlane Enterprises,K1H1,43.2059,-76.1793,US,United States Of America
+233,Fazenda Canamari,SWWG,-18.5481,-50.3811,BR,Brazil
+234,Davis Field,K3J6,30.7964,-82.0282,US,United States Of America
+235,Silver Lake F S Strip,K45S,43.111,-121.0942,US,United States Of America
+236,Kebar,WASE,-0.6371,133.128,ID,Indonesia
+237,Windjana Grove,YWDJ,-17.4214,124.9251,AU,Australia
+238,Letisko,LZTR,48.4558,17.5264,SK,Slovakia
+239,Lockwood Dry Coulee,WT37,48.3687,-119.6166,US,United States Of America
+240,Amalfi,SKAM,6.9167,-75.0667,CO,Colombia
+241,Bakke,61ND,47.9475,-97.662,US,United States Of America
+242,Mabel Creek Station,YMAK,-28.9417,134.333,AU,Australia
+243,Ulei,NVSU,-16.3297,168.3011,VU,Vanuatu
+244,Monte Cristi,MDMC,19.8653,-71.6453,DO,Dominican Republic
+245,Hysham,K6U7,46.2935,-107.1933,US,United States Of America
+246,Gun Barrel City Airpark,74XA,32.3547,-96.1456,US,United States Of America
+247,Pousada das Aguias,SSXO,-23.2889,-52.1292,BR,Brazil
+248,Guanajuato,MMGT,20.9172,-101.334,MX,Mexico
+249,Tri-L Acres Airpark,1AL2,33.2472,-86.5979,US,United States Of America
+250,Masisea,SPSS,-8.6053,-74.3047,PE,Peru
+251,Log Cabin,WS69,44.575,-91.5471,US,United States Of America
+252,Flagler Aerial Spraying Inc,CO00,39.28,-103.0666,US,United States Of America
+253,Neuburg,ETSN,48.711,11.2115,DE,Germany
+254,Spruce,CT43,41.5937,-71.9312,US,United States Of America
+255,Starbase,VG09,37.2278,-75.9833,US,United States Of America
+256,Kenmare Municipal,K7K5,48.6676,-102.048,US,United States Of America
+257,Shannon River,YSHN,-34.75,116.483,AU,Australia
+258,Ploermel Loyat,LFRP,48.0028,-2.3772,FR,France
+259,Jacqueline Cochran Regional,KTRM,33.6267,-116.1597,US,United States Of America
+260,Lazy G Bar Ranch,K09T,33.2813,-97.4967,US,United States Of America
+261,Kashmor,OP31,28.4706,69.5991,PK,Pakistan
+262,Love Field,97FL,28.9619,-81.8915,US,United States Of America
+263,Allen Parish,KACP,30.7505,-92.6885,US,United States Of America
+264,Wings-N-Wheels,FA50,29.3614,-82.1498,US,United States Of America
+265,Pleasant Farm,WA63,45.5623,-122.2561,US,United States Of America
+266,Chetek Municipal/Southworth,KY23,45.3065,-91.6368,US,United States Of America
+267,O'Brien Airpark East/West,FD71,30.0483,-82.9839,US,United States Of America
+268,Elmsett,EGST,52.0772,0.9775,GB,United Kingdom
+269,Yalymboo,YYOO,-31.8033,136.86,AU,Australia
+270,Hernando Village Airpark,KH75,34.7982,-90.037,US,United States Of America
+271,La Garita Creek Ranch,5CO6,37.8116,-106.3153,US,United States Of America
+272,Fazenda Santa Ilidia,SSBT,-22.3243,-53.095,BR,Brazil
+273,Brainerd Lakes Regional,KBRD,46.4042,-94.1338,US,United States Of America
+274,Novi Ligure Glider,LIMR,44.78,8.7864,IT,Italy
+275,Khorewah,OP16,24.7872,68.5572,PK,Pakistan
+276,Humm,06IL,41.5995,-88.8699,US,United States Of America
+277,Ring Rock Ranch,4NA1,48.2428,-103.6864,US,United States Of America
+278,Spring Point,MYAP,22.4418,-73.9709,BS,Bahamas
+279,Goldfield,NV50,37.7221,-117.2364,US,United States Of America
+280,Cochran,1KS1,38.459,-95.2265,US,United States Of America
+281,Bloomfield Municipal,K84Y,42.5797,-97.6737,US,United States Of America
+282,Meiktila Air Base,VYML,20.8864,95.8928,MM,Myanmar
+283,Toledo Suburban,KDUH,41.7359,-83.6558,US,United States Of America
+284,Oiapoque,SBOI,3.8555,-51.7969,BR,Brazil
+285,Tres Chorrillos,SCTH,-52.5253,-70.7239,CL,Chile
+286,Lagoa Santa,SBLS,-19.6616,-43.8964,BR,Brazil
+287,Annette Island,PANT,55.0423,-131.5709,US,United States Of America
+288,Paz De Ariporo,SKPZ,5.8761,-71.8866,CO,Colombia
+289,V-Bar,4TA2,31.7422,-97.3199,US,United States Of America
+290,Neom Bay,OENN,27.9238,35.2938,SA,Saudi Arabia
+291,Bald Mountain,ME14,44.2306,-69.1231,US,United States Of America
+292,Tunis Carthage International,DTTA,36.851,10.2272,TN,Tunisia
+293,Fazenda Salamanca,SIJJ,-22.8086,-55.5333,BR,Brazil
+294,Napaskiak,PAPK,60.7029,-161.7783,US,United States Of America
+295,Lm-Ets,54FD,28.3675,-81.0761,US,United States Of America
+296,Nannup,YNAU,-34.0333,115.733,AU,Australia
+297,Usinas Braco Norte,SIXX,-9.6583,-54.9544,BR,Brazil
+298,El Capitan,SVEK,10.1136,-72.5766,VE,Venezuela
+299,Bills Last Resort Rla,IL24,39.7075,-89.8831,US,United States Of America
+300,Arens Field,KRWN,41.0923,-86.6129,US,United States Of America
+301,Dyersburg Regional,KDYR,35.998,-89.4066,US,United States Of America
+302,Aiome,AYAO,-5.1457,144.7307,PG,Papua New Guinea
+303,Fazenda Barra Grande,SSWV,-23.5906,-50.0411,BR,Brazil
+304,Trausdorf,LOAT,47.8,16.567,AT,Austria
+305,Eston,CJR4,51.1442,-108.763,CA,Canada
+306,General Mariano Matamoros,MMCB,18.8348,-99.2613,MX,Mexico
+307,Dinsmore,CKX5,51.3306,-107.438,CA,Canada
+308,Maple Ridge,03ME,44.0842,-70.6273,US,United States Of America
+309,Thunder Creek,95TA,29.6349,-99.4823,US,United States Of America
+310,Cortland County/Chase Field,KN03,42.5926,-76.2149,US,United States Of America
+311,Gottschalk Field,91WI,44.2939,-90.0321,US,United States Of America
+312,Kuala Lumpur International,WMKK,2.7456,101.71,MY,Malaysia
+313,Dabou,DIDB,5.3514,-4.4035,CI,Côte d'Ivoire
+314,Fazenda Ribeirao,SIFU,-22.4156,-43.7753,BR,Brazil
+315,Flying C,KT87,33.3422,-97.27,US,United States Of America
+316,Flugplatz,30KS,38.0248,-97.7339,US,United States Of America
+317,Richter Aviation,12CN,39.2684,-122.1168,US,United States Of America
+318,Fazenda Tuiuiu,SWNW,-13.7994,-55.455,BR,Brazil
+319,Winnipeg / St. Andrews,CYAV,50.0564,-97.0325,CA,Canada
+320,Babolsar,OINB,36.72,52.65,IR,Iran
+321,Orr Field,NE25,41.1815,-100.86,US,United States Of America
+322,Nema,GQNI,16.622,-7.3166,MR,Mauritania
+323,Castleforbes,EICS,53.7783,-7.8353,IE,Ireland
+324,Lone Oaks Ranch,5OR9,44.7768,-122.7601,US,United States Of America
+325,Regina / Aerogate,CAG2,50.5977,-104.6013,CA,Canada
+326,Sanborn,38CN,39.1093,-121.8839,US,United States Of America
+327,Comstock Field,80SD,45.7727,-98.3529,US,United States Of America
+328,Aerosanta Cruz,SCUZ,-34.6492,-71.3861,CL,Chile
+329,Yeltsovka,UNNE,55.0924,83.0045,RU,Russia
+330,La Moure Rott Municipal,K4F9,46.3473,-98.2815,US,United States Of America
+331,Satelite Aviacao Agricola,SJEK,-13.5456,-52.2639,BR,Brazil
+332,Piedra Del Aguila,SAVA,-40.1922,-70.01,AR,Argentina
+333,Mananjary,FMSM,-21.2018,48.3583,MG,Madagascar
+334,Wysocki Field,CT15,41.9454,-72.4776,US,United States Of America
+335,Liberty County,KLTY,48.5107,-110.9909,US,United States Of America
+336,H L Sonny Callahan,KCQF,30.4605,-87.877,US,United States Of America
+337,High Acres,85NY,42.5784,-78.52,US,United States Of America
+338,Dusenbury Field,13NR,36.2975,-80.1617,US,United States Of America
+339,Amahai,WAPA,-3.348,128.926,ID,Indonesia
+340,Mapulaca,MHLP,14.0342,-88.6283,HN,Honduras
+341,Barreirinha,SWBI,-2.7924,-57.0579,BR,Brazil
+342,Fazenda Santa Helena,SIOU,-18.2981,-57.0147,BR,Brazil
+343,Hamilton Strip,GA49,31.2127,-83.6361,US,United States Of America
+344,Wolfe Field,XA32,30.9115,-97.1713,US,United States Of America
+345,Tsholothso,FVTS,-19.767,27.767,ZW,Zimbabwe
+346,Las Cruces,SVLZ,8.3289,-68.752,VE,Venezuela
+347,Canadian River Corrientes,OK10,35.5394,-98.4302,US,United States Of America
+348,Elk Creek,47NY,42.045,-77.35,US,United States Of America
+349,G 301,RKRG,37.5003,127.619,KR,"Korea, Republic of (South Korea)"
+350,Pangkal Pinang (Depati Amir),WIPK,-2.1622,106.139,ID,Indonesia
+351,Hedditch,MT72,46.346,-114.1762,US,United States Of America
+352,Mykolaiv International,UKON,47.0579,31.9198,UA,Ukraine
+353,Cornwall Regional,CYCC,45.0928,-74.5633,CA,Canada
+354,Godthaab / Nuuk,BGGH,64.1909,-51.6781,GL,Greenland
+355,Balladonia,YBAL,-32.35,123.618,AU,Australia
+356,Montreal / Les Cedres,CSS3,45.3475,-74.0767,CA,Canada
+357,Bird Island,FSSB,-3.7247,55.2053,SC,Seychelles
+358,Fazenda Retiro do Marimbondo,SSRH,-20.7781,-55.9828,BR,Brazil
+359,Austin-Bergstrom International,KAUS,30.1945,-97.6699,US,United States Of America
+360,Cowra,YCWR,-33.8447,148.649,AU,Australia
+361,Rollers,OK48,36.1554,-97.8483,US,United States Of America
+362,Fazenda Sao Francisco,SJNV,-18.4314,-50.2561,BR,Brazil
+363,Mouyondzi,FCBM,-4.0149,13.9661,CG,Congo
+364,Sean D Sheldon Memorial Airfield,23MU,38.0186,-93.6932,US,United States Of America
+365,Utena,EYUT,55.49,25.7169,LT,Lithuania
+366,Portland International,KPDX,45.5887,-122.5969,US,United States Of America
+367,Baykit,UNIB,61.6767,96.355,RU,Russia
+368,Sparta/Fort Mc Coy,KCMY,43.9587,-90.7378,US,United States Of America
+369,Sam Riggs Airpark,KK11,36.2182,-95.6519,US,United States Of America
+370,Lago Musters,SAVM,-45.5778,-69.0728,AR,Argentina
+371,Hinton / Entrance,CEE4,53.3814,-117.701,CA,Canada
+372,Mount Pleasant,EGYP,-51.8228,-58.4472,FK,Falkland Islands (Malvinas)
+373,Los Cuernos Ranch,XA08,28.1576,-99.0955,US,United States Of America
+374,Furstenfeldbruck,ETSF,48.2056,11.2669,DE,Germany
+375,Roberts International,GLRB,6.2338,-10.3623,LR,Liberia
+376,Bednary Airfield,EPPB,52.5344,17.2188,PL,Poland
+377,Ridgeview,12ME,44.3223,-69.2073,US,United States Of America
+378,Circle L Ranch,NV27,37.7166,-118.0843,US,United States Of America
+379,Newfound Valley,K2N2,43.592,-71.7515,US,United States Of America
+380,Murray Island,YMUI,-9.9167,144.055,AU,Australia
+381,Igualada/Odena,LEIG,41.5856,1.6531,ES,Spain
+382,Juancho,SVJH,8.1797,-63.596,VE,Venezuela
+383,Lusk Municipal,KLSK,42.7538,-104.4046,US,United States Of America
+384,Houston County,KDKR,31.307,-95.4038,US,United States Of America
+385,Kings Port,FD72,27.1828,-81.3906,US,United States Of America
+386,Bridgeport-Cahill Field,6NJ9,39.7918,-75.3746,US,United States Of America
+387,Rosalia Municipal,K72S,47.2366,-117.4214,US,United States Of America
+388,Smith Field,KSMD,41.1434,-85.1528,US,United States Of America
+389,Green Sea,KS79,34.1856,-79.0206,US,United States Of America
+390,Guasimal,SVMS,7.7167,-67.9833,VE,Venezuela
+391,Polonia International,WIMM,3.5581,98.6717,ID,Indonesia
+392,Sorocaba,SDCO,-23.478,-47.49,BR,Brazil
+393,Cocorobo,SNCQ,-10.5272,-39.0331,BR,Brazil
+394,Cerdas,SLCS,-20.8083,-66.4011,BO,Bolivia
+395,Royal Marines Base Chivenor,EGDC,51.0872,-4.1503,GB,United Kingdom
+396,Othello Municipal,KS70,46.7942,-119.0801,US,United States Of America
+397,Colle Field,34MS,30.4738,-88.6962,US,United States Of America
+398,Waldron Airstrip,90WA,48.7118,-123.0182,US,United States Of America
+399,Fazenda Aurora III,SNUL,-21.4525,-53.3533,BR,Brazil
+400,Tappahannock/Essex County,KXSA,37.8596,-76.8941,US,United States Of America
+401,Fukushima,RJSF,37.2274,140.431,JP,Japan
+402,Bacchi Valley Industries,80CA,38.8174,-120.9224,US,United States Of America
+403,Daniel K Inouye International,PHNL,21.3178,-157.9202,US,United States Of America
+404,Esperanza,SCLS,-38.5489,-72.1458,CL,Chile
+405,Boteka,FZGT,-0.317,19.067,CD,"Congo, the Democratic Republic of the"
+406,Double D Farms,7TE1,29.999,-96.7611,US,United States Of America
+407,Chardara,UA34,41.2765,67.971,KZ,Kazakhstan
+408,Kehl-Sundheim,EDSK,48.5611,7.8433,DE,Germany
+409,Windmillcreek,85XA,33.3096,-97.3112,US,United States Of America
+410,King Shaka International,FALE,-29.6144,31.1197,ZA,South Africa
+411,Franz Ranch,33WA,47.0499,-118.8511,US,United States Of America
+412,Mitiga,HLLM,32.8941,13.276,LY,Libyan Arab Jamahiriya
+413,Coronel FAP Alfredo Mendivil Duarte,SPHO,-13.1548,-74.2044,PE,Peru
+414,Pyhoselka,EFPH,62.4647,30.0353,FI,Finland
+415,Albertus,KFEP,42.2461,-89.582,US,United States Of America
+416,Calapan,RPUK,13.417,121.2,PH,Philippines
+417,Lehman,28TX,34.0859,-99.4551,US,United States Of America
+418,Winner Regional,KICR,43.3895,-99.8412,US,United States Of America
+419,King Khaled Air Base,OEKM,18.2973,42.8035,SA,Saudi Arabia
+420,Raton Municipal/Crews Field,KRTN,36.7424,-104.5017,US,United States Of America
+421,El Bolson,SAVB,-41.9432,-71.5323,AR,Argentina
+422,Tamboril,SNTL,-4.8578,-40.3746,BR,Brazil
+423,Hachinohe,RJSH,40.5564,141.466,JP,Japan
+424,South Texas International At Edinburg,KEBG,26.4417,-98.1222,US,United States Of America
+425,Rose Port Inc,9KS4,39.6363,-98.3603,US,United States Of America
+426,Lambrook,YLMB,-31.1,149.933,AU,Australia
+427,Moosonee,CYMO,51.2911,-80.6078,CA,Canada
+428,Livengood Camp,K4AK,65.4673,-148.6537,US,United States Of America
+429,Oakes Field,66IN,39.7875,-85.6369,US,United States Of America
+430,Fazenda Dom Felipe,SNFH,-22.5592,-55.3758,BR,Brazil
+431,Pasighat,VEPG,28.0661,95.3356,IN,India
+432,Namangan,UTKN,40.9846,71.5567,UZ,Uzbekistan
+433,D M Stevenson Ranch,OR30,44.0032,-121.272,US,United States Of America
+434,Zeya,UHBE,53.6905,127.0908,RU,Russia
+435,Bear Creek 1,AK02,65.5399,-161.0624,US,United States Of America
+436,St-Esprit,CES2,45.9144,-73.6724,CA,Canada
+437,Cucuyagua,MHUY,14.6269,-88.8764,HN,Honduras
+438,Kerben,UAFE,41.4845,71.7337,KG,Kyrgyzstan
+439,Brigadeiro Lysias Rodrigues,SBPJ,-10.2915,-48.357,BR,Brazil
+440,Ioannina,LGIO,39.6964,20.8225,GR,Greece
+441,Sanders,85KS,39.3007,-95.2151,US,United States Of America
+442,Gross,K52I,43.8468,-84.0128,US,United States Of America
+443,The Garden,YGDR,-23.2867,134.44,AU,Australia
+444,Gunzenhausen-Reutberg,EDMH,49.1119,10.7808,DE,Germany
+445,Philippi/Barbour County Regional,K79D,39.1662,-80.0623,US,United States Of America
+446,Diewold,58IA,40.874,-91.1633,US,United States Of America
+447,Stallion Army Air Field,K95E,33.819,-106.645,US,United States Of America
+448,Lone Hawk,0MT9,48.4833,-114.4925,US,United States Of America
+449,Cliffords,ME69,44.069,-70.0645,US,United States Of America
+450,Gods River,CZGI,54.8397,-94.0786,CA,Canada
+451,Ranchaero,CL56,39.7195,-121.8705,US,United States Of America
+452,Cobden,YCDE,-38.3267,143.0567,AU,Australia
+453,Paradise Air Haven,39OK,35.1115,-97.4793,US,United States Of America
+454,Los Brasiles,MNBR,12.19,-86.3539,NI,Nicaragua
+455,Flying G H Ranch,9TE7,30.2453,-97.0828,US,United States Of America
+456,Cremona / Migliaro,LILR,45.1674,10.0019,IT,Italy
+457,Havana Regional,K9I0,40.2227,-90.0228,US,United States Of America
+458,North Bass Island,K3X5,41.718,-82.8211,US,United States Of America
+459,Fazenda Rio Vermelho,SNRV,-6.8828,-49.4639,BR,Brazil
+460,Eilat,LLET,29.5613,34.9601,IL,Israel
+461,Flying J Ranch,67OK,36.0331,-95.078,US,United States Of America
+462,Cholpon-Ata,UAFG,42.6537,77.0567,KG,Kyrgyzstan
+463,Beausejour/Av-Ranch Airpark,CAV6,50.0411,-96.5858,CA,Canada
+464,Pano Aqil Southeast,OP37,27.8131,69.1671,PK,Pakistan
+465,Bb Airpark,TE88,29.3569,-95.4594,US,United States Of America
+466,Tanjung Manis,WBGT,2.1778,111.202,MY,Malaysia
+467,Estancia California,SJVM,-9.8919,-56.1294,BR,Brazil
+468,Griffins Peace River Ranch,FL00,27.4189,-81.8326,US,United States Of America
+469,Fazenda Charqueada Norte,SWCH,-10.0003,-57.0672,BR,Brazil
+470,Fall Creek Air Ranch,52TS,30.4185,-98.1628,US,United States Of America
+471,Fazenda Alianca,SNWN,-16.6681,-54.3858,BR,Brazil
+472,Faaite,NTKF,-16.6867,-145.329,PF,French Polynesia
+473,Poste Montagnais (Mile 134),CSF3,51.8886,-65.715,CA,Canada
+474,Goodman Strip,88ND,48.7089,-97.994,US,United States Of America
+475,New Tanegashima,RJFG,30.6051,130.991,JP,Japan
+476,Waimea-Kohala,PHMU,20.0013,-155.6681,US,United States Of America
+477,Acme,CEG2,51.4564,-113.515,CA,Canada
+478,Amata,YAMT,-26.1083,131.207,AU,Australia
+479,Faith Ranch,XA89,28.2086,-100.0188,US,United States Of America
+480,Bradford Regional,KBFD,41.803,-78.64,US,United States Of America
+481,Pishin,OPPN,30.5562,66.9855,PK,Pakistan
+482,Soulac Sur Mer,LFDK,45.495,-1.0822,FR,France
+483,Timberline,WI47,44.4333,-89.1501,US,United States Of America
+484,Renroc,FVRE,-16.967,29.567,ZW,Zimbabwe
+485,Owatonna Degner Regional,KOWA,44.123,-93.2588,US,United States Of America
+486,Gotha-Ost,EDEG,50.97,10.7278,DE,Germany
+487,Eggebeck Air Base,ETME,54.6248,9.346,DE,Germany
+488,Putao,VYPT,27.3299,97.4263,MM,Myanmar
+489,Fazenda Salto Bello II,SWOM,-14.9611,-53.4881,BR,Brazil
+490,Rickenbacker International,KLCK,39.8138,-82.9278,US,United States Of America
+491,Mariano Melgar,SPLC,-16.7915,-71.8866,PE,Peru
+492,Rangitata Island,NZRI,-44.085,171.416,NZ,New Zealand
+493,Hunt,K9R5,27.8867,-97.3496,US,United States Of America
+494,Helsinki Vantaa,EFHK,60.3172,24.9633,FI,Finland
+495,San Juan De La Maguana,MDSA,18.8255,-71.2314,DO,Dominican Republic
+496,Eurico de Aguiar Salles,SBVT,-20.2581,-40.2864,BR,Brazil
+497,Takotna,PPCT,62.9929,-156.0297,US,United States Of America
+498,Guntersville Municipal/Joe Starnes Field,K8A1,34.4062,-86.2609,US,United States Of America
+499,Aserradero El Encino,MHEN,14.6619,-86.915,HN,Honduras
+500,Fazenda Aruana,SWAR,-13.0828,-51.5864,BR,Brazil
+501,Fagotrans,SVFS,9.4016,-66.6431,VE,Venezuela
+502,Vila Rica,SWVC,-9.9794,-51.1422,BR,Brazil
+503,Comayagua-Palmerola International,MHPR,14.3823,-87.6212,HN,Honduras
+504,Kerman,OIKK,30.2744,56.9511,IR,Iran
+505,Sultan Iskandarmuda,WITT,5.5235,95.4204,ID,Indonesia
+506,Val-d'Or,CYVO,48.0533,-77.7828,CA,Canada
+507,Illesheim Air Base,ETIK,49.4739,10.3881,DE,Germany
+508,Mystery Well Ranch,25AZ,31.8159,-109.0573,US,United States Of America
+509,Normanton,YNTN,-17.6836,141.07,AU,Australia
+510,Canadian River Ranch,46XS,35.4027,-102.8076,US,United States Of America
+511,Mount Bundey,YMDY,-12.89,131.908,AU,Australia
+512,Fazenda Galheiro,SJRH,-15.3081,-54.5997,BR,Brazil
+513,Trenque Lauquen,SAET,-36.0158,-62.6939,AR,Argentina
+514,Primorsko,LBPR,42.2633,27.7017,BG,Bulgaria
+515,Gwangju,RKJJ,35.1264,126.809,KR,"Korea, Republic of (South Korea)"
+516,Calilegua,SA24,-23.7819,-64.7495,AR,Argentina
+517,Alabat Island,RPLY,14.232,121.929,PH,Philippines
+518,Walter's Agri-Center,WI28,44.5861,-87.5576,US,United States Of America
+519,Southwest Wyoming Regional,KRKS,41.5942,-109.0652,US,United States Of America
+520,Almena,K2C5,42.253,-85.8517,US,United States Of America
+521,Juina,SWJN,-11.4194,-58.7017,BR,Brazil
+522,Amla,VA1L,21.9264,78.1136,IN,India
+523,Bluff,K66V,37.255,-109.633,US,United States Of America
+524,Banja Luka International,LQBK,44.9414,17.2975,BA,Bosnia and Herzegovina
+525,Sylvania Homestead,YSLV,-23.5583,120.047,AU,Australia
+526,Errabiddy Homestead,YERA,-25.5,117.167,AU,Australia
+527,Irkutsk,UIII,52.268,104.389,RU,Russia
+528,Hamrick,5OI5,40.6934,-84.7805,US,United States Of America
+529,Chester County G O Carlson,KMQS,39.979,-75.8655,US,United States Of America
+530,Sugar Hill,DE17,38.7779,-75.5833,US,United States Of America
+531,Dzhankoy,UKFY,45.7009,34.4189,UA,Ukraine
+532,Morgan Field,0LS7,30.6128,-91.4842,US,United States Of America
+533,Lesce Bled Glider,LJBL,46.3572,14.1739,SI,Slovenia
+534,Blomberg-Borkhausen,EDVF,51.9172,9.1117,DE,Germany
+535,Thessalon Municipal,CPL5,46.3167,-83.5333,CA,Canada
+536,Greaton Airfield,K98M,43.5757,-70.5189,US,United States Of America
+537,Bob's Field,36WA,45.9564,-121.4978,US,United States Of America
+538,Mountainair Municipal,KM10,34.5333,-106.2239,US,United States Of America
+539,A Z Minerals Corporation,03UT,37.1208,-109.986,US,United States Of America
+540,North Seal River,CEG8,58.9694,-99.975,CA,Canada
+541,Unalaska,PADU,53.8989,-166.545,US,United States Of America
+542,Catalano Airfield,1NK6,44.4237,-73.7496,US,United States Of America
+543,Chanay,40KS,38.54,-95.4508,US,United States Of America
+544,Hampton Field,38II,39.7286,-86.8231,US,United States Of America
+545,Fiorini Ranch,0CN1,37.4522,-120.7648,US,United States Of America
+546,Chipman,CFU3,53.7167,-112.633,CA,Canada
+547,Parsons Field,4AZ6,34.9981,-113.4616,US,United States Of America
+548,Bird River (Lac Du Bonnet),CJP7,50.3967,-95.735,CA,Canada
+549,Nchalo Sucoma,FWSU,-16.2667,34.9167,MW,Malawi
+550,Put In Bay,K3W2,41.6367,-82.8283,US,United States Of America
+551,Vaiden Landing,MS64,34.8483,-89.878,US,United States Of America
+552,Granville,01NK,43.4229,-73.268,US,United States Of America
+553,Trelew Aeroclub,SA34,-43.2356,-65.3241,AR,Argentina
+554,Delamere Range Facility,YDWF,-15.7467,131.92,AU,Australia
+555,Fairview Field,XA05,34.1011,-102.6242,US,United States Of America
+556,Miley Memorial Field,KBPI,42.5822,-110.1089,US,United States Of America
+557,Audley End Airfield,EG02,52.0091,0.2243,GB,United Kingdom
+558,Council Municipal,KU82,44.7503,-116.4451,US,United States Of America
+559,Piikajarvi,EFPI,61.2456,22.1934,FI,Finland
+560,Atoka Municipal,KAQR,34.3983,-96.1481,US,United States Of America
+561,N & N,49KS,39.2141,-96.6723,US,United States Of America
+562,Jelenia Góra Glider,EPJG,50.8989,15.7856,PL,Poland
+563,Pasport,5MA3,42.1876,-72.1431,US,United States Of America
+564,Toussus-le-Noble,LFPN,48.7519,2.1062,FR,France
+565,Miller,IN53,39.2917,-86.8236,US,United States Of America
+566,Hood Field,IN25,39.9981,-86.5772,US,United States Of America
+567,Njombe,HTNJ,-9.35,34.8,TZ,"Tanzania, United Republic of"
+568,Thangool,YTNG,-24.4939,150.576,AU,Australia
+569,Happy Mountain,NM41,34.0612,-108.0964,US,United States Of America
+570,Tibbetts,4AK9,58.7343,-157.0071,US,United States Of America
+571,Collie,YCOI,-33.3667,116.217,AU,Australia
+572,Palo Alto,KPAO,37.4611,-122.1151,US,United States Of America
+573,Vigo Park,1TA2,34.6501,-101.5005,US,United States Of America
+574,Fazenda Capao Verde,SSGH,-20.0736,-56.0683,BR,Brazil
+575,Conjuboy,YCJU,-18.6833,144.75,AU,Australia
+576,Yellowstone,KWYS,44.6884,-111.1176,US,United States Of America
+577,Greensburg Municipal,K9KS,37.6227,-99.2284,US,United States Of America
+578,Pemo,FCPO,-2.867,12.533,CG,Congo
+579,Greytown,FAGY,-29.122,30.5867,ZA,South Africa
+580,Santa Rita,SCCS,-33.2775,-71.4564,CL,Chile
+581,Manchester Boston Regional,KMHT,42.9328,-71.4357,US,United States Of America
+582,Industrial Airpark,NM83,32.7668,-103.2088,US,United States Of America
+583,Sinop,LTCM,42.0158,35.0664,TR,Turkey
+584,Horse Feathers,53VA,38.634,-77.7575,US,United States Of America
+585,Mockeln,ESMU,56.5707,14.1665,SE,Sweden
+586,Juigalpa,MNJU,12.1,-85.3667,NI,Nicaragua
+587,Rancho Encantado,TA58,28.32,-99.4659,US,United States Of America
+588,Artigas International,SUAG,-30.4007,-56.5079,UY,Uruguay
+589,Lightner Ranch,95NE,42.6698,-98.2241,US,United States Of America
+590,Lone Pine Aerodrome,34KY,36.9114,-86.7856,US,United States Of America
+591,Shymkent,UAII,42.3642,69.4789,KZ,Kazakhstan
+592,Oceana County,KC04,43.6416,-86.3291,US,United States Of America
+593,Aeroclube,SSAK,-28.6578,-53.6106,BR,Brazil
+594,Jamestown Regional,KJMS,46.9297,-98.6782,US,United States Of America
+595,Lambert Field,4OR3,44.7304,-123.0759,US,United States Of America
+596,Bernay St Martin,LFPD,49.1028,0.5667,FR,France
+597,Severka Airfield,UUML,55.206,38.677,RU,Russia
+598,E. T. Joshua,TVSV,13.1443,-61.2109,VC,Saint Vincent and the Grenadines
+599,Columbus County Municipal,KCPC,34.2729,-78.715,US,United States Of America
+600,Tutuka Power Station,FATT,-26.7766,29.3388,ZA,South Africa
+601,Fazenda Santa Ines,SSRC,-21.7031,-54.3683,BR,Brazil
+602,Ouakda,DAOC,31.6425,-2.1839,DZ,Algeria
+603,Mccrea,TA54,31.8147,-100.9118,US,United States Of America
+604,Angaur Airstrip,KANG,6.9,134.15,PW,Palau
+605,Rambo Airfield,0VA0,38.5249,-77.6874,US,United States Of America
+606,Bauru-Arealva,SBAE,-22.1578,-49.0683,BR,Brazil
+607,Magdeburg,EDBM,52.0736,11.6264,DE,Germany
+608,Florida Sheriffs Boys Ranch,FL08,30.4155,-83.0165,US,United States Of America
+609,Columbia Regional,KCOU,38.8177,-92.2178,US,United States Of America
+610,San Antonio De Barinas,SVSG,8.5667,-70.05,VE,Venezuela
+611,Santo Atanazio,SWAZ,0.3997,-69.3006,BR,Brazil
+612,Spear Valley,55ID,48.3811,-116.485,US,United States Of America
+613,Oscar Machado Zuluaga,SVCS,10.2861,-66.8161,VE,Venezuela
+614,Merowe,HSMR,18.45,31.833,SD,Sudan
+615,Domodedovo International,UUDD,55.4088,37.9063,RU,Russia
+616,Kasese,FZOS,-1.633,27.05,CD,"Congo, the Democratic Republic of the"
+617,Georgetown County,KGGE,33.3114,-79.3203,US,United States Of America
+618,Odendaalsrus,FAOD,-27.871,26.6934,ZA,South Africa
+619,Verona,KW19,42.9895,-89.5095,US,United States Of America
+620,Lethbridge / J3 Airfield,CLJ3,49.7416,-112.7383,CA,Canada
+621,Cheb,LKCB,50.0661,12.4117,CZ,Czech Republic
+622,Xishuangbanna Gasa,ZPJH,21.9739,100.76,CN,China
+623,Docken Field,37WI,42.9911,-89.7535,US,United States Of America
+624,Skwentna,PASW,61.9661,-151.1954,US,United States Of America
+625,Macon Downtown,KMAC,32.8218,-83.5619,US,United States Of America
+626,Hollingshead,NJ25,39.7897,-75.2283,US,United States Of America
+627,Spencer Field,7NC9,35.7274,-79.9111,US,United States Of America
+628,Snettisham,7AK2,58.1344,-133.7295,US,United States Of America
+629,Manaung,VYMN,18.8458,93.6889,MM,Myanmar
+630,Gowanda,KD59,42.5039,-78.9506,US,United States Of America
+631,Khairpur,OP32,28.0361,69.6749,PK,Pakistan
+632,Pocatello Regional,KPIH,42.9098,-112.5959,US,United States Of America
+633,Normans Cay,MYEN,24.5943,-76.8202,BS,Bahamas
+634,Pike County,KEOP,39.167,-82.9283,US,United States Of America
+635,Belem Novo,SSBN,-30.1878,-51.1828,BR,Brazil
+636,Alison Air Park,7TS2,29.8313,-97.8892,US,United States Of America
+637,Hedlow,YHEW,-23.2231,150.605,AU,Australia
+638,Melsbroek Air Base,EBMB,50.9014,4.4844,BE,Belgium
+639,Elk Island,CKZ3,54.6714,-94.1453,CA,Canada
+640,Lizzy Lizard,8AZ5,31.8979,-109.0569,US,United States Of America
+641,Hazel Green,KM38,34.9161,-86.647,US,United States Of America
+642,Gods Lake,CJB6,54.7792,-93.7169,CA,Canada
+643,St Pierre D'oleron,LFDP,45.9592,-1.3161,FR,France
+644,Namibe,FNMO,-15.2612,12.1468,AO,Angola
+645,Blackall,YBCK,-24.4278,145.429,AU,Australia
+646,Wildy Field,6LL4,38.2675,-89.8918,US,United States Of America
+647,Ganzhou,ZSGZ,25.8258,114.912,CN,China
+648,V.C. Bird International,TAPA,17.1367,-61.7927,AG,Antigua and Barbuda
+649,Vance Brand,KLMO,40.1644,-105.1636,US,United States Of America
+650,Mekambo,FOOE,1.017,13.933,GA,Gabon
+651,Angola Airstrip,LA67,30.9516,-91.5848,US,United States Of America
+652,Lanes Landing,67SC,32.9486,-80.7675,US,United States Of America
+653,Mundrabilla,YMBX,-31.8672,127.854,AU,Australia
+654,Fazenda Pirassununga,SWVI,-11.5178,-48.3111,BR,Brazil
+655,Pingston Aeroworks,54MI,42.8103,-84.0831,US,United States Of America
+656,Gibb River,YGIB,-16.4233,126.445,AU,Australia
+657,Florac Ste Enimie,LFNO,44.2864,3.4667,FR,France
+658,Straffordville,CNS6,42.7383,-80.8167,CA,Canada
+659,Atico,SPOY,-16.2322,-73.6119,PE,Peru
+660,Naone,NVSN,-15.0,168.083,VU,Vanuatu
+661,Andahuaylas,SPHY,-13.7064,-73.3504,PE,Peru
+662,Usina Bonfim,SDGU,-21.4044,-48.3033,BR,Brazil
+663,Pam's Place,K78I,39.5016,-86.6885,US,United States Of America
+664,Huallaga,SPBL,-7.0606,-76.5822,PE,Peru
+665,Payson Ranch,6FL3,26.9373,-81.567,US,United States Of America
+666,Sao Simao,SWSY,-15.9086,-60.1547,BR,Brazil
+667,Taunton Municipal - King Field,KTAN,41.8745,-71.0163,US,United States Of America
+668,Clarence E Page Municipal,KRCE,35.4881,-97.8236,US,United States Of America
+669,Fazenda Tres Marias do Agua Limpa,SWOO,-15.0714,-51.3928,BR,Brazil
+670,Sarita,37AZ,32.9356,-111.4846,US,United States Of America
+671,Breitscheid,EDGB,50.6764,8.1694,DE,Germany
+672,Rular,VG07,38.5389,-77.8283,US,United States Of America
+673,Aurora Municipal,KARR,41.7719,-88.4757,US,United States Of America
+674,H M S Bastard Memorial,FAHU,-30.5425,29.499,ZA,South Africa
+675,Pousada Xaraes,SWMJ,-19.4958,-56.96,BR,Brazil
+676,Rechlin-Larz,EDAX,53.3064,12.7522,DE,Germany
+677,Bear Cove Farm,46AK,59.7383,-151.0299,US,United States Of America
+678,Shahbaz Air Base,OPJA,28.2842,68.4497,PK,Pakistan
+679,Danielson,KLZD,41.8197,-71.901,US,United States Of America
+680,Claremore Regional,KGCM,36.2927,-95.4796,US,United States Of America
+681,Glen Ullin Regional,KD57,46.8143,-101.8652,US,United States Of America
+682,Johnson Lake,2NE0,40.6967,-99.8343,US,United States Of America
+683,Holmes County,K10G,40.5367,-81.9559,US,United States Of America
+684,Cananea,MMCA,31.0662,-110.0979,MX,Mexico
+685,Witbank,FAWI,-25.8323,29.192,ZA,South Africa
+686,Bar Flying E,2WY8,44.4062,-109.2794,US,United States Of America
+687,Field Of Dreams,15UT,40.9721,-111.7044,US,United States Of America
+688,Lee Field,VG64,37.5615,-76.8525,US,United States Of America
+689,Paniola Air Ranch,FD14,29.3753,-82.0581,US,United States Of America
+690,Mococa,SDKK,-21.4878,-47.0344,BR,Brazil
+691,Cosne Sur Loire,LFGH,47.3606,2.9194,FR,France
+692,Beacon,YBEC,-30.4833,117.883,AU,Australia
+693,Lanywa,VYLY,20.9404,94.8226,MM,Myanmar
+694,Fazenda Vitoria,SIZI,-18.7528,-51.4731,BR,Brazil
+695,Maury County Regional,KMRC,35.5543,-87.1791,US,United States Of America
+696,Ixiamas,SLIX,-13.76,-68.1368,BO,Bolivia
+697,Cavanaugh Bay,K66S,48.5187,-116.8222,US,United States Of America
+698,Condon Usfs,KS04,47.5388,-113.7204,US,United States Of America
+699,Lock,YLOK,-33.5442,135.693,AU,Australia
+700,Stavanger  Sola,ENZV,58.8767,5.6378,NO,Norway
+701,Alès Cevennes,LFMS,44.0697,4.1421,FR,France
+702,Memmi,0PN6,40.169,-77.9925,US,United States Of America
+703,Pawhuska Municipal,KH76,36.6717,-96.4056,US,United States Of America
+704,Village,0TN2,35.6559,-84.1855,US,United States Of America
+705,Falcon Lake Strip,0AK9,61.3325,-150.0591,US,United States Of America
+706,Colider,SIKC,-10.7642,-55.4611,BR,Brazil
+707,John Murtha Johnstown/Cambria County,KJST,40.3156,-78.8347,US,United States Of America
+708,Otrokovice Zlin,LKOT,49.1983,17.5178,CZ,Czech Republic
+709,Edgar County,KPRG,39.6997,-87.6708,US,United States Of America
+710,Sheghnan,OASN,37.567,71.5,AF,Afghanistan
+711,Krens Farm,14VA,39.229,-77.7467,US,United States Of America
+712,M. R. Stefanik,LZIB,48.1702,17.2127,SK,Slovakia
+713,S Bar Ranch,ID09,43.26,-115.2486,US,United States Of America
+714,High Mesa,23CO,38.8439,-103.9899,US,United States Of America
+715,Belen Regional,KBRG,34.6459,-106.8363,US,United States Of America
+716,Rockhampton,YBRK,-23.3819,150.475,AU,Australia
+717,Fazenda Pupila,SWWM,-18.7719,-40.9494,BR,Brazil
+718,Francisco B. Reyes,RPVV,12.1215,120.1,PH,Philippines
+719,Ie Shima Auxiliary Air Base,RODE,26.7258,127.7649,JP,Japan
+720,Cairo-Grady County,K70J,30.888,-84.1547,US,United States Of America
+721,Saiq,OOSQ,23.067,57.65,OM,Oman
+722,Gode,HAGO,5.9351,43.5786,ET,Ethiopia
+723,Santo Pekoa International,NVSS,-15.505,167.22,VU,Vanuatu
+724,Fort Worth Meacham International,KFTW,32.8198,-97.3624,US,United States Of America
+725,Canala,NWWX,-21.5202,165.972,NC,New Caledonia
+726,Muscatine Municipal,KMUT,41.3679,-91.1482,US,United States Of America
+727,Clarendon Municipal,K4M8,34.6467,-91.3947,US,United States Of America
+728,Agua Caliente,MHHO,15.4278,-86.895,HN,Honduras
+729,Fazenda W. Egidio III,SJFW,-15.9381,-46.4775,BR,Brazil
+730,Lonorore,NVSO,-15.8656,168.172,VU,Vanuatu
+731,Prospect State,K64S,42.7426,-122.489,US,United States Of America
+732,Carriel Sur,SCIE,-36.7727,-73.0631,CL,Chile
+733,Fazenda Progresso,SSYV,-19.7264,-52.8514,BR,Brazil
+734,Keymar Airpark,MD42,39.6195,-77.2275,US,United States Of America
+735,Birao,FEFI,10.2364,22.7169,CF,Central African Republic
+736,Novo Hamburgo,SSNH,-29.6961,-51.0817,BR,Brazil
+737,Fazenda Lago Vermelho,SNUK,-17.0353,-45.4864,BR,Brazil
+738,Reds Horse Ranch Usfs,K68D,45.3446,-117.6265,US,United States Of America
+739,Morris,CD13,39.8351,-103.7356,US,United States Of America
+740,Cedar & Sky Fly In Ranch,OL28,35.5839,-98.3041,US,United States Of America
+741,Guidonia,LIRG,41.9903,12.7408,IT,Italy
+742,Hacketstown Aerodrome,EIHN,52.855,-6.5472,IE,Ireland
+743,Badajoz,LEBZ,38.8913,-6.8213,ES,Spain
+744,Buen Retiro Itenez,SLBR,-13.4167,-63.4833,BO,Bolivia
+745,Zorn Acres,60OI,41.3567,-82.6249,US,United States Of America
+746,Stevens Field,KPSO,37.2862,-107.056,US,United States Of America
+747,Ausk Strip,8ND5,46.7639,-97.4054,US,United States Of America
+748,Poplar Bluff Regional Business,KPOF,36.7739,-90.3249,US,United States Of America
+749,Estancia Itapororo,SSEY,-29.4339,-56.3006,BR,Brazil
+750,Estancia Norteagro,SWQR,2.6758,-60.7786,BR,Brazil
+751,General Villamil,SEII,-0.9426,-90.953,EC,Ecuador
+752,Boca Chica,MDBL,18.4508,-69.5926,DO,Dominican Republic
+753,Runway Leasing Inc Nr 1,8WI2,44.2248,-89.5318,US,United States Of America
+754,Seamans Field,K9N3,41.5894,-75.7561,US,United States Of America
+755,Hof-Plauen,EDQM,50.2886,11.8564,DE,Germany
+756,Sanandita,SLSN,-21.65,-63.6,BO,Bolivia
+757,Cox,NC81,35.7518,-78.8597,US,United States Of America
+758,Encarnacion,SGEN,-27.3,-55.91,PY,Paraguay
+759,Donald D Coski Memorial,KU84,44.7291,-116.0926,US,United States Of America
+760,Jasmine Hill,11LS,30.976,-92.569,US,United States Of America
+761,Macon-Charnay,LFLM,46.2951,4.7958,FR,France
+762,Le Valdahon Air Base,LFXH,47.1667,6.35,FR,France
+763,Fazenda Bagagem,SNQZ,-22.8428,-55.5706,BR,Brazil
+764,Gage Flying Farmer,3ND5,47.0611,-97.7712,US,United States Of America
+765,Angads,GMFO,34.7872,-1.924,MA,Morocco
+766,Isla Martin Garcia,SAAK,-34.1821,-58.2469,AR,Argentina
+767,Crater Lake/Klamath Regional,KLMT,42.1561,-121.7332,US,United States Of America
+768,Senador Antonio Farias,SIQA,-6.4075,-35.0447,BR,Brazil
+769,Bemidji Regional,KBJI,47.5107,-94.9347,US,United States Of America
+770,Williams Auxiliary Airfield 6,KGAX,32.8852,-112.8163,US,United States Of America
+771,May Creek,KMYK,61.3362,-142.6859,US,United States Of America
+772,Damazin,HSDZ,11.7859,34.3367,SD,Sudan
+773,Voghera-Rivanazzano,LILH,44.952,9.0165,IT,Italy
+774,Vologda,ULWW,59.2825,39.9444,RU,Russia
+775,Tiete,SDET,-23.1047,-47.7244,BR,Brazil
+776,Skyote,CD02,40.758,-106.972,US,United States Of America
+777,Jefferson Municipal,KEFW,42.0098,-94.3418,US,United States Of America
+778,Lyons-Rice County Municipal,KLYO,38.3403,-98.2286,US,United States Of America
+779,Palmdale Usaf Plant 42,KPMD,34.6294,-118.0846,US,United States Of America
+780,Leh Kushok Bakula Rimpochee,VILH,34.1359,77.5465,IN,India
+781,Earlton (Timiskaming Regional),CYXR,47.6974,-79.8473,CA,Canada
+782,San Pablo Paeno,SVOZ,7.7833,-68.5,VE,Venezuela
+783,Scherrico Meadows,WS16,44.8472,-89.8015,US,United States Of America
+784,Kamloops,CYKA,50.7022,-120.444,CA,Canada
+785,Turnau,LOGL,47.5567,15.325,AT,Austria
+786,Turku,EFTU,60.5141,22.2628,FI,Finland
+787,Johnson Field,6OK3,36.3589,-98.1439,US,United States Of America
+788,Buchmiller,7ND5,47.3597,-99.6226,US,United States Of America
+789,Miramar,SAEM,-38.2271,-57.8697,AR,Argentina
+790,Cam Ranh,VVCR,11.9982,109.219,VN,Vietnam
+791,Shaniko Cattle,OG54,44.9601,-120.8847,US,United States Of America
+792,Ayers,VA93,38.9051,-78.6547,US,United States Of America
+793,Punitz-Gussing,LOGG,47.1465,16.3168,AT,Austria
+794,Fazenda Masutti,SNIX,-13.5533,-59.1003,BR,Brazil
+795,Reed International,1CD1,40.6903,-104.8667,US,United States Of America
+796,Carlos Manuel de Cespedes,MUBY,20.3964,-76.6214,CU,Cuba
+797,Dimbokro,DIDK,6.6517,-4.6406,CI,Côte d'Ivoire
+798,Ontario Municipal,KONO,44.0194,-117.013,US,United States Of America
+799,Chipata,FLCP,-13.5583,32.5872,ZM,Zambia
+800,Yokota Air Base,RJTY,35.7485,139.348,JP,Japan
+801,Lekhwair,OOLK,22.805,55.3734,OM,Oman
+802,Huntsville Municipal,KUTS,30.7469,-95.5872,US,United States Of America
+803,Meixian,ZGMX,24.35,116.133,CN,China
+804,Mario de Almeida Franco,SBUR,-19.7647,-47.9661,BR,Brazil
+805,Owasco Airfield,K2N4,42.7365,-76.4862,US,United States Of America
+806,Prenti Downs,YPNI,-26.5167,122.8,AU,Australia
+807,Twin Mountain,K8B2,44.2641,-71.5467,US,United States Of America
+808,Cooma/Polo Flat (Unlic),YPFT,-36.23,149.15,AU,Australia
+809,Marrupa,FQMR,-13.2251,37.5521,MZ,Mozambique
+810,Steinbach,CJB3,49.5494,-96.6794,CA,Canada
+811,Regan Ranch,6ID1,47.6432,-116.7005,US,United States Of America
+812,Federico Garcia Lorca,LEGR,37.1887,-3.7774,ES,Spain
+813,Mcclellan,7GA2,30.7789,-83.2019,US,United States Of America
+814,Morro,SJLV,4.3572,-59.97,BR,Brazil
+815,Santa Ana,AGGT,-10.848,162.4541,SB,Solomon Islands
+816,Hamilton Island,YBHM,-20.3581,148.952,AU,Australia
+817,Heberlig,PS02,40.1643,-77.3705,US,United States Of America
+818,Antsirabe,FMME,-19.8392,47.0637,MG,Madagascar
+819,Al Taqaddum Air Base,ORAT,33.3381,43.5971,IQ,Iraq
+820,Beni-Dibele,FZVO,-4.083,22.833,CD,"Congo, the Democratic Republic of the"
+821,Diamond H,80KS,37.2557,-95.2315,US,United States Of America
+822,Rivne International,UKLR,50.6071,26.1416,UA,Ukraine
+823,Altdorf-Wallburg,EDSW,48.27,7.8419,DE,Germany
+824,Jay Schertz Farm,IS00,40.8417,-89.2745,US,United States Of America
+825,Alashankou Bole (Bortala) airport,ZWBL,44.895,82.3,CN,China
+826,Tupi Paulista,SDTI,-21.3931,-51.5989,BR,Brazil
+827,Fazenda Jamaica,SSJL,-19.3478,-53.77,BR,Brazil
+828,Kiel-Holtenau,EDHK,54.3794,10.1453,DE,Germany
+829,Berezniki,USPT,59.5795,56.8577,RU,Russia
+830,Telford Overlook Ferguson Field,TN02,36.2087,-82.5396,US,United States Of America
+831,Fazenda Sao Jose,SWIG,-15.0108,-59.2522,BR,Brazil
+832,Fagali'i,NSFI,-13.8487,-171.74,WS,Samoa
+833,High Ridge Association,97AK,61.664,-149.2536,US,United States Of America
+834,Anna Creek,YANK,-28.8967,136.17,AU,Australia
+835,Fazenda Pau D`Arco,SSDT,-7.9436,-50.1764,BR,Brazil
+836,Kelly Field,NZKC,-37.2561,175.072,NZ,New Zealand
+837,Puerto Princesa,RPVP,9.7421,118.759,PH,Philippines
+838,Essex,CNE9,42.0958,-82.8794,CA,Canada
+839,Selva de Pedra,SIUC,-7.2264,-56.6708,BR,Brazil
+840,Twin Lakes,KS17,33.6457,-81.8671,US,United States Of America
+841,Penong,YPNG,-31.9167,133.0,AU,Australia
+842,Chatham Municipal,KCQX,41.6883,-69.9897,US,United States Of America
+843,Sookerating,VE24,27.5529,95.5706,IN,India
+844,Chisana,KCZN,62.0718,-142.0494,US,United States Of America
+845,Kornegay Private,53XS,26.1503,-97.5933,US,United States Of America
+846,Clamecy,LFJC,47.4383,3.5086,FR,France
+847,Pastrana Ranch,TT12,32.2725,-97.6934,US,United States Of America
+848,Bulgan Sum,ZMBS,46.1006,91.5842,MN,Mongolia
+849,Blackpool International,EGNH,53.7717,-3.0286,GB,United Kingdom
+850,Hill Afb,KHIF,41.1239,-111.9731,US,United States Of America
+851,Wimauma Air Park,FD77,27.712,-82.2829,US,United States Of America
+852,Atwell,1NC2,35.6547,-80.7894,US,United States Of America
+853,Cotten Creek,YCTC,-22.8,122.583,AU,Australia
+854,Madeira Airpark,TX91,32.9076,-96.5969,US,United States Of America
+855,Matejka Field,NK54,42.1767,-76.6411,US,United States Of America
+856,Russell Field,0NY1,43.1392,-73.6532,US,United States Of America
+857,Pinnow,EDBP,53.6153,11.5611,DE,Germany
+858,Hato El Burro,SVBW,7.1317,-63.4567,VE,Venezuela
+859,Rennell/Tingoa,AGGR,-11.5339,160.063,SB,Solomon Islands
+860,El Condor,SLEK,-21.7008,-63.4568,BO,Bolivia
+861,Dr Ferdinand Lumban Tobing,WIMS,1.5559,98.8889,ID,Indonesia
+862,Flying S Ranch,OL30,35.002,-97.0616,US,United States Of America
+863,Fazenda Citricola,SJAW,-21.7253,-48.4519,BR,Brazil
+864,Fazenda Quatrilho,SNOO,-13.3578,-55.6161,BR,Brazil
+865,Nakhon Phanom,VTUW,17.3838,104.643,TH,Thailand
+866,Mougulu,AYML,-6.2809,142.4208,PG,Papua New Guinea
+867,Sub Teniente Nestor Arias,SVSP,10.2787,-68.7552,VE,Venezuela
+868,Percival Springs,K2T2,39.0144,-88.5393,US,United States Of America
+869,Barnesville Municipal,9MN3,46.6652,-96.4412,US,United States Of America
+870,Fazenda Sao Joaquim,SJVR,-21.4919,-56.4872,BR,Brazil
+871,Ocean Shores Municipal,KW04,46.9992,-124.1424,US,United States Of America
+872,Manitowish Waters,KD25,46.1202,-89.8822,US,United States Of America
+873,Port Elizabeth,FAPE,-33.9849,25.6173,ZA,South Africa
+874,Wells Farm,6MS2,31.9839,-90.3354,US,United States Of America
+875,Gvardeyskoe Air Base,UKFG,45.115,33.977,UA,Ukraine
+876,Eagle's Landing,2TX8,33.3082,-97.3797,US,United States Of America
+877,Carinda,YCRA,-30.4583,147.708,AU,Australia
+878,Adolf Wurth,EDTY,49.1183,9.7839,DE,Germany
+879,Fazenda Campo Alto,SJNU,-13.0372,-51.7139,BR,Brazil
+880,Mc Kinney Field,OI57,38.927,-83.9885,US,United States Of America
+881,Breighton Airfield,EG10,53.8024,-0.916,GB,United Kingdom
+882,As Salif,OYSF,15.3,42.683,YE,Yemen
+883,Cottingham,1IN6,40.4017,-87.2203,US,United States Of America
+884,Las Misiones,SCNM,-37.7761,-73.3836,CL,Chile
+885,Karonga,FWKA,-9.9536,33.893,MW,Malawi
+886,Fazenda Santa Marina,SSCU,-8.8681,-50.4794,BR,Brazil
+887,Dunbar Ranch,0XS8,29.0761,-100.3754,US,United States Of America
+888,Sitio Enel,SSIU,-30.1336,-52.3653,BR,Brazil
+889,Limon,MHLN,15.8633,-85.4986,HN,Honduras
+890,La Mole,LFTZ,43.2054,6.482,FR,France
+891,Flying K Ranch,OR00,45.4345,-122.88,US,United States Of America
+892,Trinchera Ranch Airstrip,CO92,37.4643,-105.4065,US,United States Of America
+893,Spring Creek Ranch East,01OL,34.3726,-96.716,US,United States Of America
+894,Crivitz Municipal,K3D1,45.2146,-88.0733,US,United States Of America
+895,Harbour Grace,CHG2,47.6856,-53.2539,CA,Canada
+896,Ravenna,LIDR,44.3643,12.2249,IT,Italy
+897,La Zopilota,MRLZ,10.4836,-85.462,CR,Costa Rica
+898,Nixon,CNX8,42.8475,-80.3953,CA,Canada
+899,Nockatunga,YNOC,-27.7167,142.712,AU,Australia
+900,Scobey Border Station,CKK3,48.9995,-105.3993,CA,Canada
+901,Harding,FAHJ,-30.5667,29.8833,ZA,South Africa
+902,Mecosta Morton,K27C,43.63,-85.2615,US,United States Of America
+903,Jewett Mesa,K13Q,34.0043,-108.6798,US,United States Of America
+904,Scotland Neck East,2NC7,36.1679,-77.3989,US,United States Of America
+905,Kelleys Island Land Field,K89D,41.6032,-82.6851,US,United States Of America
+906,Warrawagine,YWWG,-20.8465,120.7053,AU,Australia
+907,Sedoktayar,VYSO,20.45,94.233,MM,Myanmar
+908,Nairobi Wilson,HKNW,-1.3217,36.8148,KE,Kenya
+909,Okara Cantonment Airstrip,OPOK,30.741,73.3577,PK,Pakistan
+910,Campo Arenal,SA11,-27.0723,-66.5861,AR,Argentina
+911,LTS Pulau Redang,WMPR,5.7653,103.007,MY,Malaysia
+912,Lodwar,HKLO,3.122,35.6087,KE,Kenya
+913,Flying N Ranch,CA04,40.3463,-122.3389,US,United States Of America
+914,Dawei,VYDW,14.1039,98.2036,MM,Myanmar
+915,Kushinagar,VEKI,26.7727,83.8953,IN,India
+916,Horovice,LKHV,49.8481,13.8935,CZ,Czech Republic
+917,Perranporth Airfield,EGTP,50.3317,-5.1775,GB,United Kingdom
+918,Weed,KO46,41.4808,-122.4545,US,United States Of America
+919,Para Field,K4Y8,43.2022,-82.7539,US,United States Of America
+920,Moss  Rygge,ENRY,59.3789,10.7856,NO,Norway
+921,Alcoota Station,YALC,-22.8333,134.45,AU,Australia
+922,Smith Prairie,K2U0,43.4984,-115.547,US,United States Of America
+923,Warren / Woodlands,CKX2,50.1594,-97.5911,CA,Canada
+924,Bear Creek Ranch,5TS8,29.8086,-98.2725,US,United States Of America
+925,Rosetown,CJX4,51.5644,-107.918,CA,Canada
+926,Borovaya Airfield,UMMB,53.57,27.39,BY,Belarus
+927,Fazenda Parnaiba,SNYF,-8.5056,-46.1219,BR,Brazil
+928,Flers Saint Paul,LFOG,48.7525,-0.5894,FR,France
+929,Audubon County,KADU,41.7015,-94.9204,US,United States Of America
+930,In Salah,DAUI,27.251,2.512,DZ,Algeria
+931,Big Oaks Ranch,6FD2,28.6669,-81.0845,US,United States Of America
+932,Shulls,2PA8,40.3001,-77.2997,US,United States Of America
+933,Christensen Ranch,9CL2,36.8716,-121.3372,US,United States Of America
+934,Savvatiya Air Base,ULKS,60.995,46.87,RU,Russia
+935,Lebanon State,KS30,44.5311,-122.9297,US,United States Of America
+936,Bayovar,SPBY,-5.8307,-81.0258,PE,Peru
+937,Ten. Cel. Aviador Cesar Bombonato,SBUL,-18.8836,-48.2253,BR,Brazil
+938,Ghanzi,FBGZ,-21.6925,21.6581,BW,Botswana
+939,Camp Pendleton Mcas (Munn Field),KNFG,33.3013,-117.3552,US,United States Of America
+940,Baimuru,AYBA,-7.4969,144.8199,PG,Papua New Guinea
+941,Denham Aerodrome,EGLD,51.5883,-0.5131,GB,United Kingdom
+942,Mundo Novo,SSQN,-11.7722,-40.4194,BR,Brazil
+943,Crystal,KMIC,45.0625,-93.354,US,United States Of America
+944,Rio Exploradores,SCEX,-46.3536,-73.3278,CL,Chile
+945,Golden,CYGE,51.2992,-116.982,CA,Canada
+946,Lost Acres,8PN0,39.9386,-77.616,US,United States Of America
+947,Godman Army Air Field,KFTK,37.9071,-85.972,US,United States Of America
+948,Gamal Abdel Nasser,HLGN,31.861,23.907,LY,Libyan Arab Jamahiriya
+949,Ladouanie,SMDO,4.3761,-55.4071,SR,Suriname
+950,Major Gilbert Field,K4R5,46.7887,-90.7587,US,United States Of America
+951,Hilliard Airpark,K01J,30.686,-81.9063,US,United States Of America
+952,Hacienda Carutal,SVHL,9.7167,-66.7833,VE,Venezuela
+953,Doshan Tappeh Air Base,OIID,35.703,51.4751,IR,Iran
+954,Nurmsi,EENI,58.865,25.73,EE,Estonia
+955,Quince Air Base,SPIL,-13.2333,-70.7533,PE,Peru
+956,Guajara-Mirim,SBGM,-10.7864,-65.2848,BR,Brazil
+957,Ray S Miller Army Air Field,KRYM,46.09,-94.3599,US,United States Of America
+958,Cottam,CRB2,42.14,-82.6528,CA,Canada
+959,Shreveport Downtown,KDTN,32.5408,-93.7438,US,United States Of America
+960,Lawles,60OK,35.5024,-98.5092,US,United States Of America
+961,Monte Alegre de Goias,SWML,-13.2497,-46.8714,BR,Brazil
+962,Corning Municipal,KCRZ,40.9941,-94.755,US,United States Of America
+963,Gatesville Municipal,KGOP,31.4209,-97.7965,US,United States Of America
+964,Lifupa,FWLP,-13.05,33.15,MW,Malawi
+965,Leutkirch-Unterzeil,EDNL,47.8589,10.0142,DE,Germany
+966,Hefei Xinqiao International,ZSOF,31.9867,116.975,CN,China
+967,Kurtamysh,USUK,54.915,64.467,RU,Russia
+968,Borazjan,OIBN,29.2667,51.2,IR,Iran
+969,Mandeville Aerodrome,NZVL,-45.9903,168.812,NZ,New Zealand
+970,Fazenda Serrito,SSVQ,-22.4103,-54.9886,BR,Brazil
+971,Anderson Strip,NA65,48.5314,-97.6281,US,United States Of America
+972,Tanjore Air Force Base,VOTJ,10.7224,79.1016,IN,India
+973,Arapiraca,SNAL,-9.7754,-36.6292,BR,Brazil
+974,Aguas Claras,SKOC,8.3151,-73.3583,CO,Colombia
+975,London Biggin Hill,EGKB,51.3308,0.0325,GB,United Kingdom
+976,Cotopaxi International,SELT,-0.9068,-78.6158,EC,Ecuador
+977,Oldenburg-Hatten,EDWH,53.0689,8.3136,DE,Germany
+978,East Six,FLEF,-11.1342,30.0172,ZM,Zambia
+979,Walz,K4KS,37.0452,-98.5702,US,United States Of America
+980,Aguas Frias,SJXH,-27.2169,-53.2725,BR,Brazil
+981,Rock Ridge,2OK3,35.0981,-97.7425,US,United States Of America
+982,Fazenda Nova,SNGO,-19.0478,-48.5822,BR,Brazil
+983,Sandy Creek,73TX,30.5695,-95.4824,US,United States Of America
+984,Fly8Ma Pilot Lodge,57AK,61.5843,-149.8038,US,United States Of America
+985,Big Island,ID29,46.6974,-115.9838,US,United States Of America
+986,Tentena,WAMC,-2.0,120.7667,ID,Indonesia
+987,Bakers Field,MI88,42.7322,-85.9053,US,United States Of America
+988,Noumerat - Moufdi Zakaria,DAUG,32.3841,3.7941,DZ,Algeria
+989,Fazenda Sao Marco,SWSK,3.0497,-60.4839,BR,Brazil
+990,Williamsburg-Jamestown,KJGG,37.2392,-76.7161,US,United States Of America
+991,Eastview,WV67,39.3947,-78.6794,US,United States Of America
+992,Hollow Top,K0U7,43.3237,-113.5905,US,United States Of America
+993,Fazenda Vista Verde,SWUR,-8.4917,-44.3894,BR,Brazil
+994,Roxana Farms,MRRX,10.3082,-83.7543,CR,Costa Rica
+995,Semnan New,OI21,35.3894,53.6714,IR,Iran
+996,Fazenda Mata Assombrada,SILW,-21.7272,-56.5092,BR,Brazil
+997,Omarama Glider,NZOA,-44.4867,169.986,NZ,New Zealand
+998,Dew Drop,05TS,33.1293,-97.3586,US,United States Of America
+999,Lost Creek,K5Y4,44.66,-84.2375,US,United States Of America
+1000,Aasiaat,BGAA,68.7218,-52.7847,GL,Greenland
+1001,Luzamba,FNLZ,-9.116,18.0493,AO,Angola
+1002,Charles Field,NC22,35.2275,-78.5552,US,United States Of America
+1003,Alfred C 'Bubba' Thomas,KT69,28.0386,-97.5425,US,United States Of America
+1004,Key Way,19WA,45.7196,-121.8862,US,United States Of America
+1005,Chapin Field,K1B8,43.0527,-73.3631,US,United States Of America
+1006,Wilding Farm,6WA5,48.5756,-122.9436,US,United States Of America
+1007,Espinho,LPIN,40.9742,-8.6444,PT,Portugal
+1008,Mainz-Finthen,EDFZ,49.9675,8.1472,DE,Germany
+1009,Catlett Farms,9AR1,34.9335,-93.5172,US,United States Of America
+1010,HUDDERSFIELD (Crosland Moor),EGND,53.6217,-1.8303,GB,United Kingdom
+1011,Deweze,5KS3,37.2795,-98.0181,US,United States Of America
+1012,Aire Parque,42MO,38.1231,-90.389,US,United States Of America
+1013,Cooch Behar,VECO,26.3305,89.4672,IN,India
+1014,Hsh Airstrip,5OK9,35.7219,-97.2047,US,United States Of America
+1015,Hidden Springs Ranch,94TS,33.2101,-95.5327,US,United States Of America
+1016,Uniao da Vitoria,SSUV,-26.2334,-51.0678,BR,Brazil
+1017,Northern Lite,00WI,44.3043,-89.0501,US,United States Of America
+1018,Perry Ranch,4TA8,30.6168,-101.017,US,United States Of America
+1019,Eucla,YECL,-31.7,128.883,AU,Australia
+1020,Burntwood Ranch,FL43,28.2738,-81.9304,US,United States Of America
+1021,Clayton Lake Strip,ME19,46.6161,-69.5223,US,United States Of America
+1022,Kakamas,FAKK,-28.8,20.633,ZA,South Africa
+1023,Dupage,KDPA,41.9071,-88.248,US,United States Of America
+1024,Mile 422 (Alaska Highway),CBK7,58.8494,-125.24,CA,Canada
+1025,Eaglesham (South),CGL4,55.6711,-117.936,CA,Canada
+1026,Greenbluff Meadows,67WA,47.8265,-117.2669,US,United States Of America
+1027,Tamga,UAFA,42.1531,77.5639,KG,Kyrgyzstan
+1028,Ja Field,SC58,34.7443,-80.3889,US,United States Of America
+1029,Mc Gehee Municipal,K7M1,33.6202,-91.3648,US,United States Of America
+1030,Russell,NY51,42.8701,-74.4993,US,United States Of America
+1031,Kalvacha,LBKL,42.5863,25.4263,BG,Bulgaria
+1032,Pensacola Nas (Forrest Sherman Field),KNPA,30.3533,-87.318,US,United States Of America
+1033,E T Field,NC71,34.9179,-79.0525,US,United States Of America
+1034,Muskoka,CYQA,44.9747,-79.3033,CA,Canada
+1035,Ventersdorp,FAVE,-26.3009,26.8142,ZA,South Africa
+1036,Becks Grove,KK16,43.2508,-75.6044,US,United States Of America
+1037,Wheeler-Sack Army Air Field,KGTB,44.0556,-75.7199,US,United States Of America
+1038,Wolverton's Field,30MI,41.8592,-86.3278,US,United States Of America
+1039,Perry County,KI86,39.6916,-82.1978,US,United States Of America
+1040,Threshing Bee,5KS1,39.1938,-95.2163,US,United States Of America
+1041,Warner-Thunder Hill,23LA,30.6308,-90.0802,US,United States Of America
+1042,Portimao,LPPM,37.1493,-8.584,PT,Portugal
+1043,Comanche Hills Ranch,71XS,31.1669,-98.2458,US,United States Of America
+1044,Willow Conocophillips,42AK,70.1109,-152.1298,US,United States Of America
+1045,Along,VEAN,28.1753,94.802,IN,India
+1046,Hilltop,2OA6,40.0865,-81.5882,US,United States Of America
+1047,Weaver,MT54,48.2439,-114.2443,US,United States Of America
+1048,Cedar City Regional,KCDC,37.701,-113.0989,US,United States Of America
+1049,Guiscriff Scaer,LFES,48.0525,-3.6647,FR,France
+1050,Norwood Memorial,KOWD,42.1905,-71.1729,US,United States Of America
+1051,Gold Creek,2MT9,46.5231,-112.9898,US,United States Of America
+1052,Costa Marques,SWCQ,-12.4211,-64.2516,BR,Brazil
+1053,Melton Field,4TN0,36.1519,-83.7328,US,United States Of America
+1054,Perth/Scone,EGPT,56.4392,-3.3722,GB,United Kingdom
+1055,Richmond,FARM,-31.4235,23.9782,ZA,South Africa
+1056,Bison Municipal,K6V5,45.5183,-102.4678,US,United States Of America
+1057,Arboga,ESQO,59.3866,15.9241,SE,Sweden
+1058,Ruby Valley Field,KRVF,45.5354,-112.3023,US,United States Of America
+1059,Jakes Bar,KAK0,61.2189,-142.8912,US,United States Of America
+1060,New Market,K8W2,38.656,-78.7085,US,United States Of America
+1061,Jim Hamilton L B Owens,KCUB,33.9705,-80.9952,US,United States Of America
+1062,Neversweat,1OK0,35.8945,-96.2794,US,United States Of America
+1063,Cottage Grove State,K61S,43.8041,-123.0321,US,United States Of America
+1064,Stacey's,WA42,47.972,-122.7721,US,United States Of America
+1065,Xiguan,ZLSN,34.3767,109.12,CN,China
+1066,Mushie,FZBJ,-3.0,16.933,CD,"Congo, the Democratic Republic of the"
+1067,Schneider Haven Airstrip,NC75,35.8983,-80.7203,US,United States Of America
+1068,Naquin Field,78LA,29.7352,-90.7007,US,United States Of America
+1069,Youvan,7KS3,37.5292,-94.6961,US,United States Of America
+1070,Chippewa Valley Regional,KEAU,44.8658,-91.4843,US,United States Of America
+1071,Thomas Municipal,K1O4,35.7337,-98.7305,US,United States Of America
+1072,Fazenda Constancia,SDFC,-20.4886,-49.1881,BR,Brazil
+1073,Les Cayes,MTCA,18.2711,-73.7883,HT,Haiti
+1074,Fazenda Liberdade,SWLI,-17.0081,-56.4661,BR,Brazil
+1075,Weidner,4IS9,39.0859,-89.9589,US,United States Of America
+1076,Lasham,EGHL,51.1872,-1.0335,GB,United Kingdom
+1077,Oshawa,CYOO,43.9228,-78.895,CA,Canada
+1078,Puerto Ingeniero Ibanez,SCII,-46.2858,-71.9478,CL,Chile
+1079,Yolo County,KDWA,38.5794,-121.8569,US,United States Of America
+1080,Rapaco II,MHRA,14.0736,-86.91,HN,Honduras
+1081,Daviess County,KDCY,38.7004,-87.1314,US,United States Of America
+1082,Fazenda Ramalhete,SWVU,-21.7333,-54.5767,BR,Brazil
+1083,Terrell Municipal,KTRL,32.7085,-96.2671,US,United States Of America
+1084,Lampson Field,K1O2,38.9906,-122.9007,US,United States Of America
+1085,Mexico Farms,K1W3,39.606,-78.7605,US,United States Of America
+1086,Cleve,YCEE,-33.7097,136.505,AU,Australia
+1087,Hyampom,KH47,40.6256,-123.4685,US,United States Of America
+1088,Al Khadim,HL59,31.9985,21.1918,LY,Libyan Arab Jamahiriya
+1089,Randle-Kiona Airpark,WN55,46.5115,-122.0062,US,United States Of America
+1090,Drennan,3XA0,32.3139,-97.2311,US,United States Of America
+1091,Argyle,K1C3,43.2545,-73.4702,US,United States Of America
+1092,Stuart Powell Field,KDVK,37.5776,-84.7695,US,United States Of America
+1093,Boende,FZGN,-0.217,20.85,CD,"Congo, the Democratic Republic of the"
+1094,Omar N Bradley,KMBY,39.4632,-92.4259,US,United States Of America
+1095,Tipella,CBB7,49.7431,-122.163,CA,Canada
+1096,St. Andre-Avellin,CAA2,45.7464,-75.0758,CA,Canada
+1097,Pormpuraaw,YPMP,-14.8967,141.609,AU,Australia
+1098,Koffee Bay,FAKF,-31.9639,29.1491,ZA,South Africa
+1099,Souris Glenwood Industrial Air Park,CJX5,49.6333,-100.2,CA,Canada
+1100,Prade Ranch,57TE,29.9388,-99.7834,US,United States Of America
+1101,Linda's Roost,2ID2,43.9544,-113.6472,US,United States Of America
+1102,Roberts Farm,CT85,41.8898,-72.6151,US,United States Of America
+1103,Robinson Field,8IN2,39.6233,-86.0314,US,United States Of America
+1104,Vilankulo,FQVL,-22.0184,35.3133,MZ,Mozambique
+1105,Dexter Field,62KS,38.3586,-96.491,US,United States Of America
+1106,Fazenda Tucano,SJTU,-13.5828,-57.5594,BR,Brazil
+1107,Bacolod-Silay City International,RPVB,10.7764,123.015,PH,Philippines
+1108,Harlequin Lake,KA67,59.4144,-139.0337,US,United States Of America
+1109,Rusty Crankshaft,2NE3,40.6063,-96.6213,US,United States Of America
+1110,Triple B Ranch,42XS,27.9588,-98.4038,US,United States Of America
+1111,Farm Air Service,XS27,30.0377,-94.396,US,United States Of America
+1112,Koongarra,YKOG,-36.0,142.217,AU,Australia
+1113,Beaufort Mcas (Merritt Field),KNBC,32.4806,-80.7192,US,United States Of America
+1114,La Tour Du Pin,LFKP,45.56,5.3847,FR,France
+1115,Shear,63NY,43.2593,-78.9656,US,United States Of America
+1116,Udon Thani,VTUD,17.3864,102.788,TH,Thailand
+1117,Menorca,LEMH,39.8626,4.2186,ES,Spain
+1118,Torrington Municipal,KTOR,42.0644,-104.1527,US,United States Of America
+1119,Wellclose,YWEC,-25.85,145.1,AU,Australia
+1120,Posto de Protecao Ambiental Nossa Senhora do Carmo,SWWJ,-16.6808,-56.2992,BR,Brazil
+1121,Cabo San Lucas International,MMSL,22.9477,-109.937,MX,Mexico
+1122,Trump Mtn,49NK,42.7933,-78.2922,US,United States Of America
+1123,Schumacher Strip,0ND6,46.055,-99.9171,US,United States Of America
+1124,Fazenda Dinora,SIFE,-23.4164,-50.6008,BR,Brazil
+1125,Pudasjarvi,EFPU,65.4022,26.9469,FI,Finland
+1126,El Ceibo,MREO,10.5333,-83.85,CR,Costa Rica
+1127,Mwalimu Julius K. Nyerere International,HTDA,-6.8781,39.2026,TZ,"Tanzania, United Republic of"
+1128,Gray,07IN,39.5737,-85.9139,US,United States Of America
+1129,Filabusi,FVFI,-20.533,29.267,ZW,Zimbabwe
+1130,Peterson,ND86,48.5639,-103.9631,US,United States Of America
+1131,Estancia Machado,SDEM,-22.1011,-51.4517,BR,Brazil
+1132,Andradina,SDDN,-20.925,-51.382,BR,Brazil
+1133,Rosevale Resort,YRSV,-27.1333,145.9,AU,Australia
+1134,Palmas del Espino,SPPN,-8.2926,-76.4396,PE,Peru
+1135,Alpine-Casparis Municipal,KE38,30.3842,-103.6836,US,United States Of America
+1136,Adams,90PA,41.8792,-78.115,US,United States Of America
+1137,Navrongo,DGLN,10.9,-1.1,GH,Ghana
+1138,Los Garzones,SKMR,8.8237,-75.8258,CO,Colombia
+1139,Majors,KGVT,33.0678,-96.0653,US,United States Of America
+1140,Pelaneng,FXPG,-29.1206,28.5053,LS,Lesotho
+1141,Nutwood Downs,YNUT,-15.8167,134.15,AU,Australia
+1142,Stefanik,PA36,40.4529,-75.2038,US,United States Of America
+1143,Lake Ridge Aero Park,8NC8,36.0601,-78.7833,US,United States Of America
+1144,Marutea,NTGS,-21.4822,-135.6371,PF,French Polynesia
+1145,Fazenda Ouro Verde,SNVY,-23.9769,-55.3653,BR,Brazil
+1146,Fazenda Jatobasso,SIDG,-22.4292,-55.5333,BR,Brazil
+1147,Mafeteng,FXMF,-29.8011,27.2436,LS,Lesotho
+1148,Kudahuvadhoo Dhaalu,VRMU,2.6661,72.8863,MV,Maldives
+1149,Johnson,NA12,47.4317,-100.8415,US,United States Of America
+1150,Fazenda Taruma,SWIL,-17.0158,-54.3497,BR,Brazil
+1151,Chepica,SCEK,-34.7397,-71.3247,CL,Chile
+1152,Fazenda Agua Fria,SNPN,-21.0303,-50.9258,BR,Brazil
+1153,Center Municipal,KF17,31.8316,-94.1564,US,United States Of America
+1154,Pinelli,67MI,41.9979,-85.8535,US,United States Of America
+1155,Ivalo,EFIV,68.6073,27.4053,FI,Finland
+1156,Kingston Norman Rogers,CYGK,44.2253,-76.5969,CA,Canada
+1157,Peterson Field,7AL2,33.8648,-86.3108,US,United States Of America
+1158,Tommy's Field,4TN5,36.1508,-82.6325,US,United States Of America
+1159,Fazenda Bandeirantes,SIWM,-17.9914,-49.5353,BR,Brazil
+1160,Cigli,LTBL,38.513,27.0101,TR,Turkey
+1161,Ak-10 Airstrip,AK10,61.7172,-150.1094,US,United States Of America
+1162,Meadstown Airstrip,NC28,36.2002,-76.2358,US,United States Of America
+1163,Izmail International,UKOI,45.3917,28.8017,UA,Ukraine
+1164,Reese,K7I2,40.1552,-85.3189,US,United States Of America
+1165,Orange Municipal,KORE,42.57,-72.2885,US,United States Of America
+1166,Lefroy,CPQ4,44.2919,-79.5473,CA,Canada
+1167,Pardoo,YPDO,-20.1175,119.59,AU,Australia
+1168,Fazenda Santa Maria,SWSM,-15.3583,-57.6944,BR,Brazil
+1169,Grand View International,WN23,48.1018,-123.1796,US,United States Of America
+1170,Catanduva,SDCD,-21.1492,-48.9887,BR,Brazil
+1171,Ness City Municipal,K48K,38.4738,-99.9091,US,United States Of America
+1172,Twin County,KHLX,36.7661,-80.8236,US,United States Of America
+1173,Soldatskaya Tashla Airfield,UWLS,54.0153,48.306,RU,Russia
+1174,Flying-A-Ranch,K39Z,43.1051,-86.1213,US,United States Of America
+1175,Lincoln Regional,KLRG,45.3618,-68.5345,US,United States Of America
+1176,Warburton,YWBR,-26.1283,126.583,AU,Australia
+1177,Sochi International,URSS,43.4499,39.9566,RU,Russia
+1178,Shantou Waisha,ZGOW,23.4269,116.762,CN,China
+1179,San Juan de Los Morros,SVJM,9.907,-67.3796,VE,Venezuela
+1180,Melanes,BIMN,65.517,-22.4,IS,Iceland
+1181,Ile-a-la-Crosse,CJF3,55.4897,-107.93,CA,Canada
+1182,Gaivota Aviacao Agricola,SICJ,-13.46,-58.775,BR,Brazil
+1183,Fazenda Flamboyant,SDXQ,-20.9069,-51.5756,BR,Brazil
+1184,Franco Bianco,SCSB,-52.7367,-69.3336,CL,Chile
+1185,Siuna,MNSI,13.7272,-84.7778,NI,Nicaragua
+1186,Borisoglebskoye,UWKG,55.8667,49.1333,RU,Russia
+1187,Talje,ESUJ,62.5653,15.8347,SE,Sweden
+1188,South Naknek Nr 2,PFWS,58.7021,-157.0026,US,United States Of America
+1189,Page,WA10,46.0165,-118.3705,US,United States Of America
+1190,Desroches,FSDR,-5.6967,53.6558,SC,Seychelles
+1191,Apurito,SVAP,7.9188,-68.483,VE,Venezuela
+1192,Ridgeview Ranch,MO37,38.7231,-94.3819,US,United States Of America
+1193,Yakubu Gowon,DNJO,9.6398,8.8691,NG,Nigeria
+1194,Chamberlain Usfs,KU79,45.3791,-115.1968,US,United States Of America
+1195,B&B Farm,MA89,42.3461,-72.1039,US,United States Of America
+1196,Montbeliard-Courcelles,LFSM,47.487,6.7905,FR,France
+1197,De Lesseps Lake,CKF9,50.7175,-90.6836,CA,Canada
+1198,Moba,FZRB,-7.067,29.783,CD,"Congo, the Democratic Republic of the"
+1199,Tinfields,FVTD,-19.95,31.433,ZW,Zimbabwe
+1200,San Ignacio de Moxos,SLSM,-14.0,-65.6339,BO,Bolivia
+1201,Briar Patch,9GA1,32.4489,-81.3369,US,United States Of America
+1202,Sixatigni,MHSX,15.1836,-84.3697,HN,Honduras
+1203,Ormond Beach Municipal,KOMN,29.3011,-81.1138,US,United States Of America
+1204,Gray St Adrien,LFEV,47.4333,5.6228,FR,France
+1205,Lee Creek,56IL,42.4621,-88.8751,US,United States Of America
+1206,Dandong,ZYDD,40.0247,124.286,CN,China
+1207,Tri-County Air Service,XS58,30.0441,-94.7058,US,United States Of America
+1208,Cibeureum,WICM,-7.3466,108.246,ID,Indonesia
+1209,Centerville Municipal,KGHM,35.8374,-87.4454,US,United States Of America
+1210,Tedderfield Air Park,FATA,-26.352,27.969,ZA,South Africa
+1211,Fergus Falls Municipal/Einar Mickelson Field,KFFM,46.2844,-96.1567,US,United States Of America
+1212,Cleveland Regional Jetport,KRZR,35.2123,-84.7992,US,United States Of America
+1213,Edwaki,AYED,-3.884,141.7922,PG,Papua New Guinea
+1214,Lauterbach,EDFT,50.6833,9.4108,DE,Germany
+1215,Aero Agricola Cristalina,SJCN,-16.9069,-47.7083,BR,Brazil
+1216,Roseberth,YRSB,-25.8333,139.65,AU,Australia
+1217,B-8 Farms,IA58,42.115,-96.172,US,United States Of America
+1218,Reno/Tahoe International,KRNO,39.4991,-119.7681,US,United States Of America
+1219,Fulton County,KRCR,41.0655,-86.1817,US,United States Of America
+1220,Fazenda Gaia,SJFV,-18.76,-48.7553,BR,Brazil
+1221,Kelafo East,HAKL,5.657,44.35,ET,Ethiopia
+1222,New Poverty Flats,NH61,42.9675,-71.1812,US,United States Of America
+1223,Ashiya,RJFA,33.8831,130.653,JP,Japan
+1224,Bartsch,92PN,41.0682,-80.2947,US,United States Of America
+1225,Griffin,0IL2,38.8031,-88.9978,US,United States Of America
+1226,Ghat,HLGT,25.1456,10.1426,LY,Libyan Arab Jamahiriya
+1227,Big Cypress Airfield,59FD,26.3262,-80.988,US,United States Of America
+1228,Earl Barnickel,IL88,41.675,-89.1168,US,United States Of America
+1229,Sky Hollow,WS91,43.2086,-90.6637,US,United States Of America
+1230,Hoy Airstrip,76CO,39.8358,-104.4222,US,United States Of America
+1231,Nanur,HL83,31.7052,14.9116,LY,Libyan Arab Jamahiriya
+1232,Galler's,75MN,44.1866,-93.7141,US,United States Of America
+1233,Chatsworth,YCWO,-37.8333,142.717,AU,Australia
+1234,Cleveland Municipal,K6R3,30.3564,-95.008,US,United States Of America
+1235,Kedougou,GOTK,12.5723,-12.2203,SN,Senegal
+1236,Prachuap Khiri Khan,VTBN,12.4172,99.8694,TH,Thailand
+1237,Lamen Bay,NVSM,-16.5842,168.159,VU,Vanuatu
+1238,Iron Mountain Pumping Plant,72CL,34.1342,-115.1191,US,United States Of America
+1239,Mobil Bistcho,CFV3,59.4747,-119.0061,CA,Canada
+1240,Southern California Logistics,KVCV,34.5975,-117.383,US,United States Of America
+1241,Ernabella,YERN,-26.2633,132.182,AU,Australia
+1242,Nea Anchialos,LGBL,39.2196,22.7943,GR,Greece
+1243,Gelendzhik,URKG,44.5821,38.0125,RU,Russia
+1244,Clear Creek Int,79ID,46.0489,-115.8699,US,United States Of America
+1245,Clonagh,YCGH,-20.1333,140.683,AU,Australia
+1246,Leavitt,NH38,43.9726,-71.1698,US,United States Of America
+1247,Samsun Carsamba,LTFH,41.2545,36.5671,TR,Turkey
+1248,Edward Getzelman,7IL7,42.1267,-88.5334,US,United States Of America
+1249,EMAL - Pimenta Bueno,SJPA,-11.6861,-60.6297,BR,Brazil
+1250,Doaktown,CDU6,46.5525,-66.0939,CA,Canada
+1251,Rajiv Gandhi International  Shamshabad,VOHS,17.2313,78.4299,IN,India
+1252,Santa Rosa,SSZR,-27.9067,-54.5204,BR,Brazil
+1253,Ipeke,FZBU,-2.483,18.25,CD,"Congo, the Democratic Republic of the"
+1254,Heraklion International Nikos Kazantzakis,LGIR,35.3397,25.1803,GR,Greece
+1255,Maloquinha,SJLN,4.7269,-60.5906,BR,Brazil
+1256,Aurangabad,VAAU,19.8627,75.3981,IN,India
+1257,Mizan Teferi,HAMT,6.9571,35.5547,ET,Ethiopia
+1258,Green Lake Ranch,69TX,28.5896,-96.8473,US,United States Of America
+1259,Iberlin Strip,WY23,44.0733,-106.2659,US,United States Of America
+1260,Cap Justiniano Montenegro,MP00,7.5569,-80.0233,PA,Panama
+1261,Wentworth,YWWH,-22.1,147.7,AU,Australia
+1262,Batman,LTCJ,37.929,41.1166,TR,Turkey
+1263,Angel Albino Corzo International,MMTG,16.5636,-93.0225,MX,Mexico
+1264,Flying D Ranch,TX94,33.4527,-97.2756,US,United States Of America
+1265,Border Village,YBOV,-31.6394,129.012,AU,Australia
+1266,El Ronco,MSRC,14.3187,-89.5069,SV,El Salvador
+1267,Penza,UWPP,53.1106,45.0211,RU,Russia
+1268,Paiute Meadows,02NV,41.3006,-118.9283,US,United States Of America
+1269,Indian Mountain Lrrs,PAIM,65.9928,-153.7035,US,United States Of America
+1270,Plettenberg Bay,FAPG,-34.0903,23.3278,ZA,South Africa
+1271,R J C Farms Inc,SN55,38.2173,-101.0027,US,United States Of America
+1272,Kitimat,CBW2,54.1639,-128.581,CA,Canada
+1273,Prati Vecchi D'Aguscello,LIDV,44.7903,11.6692,IT,Italy
+1274,Wausau Downtown,KAUW,44.9263,-89.627,US,United States Of America
+1275,Willie's,23WN,45.9111,-91.6285,US,United States Of America
+1276,Fazenda Vista Alegre,SWVE,-9.7886,-68.0072,BR,Brazil
+1277,Air Estates Inc,LL09,42.2806,-88.0945,US,United States Of America
+1278,Millington/Memphis,KNQA,35.3566,-89.8704,US,United States Of America
+1279,Fazenda Cedro,SSVJ,-21.8708,-55.7475,BR,Brazil
+1280,Bull Farm,VG33,37.1546,-75.9569,US,United States Of America
+1281,En Gedi Ranch,XA96,35.6625,-100.3239,US,United States Of America
+1282,Caraz,SPAA,-9.0514,-77.8101,PE,Peru
+1283,Ocean Ridge,KE55,38.8017,-123.5306,US,United States Of America
+1284,Darwaz,OADZ,38.4611,70.8825,AF,Afghanistan
+1285,Knox Landing,87NE,40.8092,-97.5878,US,United States Of America
+1286,Sweetbriar,83OK,35.2568,-94.578,US,United States Of America
+1287,Fazenda Cacadinha,SSCM,-21.6239,-54.8108,BR,Brazil
+1288,Blue Canyon - Nyack,KBLU,39.275,-120.7097,US,United States Of America
+1289,"Costello Island, Inc",4TA3,32.8987,-98.4601,US,United States Of America
+1290,Bergamo / Orio Al Serio,LIME,45.6739,9.7042,IT,Italy
+1291,Peaceful Cove,14ID,43.6707,-116.2112,US,United States Of America
+1292,Melin Farms,3WI6,42.5901,-88.8746,US,United States Of America
+1293,Isle,MY72,46.1597,-93.4613,US,United States Of America
+1294,Aleknagik Mission Strip,4AK7,59.2809,-158.5972,US,United States Of America
+1295,Fazenda Santa Maria,SSIG,-20.27,-55.7283,BR,Brazil
+1296,Terry Field,74KY,36.8987,-88.8467,US,United States Of America
+1297,Stockwell Field,MU03,39.7146,-93.1402,US,United States Of America
+1298,Sale,YSLT,-38.1167,147.075,AU,Australia
+1299,Maya-Maya,FCBB,-4.2517,15.253,CG,Congo
+1300,Dr C P Savage Sr,K53A,32.3031,-84.0075,US,United States Of America
+1301,Bom Jesus,SNQL,-15.735,-57.3464,BR,Brazil
+1302,Raymond Field,MI58,44.7433,-83.7084,US,United States Of America
+1303,Midland,50IL,42.4889,-88.1743,US,United States Of America
+1304,Carimagua,SKCI,4.5642,-71.3364,CO,Colombia
+1305,Mott Municipal,K3P3,46.3592,-102.3282,US,United States Of America
+1306,Altamira,MNAM,12.1106,-85.7605,NI,Nicaragua
+1307,Wellesbourne Mountford,EGBW,52.1922,-1.6144,GB,United Kingdom
+1308,Tradewind Ag,8TE8,29.1628,-96.2252,US,United States Of America
+1309,Buie Field,9NR8,34.7922,-79.1979,US,United States Of America
+1310,Fazenda Sant`anna do Apa,SSSA,-22.0267,-56.1936,BR,Brazil
+1311,Vinasutil,SCSV,-34.4489,-71.3858,CL,Chile
+1312,Campbell Field,44IN,40.1238,-87.2105,US,United States Of America
+1313,Loma De Cometa,66TX,28.6766,-100.0239,US,United States Of America
+1314,Arrabury,YARY,-26.7,141.05,AU,Australia
+1315,Nizhneyansk,UEBN,71.437,136.19,RU,Russia
+1316,Ahwaz,OIAW,31.3374,48.762,IR,Iran
+1317,Tommy's Airpark,9LL5,39.6511,-89.4586,US,United States Of America
+1318,Hato Mikitole,SVNK,8.4178,-63.5678,VE,Venezuela
+1319,Grimes,K8N1,40.4848,-76.2636,US,United States Of America
+1320,Paducah,2TS5,34.0233,-100.3436,US,United States Of America
+1321,Karpogory,ULAP,64.013,44.455,RU,Russia
+1322,Merrys Pymatuning,PA01,41.6751,-80.4345,US,United States Of America
+1323,Greeley Municipal,NE46,41.5575,-98.5461,US,United States Of America
+1324,Flugplatz,K7MI,43.3417,-82.5483,US,United States Of America
+1325,Shahid Ashrafi Esfahani,OICC,34.3459,47.1581,IR,Iran
+1326,Luxeuil-Saint-Sauveur (BA 116) Air Base,LFSX,47.7831,6.3641,FR,France
+1327,Bottineau Municipal,KD09,48.8305,-100.4173,US,United States Of America
+1328,Jim & Peg,61IS,41.0548,-88.3873,US,United States Of America
+1329,Mc Connell Field,04NE,41.16,-101.2991,US,United States Of America
+1330,Nimes-Arles-Camargue,LFTW,43.7574,4.4163,FR,France
+1331,San Antonio De Los Banos,MUSA,22.8715,-82.5093,CU,Cuba
+1332,Digby / Annapolis Regional,CYID,44.5458,-65.7854,CA,Canada
+1333,Dodji,GO66,15.5439,-14.9583,SN,Senegal
+1334,Oldham County,KE52,35.2307,-102.3988,US,United States Of America
+1335,Dawson Private Strip,40TS,27.4448,-97.9059,US,United States Of America
+1336,Sanguesa,LESG,42.5656,-1.2847,ES,Spain
+1337,Bonriki International,NGTA,1.3816,173.147,KI,Kiribati
+1338,G Bray,34IL,40.3625,-90.1085,US,United States Of America
+1339,Manokotak,PAMB,58.9321,-158.9019,US,United States Of America
+1340,Clum,8OI5,39.8817,-82.4146,US,United States Of America
+1341,Ardmore Municipal,KADM,34.3039,-97.0206,US,United States Of America
+1342,North Central West Virginia,KCKB,39.2977,-80.2275,US,United States Of America
+1343,Posorja,SEPO,-2.682,-80.2756,EC,Ecuador
+1344,Fazenda Cruzeiro,SJDA,-19.1922,-48.1172,BR,Brazil
+1345,Elk Point,CEJ6,53.8931,-110.772,CA,Canada
+1346,Aero Acres,FD88,27.342,-80.522,US,United States Of America
+1347,Bluebird,03OL,35.0123,-97.7027,US,United States Of America
+1348,Georgetown-Scott County Regional,K27K,38.2344,-84.4347,US,United States Of America
+1349,Santa Cruz del Quiche,MGQC,15.0122,-91.1506,GT,Guatemala
+1350,Derim,AYDE,-6.1447,147.1072,PG,Papua New Guinea
+1351,Berlin Regional,KBML,44.5754,-71.1759,US,United States Of America
+1352,Lubudi,FZQU,-9.933,26.0,CD,"Congo, the Democratic Republic of the"
+1353,Ugnu-Kuparuk,PAKU,70.3307,-149.5981,US,United States Of America
+1354,Sanda,BISA,65.1344,-19.6631,IS,Iceland
+1355,Wapum,SJNE,1.99,-59.9572,BR,Brazil
+1356,R S  Auto,6IA7,40.9904,-91.7442,US,United States Of America
+1357,Oltipesi,HTOL,-4.2877,36.6161,TZ,"Tanzania, United Republic of"
+1358,Orr,24NE,42.3839,-102.4388,US,United States Of America
+1359,Fazenda Sao Jose do Piquiri,SISJ,-17.4542,-55.5592,BR,Brazil
+1360,Fitzgerald Municipal,KFZG,31.6839,-83.2709,US,United States Of America
+1361,Talagi,ULAA,64.6003,40.7167,RU,Russia
+1362,Cacique Aramare,SVPA,5.62,-67.6061,VE,Venezuela
+1363,Lenakel,NVVK,-19.513,169.26,VU,Vanuatu
+1364,Coyote Crossing,TA26,32.2964,-97.0568,US,United States Of America
+1365,Jaffrey Airfield Silver Ranch,KAFN,42.8051,-72.003,US,United States Of America
+1366,Blackwater Airfield,8FD3,30.8777,-86.8544,US,United States Of America
+1367,Sabot,1VA0,37.6293,-77.7475,US,United States Of America
+1368,Bucks,K00N,39.473,-75.1844,US,United States Of America
+1369,Santa Maria Pub/Capt G Allan Hancock Field,KSMX,34.8999,-120.4581,US,United States Of America
+1370,Fazenda Cachoeira Preta,SJWW,-20.0214,-53.2161,BR,Brazil
+1371,Narsarsuaq,BGBW,61.1605,-45.426,GL,Greenland
+1372,Kisumu,HKKI,-0.0861,34.7289,KE,Kenya
+1373,Ridge,IA01,41.3514,-95.4664,US,United States Of America
+1374,Atley,YATY,-28.2167,119.25,AU,Australia
+1375,Tongliao,ZBTL,43.5567,122.2,CN,China
+1376,Desvio Potrerillos,MHPS,14.5958,-86.15,HN,Honduras
+1377,Pia,YPIX,-27.1917,116.292,AU,Australia
+1378,Mlada Boleslav,LKMB,50.3983,14.8983,CZ,Czech Republic
+1379,Fazenda Cocal,SWGV,-12.8019,-52.6078,BR,Brazil
+1380,Stanwix Heights,5NY4,43.1576,-75.4307,US,United States Of America
+1381,Rudi Kappel,SMTB,3.783,-56.15,SR,Suriname
+1382,Oyen Municipal,CED3,51.3342,-110.491,CA,Canada
+1383,Waka Waka,FLWW,-12.4504,32.257,ZM,Zambia
+1384,Bacau,LRBC,46.5219,26.9103,RO,Romania
+1385,Fazenda Santa Claudina,SSVL,-22.5217,-54.6778,BR,Brazil
+1386,Seafood Warehouse Park,XS77,29.4655,-94.6274,US,United States Of America
+1387,Stanley,K2U7,44.2086,-114.9345,US,United States Of America
+1388,Marupa,SJLS,2.1253,-59.8214,BR,Brazil
+1389,Winter Strip,2MN1,45.0461,-95.4645,US,United States Of America
+1390,Kaiuroo,YKIU,-23.1167,149.367,AU,Australia
+1391,Arłamów,EPAR,49.6575,22.5143,PL,Poland
+1392,Monroe County,KMNV,35.5452,-84.3804,US,United States Of America
+1393,Kildare Aerodrome,EIKH,53.0636,-6.8553,IE,Ireland
+1394,Saladillo,SA36,-35.6081,-59.8164,AR,Argentina
+1395,Horseshoe Landings,CO60,40.1083,-104.4311,US,United States Of America
+1396,Lakeside Airpark,AZ05,33.1125,-112.6617,US,United States Of America
+1397,Bristol Airstrip,2OA1,41.4151,-80.8843,US,United States Of America
+1398,Kinch Farms,WN72,46.8668,-118.3215,US,United States Of America
+1399,Flyers,10IA,42.4167,-92.2502,US,United States Of America
+1400,Green Mountain,WA67,45.6631,-122.4726,US,United States Of America
+1401,Lee,KANP,38.9429,-76.5684,US,United States Of America
+1402,Marculesti International,LUBM,47.8627,28.2128,MD,"Moldova, Republic of"
+1403,Woodbourne,NZWB,-41.5183,173.87,NZ,New Zealand
+1404,Mkwasine,FVKW,-20.8,31.817,ZW,Zimbabwe
+1405,Xining Caojiabu,ZLXN,36.5275,102.043,CN,China
+1406,Hemmingsen,76MN,47.5964,-96.0217,US,United States Of America
+1407,Gwadar International,OPGD,25.2333,62.3295,PK,Pakistan
+1408,Stuart Airstrip,LA51,32.0182,-93.4307,US,United States Of America
+1409,Hawker,12IL,41.2,-88.0167,US,United States Of America
+1410,Pierrefonds,FMEP,-21.3209,55.425,RE,Reunion
+1411,Tazewell County,KJFZ,37.0637,-81.7983,US,United States Of America
+1412,Gangaw,VYGG,22.1747,94.1344,MM,Myanmar
+1413,Aleknagik /New,K5A8,59.2826,-158.6179,US,United States Of America
+1414,Mengen-Hohentengen,EDTM,48.0539,9.3728,DE,Germany
+1415,Gus Landing,AA33,61.6041,-149.7701,US,United States Of America
+1416,Mungindi,YMGI,-28.9667,149.058,AU,Australia
+1417,Fazenda Sao Francisco,SNQP,-20.5675,-50.2303,BR,Brazil
+1418,Goose Bay,KZ40,61.3946,-149.8423,US,United States Of America
+1419,Cachoeira,SNDX,-10.04,-36.3264,BR,Brazil
+1420,Verona / Villafranca,LIPX,45.3957,10.8885,IT,Italy
+1421,Cap FAP David Abenzur Rengifo International,SPCL,-8.3779,-74.5743,PE,Peru
+1422,Brush Creek,8IN7,39.0453,-85.5153,US,United States Of America
+1423,Blackstone,YBSR,-25.9867,128.288,AU,Australia
+1424,Joseph A Hardy Connellsville,KVVS,39.9591,-79.6574,US,United States Of America
+1425,Hullavington Airfield,EGDV,51.5267,-2.1416,GB,United Kingdom
+1426,Msauli,FAMZ,-26.05,31.017,ZA,South Africa
+1427,Gariep Dam,FAHV,-30.5622,25.5283,ZA,South Africa
+1428,Kalannie,YKAE,-30.3667,117.133,AU,Australia
+1429,Worcester Glider,FAWC,-33.6631,19.4153,ZA,South Africa
+1430,Cherokee Municipal,K4O5,36.7883,-98.3584,US,United States Of America
+1431,Mc Cormick County,KS19,33.9081,-82.2669,US,United States Of America
+1432,Rancho Blanco,TE32,27.3086,-99.4814,US,United States Of America
+1433,Botelho,SIQE,-15.9417,-47.7203,BR,Brazil
+1434,Imanpa,YIMA,-25.1333,132.57,AU,Australia
+1435,H R Weisser,92IN,41.4234,-85.8475,US,United States Of America
+1436,Collpani,SLCL,-18.8917,-66.7833,BO,Bolivia
+1437,Sylvanmir Farms,6FL4,29.8211,-83.5732,US,United States Of America
+1438,Ishurdi,VGIS,24.1525,89.0494,BD,Bangladesh
+1439,Escalante Municipal,K1L7,37.7454,-111.5702,US,United States Of America
+1440,Pukaki,NZUK,-44.235,170.118,NZ,New Zealand
+1441,Rainy Pass Lodge,K6AK,62.0841,-152.7175,US,United States Of America
+1442,Norseman,YNSM,-32.21,121.755,AU,Australia
+1443,Van Pak,K0P1,39.8317,-99.5684,US,United States Of America
+1444,Peasley Field,0ME4,44.7425,-68.4744,US,United States Of America
+1445,Chhatrapati Shivaji International,VABB,19.0887,72.8679,IN,India
+1446,Hamilton Hill,PS47,40.4279,-78.7414,US,United States Of America
+1447,Usinsk,UUYS,66.0047,57.3672,RU,Russia
+1448,Tawau,WBKW,4.3202,118.128,MY,Malaysia
+1449,Fairbanks International,PAFA,64.8154,-147.8567,US,United States Of America
+1450,Yauri,SPIY,-14.8,-71.433,PE,Peru
+1451,Prop Wash Field,ND25,48.0645,-102.9096,US,United States Of America
+1452,Anuradhapura,VCCA,8.3015,80.4279,LK,Sri Lanka
+1453,El Desengano,SLDN,-14.2736,-65.44,BO,Bolivia
+1454,Bougouni,GABG,11.45,-7.517,ML,Mali
+1455,Geelong,YGLG,-38.225,144.333,AU,Australia
+1456,Groote Eylandt,YGTE,-13.975,136.46,AU,Australia
+1457,Panhandle-Carson County,KT45,35.3617,-101.3651,US,United States Of America
+1458,Rohnerville,KFOT,40.5539,-124.1327,US,United States Of America
+1459,Zaliv Kresta,UHME,66.3584,-179.1077,RU,Russia
+1460,Fazenda Santa Olinda,SSUQ,-20.755,-55.0433,BR,Brazil
+1461,Brussels South Charleroi,EBCI,50.4592,4.4538,BE,Belgium
+1462,Tinker Afb,KTIK,35.4147,-97.3866,US,United States Of America
+1463,Hungry Ridge Ranch,37ID,45.7824,-115.938,US,United States Of America
+1464,Stanchester,27FA,27.8062,-82.1414,US,United States Of America
+1465,Moyer,3PA9,40.2968,-75.248,US,United States Of America
+1466,Benton,PA40,41.2001,-76.3872,US,United States Of America
+1467,Marco Fidel Suarez Air Base,SKGB,3.459,-76.4966,CO,Colombia
+1468,Apala,MHAP,14.0108,-86.3892,HN,Honduras
+1469,Counter Terrorism Advanced Training Center,FA02,26.3099,-81.2273,US,United States Of America
+1470,Carman (South),CJS7,49.4803,-98.015,CA,Canada
+1471,Chiloquin State,K2S7,42.5793,-121.879,US,United States Of America
+1472,Maple,MN69,45.0027,-93.6719,US,United States Of America
+1473,La Caminera,LENE,38.6697,-3.3034,ES,Spain
+1474,New Magway,VY02,20.1536,94.9687,MM,Myanmar
+1475,James H Connell Field At Independence Municipal,KIIB,42.4569,-91.9477,US,United States Of America
+1476,Brindisi / Casale,LIBR,40.6576,17.947,IT,Italy
+1477,Jalaluddin,WAMG,0.6371,122.85,ID,Indonesia
+1478,Doongan,YDGN,-15.4,126.3,AU,Australia
+1479,Pilot Pointe Estates,SN52,37.4792,-97.0126,US,United States Of America
+1480,Fuyang Xiguan,ZSFY,32.8822,115.7344,CN,China
+1481,General Jose Maria Yanez International,MMGM,27.969,-110.925,MX,Mexico
+1482,Rafael Cabrera,MUNG,21.8347,-82.7838,CU,Cuba
+1483,Live Oak County,K8T6,28.3628,-98.1165,US,United States Of America
+1484,Realeza,SSRE,-25.8012,-53.5127,BR,Brazil
+1485,West Burke Aerodrome,VT56,44.6131,-71.9809,US,United States Of America
+1486,Everitt,2TX6,33.6818,-101.6685,US,United States Of America
+1487,Fazenda Bela Vista,SSZB,-18.2067,-56.8094,BR,Brazil
+1488,Kroh,WMBH,5.683,100.983,MY,Malaysia
+1489,Jordan Private,SC57,33.5406,-79.5342,US,United States Of America
+1490,Munster Osnabruck,EDDG,52.1346,7.6848,DE,Germany
+1491,Laguna San Rafael,SCRF,-46.6389,-73.85,CL,Chile
+1492,Guthrie County Regional,KGCT,41.687,-94.4351,US,United States Of America
+1493,Mundrabilla Motel,YMDT,-31.8267,128.23,AU,Australia
+1494,Huber,39MI,46.1688,-88.1724,US,United States Of America
+1495,Christiana,FACK,-27.8777,25.2018,ZA,South Africa
+1496,Redcliffe,YRED,-27.2067,153.068,AU,Australia
+1497,Theriot Field,0LS0,29.7497,-90.7358,US,United States Of America
+1498,Fazenda Dona Nenem,SSWZ,-18.5094,-46.2739,BR,Brazil
+1499,Carl Folsom,K14J,31.41,-86.0903,US,United States Of America
