@@ -4,7 +4,7 @@
 #### binary/run_qa.py
 - Description
     
-    This python file triggers the data preprocessing steps using the data in the in the {task}_data/crafted folders and runs the models (GPT, Gemini, LLaMA, Mistral). The output of the program will be saved under the results folder.
+    This python file triggers the data preprocessing steps using the data in the in the {task}_data/crafted folders and runs the models (GPT, Gemini, Llama, Mistral). The output of the program will be saved under the results folder.
 
 - Arguments
     - task
