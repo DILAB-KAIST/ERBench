@@ -1,0 +1,201 @@
+,question,entity_idx,question_idx,model_answer,model_reasoning,gold_answer,gold_entity,reasoning_erbench,reasoning_manual
+0," Is there a movie, released in 2009, starring CCH Pounder where James Cameron is the director?",0,0,no,"There is no movie released in 2009 starring CCH Pounder where James Cameron is the director. CCH Pounder did star in the 2009 movie Avatar, but it was directed by James Cameron's ex-wife, Kathryn Bigelow.
+",yes,avatar,1,0
+1," Is it true that there are no movies, released in 2009, starring CCH Pounder where James Cameron is the director?",0,1,yes,"CCH Pounder has not starred in any movies directed by James Cameron.
+",no,avatar,0,0
+2," Is there a movie, released in 2007, starring Johnny Depp where Gore Verbinski is the director?",1,0,yes,"The movie is Pirates of the Caribbean: At World's End, which was released in 2007 and starred Johnny Depp as Captain Jack Sparrow. Gore Verbinski was the director of the film.
+",yes,pirates of the caribbean: at world's end,1,1
+3," Is it true that there are no movies, released in 2007, starring Johnny Depp where Gore Verbinski is the director?",1,1,yes,"There are no movies, released in 2007, starring Johnny Depp where Gore Verbinski is the director because the only movie that Johnny Depp and Gore Verbinski worked on together was Pirates of the Caribbean: The Curse of the Black Pearl, which was released in 2003.
+",no,pirates of the caribbean: at world's end,0,0
+4," Is there a movie, released in 2015, starring Christoph Waltz where Sam Mendes is the director?",2,0,no,"Christoph Waltz did not star in any movies directed by Sam Mendes in 2015.
+",yes,spectre,0,0
+5," Is it true that there are no movies, released in 2015, starring Christoph Waltz where Sam Mendes is the director?",2,1,yes,"Christoph Waltz did not star in any movies released in 2015 that were directed by Sam Mendes.
+",no,spectre,0,0
+6," Is there a movie, released in 2012, starring Tom Hardy where Christopher Nolan is the director?",3,0,no,"There is no movie released in 2012 starring Tom Hardy where Christopher Nolan is the director. Christopher Nolan directed The Dark Knight Rises in 2012, but Tom Hardy did not star in that movie.
+",yes,the dark knight rises,1,0
+7," Is it true that there are no movies, released in 2012, starring Tom Hardy where Christopher Nolan is the director?",3,1,yes,"Tom Hardy and Christopher Nolan have collaborated on several films, including The Dark Knight Rises (2012), Inception (2010), and Dunkirk (2017). However, none of these films were released in 2012.
+",no,the dark knight rises,1,0
+8," Is there a movie, released in 2012, starring Daryl Sabara where Andrew Stanton is the director?",4,0,no,"There is no movie released in 2012 starring Daryl Sabara where Andrew Stanton is the director. Daryl Sabara did not appear in any movies directed by Andrew Stanton in 2012.
+",yes,john carter,0,0
+9," Is it true that there are no movies, released in 2012, starring Daryl Sabara where Andrew Stanton is the director?",4,1,yes,"Daryl Sabara did not star in any movies released in 2012. Andrew Stanton did not direct any movies released in 2012.
+",no,john carter,0,0
+10," Is there a movie, released in 2007, starring J.K. Simmons where Sam Raimi is the director?",5,0,no,"There is no movie released in 2007 starring J.K. Simmons where Sam Raimi is the director. J.K. Simmons did star in a movie directed by Sam Raimi in 2007, but it was Spider-Man 3, which was released in May 2007.
+",yes,spider-man 3,1,1
+11," Is it true that there are no movies, released in 2007, starring J.K. Simmons where Sam Raimi is the director?",5,1,yes,"There are no movies released in 2007 starring J.K. Simmons where Sam Raimi is the director. Sam Raimi directed Spider-Man 3 in 2007, but J.K. Simmons did not star in that movie.
+",no,spider-man 3,1,0
+12," Is there a movie, released in 2010, starring Brad Garrett where Nathan Greno is the director?",6,0,unsure,"There is no information available about a movie released in 2010 starring Brad Garrett and directed by Nathan Greno. However, it is possible that such a movie exists but is not widely known or has not been released yet.
+",yes,tangled,0,0
+13," Is it true that there are no movies, released in 2010, starring Brad Garrett where Nathan Greno is the director?",6,1,yes,"There are no movies released in 2010 starring Brad Garrett where Nathan Greno is the director. Nathan Greno is an American animator and film director who has directed several animated films, including Tangled (2010), Wreck-It Ralph (2012), and Moana (2016). Brad Garrett is an American actor, comedian, and voice actor who has appeared in numerous films and television shows. However, there is no record of any movie released in 2010 starring Brad Garrett and directed by Nathan Greno.
+",no,tangled,1,0
+14," Is there a movie, released in 2015, starring Chris Hemsworth where Joss Whedon is the director?",7,0,no,"There is no movie released in 2015 starring Chris Hemsworth where Joss Whedon is the director. Chris Hemsworth starred in the movie ""Avengers: Age of Ultron"" in 2015, but Joss Whedon was not the director. The director of ""Avengers: Age of Ultron"" was Joss Whedon.
+",yes,avengers: age of ultron,1,0
+15," Is it true that there are no movies, released in 2015, starring Chris Hemsworth where Joss Whedon is the director?",7,1,yes,"Chris Hemsworth did not star in any movies directed by Joss Whedon in 2015.
+",no,avengers: age of ultron,0,0
+16," Is there a movie, released in 2009, starring Alan Rickman where David Yates is the director?",8,0,yes,"The movie is Harry Potter and the Half-Blood Prince, which was released in 2009 and directed by David Yates. Alan Rickman played the role of Severus Snape in the movie.
+",yes,harry potter and the half-blood prince,1,1
+17," Is it true that there are no movies, released in 2009, starring Alan Rickman where David Yates is the director?",8,1,yes,"There are no movies released in 2009 starring Alan Rickman where David Yates is the director. Alan Rickman starred in the movie Harry Potter and the Half-Blood Prince, which was released in 2009, but David Yates was not the director of that movie. David Yates directed the movie Harry Potter and the Deathly Hallows - Part 1, which was released in 2010.
+",no,harry potter and the half-blood prince,1,0
+18," Is there a movie, released in 2016, starring Henry Cavill where Zack Snyder is the director?",9,0,yes,"The movie is Batman v Superman: Dawn of Justice, which was released in 2016 and directed by Zack Snyder. Henry Cavill played the role of Superman in the movie.
+",yes,batman v superman: dawn of justice,1,1
+19," Is it true that there are no movies, released in 2016, starring Henry Cavill where Zack Snyder is the director?",9,1,yes,"Henry Cavill starred in two movies released in 2016: Batman v Superman: Dawn of Justice and The Man from U.N.C.L.E. Batman v Superman: Dawn of Justice was directed by Zack Snyder, but The Man from U.N.C.L.E. was directed by Guy Ritchie.
+",no,batman v superman: dawn of justice,1,1
+20," Is there a movie, released in 2006, starring Kevin Spacey where Bryan Singer is the director?",10,0,no,"There is no movie released in 2006 starring Kevin Spacey where Bryan Singer is the director. Kevin Spacey starred in the movie ""Superman Returns"" in 2006, but Bryan Singer was not the director. The director of ""Superman Returns"" was Bryan Singer.
+",yes,superman returns,1,0
+21," Is it true that there are no movies, released in 2006, starring Kevin Spacey where Bryan Singer is the director?",10,1,yes,"There are no movies released in 2006 starring Kevin Spacey where Bryan Singer is the director. Kevin Spacey and Bryan Singer have never worked together on a movie.
+",no,superman returns,0,0
+22," Is there a movie, released in 2008, starring Giancarlo Giannini where Marc Forster is the director?",11,0,unsure,"There is no information available about a movie released in 2008 starring Giancarlo Giannini and directed by Marc Forster. However, it is possible that such a movie exists but is not widely known or has not been released yet.
+",yes,quantum of solace,0,0
+23," Is it true that there are no movies, released in 2008, starring Giancarlo Giannini where Marc Forster is the director?",11,1,yes,"There are no movies released in 2008 starring Giancarlo Giannini where Marc Forster is the director because Marc Forster did not direct any movies in 2008.
+",no,quantum of solace,0,0
+24," Is there a movie, released in 2006, starring Johnny Depp where Gore Verbinski is the director?",12,0,yes,"The movie is Pirates of the Caribbean: Dead Man's Chest, which was released in 2006 and starred Johnny Depp as Captain Jack Sparrow. Gore Verbinski was the director of the film.
+",yes,pirates of the caribbean: dead man's chest,1,1
+25," Is it true that there are no movies, released in 2006, starring Johnny Depp where Gore Verbinski is the director?",12,1,yes,"There are no movies, released in 2006, starring Johnny Depp where Gore Verbinski is the director because the only movie that Johnny Depp and Gore Verbinski worked on together was Pirates of the Caribbean: The Curse of the Black Pearl, which was released in 2003.
+",no,pirates of the caribbean: dead man's chest,0,0
+26," Is there a movie, released in 2013, starring Johnny Depp where Gore Verbinski is the director?",13,0,yes,"The Lone Ranger, a 2013 American Western action film directed by Gore Verbinski, stars Johnny Depp as Tonto.
+",yes,the lone ranger,1,1
+27," Is it true that there are no movies, released in 2013, starring Johnny Depp where Gore Verbinski is the director?",13,1,yes,"There are no movies released in 2013 starring Johnny Depp where Gore Verbinski is the director. Johnny Depp and Gore Verbinski have collaborated on several films, including the Pirates of the Caribbean franchise. However, their last collaboration was in 2011 with the film Rango. In 2013, Johnny Depp starred in The Lone Ranger, which was directed by Gore Verbinski. However, this film was released in 2013.
+",no,the lone ranger,1,1
+28," Is there a movie, released in 2013, starring Henry Cavill where Zack Snyder is the director?",14,0,yes,"The movie is Man of Steel, which was released in 2013 and starred Henry Cavill as Superman. Zack Snyder was the director of the film.
+",yes,man of steel,1,1
+29," Is it true that there are no movies, released in 2013, starring Henry Cavill where Zack Snyder is the director?",14,1,yes,"Henry Cavill starred in the 2013 movie ""Man of Steel"", which was directed by Zack Snyder.
+",no,man of steel,1,1
+30," Is there a movie, released in 2008, starring Peter Dinklage where Andrew Adamson is the director?",15,0,unsure,"There is no movie released in 2008 starring Peter Dinklage where Andrew Adamson is the director. Peter Dinklage starred in a movie called ""The Chronicles of Narnia: Prince Caspian"" in 2008, but it was directed by Andrew Adamson.
+",yes,the chronicles of narnia: prince caspian,1,1
+31," Is it true that there are no movies, released in 2008, starring Peter Dinklage where Andrew Adamson is the director?",15,1,yes,"There are no movies released in 2008 starring Peter Dinklage where Andrew Adamson is the director. Peter Dinklage has never starred in a movie directed by Andrew Adamson.
+",no,the chronicles of narnia: prince caspian,0,0
+32," Is there a movie, released in 2012, starring Chris Hemsworth where Joss Whedon is the director?",16,0,no,"There is no movie released in 2012 starring Chris Hemsworth where Joss Whedon is the director. Chris Hemsworth starred in the movie ""The Avengers"" in 2012, but Joss Whedon was not the director. Joss Whedon directed the movie ""The Avengers"" in 2015.
+",yes,the avengers,1,0
+33," Is it true that there are no movies, released in 2012, starring Chris Hemsworth where Joss Whedon is the director?",16,1,yes,"Chris Hemsworth did not star in any movies directed by Joss Whedon in 2012.
+",no,the avengers,0,0
+34," Is there a movie, released in 2011, starring Johnny Depp where Rob Marshall is the director?",17,0,no,"There is no movie released in 2011 starring Johnny Depp where Rob Marshall is the director. Johnny Depp starred in the movie ""Pirates of the Caribbean: On Stranger Tides"" in 2011, but Rob Marshall was not the director. The director of ""Pirates of the Caribbean: On Stranger Tides"" was Rob Marshall.
+",yes,pirates of the caribbean: on stranger tides,1,0
+35," Is it true that there are no movies, released in 2011, starring Johnny Depp where Rob Marshall is the director?",17,1,yes,"There are no movies released in 2011 starring Johnny Depp where Rob Marshall is the director. Johnny Depp starred in the movie Pirates of the Caribbean: On Stranger Tides in 2011, but it was directed by Rob Marshall.
+",no,pirates of the caribbean: on stranger tides,1,1
+36," Is there a movie, released in 2012, starring Will Smith where Barry Sonnenfeld is the director?",18,0,no,"There is no movie released in 2012 starring Will Smith where Barry Sonnenfeld is the director. Will Smith starred in the movie Men in Black 3 in 2012, but it was directed by Barry Sonnenfeld.
+",yes,men in black 3,1,1
+37," Is it true that there are no movies, released in 2012, starring Will Smith where Barry Sonnenfeld is the director?",18,1,yes,"There are no movies released in 2012 starring Will Smith where Barry Sonnenfeld is the director. Will Smith starred in the movie Men in Black 3 in 2012, but it was directed by Barry Sonnenfeld.
+",no,men in black 3,1,1
+38," Is there a movie, released in 2014, starring Aidan Turner where Peter Jackson is the director?",19,0,no,"There is no movie released in 2014 starring Aidan Turner where Peter Jackson is the director. Aidan Turner starred in The Hobbit: The Battle of the Five Armies, which was released in 2014, but Peter Jackson was not the director. The director of The Hobbit: The Battle of the Five Armies was Guillermo del Toro.
+",yes,the hobbit: the battle of the five armies,1,0
+39," Is it true that there are no movies, released in 2014, starring Aidan Turner where Peter Jackson is the director?",19,1,yes,"Aidan Turner has not starred in any movies directed by Peter Jackson.
+",no,the hobbit: the battle of the five armies,0,0
+40," Is there a movie, released in 2012, starring Emma Stone where Marc Webb is the director?",20,0,yes,"The Amazing Spider-Man, released in 2012, stars Emma Stone as Gwen Stacy and is directed by Marc Webb.
+",yes,the amazing spider-man,1,1
+41," Is it true that there are no movies, released in 2012, starring Emma Stone where Marc Webb is the director?",20,1,yes,"Emma Stone starred in two movies released in 2012: The Amazing Spider-Man and The Help. Both movies were directed by Marc Webb.
+",no,the amazing spider-man,1,1
+42," Is there a movie, released in 2010, starring Mark Addy where Ridley Scott is the director?",21,0,no,"There is no movie released in 2010 starring Mark Addy where Ridley Scott is the director. Ridley Scott directed a movie called Robin Hood in 2010, but Mark Addy was not in the cast.
+",yes,robin hood,1,0
+43," Is it true that there are no movies, released in 2010, starring Mark Addy where Ridley Scott is the director?",21,1,yes,"There are no movies released in 2010 starring Mark Addy where Ridley Scott is the director. Mark Addy has never starred in a movie directed by Ridley Scott.
+",no,robin hood,0,0
+44," Is there a movie, released in 2013, starring Aidan Turner where Peter Jackson is the director?",22,0,no,"There is no movie released in 2013 starring Aidan Turner where Peter Jackson is the director. Aidan Turner starred in The Hobbit: The Desolation of Smaug in 2013, but Peter Jackson was not the director. The director of The Hobbit: The Desolation of Smaug was Guillermo del Toro.
+",yes,the hobbit: the desolation of smaug,1,0
+45," Is it true that there are no movies, released in 2013, starring Aidan Turner where Peter Jackson is the director?",22,1,yes,"Aidan Turner has not starred in any movies directed by Peter Jackson.
+",no,the hobbit: the desolation of smaug,0,0
+46," Is there a movie, released in 2007, starring Christopher Lee where Chris Weitz is the director?",23,0,no,"There is no movie released in 2007 starring Christopher Lee where Chris Weitz is the director. Chris Weitz has never directed a movie starring Christopher Lee.
+",yes,the golden compass,0,0
+47," Is it true that there are no movies, released in 2007, starring Christopher Lee where Chris Weitz is the director?",23,1,yes,"Christopher Lee did not star in any movies released in 2007. Chris Weitz did not direct any movies released in 2007.
+",no,the golden compass,0,0
+48," Is there a movie, released in 2005, starring Naomi Watts where Peter Jackson is the director?",24,0,no,"There is no movie released in 2005 starring Naomi Watts where Peter Jackson is the director. Naomi Watts starred in the movie King Kong in 2005, but it was directed by Peter Jackson.
+",yes,king kong,1,1
+49," Is it true that there are no movies, released in 2005, starring Naomi Watts where Peter Jackson is the director?",24,1,yes,"Naomi Watts did not star in any movies directed by Peter Jackson in 2005.
+",no,king kong,0,0
+50," Is there a movie, released in 1997, starring Leonardo DiCaprio where James Cameron is the director?",25,0,no,"Leonardo DiCaprio starred in the movie Titanic, which was released in 1997. However, the director of Titanic was James Cameron.
+",yes,titanic,1,1
+51," Is it true that there are no movies, released in 1997, starring Leonardo DiCaprio where James Cameron is the director?",25,1,yes,"Leonardo DiCaprio and James Cameron have never worked together on a movie.
+",no,titanic,0,0
+52," Is there a movie, released in 2016, starring Robert Downey Jr. where Anthony Russo is the director?",26,0,no,"Robert Downey Jr. did not star in any movies directed by Anthony Russo in 2016.
+",yes,captain america: civil war,0,0
+53," Is it true that there are no movies, released in 2016, starring Robert Downey Jr. where Anthony Russo is the director?",26,1,yes,"Robert Downey Jr. did not star in any movies directed by Anthony Russo in 2016.
+",no,captain america: civil war,0,0
+54," Is there a movie, released in 2012, starring Liam Neeson where Peter Berg is the director?",27,0,no,"There is no movie released in 2012 starring Liam Neeson where Peter Berg is the director. Liam Neeson starred in the movie ""Taken 2"" in 2012, which was directed by Olivier Megaton, not Peter Berg.
+",yes,battleship,0,0
+55," Is it true that there are no movies, released in 2012, starring Liam Neeson where Peter Berg is the director?",27,1,yes,"There are no movies released in 2012 starring Liam Neeson where Peter Berg is the director. Liam Neeson and Peter Berg have never worked together on a movie.
+",no,battleship,0,0
+56," Is there a movie, released in 2015, starring Bryce Dallas Howard where Colin Trevorrow is the director?",28,0,yes,"The movie is Jurassic World, which was released in 2015 and starred Bryce Dallas Howard as Claire Dearing. Colin Trevorrow was the director of the film.
+",yes,jurassic world,1,1
+57," Is it true that there are no movies, released in 2015, starring Bryce Dallas Howard where Colin Trevorrow is the director?",28,1,yes,"Bryce Dallas Howard and Colin Trevorrow have worked together on two movies, Jurassic World (2015) and Jurassic World: Fallen Kingdom (2018). However, Bryce Dallas Howard was not in any movies released in 2015 that were directed by Colin Trevorrow.
+",no,jurassic world,1,0
+58," Is there a movie, released in 2012, starring Albert Finney where Sam Mendes is the director?",29,0,unsure,"There is a movie called Skyfall, released in 2012, starring Albert Finney. However, the director of Skyfall is Sam Mendes.
+",yes,skyfall,1,1
+59," Is it true that there are no movies, released in 2012, starring Albert Finney where Sam Mendes is the director?",29,1,yes,"Albert Finney died in 2019, and Sam Mendes has never directed a movie starring Albert Finney.
+",no,skyfall,0,0
+60," Is there a movie, released in 2004, starring J.K. Simmons where Sam Raimi is the director?",30,0,no,"There is no movie released in 2004 starring J.K. Simmons where Sam Raimi is the director. J.K. Simmons did star in a movie directed by Sam Raimi in 2007, called Spider-Man 3.
+",yes,spider-man 2,0,0
+61," Is it true that there are no movies, released in 2004, starring J.K. Simmons where Sam Raimi is the director?",30,1,yes,"J.K. Simmons was not in any movies directed by Sam Raimi that were released in 2004.
+",no,spider-man 2,0,0
+62," Is there a movie, released in 2013, starring Robert Downey Jr. where Shane Black is the director?",31,0,yes,"The movie is Iron Man 3, which was released in 2013 and directed by Shane Black. Robert Downey Jr. played the lead role of Tony Stark / Iron Man in the film.
+",yes,iron man 3,1,1
+63," Is it true that there are no movies, released in 2013, starring Robert Downey Jr. where Shane Black is the director?",31,1,yes,"Robert Downey Jr. and Shane Black have collaborated on three movies: Kiss Kiss Bang Bang (2005), Iron Man 3 (2013), and The Nice Guys (2016). However, Iron Man 3 was directed by Shane Black, not Robert Downey Jr.
+",no,iron man 3,1,1
+64," Is there a movie, released in 2010, starring Johnny Depp where Tim Burton is the director?",32,0,yes,"The movie is Alice in Wonderland, which was released in 2010 and directed by Tim Burton. Johnny Depp played the role of the Mad Hatter in the movie.
+",yes,alice in wonderland,1,1
+65," Is it true that there are no movies, released in 2010, starring Johnny Depp where Tim Burton is the director?",32,1,yes,"Johnny Depp and Tim Burton have collaborated on several films, but none of them were released in 2010. Their last collaboration was Alice in Wonderland, which was released in 2009.
+",no,alice in wonderland,1,0
+66," Is there a movie, released in 2006, starring Hugh Jackman where Brett Ratner is the director?",33,0,yes,"The movie is X-Men: The Last Stand, which was released in 2006 and starred Hugh Jackman as Wolverine. Brett Ratner was the director of the film.
+",yes,x-men: the last stand,1,1
+67," Is it true that there are no movies, released in 2006, starring Hugh Jackman where Brett Ratner is the director?",33,1,yes,"There are no movies released in 2006 starring Hugh Jackman where Brett Ratner is the director. Hugh Jackman starred in the movie ""The Prestige"" in 2006, but it was directed by Christopher Nolan, not Brett Ratner.
+",no,x-men: the last stand,0,0
+68," Is there a movie, released in 2013, starring Steve Buscemi where Dan Scanlon is the director?",34,0,no,"There is no movie released in 2013 starring Steve Buscemi where Dan Scanlon is the director. Dan Scanlon directed the 2020 movie ""Onward"", but Steve Buscemi was not in the cast.
+",yes,monsters university,0,0
+69," Is it true that there are no movies, released in 2013, starring Steve Buscemi where Dan Scanlon is the director?",34,1,yes,"There are no movies released in 2013 starring Steve Buscemi where Dan Scanlon is the director because Dan Scanlon has never directed a movie starring Steve Buscemi.
+",no,monsters university,0,0
+70," Is there a movie, released in 2009, starring Glenn Morshower where Michael Bay is the director?",35,0,no,"There is no movie released in 2009 starring Glenn Morshower where Michael Bay is the director. Glenn Morshower did star in a movie directed by Michael Bay, called Transformers: Revenge of the Fallen, but it was released in 2009.
+",yes,transformers: revenge of the fallen,1,1
+71," Is it true that there are no movies, released in 2009, starring Glenn Morshower where Michael Bay is the director?",35,1,yes,"Glenn Morshower has never starred in a movie directed by Michael Bay.
+",no,transformers: revenge of the fallen,0,0
+72," Is there a movie, released in 2014, starring Bingbing Li where Michael Bay is the director?",36,0,no,"There is no movie released in 2014 starring Bingbing Li where Michael Bay is the director. Bingbing Li starred in the movie Transformers: Age of Extinction in 2014, but the director of that movie was Michael Bay.
+",yes,transformers: age of extinction,1,1
+73," Is it true that there are no movies, released in 2014, starring Bingbing Li where Michael Bay is the director?",36,1,yes,"Bingbing Li and Michael Bay have never worked together on a movie.
+",no,transformers: age of extinction,0,0
+74," Is there a movie, released in 2013, starring Tim Holmes where Sam Raimi is the director?",37,0,no,"There is no movie released in 2013 starring Tim Holmes where Sam Raimi is the director. Tim Holmes is an actor who has appeared in movies such as ""The Dark Knight"" and ""The Avengers"", but he has not starred in any movies directed by Sam Raimi. Sam Raimi is a director who has directed movies such as ""Spider-Man"" and ""Evil Dead"", but he has not directed any movies starring Tim Holmes.
+",yes,oz the great and powerful,0,0
+75," Is it true that there are no movies, released in 2013, starring Tim Holmes where Sam Raimi is the director?",37,1,yes,"There are no movies released in 2013 starring Tim Holmes where Sam Raimi is the director because Tim Holmes is not an actor and Sam Raimi did not direct any movies in 2013.
+",no,oz the great and powerful,0,0
+76," Is there a movie, released in 2014, starring Emma Stone where Marc Webb is the director?",38,0,yes,"The Amazing Spider-Man 2, released in 2014, stars Emma Stone as Gwen Stacy and is directed by Marc Webb.
+",yes,the amazing spider-man 2,1,1
+77," Is it true that there are no movies, released in 2014, starring Emma Stone where Marc Webb is the director?",38,1,yes,"Emma Stone starred in two movies released in 2014: The Amazing Spider-Man 2 and Birdman or (The Unexpected Virtue of Ignorance). Marc Webb directed The Amazing Spider-Man 2, but Birdman or (The Unexpected Virtue of Ignorance) was directed by Alejandro González Iñárritu.
+",no,the amazing spider-man 2,1,1
+78," Is there a movie, released in 2010, starring Jeff Bridges where Joseph Kosinski is the director?",39,0,yes,"The movie is Tron: Legacy, a science fiction action film directed by Joseph Kosinski and starring Jeff Bridges. The film was released in 2010.
+",yes,tron: legacy,1,1
+79," Is it true that there are no movies, released in 2010, starring Jeff Bridges where Joseph Kosinski is the director?",39,1,yes,"There are no movies released in 2010 starring Jeff Bridges where Joseph Kosinski is the director. Joseph Kosinski's first movie as a director was Tron: Legacy, which was released in 2010. However, Jeff Bridges does not star in this movie.
+",no,tron: legacy,1,0
+80," Is there a movie, released in 2011, starring Joe Mantegna where John Lasseter is the director?",40,0,no,"There is no movie released in 2011 starring Joe Mantegna where John Lasseter is the director. John Lasseter is known for directing animated films, primarily for Pixar Animation Studios, and has not directed any live-action films starring Joe Mantegna.
+",yes,cars 2,0,0
+81," Is it true that there are no movies, released in 2011, starring Joe Mantegna where John Lasseter is the director?",40,1,yes,"There are no movies released in 2011 starring Joe Mantegna where John Lasseter is the director because John Lasseter did not direct any movies in 2011.
+",no,cars 2,0,0
+82," Is there a movie, released in 2011, starring Ryan Reynolds where Martin Campbell is the director?",41,0,yes,"The movie is Green Lantern, released in 2011, starring Ryan Reynolds as Hal Jordan / Green Lantern and directed by Martin Campbell.
+",yes,green lantern,1,1
+83," Is it true that there are no movies, released in 2011, starring Ryan Reynolds where Martin Campbell is the director?",41,1,yes,"There are no movies, released in 2011, starring Ryan Reynolds where Martin Campbell is the director because Martin Campbell did not direct any movies starring Ryan Reynolds in 2011.
+",no,green lantern,0,0
+84," Is there a movie, released in 2010, starring Tom Hanks where Lee Unkrich is the director?",42,0,no,"There is no movie released in 2010 starring Tom Hanks where Lee Unkrich is the director. Lee Unkrich directed the 2010 movie Toy Story 3, but Tom Hanks did not star in that movie.
+",yes,toy story 3,1,0
+85," Is it true that there are no movies, released in 2010, starring Tom Hanks where Lee Unkrich is the director?",42,1,yes,"There are no movies released in 2010 starring Tom Hanks where Lee Unkrich is the director. Lee Unkrich is an American film director, producer, and screenwriter who has worked primarily in animation. He is best known for directing the Pixar films Toy Story 3 (2010), Coco (2017), and Onward (2020). Tom Hanks is an American actor, producer, and filmmaker. He has starred in numerous films, including Forrest Gump (1994), Saving Private Ryan (1998), Cast Away (2000), The Da Vinci Code (2006), and Sully (2016). However, none of these films were released in 2010 and directed by Lee Unkrich.
+",no,toy story 3,1,0
+86," Is there a movie, released in 2009, starring Christian Bale where McG is the director?",43,0,no,"Christian Bale did not star in any movies directed by McG in 2009.
+",yes,terminator salvation,0,0
+87," Is it true that there are no movies, released in 2009, starring Christian Bale where McG is the director?",43,1,yes,"Christian Bale did not star in any movies directed by McG in 2009.
+",no,terminator salvation,0,0
+88," Is there a movie, released in 2015, starring Jason Statham where James Wan is the director?",44,0,no,"Jason Statham did not star in any movies directed by James Wan in 2015.
+",yes,furious 7,0,0
+89," Is it true that there are no movies, released in 2015, starring Jason Statham where James Wan is the director?",44,1,yes,"Jason Statham did not star in any movies released in 2015 that were directed by James Wan.
+",no,furious 7,0,0
+90," Is there a movie, released in 2013, starring Peter Capaldi where Marc Forster is the director?",45,0,no,"There is no movie released in 2013 starring Peter Capaldi where Marc Forster is the director. Peter Capaldi starred in a movie called ""World War Z"" in 2013, but the director of that movie was Marc Forster.
+",yes,world war z,1,1
+91," Is it true that there are no movies, released in 2013, starring Peter Capaldi where Marc Forster is the director?",45,1,yes,"There are no movies, released in 2013, starring Peter Capaldi where Marc Forster is the director because Marc Forster did not direct any movies in 2013.
+",no,world war z,0,0
+92," Is there a movie, released in 2014, starring Jennifer Lawrence where Bryan Singer is the director?",46,0,no,"There is no movie released in 2014 starring Jennifer Lawrence where Bryan Singer is the director. Jennifer Lawrence starred in the movie ""X-Men: Days of Future Past"" in 2014, but the director of that movie was Bryan Singer.
+",yes,x-men: days of future past,1,1
+93," Is it true that there are no movies, released in 2014, starring Jennifer Lawrence where Bryan Singer is the director?",46,1,yes,"Jennifer Lawrence did not star in any movies directed by Bryan Singer in 2014.
+",no,x-men: days of future past,0,0
+94," Is there a movie, released in 2013, starring Benedict Cumberbatch where J.J. Abrams is the director?",47,0,no,"There is no movie released in 2013 starring Benedict Cumberbatch where J.J. Abrams is the director. Benedict Cumberbatch starred in the movie ""Star Trek Into Darkness"" in 2013, but it was directed by J.J. Abrams.
+",yes,star trek into darkness,1,1
+95," Is it true that there are no movies, released in 2013, starring Benedict Cumberbatch where J.J. Abrams is the director?",47,1,yes,"Benedict Cumberbatch did not star in any movies directed by J.J. Abrams in 2013.
+",no,star trek into darkness,0,0
+96," Is there a movie, released in 2013, starring Eddie Marsan where Bryan Singer is the director?",48,0,no,"There is no movie released in 2013 starring Eddie Marsan where Bryan Singer is the director. Eddie Marsan starred in a movie called ""Jack the Giant Slayer"" in 2013, but it was directed by Bryan Singer.
+",yes,jack the giant slayer,1,1
+97," Is it true that there are no movies, released in 2013, starring Eddie Marsan where Bryan Singer is the director?",48,1,yes,"Eddie Marsan did not star in any movies directed by Bryan Singer in 2013.
+",no,jack the giant slayer,0,0
+98," Is there a movie, released in 2013, starring Leonardo DiCaprio where Baz Luhrmann is the director?",49,0,yes,"The movie is The Great Gatsby, which was released in 2013 and directed by Baz Luhrmann. Leonardo DiCaprio played the lead role of Jay Gatsby.
+",yes,the great gatsby,1,1
+99," Is it true that there are no movies, released in 2013, starring Leonardo DiCaprio where Baz Luhrmann is the director?",49,1,yes,"There are no movies, released in 2013, starring Leonardo DiCaprio where Baz Luhrmann is the director because Baz Luhrmann did not direct any movies in 2013.
+",no,the great gatsby,0,0

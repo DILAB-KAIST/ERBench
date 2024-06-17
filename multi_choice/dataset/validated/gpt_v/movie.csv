@@ -1,0 +1,209 @@
+,entity_idx,question_idx,question,model_response
+0,0,3,Is the movie Avatar released in year 2009 non-animation movie?,No.
+1,61,1,Is the movie Jupiter Ascending released in year 2015 directed by Lana Wachowski?,No.
+2,78,2,Is the movie The Jungle Book released in year 2016 produced in UK?,No.
+3,82,4,Is the movie poster in the given image the movie poster of the movie Dawn of the Planet of the Apes released in year 2014?,No.
+4,83,2,Is the movie The Lovers released in year 2015 produced in Belgium?,No.
+5,99,4,Is the movie poster in the given image the movie poster of the movie The Fast and the Furious released in year 2001?,No.
+6,128,4,Is the movie poster in the given image the movie poster of the movie Angels & Demons released in year 2009?,No.
+7,131,4,Is the movie poster in the given image the movie poster of the movie G-Force released in year 2009?,No.
+8,134,2,Is the movie Mission: Impossible - Rogue Nation released in year 2015 produced in China?,No.
+9,148,4,Is the movie poster in the given image the movie poster of the movie Ghostbusters released in year 2016?,No.
+10,167,2,Is the movie Sahara released in year 2005 produced in UK?,No.
+11,175,3,Is the movie The BFG released in year 2016 non-animation movie?,No.
+12,190,3,Is the movie The Adventures of Tintin released in year 2011 non-animation movie?,No.
+13,195,1,Is the movie Harry Potter and the Deathly Hallows: Part II released in year 2011 directed by Matt Birch?,No.
+14,201,1,Is the movie Harry Potter and the Deathly Hallows: Part I released in year 2010 directed by Matt Birch?,No.
+15,203,4,Is the movie poster in the given image the movie poster of the movie The Da Vinci Code released in year 2006?,No.
+16,212,4,Is the movie poster in the given image the movie poster of the movie Batman & Robin released in year 1997?,No.
+17,220,4,Is the movie poster in the given image the movie poster of the movie Jason Bourne released in year 2016?,No.
+18,226,4,Is the movie poster in the given image the movie poster of the movie RoboCop released in year 2014?,No.
+19,240,4,Is the movie poster in the given image the movie poster of the movie Teenage Mutant Ninja Turtles released in year 2014?,No.
+20,244,4,Is the movie poster in the given image the movie poster of the movie Fantastic Four released in year 2015?,No.
+21,250,0,Do you know the movie Mr. & Mrs. Smith released in year 2005?,No.
+22,250,1,Is the movie Mr. & Mrs. Smith released in year 2005 directed by Doug Liman?,No.
+23,250,4,Is the movie poster in the given image the movie poster of the movie Mr. & Mrs. Smith released in year 2005?,No.
+24,265,4,Is the movie poster in the given image the movie poster of the movie Around the World in 80 Days released in year 2004?,No.
+25,270,2,Is the movie Stuart Little released in year 1999 produced in Germany?,No.
+26,270,3,Is the movie Stuart Little released in year 1999 non-animation movie?,No.
+27,274,4,Is the movie poster in the given image the movie poster of the movie Town & Country released in year 2001?,No.
+28,285,4,Is the movie poster in the given image the movie poster of the movie The Taking of Pelham 1 2 3 released in year 2009?,No.
+29,295,2,Is the movie Where the Wild Things Are released in year 2009 produced in Germany?,No.
+30,299,2,Is the movie Blood Diamond released in year 2006 produced in Germany?,No.
+31,306,1,Is the movie Hercules released in year 2014 directed by Brett Ratner?,No.
+32,306,4,Is the movie poster in the given image the movie poster of the movie Hercules released in year 2014?,No.
+33,310,4,Is the movie poster in the given image the movie poster of the movie Point Break released in year 2015?,No.
+34,314,2,Is the movie Green Zone released in year 2010 produced in France?,No.
+35,328,4,Is the movie poster in the given image the movie poster of the movie Cinderella released in year 2015?,No.
+36,335,2,Is the movie Transcendence released in year 2014 produced in UK?,No.
+37,343,2,Is the movie Percy Jackson & the Olympians: The Lightning Thief released in year 2010 produced in UK?,No.
+38,354,4,Is the movie poster in the given image the movie poster of the movie Mulan released in year 1998?,No.
+39,359,4,Is the movie poster in the given image the movie poster of the movie Ben-Hur released in year 2016?,No.
+40,361,3,Is the movie Alvin and the Chipmunks: The Road Chip released in year 2015 animation movie?,No.
+41,361,4,Is the movie poster in the given image the movie poster of the movie Alvin and the Chipmunks: The Road Chip released in year 2015?,No.
+42,364,3,Is the movie Pixels released in year 2015 animation movie?,No.
+43,374,2,Is the movie Spy Game released in year 2001 produced in Germany?,No.
+44,386,4,Is the movie poster in the given image the movie poster of the movie Cast Away released in year 2000?,No.
+45,392,4,Is the movie poster in the given image the movie poster of the movie Hotel Transylvania released in year 2012?,No.
+46,393,3,Is the movie Enchanted released in year 2007 animation movie?,No.
+47,420,0,Do you know the movie Cats & Dogs: The Revenge of Kitty Galore released in year 2010?,No. (RESPONSE ERROR)
+48,420,1,Is the movie Cats & Dogs: The Revenge of Kitty Galore released in year 2010 directed by Brad Peyton?,No. (RESPONSE ERROR)
+49,420,2,Is the movie Cats & Dogs: The Revenge of Kitty Galore released in year 2010 produced in USA?,No. (RESPONSE ERROR)
+50,420,3,Is the movie Cats & Dogs: The Revenge of Kitty Galore released in year 2010 non-animation movie?,No. (RESPONSE ERROR)
+51,420,4,Is the movie poster in the given image the movie poster of the movie Cats & Dogs: The Revenge of Kitty Galore released in year 2010?,No. (RESPONSE ERROR)
+52,427,4,Is the movie poster in the given image the movie poster of the movie Mission: Impossible released in year 1996?,No.
+53,428,4,Is the movie poster in the given image the movie poster of the movie The Hunger Games released in year 2012?,No.
+54,442,2,Is the movie Four Christmases released in year 2008 produced in Germany?,No.
+55,455,1,Is the movie The Pink Panther released in year 2006 directed by Shawn Levy?,No.
+56,455,4,Is the movie poster in the given image the movie poster of the movie The Pink Panther released in year 2006?,No.
+57,456,0,Do you know the movie The Day the Earth Stood Still released in year 2008?,No.
+58,456,4,Is the movie poster in the given image the movie poster of the movie The Day the Earth Stood Still released in year 2008?,No.
+59,457,4,Is the movie poster in the given image the movie poster of the movie Conspiracy Theory released in year 1997?,No.
+60,464,4,Is the movie poster in the given image the movie poster of the movie The Manchurian Candidate released in year 2004?,No.
+61,465,1,Is the movie Déjà Vu released in year 1997 directed by Henry Jaglom?,No.
+62,465,2,Is the movie Déjà Vu released in year 1997 produced in USA?,No.
+63,465,4,Is the movie poster in the given image the movie poster of the movie Déjà Vu released in year 1997?,No.
+64,468,4,Is the movie poster in the given image the movie poster of the movie The Time Machine released in year 2002?,No.
+65,476,0,Do you know the movie Evolution released in year 2015?,No.
+66,476,1,Is the movie Evolution released in year 2015 directed by Lucile Hadzihalilovic?,No.
+67,476,2,Is the movie Evolution released in year 2015 produced in France?,No.
+68,476,3,Is the movie Evolution released in year 2015 non-animation movie?,No.
+69,476,4,Is the movie poster in the given image the movie poster of the movie Evolution released in year 2015?,No.
+70,482,4,Is the movie poster in the given image the movie poster of the movie Battlefield Earth released in year 2000?,No.
+71,483,2,Is the movie Looney Tunes: Back in Action released in year 2003 produced in Germany?,No.
+72,491,1,Is the movie Oceans released in year 2009 directed by Jacques Perrin?,No.
+73,491,4,Is the movie poster in the given image the movie poster of the movie Oceans released in year 2009?,No.
+74,499,2,Is the movie Red Dragon released in year 2002 produced in Germany?,No.
+75,505,3,Is the movie The Adventures of Rocky & Bullwinkle released in year 2000 animation movie?,No.
+76,506,2,Is the movie The Secret Life of Pets released in year 2016 produced in Japan?,No.
+77,512,2,Is the movie Children of Men released in year 2006 produced in USA?,No.
+78,530,2,Is the movie Munich released in year 2005 produced in France?,No.
+79,543,2,Is the movie Soldier released in year 1998 produced in UK?,No.
+80,545,3,Is the movie Monkeybone released in year 2001 animation movie?,No.
+81,550,4,Is the movie poster in the given image the movie poster of the movie Snake Eyes released in year 1998?,No.
+82,559,2,Is the movie Jarhead released in year 2005 produced in Germany?,No.
+83,607,1,Is the movie Legends of Oz: Dorothy's Return released in year 2013 directed by Will Finn?,No.
+84,607,3,Is the movie Legends of Oz: Dorothy's Return released in year 2013 animation movie?,No.
+85,647,4,Is the movie poster in the given image the movie poster of the movie Broken Arrow released in year 1996?,No.
+86,648,1,Is the movie The Kid released in year 2000 directed by Jon Turteltaub?,No.
+87,648,4,Is the movie poster in the given image the movie poster of the movie The Kid released in year 2000?,No.
+88,653,4,Is the movie poster in the given image the movie poster of the movie Annie released in year 2014?,No.
+89,657,4,Is the movie poster in the given image the movie poster of the movie Red Dawn released in year 1984?,No.
+90,658,2,Is the movie Primary Colors released in year 1998 produced in France?,No.
+91,667,2,Is the movie Lucky Numbers released in year 2000 produced in France?,No.
+92,676,2,Is the movie Astro Boy released in year 2009 produced in Hong Kong?,No.
+93,682,2,Is the movie U-571 released in year 2000 produced in France?,No.
+94,703,0,Do you know the movie Cats & Dogs released in year 2001?,No. (RESPONSE ERROR)
+95,703,1,Is the movie Cats & Dogs released in year 2001 directed by Lawrence Guterman?,No. (RESPONSE ERROR)
+96,703,2,Is the movie Cats & Dogs released in year 2001 produced in USA?,No. (RESPONSE ERROR)
+97,703,3,Is the movie Cats & Dogs released in year 2001 non-animation movie?,No. (RESPONSE ERROR)
+98,703,4,Is the movie poster in the given image the movie poster of the movie Cats & Dogs released in year 2001?,No. (RESPONSE ERROR)
+99,730,4,Is the movie poster in the given image the movie poster of the movie Hellboy released in year 2004?,No.
+100,741,2,Is the movie London Has Fallen released in year 2016 produced in UK?,No.
+101,747,1,Is the movie Miss Congeniality 2: Armed and Fabulous released in year 2005 directed by John Pasquin?,No.
+102,755,4,Is the movie poster in the given image the movie poster of the movie The Sentinel released in year 2006?,No.
+103,760,2,Is the movie Edge of Darkness released in year 2010 produced in UK?,No.
+104,761,2,Is the movie The Relic released in year 1997 produced in UK?,No.
+105,761,4,Is the movie poster in the given image the movie poster of the movie The Relic released in year 1997?,No.
+106,765,2,Is the movie The Soloist released in year 2009 produced in UK?,No.
+107,767,4,Is the movie poster in the given image the movie poster of the movie Almost Famous released in year 2000?,No.
+108,768,1,Is the movie Garfield 2 released in year 2006 directed by Tim Hill?,No.
+109,774,2,Is the movie The Black Dahlia released in year 2006 produced in Germany?,No.
+110,775,2,Is the movie Flyboys released in year 2006 produced in UK?,No.
+111,777,4,Is the movie poster in the given image the movie poster of the movie Supernova released in year 2000?,No.
+112,812,3,Is the movie Alvin and the Chipmunks released in year 2007 animation movie?,No.
+113,815,4,Is the movie poster in the given image the movie poster of the movie Superman released in year 1978?,No.
+114,822,3,Is the movie Casper released in year 1995 non-animation movie?,No.
+115,829,1,Is the movie City of Angels released in year 1998 directed by Brad Silberling?,No.
+116,829,2,Is the movie City of Angels released in year 1998 produced in Germany?,No.
+117,833,4,Is the movie poster in the given image the movie poster of the movie Tango & Cash released in year 1989?,No.
+118,842,2,Is the movie Ronin released in year 1998 produced in UK?,No.
+119,844,3,Is the movie Paddington released in year 2014 animation movie?,No.
+120,853,4,Is the movie poster in the given image the movie poster of the movie The Fan released in year 1996?,No.
+121,874,2,Is the movie All the King's Men released in year 2006 produced in Germany?,No.
+122,874,4,Is the movie poster in the given image the movie poster of the movie All the King's Men released in year 2006?,No.
+123,875,2,Is the movie Shaft released in year 2000 produced in Germany?,No.
+124,875,4,Is the movie poster in the given image the movie poster of the movie Shaft released in year 2000?,No.
+125,893,2,Is the movie Man on the Moon released in year 1999 produced in UK?,No.
+126,897,4,"Is the movie poster in the given image the movie poster of the movie Me, Myself & Irene released in year 2000?",No.
+127,898,2,Is the movie Barnyard released in year 2006 produced in Germany?,No.
+128,927,0,"Do you know the movie Crazy, Stupid, Love. released in year 2011?",No. (RESPONSE ERROR)
+129,927,1,"Is the movie Crazy, Stupid, Love. released in year 2011 directed by Glenn Ficarra?",No. (RESPONSE ERROR)
+130,927,2,"Is the movie Crazy, Stupid, Love. released in year 2011 produced in USA?",No. (RESPONSE ERROR)
+131,927,3,"Is the movie Crazy, Stupid, Love. released in year 2011 non-animation movie?",No. (RESPONSE ERROR)
+132,927,4,"Is the movie poster in the given image the movie poster of the movie Crazy, Stupid, Love. released in year 2011?",No. (RESPONSE ERROR)
+133,928,3,Is the movie Garfield released in year 2004 animation movie?,No.
+134,939,2,Is the movie Hansel & Gretel: Witch Hunters released in year 2013 produced in Germany?,No.
+135,952,2,Is the movie The Negotiator released in year 1998 produced in Germany?,No.
+136,968,3,Is the movie Marmaduke released in year 2010 non-animation movie?,No.
+137,971,2,Is the movie Assassins released in year 1995 produced in France?,No.
+138,974,4,Is the movie poster in the given image the movie poster of the movie The Host released in year 2013?,No.
+139,975,2,Is the movie Basic released in year 2003 produced in Germany?,No.
+140,981,4,Is the movie poster in the given image the movie poster of the movie Free State of Jones released in year 2016?,No.
+141,985,2,Is the movie Eastern Promises released in year 2007 produced in USA?,No.
+142,993,4,Is the movie poster in the given image the movie poster of the movie Fair Game released in year 2010?,No.
+143,994,2,Is the movie Domino released in year 2005 produced in France?,No.
+144,996,4,Is the movie poster in the given image the movie poster of the movie Gamer released in year 2009?,No.
+145,998,2,Is the movie Death to Smoochy released in year 2002 produced in UK?,No.
+146,1013,1,Is the movie The Tooth Fairy released in year 2006 directed by Chuck Bowman?,No.
+147,1013,2,Is the movie The Tooth Fairy released in year 2006 produced in USA?,No.
+148,1013,4,Is the movie poster in the given image the movie poster of the movie The Tooth Fairy released in year 2006?,No.
+149,1015,2,Is the movie Child 44 released in year 2015 produced in Czech Republic?,No.
+150,1016,2,Is the movie Rat Race released in year 2001 produced in Canada?,No.
+151,1018,4,Is the movie poster in the given image the movie poster of the movie Kate & Leopold released in year 2001?,No.
+152,1025,0,Do you know the movie Earth released in year 1998?,No.
+153,1025,2,Is the movie Earth released in year 1998 produced in India?,No.
+154,1025,4,Is the movie poster in the given image the movie poster of the movie Earth released in year 1998?,No.
+155,1041,2,Is the movie Inchon released in year 1981 produced in South Korea?,No.
+156,1052,2,Is the movie Monster-in-Law released in year 2005 produced in Germany?,No.
+157,1065,1,Is the movie From Hell released in year 2001 directed by Albert Hughes?,No.
+158,1066,2,Is the movie The Specialist released in year 1994 produced in Peru?,No.
+159,1072,2,Is the movie Resident Evil: Extinction released in year 2007 produced in France?,No.
+160,1081,4,Is the movie poster in the given image the movie poster of the movie Dune released in year 1984?,No.
+161,1084,2,Is the movie 16 Blocks released in year 2006 produced in Germany?,No.
+162,1093,4,Is the movie poster in the given image the movie poster of the movie Nixon released in year 1995?,No.
+163,1099,4,Is the movie poster in the given image the movie poster of the movie Big Trouble released in year 2002?,No.
+164,1102,2,Is the movie Johnny English Reborn released in year 2011 produced in USA?,No.
+165,1126,0,Do you know the movie The Heat released in year 2013?,No.
+166,1126,4,Is the movie poster in the given image the movie poster of the movie The Heat released in year 2013?,No.
+167,1136,2,Is the movie Super Mario Bros. released in year 1993 produced in UK?,No.
+168,1136,4,Is the movie poster in the given image the movie poster of the movie Super Mario Bros. released in year 1993?,No.
+169,1155,4,Is the movie poster in the given image the movie poster of the movie Lucy released in year 2014?,No.
+170,1170,0,Do you know the movie Julie & Julia released in year 2009?,No.
+171,1170,4,Is the movie poster in the given image the movie poster of the movie Julie & Julia released in year 2009?,No.
+172,1183,2,Is the movie JFK released in year 1991 produced in France?,No.
+173,1193,3,Is the movie Small Soldiers released in year 1998 non-animation movie?,No.
+174,1197,2,Is the movie Unknown released in year 2011 produced in UK?,No.
+175,1208,0,Do you know the movie The Odd Life of Timothy Green released in year 2012?,No. (RESPONSE ERROR)
+176,1208,1,Is the movie The Odd Life of Timothy Green released in year 2012 directed by Peter Hedges?,No. (RESPONSE ERROR)
+177,1208,2,Is the movie The Odd Life of Timothy Green released in year 2012 produced in USA?,No. (RESPONSE ERROR)
+178,1208,3,Is the movie The Odd Life of Timothy Green released in year 2012 non-animation movie?,No. (RESPONSE ERROR)
+179,1208,4,Is the movie poster in the given image the movie poster of the movie The Odd Life of Timothy Green released in year 2012?,No. (RESPONSE ERROR)
+180,1222,2,Is the movie 8MM released in year 1999 produced in Germany?,No.
+181,1225,2,Is the movie Hanging Up released in year 2000 produced in Germany?,No.
+182,1253,2,Is the movie Showgirls released in year 1995 produced in France?,No.
+183,1255,4,Is the movie poster in the given image the movie poster of the movie Kiss of Death released in year 1995?,No.
+184,1256,1,Is the movie Get Carter released in year 2000 directed by Stephen Kay?,No.
+185,1256,4,Is the movie poster in the given image the movie poster of the movie Get Carter released in year 2000?,No.
+186,1264,4,Is the movie poster in the given image the movie poster of the movie Alfie released in year 2004?,No.
+187,1281,2,Is the movie Alex Rider: Operation Stormbreaker released in year 2006 produced in Germany?,No.
+188,1285,2,Is the movie The Hudsucker Proxy released in year 1994 produced in UK?,No.
+189,1287,2,Is the movie Nomad: The Warrior released in year 2005 produced in France?,No.
+190,1318,4,Is the movie poster in the given image the movie poster of the movie Precious released in year 2009?,No.
+191,1339,4,Is the movie poster in the given image the movie poster of the movie Twilight released in year 2008?,No.
+192,1361,4,Is the movie poster in the given image the movie poster of the movie Batman released in year 1989?,No.
+193,1373,2,Is the movie Trainwreck released in year 2015 produced in Japan?,No.
+194,1378,4,Is the movie poster in the given image the movie poster of the movie In & Out released in year 1997?,No.
+195,1384,2,Is the movie TMNT released in year 2007 produced in Hong Kong?,No.
+196,1397,2,Is the movie Resident Evil released in year 2002 produced in UK?,No.
+197,1397,4,Is the movie poster in the given image the movie poster of the movie Resident Evil released in year 2002?,No.
+198,1406,2,Is the movie Street Fighter released in year 1994 produced in Japan?,No.
+199,1406,4,Is the movie poster in the given image the movie poster of the movie Street Fighter released in year 1994?,No.
+200,1426,2,Is the movie Concussion released in year 2015 produced in UK?,No.
+201,1430,4,Is the movie poster in the given image the movie poster of the movie Superhero Movie released in year 2008?,No.
+202,1432,4,Is the movie poster in the given image the movie poster of the movie Cursed released in year 2005?,No.
+203,1435,4,Is the movie poster in the given image the movie poster of the movie The Four Feathers released in year 2002?,No.
+204,1449,2,Is the movie Knock Off released in year 1998 produced in Aruba?,No.
+205,1459,2,Is the movie Smilla's Sense of Snow released in year 1997 produced in Denmark?,No.
+206,1484,2,Is the movie The Darkest Hour released in year 2011 produced in USA?,No.
+207,1484,4,Is the movie poster in the given image the movie poster of the movie The Darkest Hour released in year 2011?,No.

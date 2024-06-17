@@ -1,0 +1,1836 @@
+0-0th question
+Q: Is there an airport located at latitude -34.7833328247 and longitude -72.0508346558?
+A:Yes, there is an airport located at latitude -34.7833328247 and longitude -72.0508346558. The airport is called 'Ministro Pistorri International Airport' and it is located in Santiago, Chile.
+Gold Answer: yes
+Gold Entity: Torca
+
+0-1th question
+Q: Is it true that there are no airports located at latitude -34.7833328247 and longitude -72.0508346558?
+A:No, that is not true. There are airports located at latitude -34.7833328247 and longitude -72.0508346558. One such airport is the Aeropuerto Internacional de Buenos Aires-Ministro Pistarini (EZE) located in Buenos Aires, Argentina.
+Gold Answer: no
+Gold Entity: Torca
+
+1-0th question
+Q: Is there an airport located at latitude 10.5169439316 and longitude -85.5655593872?
+A:Yes, there is an airport located at latitude 10.5169439316 and longitude -85.5655593872. This airport is called 'Cancun International Airport' and it is located in Cancun, Mexico.
+Gold Answer: yes
+Gold Entity: Catsa
+
+1-1th question
+Q: Is it true that there are no airports located at latitude 10.5169439316 and longitude -85.5655593872?
+A:No, that is not true. There are airports located at latitude 10.5169439316 and longitude -85.5655593872. One such airport is the Cancún International Airport (CUN) located in Cancún, Mexico.
+Gold Answer: no
+Gold Entity: Catsa
+
+2-0th question
+Q: Is there an airport located at latitude -10.8478441238 and longitude -76.2469558716?
+A:No, there is no airport located at latitude -10.8478441238 and longitude -76.2469558716. This is because the coordinates are not within the range of any known airport's location. The coordinates are also not in any country's territory. It is possible that these coordinates are not accurate or are not representing an airport.
+Gold Answer: yes
+Gold Entity: Vicco
+
+2-1th question
+Q: Is it true that there are no airports located at latitude -10.8478441238 and longitude -76.2469558716?
+A:No, that is not true. There are airports located at latitude -10.8478441238 and longitude -76.2469558716. One such airport is the Juan Santamaria International Airport in Costa Rica.
+Gold Answer: no
+Gold Entity: Vicco
+
+3-0th question
+Q: Is there an airport located at latitude -13.7894001007 and longitude 33.78099823?
+A:No, there is no airport located at latitude -13.7894001007 and longitude 33.78099823. This is because the coordinates are not within the range of any known airport. It is possible that these coordinates are incorrect or that they represent a location that is not an airport.
+Gold Answer: yes
+Gold Entity: Lilongwe International
+
+3-1th question
+Q: Is it true that there are no airports located at latitude -13.7894001007 and longitude 33.78099823?
+A:No, that is not true. There are airports located at latitude -13.7894001007 and longitude 33.78099823. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Lilongwe International
+
+4-0th question
+Q: Is there an airport located at latitude 47.4942016602 and longitude 14.4975004196?
+A:Yes, there is an airport located at latitude 47.4942016602 and longitude 14.4975004196. This airport is called 'Kiev International Airport' (IATA: KBP, ICAO: UKLP). It is located in Kiev, Ukraine.
+Gold Answer: yes
+Gold Entity: Trieben
+
+4-1th question
+Q: Is it true that there are no airports located at latitude 47.4942016602 and longitude 14.4975004196?
+A:No, that is not true. There are airports located at latitude 47.4942016602 and longitude 14.4975004196. One such airport is the Belgrade Nikola Tesla Airport (BEG) located in Belgrade, Serbia.
+Gold Answer: no
+Gold Entity: Trieben
+
+5-0th question
+Q: Is there an airport located at latitude -17.8083324432 and longitude -67.4433364868?
+A:No, there is no airport located at latitude -17.8083324432 and longitude -67.4433364868. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or that they represent a location that is not an airport.
+Gold Answer: yes
+Gold Entity: Intiraymi
+
+5-1th question
+Q: Is it true that there are no airports located at latitude -17.8083324432 and longitude -67.4433364868?
+A:No, that is not true. There are airports located at latitude -17.8083324432 and longitude -67.4433364868. One such airport is the Cayo Largo Airport (CYL) located in Cuba.
+Gold Answer: no
+Gold Entity: Intiraymi
+
+6-0th question
+Q: Is there an airport located at latitude 43.3708833333333 and longitude -78.4144166666667?
+A:Yes, there is an airport located at latitude 43.3708833333333 and longitude -78.4144166666667. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Tiger Paw Aerodrome
+
+6-1th question
+Q: Is it true that there are no airports located at latitude 43.3708833333333 and longitude -78.4144166666667?
+A:No, that is not true. The coordinates 43.3708833333333, -78.4144166666667 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Tiger Paw Aerodrome
+
+7-0th question
+Q: Is there an airport located at latitude 53.4212989807 and longitude -6.270070076?
+A:Yes, there is an airport located at latitude 53.4212989807 and longitude -6.270070076. This airport is called Dublin Airport, which is located in Dublin, Ireland.
+Gold Answer: yes
+Gold Entity: Dublin
+
+7-1th question
+Q: Is it true that there are no airports located at latitude 53.4212989807 and longitude -6.270070076?
+A:No, that is not true. There are airports located at latitude 53.4212989807 and longitude -6.270070076. One such airport is the Liverpool John Lennon Airport, which is located at approximately 53.4212989807° N, -6.270070076° W.
+Gold Answer: no
+Gold Entity: Dublin
+
+8-0th question
+Q: Is there an airport located at latitude 15.4033002853 and longitude 108.706001282?
+A:Yes, there is an airport located at latitude 15.4033002853 and longitude 108.706001282. This airport is called Phnom Penh International Airport (PNH) and it is located in Phnom Penh, Cambodia.
+Gold Answer: yes
+Gold Entity: Chu Lai International
+
+8-1th question
+Q: Is it true that there are no airports located at latitude 15.4033002853 and longitude 108.706001282?
+A:No, that is not true. There are airports located at latitude 15.4033002853 and longitude 108.706001282. One such airport is the Xi'an Xianyang International Airport, which is located at approximately 15.4033002853° N, 108.706001282° E.
+Gold Answer: no
+Gold Entity: Chu Lai International
+
+9-0th question
+Q: Is there an airport located at latitude -10.7477779388 and longitude -74.2205581665?
+A:No, there is no airport located at latitude -10.7477779388 and longitude -74.2205581665."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Obenteni
+
+9-1th question
+Q: Is it true that there are no airports located at latitude -10.7477779388 and longitude -74.2205581665?
+A:No, that is not true. There are airports located at latitude -10.7477779388 and longitude -74.2205581665. One such airport is the Juan Santamaria International Airport in Costa Rica.
+Gold Answer: no
+Gold Entity: Obenteni
+
+10-0th question
+Q: Is there an airport located at latitude 49.8684997559 and longitude 3.0295801163?
+A:Yes, there is an airport located at latitude 49.8684997559 and longitude 3.0295801163. This airport is located in Brussels, Belgium, and is known as Brussels Airport. It serves as a hub for several airlines, including Brussels Airlines, Ryanair, and EasyJet.
+Gold Answer: yes
+Gold Entity: Peronne-Saint-Quentin
+
+10-1th question
+Q: Is it true that there are no airports located at latitude 49.8684997559 and longitude 3.0295801163?
+A:No, that is not true. There are airports located at latitude 49.8684997559 and longitude 3.0295801163. One such airport is the Paris-Charles de Gaulle Airport (CDG), which is located at 49.019031° N, 2.294507° E.
+Gold Answer: no
+Gold Entity: Peronne-Saint-Quentin
+
+11-0th question
+Q: Is there an airport located at latitude 60.4891666666667 and longitude -150.801666666667?
+A:Yes, there is an airport located at latitude 60.4891666666667 and longitude -150.801666666667. This airport is called 'Fairbanks International Airport'.
+Gold Answer: yes
+Gold Entity: Moose Run Airstrip
+
+11-1th question
+Q: Is it true that there are no airports located at latitude 60.4891666666667 and longitude -150.801666666667?
+A:No, that is not true. There are airports located at latitude 60.4891666666667 and longitude -150.801666666667. One such airport is the Anchorage International Airport (ANC) located at 61.0902° N, 150.8011° W.
+Gold Answer: no
+Gold Entity: Moose Run Airstrip
+
+12-0th question
+Q: Is there an airport located at latitude -31.1441993713 and longitude 136.8170013428?
+A:Yes, there is an airport located at latitude -31.1441993713 and longitude 136.8170013428. The airport is located in the city of Adelaide, South Australia, Australia.
+Gold Answer: yes
+Gold Entity: Woomera Airfield
+
+12-1th question
+Q: Is it true that there are no airports located at latitude -31.1441993713 and longitude 136.8170013428?
+A:No, that is not true. There are airports located at latitude -31.1441993713 and longitude 136.8170013428. One such airport is the Sydney Kingsford Smith Airport (SYD) located at -33.867111, 151.209333.
+Gold Answer: no
+Gold Entity: Woomera Airfield
+
+13-0th question
+Q: Is there an airport located at latitude 46.1613998413 and longitude -60.0477981567?
+A:Yes, there is an airport located at latitude 46.1613998413 and longitude -60.0477981567. This airport is called 'Boston Logan International Airport'.
+Gold Answer: yes
+Gold Entity: Sydney / J.A. Douglas McCurdy
+
+13-1th question
+Q: Is it true that there are no airports located at latitude 46.1613998413 and longitude -60.0477981567?
+A:No, that is not true. There are airports located at latitude 46.1613998413 and longitude -60.0477981567. One such airport is the Montreal-Pierre Elliott Trudeau International Airport (YUL) located in Montreal, Canada.
+Gold Answer: no
+Gold Entity: Sydney / J.A. Douglas McCurdy
+
+14-0th question
+Q: Is there an airport located at latitude -26.735200882 and longitude 31.7758998871?
+A:Yes, there is an airport located at latitude -26.735200882 and longitude 31.7758998871. This airport is located in Johannesburg, South Africa, and is known as the O.H. Hahn International Airport.
+Gold Answer: yes
+Gold Entity: Tambuti
+
+14-1th question
+Q: Is it true that there are no airports located at latitude -26.735200882 and longitude 31.7758998871?
+A:No, that is not true. There are airports located at latitude -26.735200882 and longitude 31.7758998871. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Tambuti
+
+15-0th question
+Q: Is there an airport located at latitude 31.5404305555556 and longitude -94.1700666666667?
+A:Yes, there is an airport located at latitude 31.5404305555556 and longitude -94.1700666666667. This airport is called St. Louis Lambert International Airport (STL).
+Gold Answer: yes
+Gold Entity: San Augustine County
+
+15-1th question
+Q: Is it true that there are no airports located at latitude 31.5404305555556 and longitude -94.1700666666667?
+A:No, that is not true. There are airports located at latitude 31.5404305555556 and longitude -94.1700666666667. One such airport is the St. Louis Lambert International Airport.
+Gold Answer: no
+Gold Entity: San Augustine County
+
+16-0th question
+Q: Is there an airport located at latitude -19.7576999664 and longitude 63.361000061?
+A:No, there is no airport located at latitude -19.7576999664 and longitude 63.361000061. This is because the coordinates are not within the range of any known airport's location. The coordinates are also not in any recognized airport database. Therefore, it is safe to say that there is no airport at those coordinates.
+Gold Answer: yes
+Gold Entity: Sir Charles Gaetan Duval
+
+16-1th question
+Q: Is it true that there are no airports located at latitude -19.7576999664 and longitude 63.361000061?
+A:No, that is not true. There are airports located at latitude -19.7576999664 and longitude 63.361000061. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Sir Charles Gaetan Duval
+
+17-0th question
+Q: Is there an airport located at latitude 35.0351944444444 and longitude -85.2035555555556?
+A:Yes, there is an airport located at latitude 35.0351944444444 and longitude -85.2035555555556. This airport is located in Nashville, Tennessee, United States, and is known as Nashville International Airport (BNA).
+Gold Answer: yes
+Gold Entity: Lovell Field
+
+17-1th question
+Q: Is it true that there are no airports located at latitude 35.0351944444444 and longitude -85.2035555555556?
+A:No, that is not true. There are airports located at latitude 35.0351944444444 and longitude -85.2035555555556. One such airport is the St. Louis Lambert International Airport (STL) located at 35.035194° N, 85.203556° W.
+Gold Answer: no
+Gold Entity: Lovell Field
+
+18-0th question
+Q: Is there an airport located at latitude 43.8302972222222 and longitude -96.8397777777778?
+A:Yes, there is an airport located at latitude 43.8302972222222 and longitude -96.8397777777778. This airport is called St. Louis Lambert International Airport (STL).
+Gold Answer: yes
+Gold Entity: Jensen
+
+18-1th question
+Q: Is it true that there are no airports located at latitude 43.8302972222222 and longitude -96.8397777777778?
+A:No, that is not true. The coordinates 43.8302972222222, -96.8397777777778 correspond to the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Jensen
+
+19-0th question
+Q: Is there an airport located at latitude -29.6840991974 and longitude -52.4122009277?
+A:No, there is no airport located at latitude -29.6840991974 and longitude -52.4122009277."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Santa Cruz do Sul
+
+19-1th question
+Q: Is it true that there are no airports located at latitude -29.6840991974 and longitude -52.4122009277?
+A:No, that is not true. There are airports located at latitude -29.6840991974 and longitude -52.4122009277. One such airport is the Córdoba International Airport (COR) located in Córdoba, Argentina.
+Gold Answer: no
+Gold Entity: Santa Cruz do Sul
+
+20-0th question
+Q: Is there an airport located at latitude 7.25 and longitude -61.4333343506?
+A:No, there is no airport located at latitude 7.25 and longitude -61.4333343506."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Tumeremo
+
+20-1th question
+Q: Is it true that there are no airports located at latitude 7.25 and longitude -61.4333343506?
+A:No, it is not true. There are airports located at latitude 7.25 and longitude -61.4333343506. One such airport is the Cayo Largo Airport (CYL) located in Cayo Largo del Sur, Cuba.
+Gold Answer: no
+Gold Entity: Tumeremo
+
+21-0th question
+Q: Is there an airport located at latitude 41.0491336111111 and longitude -78.4151579166667?
+A:Yes, there is an airport located at latitude 41.0491336111111 and longitude -78.4151579166667. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Clearfield-Lawrence
+
+21-1th question
+Q: Is it true that there are no airports located at latitude 41.0491336111111 and longitude -78.4151579166667?
+A:No, that is not true. There are airports located at latitude 41.0491336111111 and longitude -78.4151579166667. One such airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, USA.
+Gold Answer: no
+Gold Entity: Clearfield-Lawrence
+
+22-0th question
+Q: Is there an airport located at latitude 41.9510555555556 and longitude -86.3680833333333?
+A:Yes, there is an airport located at latitude 41.9510555555556 and longitude -86.3680833333333. This airport is called St. Louis Lambert International Airport.
+Gold Answer: yes
+Gold Entity: Andrews University Airpark
+
+22-1th question
+Q: Is it true that there are no airports located at latitude 41.9510555555556 and longitude -86.3680833333333?
+A:No, that is not true. The coordinates 41.9510555555556, -86.3680833333333 correspond to the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Andrews University Airpark
+
+23-0th question
+Q: Is there an airport located at latitude 39.5831388888889 and longitude -85.8048055555555?
+A:Yes, there is an airport located at latitude 39.5831388888889 and longitude -85.8048055555555. This airport is called St. Louis Lambert International Airport (STL).
+Gold Answer: yes
+Gold Entity: Shelbyville Municipal
+
+23-1th question
+Q: Is it true that there are no airports located at latitude 39.5831388888889 and longitude -85.8048055555555?
+A:No, that is not true. The coordinates 39.5831388888889, -85.8048055555555 are the coordinates of St. Louis Lambert International Airport, which is an airport located in St. Louis, Missouri, United States. Therefore, there is at least one airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Shelbyville Municipal
+
+24-0th question
+Q: Is there an airport located at latitude 4.132999897 and longitude 15.1499996185?
+A:No, there is no airport located at latitude 4.132999897 and longitude 15.1499996185."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Gamboula
+
+24-1th question
+Q: Is it true that there are no airports located at latitude 4.132999897 and longitude 15.1499996185?
+A:No, that is not true. There are airports located at latitude 4.132999897 and longitude 15.1499996185. For example, the airport code for the airport located at latitude 4.132999897 and longitude 15.1499996185 is 'JKL'. However, it is important to note that the exact location of an airport can vary slightly due to factors such as runway orientation and terminal placement. Therefore, it is possible that there may be slight variations in the coordinates of the airport.
+Gold Answer: no
+Gold Entity: Gamboula
+
+25-0th question
+Q: Is there an airport located at latitude 58.6678009033 and longitude -69.9558029175?
+A:Yes, there is an airport located at latitude 58.6678009033 and longitude -69.9558029175. This airport is called 'Tromsø Airport - Langstrand' and it is located in Tromsø, Norway.
+Gold Answer: yes
+Gold Entity: Tasiujaq
+
+25-1th question
+Q: Is it true that there are no airports located at latitude 58.6678009033 and longitude -69.9558029175?
+A:No, that is not true. There are airports located at latitude 58.6678009033 and longitude -69.9558029175. One such airport is the Cancún International Airport, which is located at approximately 18.6678009033° N, 86.9558029175° W.
+Gold Answer: no
+Gold Entity: Tasiujaq
+
+26-0th question
+Q: Is there an airport located at latitude -24.3878002167 and longitude 31.325799942?
+A:No, there is no airport located at latitude -24.3878002167 and longitude 31.325799942. This is because the coordinates are not within the range of any known airport's location. The coordinates are also not in any country's territory. It is possible that these coordinates are not accurate or are not representing an airport.
+Gold Answer: yes
+Gold Entity: Ngala
+
+26-1th question
+Q: Is it true that there are no airports located at latitude -24.3878002167 and longitude 31.325799942?
+A:No, that is not true. There are airports located at latitude -24.3878002167 and longitude 31.325799942. One such airport is the Cayo Largo Airport (CYL) located in Cuba.
+Gold Answer: no
+Gold Entity: Ngala
+
+27-0th question
+Q: Is there an airport located at latitude 33.7172222222222 and longitude -79.8569722222222?
+A:Yes, there is an airport located at latitude 33.7172222222222 and longitude -79.8569722222222. This airport is called Hartsfield-Jackson Atlanta International Airport.
+Gold Answer: yes
+Gold Entity: Williamsburg Regional
+
+27-1th question
+Q: Is it true that there are no airports located at latitude 33.7172222222222 and longitude -79.8569722222222?
+A:No, that is not true. The coordinates 33.7172222222222, -79.8569722222222 represent the location of the John F. Kennedy International Airport in New York City, United States.
+Gold Answer: no
+Gold Entity: Williamsburg Regional
+
+28-0th question
+Q: Is there an airport located at latitude 34.7933006287 and longitude 5.7382302284?
+A:Yes, there is an airport located at latitude 34.7933006287 and longitude 5.7382302284. This airport is located in the city of Mumbai, India, and is known as Chhatrapati Shivaji International Airport.
+Gold Answer: yes
+Gold Entity: Biskra
+
+28-1th question
+Q: Is it true that there are no airports located at latitude 34.7933006287 and longitude 5.7382302284?
+A:No, it is not true. The coordinates 34.7933006287, 5.7382302284 represent the location of the Sydney Kingsford Smith Airport in Australia.
+Gold Answer: no
+Gold Entity: Biskra
+
+29-0th question
+Q: Is there an airport located at latitude 51.8950004578 and longitude 0.4491670132?
+A:Yes, there is an airport located at latitude 51.8950004578 and longitude 0.4491670132. This airport is London City Airport.
+Gold Answer: yes
+Gold Entity: Andrewsfield
+
+29-1th question
+Q: Is it true that there are no airports located at latitude 51.8950004578 and longitude 0.4491670132?
+A:No, that is not true. There are airports located at latitude 51.8950004578 and longitude 0.4491670132. One such airport is London Heathrow Airport.
+Gold Answer: no
+Gold Entity: Andrewsfield
+
+30-0th question
+Q: Is there an airport located at latitude 65.9141998291 and longitude -22.4214000702?
+A:Yes, there is an airport located at latitude 65.9141998291 and longitude -22.4214000702. This airport is called 'Sheridan Airport' and is located in Sheridan, Wyoming, United States.
+Gold Answer: yes
+Gold Entity: Reykjanes
+
+30-1th question
+Q: Is it true that there are no airports located at latitude 65.9141998291 and longitude -22.4214000702?
+A:No, that is not true. There are airports located at latitude 65.9141998291 and longitude -22.4214000702. One such airport is the Minneapolis-Saint Paul International Airport (MSP) located in Minneapolis, Minnesota, United States.
+Gold Answer: no
+Gold Entity: Reykjanes
+
+31-0th question
+Q: Is there an airport located at latitude -19.268611908 and longitude -56.0311126709?
+A:No, there is no airport located at latitude -19.268611908 and longitude -56.0311126709. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or are not representing an airport.
+Gold Answer: yes
+Gold Entity: Fazenda Livramento
+
+31-1th question
+Q: Is it true that there are no airports located at latitude -19.268611908 and longitude -56.0311126709?
+A:No, that is not true. There are airports located at latitude -19.268611908 and longitude -56.0311126709. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Fazenda Livramento
+
+32-0th question
+Q: Is there an airport located at latitude 35.4889525 and longitude -97.1919747222222?
+A:Yes, there is an airport located at latitude 35.4889525 and longitude -97.1919747222222. This airport is called 'Dodge City Regional Airport'.
+Gold Answer: yes
+Gold Entity: Steciak Strip
+
+32-1th question
+Q: Is it true that there are no airports located at latitude 35.4889525 and longitude -97.1919747222222?
+A:No, it is not true. This is because the coordinates 35.4889525, -97.1919747222222 are the coordinates of the Denver International Airport.
+Gold Answer: no
+Gold Entity: Steciak Strip
+
+33-0th question
+Q: Is there an airport located at latitude 9.3503055573 and longitude -65.2806549072?
+A:No, there is no airport located at latitude 9.3503055573 and longitude -65.2806549072. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or that they represent a non-existent location.
+Gold Answer: yes
+Gold Entity: Apruna
+
+33-1th question
+Q: Is it true that there are no airports located at latitude 9.3503055573 and longitude -65.2806549072?
+A:No, that is not true. There are airports located at latitude 9.3503055573 and longitude -65.2806549072. One such airport is the Cayo Largo Airport (CYL) located in Cuba.
+Gold Answer: no
+Gold Entity: Apruna
+
+34-0th question
+Q: Is there an airport located at latitude 45.5048111111111 and longitude -98.5955388888889?
+A:Yes, there is an airport located at latitude 45.5048111111111 and longitude -98.5955388888889. This airport is called Des Moines International Airport (DSM) and it is located in Des Moines, Iowa, United States.
+Gold Answer: yes
+Gold Entity: Barber Field
+
+34-1th question
+Q: Is it true that there are no airports located at latitude 45.5048111111111 and longitude -98.5955388888889?
+A:No, that is not true. The coordinates 45.5048111111111, -98.5955388888889 correspond to the location of Minneapolis-Saint Paul International Airport (MSP) in Minnesota, United States.
+Gold Answer: no
+Gold Entity: Barber Field
+
+35-0th question
+Q: Is there an airport located at latitude 42.4603854166667 and longitude -71.5180118888889?
+A:Yes, there is an airport located at latitude 42.4603854166667 and longitude -71.5180118888889. This airport is called Logan International Airport (BOS) and it is located in Boston, Massachusetts, United States.
+Gold Answer: yes
+Gold Entity: Minute Man Air Field
+
+35-1th question
+Q: Is it true that there are no airports located at latitude 42.4603854166667 and longitude -71.5180118888889?
+A:No, that is not true. The coordinates 42.4603854166667, -71.5180118888889 correspond to the location of Logan International Airport in Boston, Massachusetts, which is an airport.
+Gold Answer: no
+Gold Entity: Minute Man Air Field
+
+36-0th question
+Q: Is there an airport located at latitude -25.9815006256 and longitude -51.6407012939?
+A:No, there is no airport located at latitude -25.9815006256 and longitude -51.6407012939. This is because these coordinates are located in the middle of the Atlantic Ocean, far from any known airport. It's possible that these coordinates were entered incorrectly or that they represent a fictional location.
+Gold Answer: yes
+Gold Entity: Foz do Areia
+
+36-1th question
+Q: Is it true that there are no airports located at latitude -25.9815006256 and longitude -51.6407012939?
+A:No, that is not true. There are airports located at latitude -25.9815006256 and longitude -51.6407012939. One such airport is the Aeropuerto Internacional de Córdoba in Argentina.
+Gold Answer: no
+Gold Entity: Foz do Areia
+
+37-0th question
+Q: Is there an airport located at latitude 36.5863437777778 and longitude -115.677370555556?
+A:Yes, there is an airport located at latitude 36.5863437777778 and longitude -115.677370555556. This airport is located in Las Vegas, Nevada, United States.
+Gold Answer: yes
+Gold Entity: Creech Afb
+
+37-1th question
+Q: Is it true that there are no airports located at latitude 36.5863437777778 and longitude -115.677370555556?
+A:No, that is not true. The coordinates 36.5863437777778, -115.677370555556 are located in the United States, specifically in the state of California. These coordinates correspond to the location of the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: Creech Afb
+
+38-0th question
+Q: Is there an airport located at latitude 33.8899166666667 and longitude -118.243805555556?
+A:Yes, there is an airport located at latitude 33.8899166666667 and longitude -118.243805555556. This airport is Los Angeles International Airport (LAX).
+Gold Answer: yes
+Gold Entity: Compton/Woodley
+
+38-1th question
+Q: Is it true that there are no airports located at latitude 33.8899166666667 and longitude -118.243805555556?
+A:No, that is not true. There are several airports located at that exact latitude and longitude, including Los Angeles International Airport (LAX) and Van Nuys Airport (VNY).
+Gold Answer: no
+Gold Entity: Compton/Woodley
+
+39-0th question
+Q: Is there an airport located at latitude 46.7119036111111 and longitude -96.3514547222222?
+A:Yes, there is an airport located at latitude 46.7119036111111 and longitude -96.3514547222222. This airport is called Minneapolis-Saint Paul International Airport (MSP) and it is located in the city of Minneapolis, Minnesota, United States.
+Gold Answer: yes
+Gold Entity: Janssen
+
+39-1th question
+Q: Is it true that there are no airports located at latitude 46.7119036111111 and longitude -96.3514547222222?
+A:No, that is not true. The coordinates 46.7119036111111, -96.3514547222222 correspond to the location of Minneapolis-Saint Paul International Airport (MSP) in Minnesota, United States.
+Gold Answer: no
+Gold Entity: Janssen
+
+40-0th question
+Q: Is there an airport located at latitude 36.8868222222222 and longitude -79.863925?
+A:Yes, there is an airport located at latitude 36.8868222222222 and longitude -79.863925. This airport is located in Las Vegas, Nevada, United States, and is known as McCarran International Airport.
+Gold Answer: yes
+Gold Entity: Woody Field
+
+40-1th question
+Q: Is it true that there are no airports located at latitude 36.8868222222222 and longitude -79.863925?
+A:No, that is not true. The coordinates 36.8868222222222, -79.863925 are the coordinates of Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Woody Field
+
+41-0th question
+Q: Is there an airport located at latitude 42.4327777777778 and longitude -88.7172222222222?
+A:Yes, there is an airport located at latitude 42.4327777777778 and longitude -88.7172222222222. This airport is called St. Louis Lambert International Airport.
+Gold Answer: yes
+Gold Entity: Sd Aero
+
+41-1th question
+Q: Is it true that there are no airports located at latitude 42.4327777777778 and longitude -88.7172222222222?
+A:No, that is not true. The latitude and longitude coordinates 42.4327777777778 and -88.7172222222222 correspond to the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Sd Aero
+
+42-0th question
+Q: Is there an airport located at latitude 38.3104444444444 and longitude -75.1239722222222?
+A:Yes, there is an airport located at latitude 38.3104444444444 and longitude -75.1239722222222. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Ocean City Municipal
+
+42-1th question
+Q: Is it true that there are no airports located at latitude 38.3104444444444 and longitude -75.1239722222222?
+A:No, that is not true. The coordinates 38.3104444444444, -75.1239722222222 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Ocean City Municipal
+
+43-0th question
+Q: Is there an airport located at latitude 36.4860555555556 and longitude -90.0156944444444?
+A:Yes, there is an airport located at latitude 36.4860555555556 and longitude -90.0156944444444. This airport is called Lambert-St. Louis International Airport (STL) and it is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Campbell Municipal
+
+43-1th question
+Q: Is it true that there are no airports located at latitude 36.4860555555556 and longitude -90.0156944444444?
+A:No, that is not true. The coordinates 36.4860555555556, -90.0156944444444 correspond to St. Louis Lambert International Airport, which is an airport located in St. Louis, Missouri, United States. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Campbell Municipal
+
+44-0th question
+Q: Is there an airport located at latitude 40.9867725 and longitude -75.9947030555556?
+A:Yes, there is an airport located at latitude 40.9867725 and longitude -75.9947030555556. This airport is located in Philadelphia, Pennsylvania, United States and is known as Philadelphia International Airport.
+Gold Answer: yes
+Gold Entity: Hazleton Regional
+
+44-1th question
+Q: Is it true that there are no airports located at latitude 40.9867725 and longitude -75.9947030555556?
+A:No, it is not true. This is because the coordinates 40.9867725, -75.9947030555556 correspond to the location of John F. Kennedy International Airport in New York City, which is an airport.
+Gold Answer: no
+Gold Entity: Hazleton Regional
+
+45-0th question
+Q: Is there an airport located at latitude 46.9913083333333 and longitude -102.795222222222?
+A:Yes, there is an airport located at latitude 46.9913083333333 and longitude -102.795222222222. This airport is located in Denver, Colorado, United States.
+Gold Answer: yes
+Gold Entity: Kadrmas
+
+45-1th question
+Q: Is it true that there are no airports located at latitude 46.9913083333333 and longitude -102.795222222222?
+A:No, that is not true. The coordinates 46.9913083333333, -102.7952222222222 are located in Denver, Colorado, which is an airport. Denver International Airport is one of the busiest airports in the world and serves as a hub for Frontier Airlines, United Airlines, and Southwest Airlines. Therefore, the statement is incorrect.
+Gold Answer: no
+Gold Entity: Kadrmas
+
+46-0th question
+Q: Is there an airport located at latitude 45.1038888888889 and longitude -114.855277777778?
+A:Yes, there is an airport located at latitude 45.1038888888889 and longitude -114.855277777778. This airport is located in Los Angeles, California, United States, and is known as Los Angeles International Airport (LAX).
+Gold Answer: yes
+Gold Entity: Taylor Ranch Landing Area
+
+46-1th question
+Q: Is it true that there are no airports located at latitude 45.1038888888889 and longitude -114.855277777778?
+A:No, that is not true. There are airports located at latitude 45.1038888888889 and longitude -114.855277777778. One such airport is the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: Taylor Ranch Landing Area
+
+47-0th question
+Q: Is there an airport located at latitude -11.116399765 and longitude 34.6521987915?
+A:No, there is no airport located at latitude -11.116399765 and longitude 34.6521987915."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Liuli
+
+47-1th question
+Q: Is it true that there are no airports located at latitude -11.116399765 and longitude 34.6521987915?
+A:No, that is not true. There are airports located at latitude -11.116399765 and longitude 34.6521987915. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Liuli
+
+48-0th question
+Q: Is there an airport located at latitude 64.7780833333333 and longitude -141.149611111111?
+A:Yes, there is an airport located at latitude 64.7780833333333 and longitude -141.149611111111. This airport is called Anchorage International Airport (PED) and it is located in Anchorage, Alaska, United States.
+Gold Answer: yes
+Gold Entity: Eagle
+
+48-1th question
+Q: Is it true that there are no airports located at latitude 64.7780833333333 and longitude -141.149611111111?
+A:No, that is not true. There are airports located at latitude 64.7780833333333 and longitude -141.149611111111. One such airport is the Anchorage International Airport (PED) located at 61.50000000000001, -147.75000000000001.
+Gold Answer: no
+Gold Entity: Eagle
+
+49-0th question
+Q: Is there an airport located at latitude -21.0734996796 and longitude -63.109500885?
+A:No, there is no airport located at latitude -21.0734996796 and longitude -63.109500885. This is because the coordinates are not within the range of any known airport locations.
+Gold Answer: yes
+Gold Entity: Sipuati
+
+49-1th question
+Q: Is it true that there are no airports located at latitude -21.0734996796 and longitude -63.109500885?
+A:No, that is not true. There are airports located at latitude -21.0734996796 and longitude -63.109500885. One such airport is the Punta Arenas International Airport (PUQ) located in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Sipuati
+
+50-0th question
+Q: Is there an airport located at latitude 42.4833258333333 and longitude -96.2003013888889?
+A:Yes, there is an airport located at latitude 42.4833258333333 and longitude -96.2003013888889. This airport is called Kansas City International Airport (MCI).
+Gold Answer: yes
+Gold Entity: Lawton
+
+50-1th question
+Q: Is it true that there are no airports located at latitude 42.4833258333333 and longitude -96.2003013888889?
+A:No, that is not true. The coordinates 42.4833258333333, -96.2003013888889 correspond to the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Lawton
+
+51-0th question
+Q: Is there an airport located at latitude 7.1807599068 and longitude 79.8841018677?
+A:Yes, there is an airport located at latitude 7.1807599068 and longitude 79.8841018677. This airport is called 'Kandy Esplanade Airport' and it is located in Sri Lanka.
+Gold Answer: yes
+Gold Entity: Bandaranaike International Apt Colombo
+
+51-1th question
+Q: Is it true that there are no airports located at latitude 7.1807599068 and longitude 79.8841018677?
+A:No, that is not true. There are airports located at latitude 7.1807599068 and longitude 79.8841018677. One such airport is the Bandaranaike International Airport in Sri Lanka.
+Gold Answer: no
+Gold Entity: Bandaranaike International Apt Colombo
+
+52-0th question
+Q: Is there an airport located at latitude 48.2636108398 and longitude 12.4116668701?
+A:Yes, there is an airport located at latitude 48.2636108398 and longitude 12.4116668701. This airport is called Vienna International Airport (VIE) and it is located in Vienna, Austria.
+Gold Answer: yes
+Gold Entity: Ampfing-Waldkraiburg
+
+52-1th question
+Q: Is it true that there are no airports located at latitude 48.2636108398 and longitude 12.4116668701?
+A:No, that is not true. There are airports located at latitude 48.2636108398 and longitude 12.4116668701. One such airport is the Vienna International Airport (VIE) located in Vienna, Austria.
+Gold Answer: no
+Gold Entity: Ampfing-Waldkraiburg
+
+53-0th question
+Q: Is there an airport located at latitude 39.1105466666667 and longitude -104.583859722222?
+A:Yes, there is an airport located at latitude 39.1105466666667 and longitude -104.583859722222. This airport is Denver International Airport.
+Gold Answer: yes
+Gold Entity: Cherokee Trail Ranch
+
+53-1th question
+Q: Is it true that there are no airports located at latitude 39.1105466666667 and longitude -104.583859722222?
+A:No, that is not true. The coordinates 39.1105466666667, -104.5838597222222 are the coordinates of Denver International Airport.
+Gold Answer: no
+Gold Entity: Cherokee Trail Ranch
+
+54-0th question
+Q: Is there an airport located at latitude 29.9062004089 and longitude 35.0666999817?
+A:Yes, there is an airport located at latitude 29.9062004089 and longitude 35.0666999817. This airport is located in Las Vegas, Nevada, United States, and is known as McCarran International Airport.
+Gold Answer: yes
+Gold Entity: Yotvata Airfield
+
+54-1th question
+Q: Is it true that there are no airports located at latitude 29.9062004089 and longitude 35.0666999817?
+A:No, it is not true. The coordinates 29.9062004089, 35.0666999817 represent the location of McCarran International Airport in Las Vegas, Nevada, United States.
+Gold Answer: no
+Gold Entity: Yotvata Airfield
+
+55-0th question
+Q: Is there an airport located at latitude -11.331675 and longitude 37.067816?
+A:No, there is no airport located at latitude -11.331675 and longitude 37.067816."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Mbesa
+
+55-1th question
+Q: Is it true that there are no airports located at latitude -11.331675 and longitude 37.067816?
+A:No, it is not true. The coordinates -11.331675, 37.067816 correspond to the location of the San Francisco International Airport.
+Gold Answer: no
+Gold Entity: Mbesa
+
+56-0th question
+Q: Is there an airport located at latitude 3.0499999523 and longitude 18.5?
+A:No, there is no airport located at latitude 3.0499999523 and longitude 18.5. The coordinates are not accurate enough to match any known airport location. It's possible that the coordinates were entered incorrectly or that the airport does not exist at those coordinates.
+Gold Answer: yes
+Gold Entity: Betou
+
+56-1th question
+Q: Is it true that there are no airports located at latitude 3.0499999523 and longitude 18.5?
+A:No, it is not true. There are airports located at latitude 3.0499999523 and longitude 18.5. One such airport is the Bandaranaike International Airport in Sri Lanka.
+Gold Answer: no
+Gold Entity: Betou
+
+57-0th question
+Q: Is there an airport located at latitude 3.3666670322 and longitude 99.1166687012?
+A:No, there is no airport located at latitude 3.3666670322 and longitude 99.1166687012. This is because the coordinates are not within the range of any known airport's location. The latitude and longitude values are not valid airport coordinates.
+Gold Answer: yes
+Gold Entity: Tebing Tinggi
+
+57-1th question
+Q: Is it true that there are no airports located at latitude 3.3666670322 and longitude 99.1166687012?
+A:No, that is not true. There are airports located at latitude 3.3666670322 and longitude 99.1166687012. One such airport is the Culiacán International Airport (CLJ) in Culiacán, Mexico.
+Gold Answer: no
+Gold Entity: Tebing Tinggi
+
+58-0th question
+Q: Is there an airport located at latitude 27.0237998962 and longitude -103.375?
+A:Yes, there is an airport located at latitude 27.0237998962 and longitude -103.375. This airport is located in Mexico City, Mexico.
+Gold Answer: yes
+Gold Entity: Laguna Del Rey
+
+58-1th question
+Q: Is it true that there are no airports located at latitude 27.0237998962 and longitude -103.375?
+A:No, it is not true. The coordinates 27.0237998962, -103.375 represent the location of the Denver International Airport.
+Gold Answer: no
+Gold Entity: Laguna Del Rey
+
+59-0th question
+Q: Is there an airport located at latitude 38.5176010132 and longitude 26.977399826?
+A:Yes, there is an airport located at latitude 38.5176010132 and longitude 26.977399826. This airport is located in Las Vegas, Nevada, USA, and is known as McCarran International Airport.
+Gold Answer: yes
+Gold Entity: Kaklic
+
+59-1th question
+Q: Is it true that there are no airports located at latitude 38.5176010132 and longitude 26.977399826?
+A:No, that is not true. The coordinates 38.5176010132, 26.977399826 are the coordinates of Las Vegas McCarran International Airport, which is an airport located in Las Vegas, Nevada, United States. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Kaklic
+
+60-0th question
+Q: Is there an airport located at latitude 31.3406666666667 and longitude -96.8520277777778?
+A:Yes, there is an airport located at latitude 31.3406666666667 and longitude -96.8520277777778. This airport is called St. Louis Lambert International Airport (STL) which is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Marlin
+
+60-1th question
+Q: Is it true that there are no airports located at latitude 31.3406666666667 and longitude -96.8520277777778?
+A:No, that is not true. There are airports located at latitude 31.3406666666667 and longitude -96.8520277777778. One such airport is the St. Louis Lambert International Airport (STL) located at 31.3406666666667, -96.8520277777778.
+Gold Answer: no
+Gold Entity: Marlin
+
+61-0th question
+Q: Is there an airport located at latitude 44.9235805555556 and longitude -89.4023394444445?
+A:Yes, there is an airport located at latitude 44.9235805555556 and longitude -89.4023394444445. This airport is called Lambert-St. Louis International Airport (STL) and it is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Flying 'O'
+
+61-1th question
+Q: Is it true that there are no airports located at latitude 44.9235805555556 and longitude -89.4023394444445?
+A:No, that is not true. There are airports located at latitude 44.9235805555556 and longitude -89.4023394444445. One such airport is Lambert-St. Louis International Airport (STL) located in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Flying 'O'
+
+62-0th question
+Q: Is there an airport located at latitude 46.6203647222222 and longitude -85.9200836388889?
+A:Yes, there is an airport located at latitude 46.6203647222222 and longitude -85.9200836388889. This airport is called O'Hare International Airport.
+Gold Answer: yes
+Gold Entity: Grand Marais
+
+62-1th question
+Q: Is it true that there are no airports located at latitude 46.6203647222222 and longitude -85.9200836388889?
+A:No, that is not true. There are airports located at latitude 46.6203647222222 and longitude -85.9200836388889. One such airport is the St. Louis Lambert International Airport.
+Gold Answer: no
+Gold Entity: Grand Marais
+
+63-0th question
+Q: Is there an airport located at latitude -22.296667099 and longitude -54.9413871765?
+A:No, there is no airport located at latitude -22.296667099 and longitude -54.9413871765."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Fazenda Sao Marcos
+
+63-1th question
+Q: Is it true that there are no airports located at latitude -22.296667099 and longitude -54.9413871765?
+A:No, that is not true. There are airports located at latitude -22.296667099 and longitude -54.9413871765. One such airport is the Aeropuerto Internacional de Punta Arenas located in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Fazenda Sao Marcos
+
+64-0th question
+Q: Is there an airport located at latitude -20.3261108398 and longitude -48.8283348083?
+A:No, there is no airport located at latitude -20.3261108398 and longitude -48.8283348083."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Fazenda Paloma
+
+64-1th question
+Q: Is it true that there are no airports located at latitude -20.3261108398 and longitude -48.8283348083?
+A:No, that is not true. There are airports located at latitude -20.3261108398 and longitude -48.8283348083. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Fazenda Paloma
+
+65-0th question
+Q: Is there an airport located at latitude 36.2961780555556 and longitude -92.2159886111111?
+A:Yes, there is an airport located at latitude 36.2961780555556 and longitude -92.2159886111111. This airport is called Lambert-St. Louis International Airport (STL) and it is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: The Bluffs
+
+65-1th question
+Q: Is it true that there are no airports located at latitude 36.2961780555556 and longitude -92.2159886111111?
+A:No, that is not true. The latitude and longitude coordinates 36.2961780555556 and -92.2159886111111 correspond to the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: The Bluffs
+
+66-0th question
+Q: Is there an airport located at latitude 35.3393852777778 and longitude -77.9605944444445?
+A:Yes, there is an airport located at latitude 35.3393852777778 and longitude -77.9605944444445. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Seymour Johnson Afb
+
+66-1th question
+Q: Is it true that there are no airports located at latitude 35.3393852777778 and longitude -77.9605944444445?
+A:No, that is not true. The coordinates 35.3393852777778, -77.9605944444445 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. The airport is located at the intersection of the Potomac River and the Anacostia River, and serves as a major hub for several airlines. It is one of the busiest airports in the world, with over 65 million passengers annually.
+Gold Answer: no
+Gold Entity: Seymour Johnson Afb
+
+67-0th question
+Q: Is there an airport located at latitude 49.9726982117 and longitude 6.6925001144?
+A:Yes, there is an airport located at latitude 49.9726982117 and longitude 6.6925001144. This airport is located in Brussels, Belgium and is known as Brussels Airport. It serves as a hub for several airlines including Brussels Airlines, Ryanair, and EasyJet.
+Gold Answer: yes
+Gold Entity: Spangdahlem Air Base
+
+67-1th question
+Q: Is it true that there are no airports located at latitude 49.9726982117 and longitude 6.6925001144?
+A:No, that is not true. The coordinates 49.9726982117, 6.6925001144 correspond to the location of Oslo Airport, Gardermoen in Norway. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Spangdahlem Air Base
+
+68-0th question
+Q: Is there an airport located at latitude 34.3470176111111 and longitude -119.061616611111?
+A:Yes, there is an airport located at latitude 34.3470176111111 and longitude -119.061616611111. This airport is located in Los Angeles, California, United States, and is known as Los Angeles International Airport (LAX).
+Gold Answer: yes
+Gold Entity: Santa Paula
+
+68-1th question
+Q: Is it true that there are no airports located at latitude 34.3470176111111 and longitude -119.061616611111?
+A:No, that is not true. There are airports located at latitude 34.3470176111111 and longitude -119.061616611111. One such airport is the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: Santa Paula
+
+69-0th question
+Q: Is there an airport located at latitude -42.1016998291 and longitude 148.0679931641?
+A:Yes, there is an airport located at latitude -42.1016998291 and longitude 148.0679931641. This airport is located in Reno, Nevada, United States, and is known as Reno-Tahoe International Airport.
+Gold Answer: yes
+Gold Entity: Swansea
+
+69-1th question
+Q: Is it true that there are no airports located at latitude -42.1016998291 and longitude 148.0679931641?
+A:No, that is not true. The coordinates -42.1016998291, 148.0679931641 correspond to the location of the San Francisco International Airport.
+Gold Answer: no
+Gold Entity: Swansea
+
+70-0th question
+Q: Is there an airport located at latitude 12.519900322 and longitude 37.4339981079?
+A:Yes, there is an airport located at latitude 12.519900322 and longitude 37.4339981079. This airport is located in the city of San Francisco, California, United States. It is known as San Francisco International Airport (SFO).
+Gold Answer: yes
+Gold Entity: Gonder
+
+70-1th question
+Q: Is it true that there are no airports located at latitude 12.519900322 and longitude 37.4339981079?
+A:No, that is not true. There are airports located at latitude 12.519900322 and longitude 37.4339981079. One such airport is the Cairo International Airport (HEC) located in Egypt.
+Gold Answer: no
+Gold Entity: Gonder
+
+71-0th question
+Q: Is there an airport located at latitude 44.1527408333333 and longitude -93.2724355555556?
+A:Yes, there is an airport located at latitude 44.1527408333333 and longitude -93.2724355555556. This airport is called St. Louis Lambert International Airport.
+Gold Answer: yes
+Gold Entity: Underland Airstrip
+
+71-1th question
+Q: Is it true that there are no airports located at latitude 44.1527408333333 and longitude -93.2724355555556?
+A:No, that is not true. There are airports located at latitude 44.1527408333333 and longitude -93.2724355555556. One such airport is the St. Louis Lambert International Airport.
+Gold Answer: no
+Gold Entity: Underland Airstrip
+
+72-0th question
+Q: Is there an airport located at latitude 44.5458333333333 and longitude -75.1611111111111?
+A:Yes, there is an airport located at latitude 44.5458333333333 and longitude -75.1611111111111. This airport is called Philadelphia International Airport (PHL).
+Gold Answer: yes
+Gold Entity: Hurlbut Field
+
+72-1th question
+Q: Is it true that there are no airports located at latitude 44.5458333333333 and longitude -75.1611111111111?
+A:No, that is not true. There are airports located at latitude 44.5458333333333 and longitude -75.1611111111111. One such airport is the Philadelphia International Airport.
+Gold Answer: no
+Gold Entity: Hurlbut Field
+
+73-0th question
+Q: Is there an airport located at latitude 45.8274993896 and longitude 13.4722003937?
+A:Yes, there is an airport located at latitude 45.8274993896 and longitude 13.4722003937. This airport is called 'Belgrade Nikola Tesla Airport' and it is located in Belgrade, Serbia.
+Gold Answer: yes
+Gold Entity: Trieste / Ronchi Dei Legionari
+
+73-1th question
+Q: Is it true that there are no airports located at latitude 45.8274993896 and longitude 13.4722003937?
+A:No, that is not true. The coordinates 45.8274993896, 13.4722003937 represent the location of the Beijing Capital International Airport.
+Gold Answer: no
+Gold Entity: Trieste / Ronchi Dei Legionari
+
+74-0th question
+Q: Is there an airport located at latitude 23.8869991302 and longitude 91.2404022217?
+A:Yes, there is an airport located at latitude 23.8869991302 and longitude 91.2404022217. This airport is called Cancun International Airport (CUN) and it is located in Cancun, Mexico.
+Gold Answer: yes
+Gold Entity: Agartala
+
+74-1th question
+Q: Is it true that there are no airports located at latitude 23.8869991302 and longitude 91.2404022217?
+A:No, that is not true. The coordinates 23.8869991302, 91.2404022217 represent the location of St. Louis Lambert International Airport in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Agartala
+
+75-0th question
+Q: Is there an airport located at latitude 50.4513893127 and longitude 6.7833328247?
+A:Yes, there is an airport located at latitude 50.4513893127 and longitude 6.7833328247. This airport is called London Heathrow Airport.
+Gold Answer: yes
+Gold Entity: Wershofen/Eifel
+
+75-1th question
+Q: Is it true that there are no airports located at latitude 50.4513893127 and longitude 6.7833328247?
+A:No, that is not true. There are airports located at latitude 50.4513893127 and longitude 6.7833328247. One such airport is London Heathrow Airport.
+Gold Answer: no
+Gold Entity: Wershofen/Eifel
+
+76-0th question
+Q: Is there an airport located at latitude 50.0992012024 and longitude -102.6070022583?
+A:Yes, there is an airport located at latitude 50.0992012024 and longitude -102.6070022583. This airport is located in Minneapolis, Minnesota, United States. It is called Minneapolis-Saint Paul International Airport (MSP).
+Gold Answer: yes
+Gold Entity: Kipling
+
+76-1th question
+Q: Is it true that there are no airports located at latitude 50.0992012024 and longitude -102.6070022583?
+A:No, that is not true. There are airports located at latitude 50.0992012024 and longitude -102.6070022583. One such airport is the Denver International Airport.
+Gold Answer: no
+Gold Entity: Kipling
+
+77-0th question
+Q: Is there an airport located at latitude 36.4422222222222 and longitude -98.1038888888889?
+A:Yes, there is an airport located at latitude 36.4422222222222 and longitude -98.1038888888889. This airport is called Kansas City International Airport (MCI).
+Gold Answer: yes
+Gold Entity: Black I Ranch
+
+77-1th question
+Q: Is it true that there are no airports located at latitude 36.4422222222222 and longitude -98.1038888888889?
+A:No, that is not true. There are airports located at latitude 36.4422222222222 and longitude -98.1038888888889. One such airport is the Kansas City International Airport (MCI) located at 36.442222, -98.10388889.
+Gold Answer: no
+Gold Entity: Black I Ranch
+
+78-0th question
+Q: Is there an airport located at latitude 64.1932983398 and longitude -83.3593978882?
+A:No, there is no airport located at latitude 64.1932983398 and longitude -83.3593978882."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Coral Harbour
+
+78-1th question
+Q: Is it true that there are no airports located at latitude 64.1932983398 and longitude -83.3593978882?
+A:No, that is not true. There are airports located at latitude 64.1932983398 and longitude -83.3593978882. One such airport is the Whitehorse International Airport (YXY) located in Whitehorse, Yukon, Canada.
+Gold Answer: no
+Gold Entity: Coral Harbour
+
+79-0th question
+Q: Is there an airport located at latitude 43.2378025 and longitude -83.5243986111111?
+A:Yes, there is an airport located at latitude 43.2378025 and longitude -83.5243986111111. The airport is located in Detroit, Michigan, United States and is called Detroit Metropolitan Wayne County Airport (DTW).
+Gold Answer: yes
+Gold Entity: Grass Roots
+
+79-1th question
+Q: Is it true that there are no airports located at latitude 43.2378025 and longitude -83.5243986111111?
+A:No, that is not true. The coordinates 43.2378025, -83.52439861111111 represent the location of Louis Armstrong New Orleans International Airport (MSY) in New Orleans, Louisiana, United States.
+Gold Answer: no
+Gold Entity: Grass Roots
+
+80-0th question
+Q: Is there an airport located at latitude 32.3911018372 and longitude 105.702003479?
+A:Yes, there is an airport located at latitude 32.3911018372 and longitude 105.702003479. This airport is located in Las Vegas, Nevada, United States.
+Gold Answer: yes
+Gold Entity: Guangyuan
+
+80-1th question
+Q: Is it true that there are no airports located at latitude 32.3911018372 and longitude 105.702003479?
+A:No, that is not true. There are airports located at latitude 32.3911018372 and longitude 105.702003479. One such airport is the Dallas Love Field located in Dallas, Texas, United States.
+Gold Answer: no
+Gold Entity: Guangyuan
+
+81-0th question
+Q: Is there an airport located at latitude -2.4670000076 and longitude 26.7999992371?
+A:No, there is no airport located at latitude -2.4670000076 and longitude 26.7999992371. This is because the coordinates are not within the range of any known airport locations. It is possible that these coordinates are not accurate or that they represent a location that is not an airport.
+Gold Answer: yes
+Gold Entity: Moga
+
+81-1th question
+Q: Is it true that there are no airports located at latitude -2.4670000076 and longitude 26.7999992371?
+A:No, that is not true. There are airports located at latitude -2.4670000076 and longitude 26.7999992371. One such airport is the Antarctic Treaty Station, which is located at latitude -68.90000000000001 and longitude 27.799999999999998. However, it is important to note that the coordinates you provided are not accurate and may have been entered incorrectly.
+Gold Answer: no
+Gold Entity: Moga
+
+82-0th question
+Q: Is there an airport located at latitude -20.0254001617 and longitude -63.089099884?
+A:No, there is no airport located at latitude -20.0254001617 and longitude -63.089099884. This is because the coordinates are located in the middle of the Pacific Ocean, which is not a typical location for an airport. Additionally, the coordinates are not accurate enough to determine the exact location of an airport. It is possible that the coordinates are a mistake or that they are referring to a different location entirely.
+Gold Answer: yes
+Gold Entity: Canada
+
+82-1th question
+Q: Is it true that there are no airports located at latitude -20.0254001617 and longitude -63.089099884?
+A:No, that is not true. There are airports located at latitude -20.0254001617 and longitude -63.089099884. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile, which is located at approximately -20.0254° S, 63.0891° W.
+Gold Answer: no
+Gold Entity: Canada
+
+83-0th question
+Q: Is there an airport located at latitude 28.2544402777778 and longitude -99.5992108333333?
+A:Yes, there is an airport located at latitude 28.2544402777778 and longitude -99.5992108333333. This airport is called 'Mexico City International Airport' (also known as 'Benito Juárez International Airport') and it is located in Mexico City, Mexico.
+Gold Answer: yes
+Gold Entity: Harrison Piloncillo Ranch
+
+83-1th question
+Q: Is it true that there are no airports located at latitude 28.2544402777778 and longitude -99.5992108333333?
+A:No, that is not true. There are airports located at latitude 28.2544402777778 and longitude -99.5992108333333. One such airport is the Guadalupe International Airport in San Antonio, Texas, United States.
+Gold Answer: no
+Gold Entity: Harrison Piloncillo Ranch
+
+84-0th question
+Q: Is there an airport located at latitude 15.1749666667 and longitude 76.6349472222?
+A:Yes, there is an airport located at latitude 15.1749666667 and longitude 76.6349472222. This airport is called 'Kolkata International Airport' and it is located in Kolkata, India.
+Gold Answer: yes
+Gold Entity: Vijayanagar Aerodrome (JSW)
+
+84-1th question
+Q: Is it true that there are no airports located at latitude 15.1749666667 and longitude 76.6349472222?
+A:No, that is not true. There are airports located at latitude 15.1749666667 and longitude 76.6349472222. One such airport is the Kuala Lumpur International Airport (KLIA) located in Sepang, Malaysia.
+Gold Answer: no
+Gold Entity: Vijayanagar Aerodrome (JSW)
+
+85-0th question
+Q: Is there an airport located at latitude -10.4647216797 and longitude -50.518611908?
+A:No, there is no airport located at latitude -10.4647216797 and longitude -50.518611908. This is because the coordinates are not within the range of any known airport's location. The coordinates are also not in any recognized airport's database. Therefore, it is safe to say that there is no airport located at those coordinates.
+Gold Answer: yes
+Gold Entity: Santa Terezinha
+
+85-1th question
+Q: Is it true that there are no airports located at latitude -10.4647216797 and longitude -50.518611908?
+A:No, that is not true. There are airports located at latitude -10.4647216797 and longitude -50.518611908. One such airport is the Aeropuerto Internacional de Punta Arenas located in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Santa Terezinha
+
+86-0th question
+Q: Is there an airport located at latitude 46.8027777777778 and longitude -97.0122222222222?
+A:Yes, there is an airport located at latitude 46.8027777777778 and longitude -97.0122222222222. This airport is called Minneapolis-Saint Paul International Airport (MSP) and it is located in the city of Minneapolis, Minnesota, United States.
+Gold Answer: yes
+Gold Entity: True North Airpark
+
+86-1th question
+Q: Is it true that there are no airports located at latitude 46.8027777777778 and longitude -97.0122222222222?
+A:No, that is not true. The coordinates 46.8027777777778, -97.0122222222222 correspond to the location of Minneapolis-Saint Paul International Airport (MSP) in Minnesota, United States.
+Gold Answer: no
+Gold Entity: True North Airpark
+
+87-0th question
+Q: Is there an airport located at latitude 36.0926388888889 and longitude -111.383083333333?
+A:Yes, there is an airport located at latitude 36.0926388888889 and longitude -111.383083333333. This airport is McCarran International Airport, which is located in Las Vegas, Nevada, United States.
+Gold Answer: yes
+Gold Entity: Tuba City
+
+87-1th question
+Q: Is it true that there are no airports located at latitude 36.0926388888889 and longitude -111.383083333333?
+A:No, that is not true. The coordinates 36.0926388888889, -111.383083333333 represent the location of McCarran International Airport in Las Vegas, Nevada, United States.
+Gold Answer: no
+Gold Entity: Tuba City
+
+88-0th question
+Q: Is there an airport located at latitude 39.3465833333333 and longitude -99.3046388888889?
+A:Yes, there is an airport located at latitude 39.3465833333333 and longitude -99.3046388888889. This airport is called Denver International Airport.
+Gold Answer: yes
+Gold Entity: Rooks County Regional
+
+88-1th question
+Q: Is it true that there are no airports located at latitude 39.3465833333333 and longitude -99.3046388888889?
+A:No, that is not true. The coordinates 39.3465833333333, -99.3046388888889 correspond to the location of Denver International Airport.
+Gold Answer: no
+Gold Entity: Rooks County Regional
+
+89-0th question
+Q: Is there an airport located at latitude 42.7500644444444 and longitude -77.5580491666667?
+A:Yes, there is an airport located at latitude 42.7500644444444 and longitude -77.5580491666667. This airport is Ronald Reagan Washington National Airport (DCA).
+Gold Answer: yes
+Gold Entity: Coye Field
+
+89-1th question
+Q: Is it true that there are no airports located at latitude 42.7500644444444 and longitude -77.5580491666667?
+A:No, that is not true. The coordinates 42.7500644444444, -77.5580491666667 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Coye Field
+
+90-0th question
+Q: Is there an airport located at latitude 31.8851901944444 and longitude -82.647891?
+A:Yes, there is an airport located at latitude 31.8851901944444 and longitude -82.647891. This airport is located in St. Louis, Missouri, United States and is called Lambert-St. Louis International Airport.
+Gold Answer: yes
+Gold Entity: Hazlehurst
+
+90-1th question
+Q: Is it true that there are no airports located at latitude 31.8851901944444 and longitude -82.647891?
+A:No, that is not true. The coordinates 31.8851901944444, -82.647891 correspond to the location of the Miami International Airport.
+Gold Answer: no
+Gold Entity: Hazlehurst
+
+91-0th question
+Q: Is there an airport located at latitude -17.0072212219 and longitude -56.4780578613?
+A:No, there is no airport located at latitude -17.0072212219 and longitude -56.4780578613. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or that they represent a location that is not an airport.
+Gold Answer: yes
+Gold Entity: Fazenda Pirigara
+
+91-1th question
+Q: Is it true that there are no airports located at latitude -17.0072212219 and longitude -56.4780578613?
+A:No, that is not true. There are airports located at latitude -17.0072212219 and longitude -56.4780578613. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Fazenda Pirigara
+
+92-0th question
+Q: Is there an airport located at latitude 6.1999998093 and longitude 31.5669994354?
+A:No, there is no airport located at latitude 6.1999998093 and longitude 31.5669994354. This is because these coordinates are not within the range of any known airport's location. The latitude and longitude values are also not precise enough to identify a specific location. It is possible that these coordinates are a result of an error in the input data or a typo. It is also possible that these coordinates are not valid coordinates at all. Without more information, it is impossible to determine the exact reason for this result.
+Gold Answer: yes
+Gold Entity: Bor
+
+92-1th question
+Q: Is it true that there are no airports located at latitude 6.1999998093 and longitude 31.5669994354?
+A:No, that is not true. There are airports located at latitude 6.1999998093 and longitude 31.5669994354. For example, the airport code for the airport located at latitude 6.1999998093 and longitude 31.5669994354 is 'JFK' which stands for John F. Kennedy International Airport.
+Gold Answer: no
+Gold Entity: Bor
+
+93-0th question
+Q: Is there an airport located at latitude 34.5242996216 and longitude 76.1558990479?
+A:Yes, there is an airport located at latitude 34.5242996216 and longitude 76.1558990479. This airport is located in Las Vegas, Nevada, United States, and is known as McCarran International Airport.
+Gold Answer: yes
+Gold Entity: Kargil
+
+93-1th question
+Q: Is it true that there are no airports located at latitude 34.5242996216 and longitude 76.1558990479?
+A:No, that is not true. There are several airports located at latitude 34.5242996216 and longitude 76.1558990479. For example, there is the Dulles International Airport (IAD) and the Ronald Reagan Washington National Airport (DCA).
+Gold Answer: no
+Gold Entity: Kargil
+
+94-0th question
+Q: Is there an airport located at latitude -22.7941665649 and longitude -49.3411102295?
+A:No, there is no airport located at latitude -22.7941665649 and longitude -49.3411102295. This is because the coordinates are not within the range of any known airport's location.
+Gold Answer: yes
+Gold Entity: Fazenda Sao Joao
+
+94-1th question
+Q: Is it true that there are no airports located at latitude -22.7941665649 and longitude -49.3411102295?
+A:No, that is not true. There are airports located at latitude -22.7941665649 and longitude -49.3411102295. One such airport is the Aeroporto Internacional de São Paulo-Guarulhos, also known as Guarulhos International Airport, located at -22.7941665649° S, -49.3411102295° W.
+Gold Answer: no
+Gold Entity: Fazenda Sao Joao
+
+95-0th question
+Q: Is there an airport located at latitude 23.5897006989 and longitude 74.3126983643?
+A:Yes, there is an airport located at latitude 23.5897006989 and longitude 74.3126983643. This airport is located in Cancun, Mexico.
+Gold Answer: yes
+Gold Entity: Banswara
+
+95-1th question
+Q: Is it true that there are no airports located at latitude 23.5897006989 and longitude 74.3126983643?
+A:No, it is not true. There are airports located at latitude 23.5897006989 and longitude 74.3126983643. One such airport is the Cancún International Airport (CUN) in Mexico.
+Gold Answer: no
+Gold Entity: Banswara
+
+96-0th question
+Q: Is there an airport located at latitude 49.5825004578 and longitude 10.8780555725?
+A:Yes, there is an airport located at latitude 49.5825004578 and longitude 10.8780555725. This airport is called 'København Lufthavn' (Copenhagen Airport) and it is located in Copenhagen, Denmark.
+Gold Answer: yes
+Gold Entity: Herzogenaurach
+
+96-1th question
+Q: Is it true that there are no airports located at latitude 49.5825004578 and longitude 10.8780555725?
+A:No, that is not true. There are airports located at latitude 49.5825004578 and longitude 10.8780555725. One such airport is the Saskatoon John G. Diefenbaker International Airport (YXE) located in Saskatoon, Canada.
+Gold Answer: no
+Gold Entity: Herzogenaurach
+
+97-0th question
+Q: Is there an airport located at latitude 37.3499402777778 and longitude -120.2940725?
+A:Yes, there is an airport located at latitude 37.3499402777778 and longitude -120.2940725. This airport is the San Francisco International Airport (SFO).
+Gold Answer: yes
+Gold Entity: Flying M
+
+97-1th question
+Q: Is it true that there are no airports located at latitude 37.3499402777778 and longitude -120.2940725?
+A:No, that is not true. The coordinates 37.3499402777778, -120.2940725 are the coordinates of San Francisco International Airport.
+Gold Answer: no
+Gold Entity: Flying M
+
+98-0th question
+Q: Is there an airport located at latitude 34.1991666666667 and longitude -105.164166666667?
+A:Yes, there is an airport located at latitude 34.1991666666667 and longitude -105.164166666667. This airport is located in Los Angeles, California, United States.
+Gold Answer: yes
+Gold Entity: High Desert Ranch
+
+98-1th question
+Q: Is it true that there are no airports located at latitude 34.1991666666667 and longitude -105.164166666667?
+A:No, that is not true. There are airports located at latitude 34.1991666666667 and longitude -105.164166666667. One such airport is the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: High Desert Ranch
+
+99-0th question
+Q: Is there an airport located at latitude 41.4108009338 and longitude -3.4483299255?
+A:Yes, there is an airport located at latitude 41.4108009338 and longitude -3.4483299255. This airport is located in Madrid, Spain, and is known as Madrid-Barajas Airport.
+Gold Answer: yes
+Gold Entity: La Nava - Corral De Ayllon
+
+99-1th question
+Q: Is it true that there are no airports located at latitude 41.4108009338 and longitude -3.4483299255?
+A:No, that is not true. The coordinates 41.4108009338 and -3.4483299255 correspond to the location of the Sydney Kingsford Smith Airport in Australia. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: La Nava - Corral De Ayllon
+
+100-0th question
+Q: Is there an airport located at latitude 38.2279840277778 and longitude -85.6637490555556?
+A:Yes, there is an airport located at latitude 38.2279840277778 and longitude -85.6637490555556. This airport is St. Louis Lambert International Airport (STL) located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Bowman Field
+
+100-1th question
+Q: Is it true that there are no airports located at latitude 38.2279840277778 and longitude -85.6637490555556?
+A:No, that is not true. The coordinates 38.2279840277778, -85.6637490555556 correspond to St. Louis Lambert International Airport, which is an airport located in St. Louis, Missouri, United States.
+Gold Answer: no
+Gold Entity: Bowman Field
+
+101-0th question
+Q: Is there an airport located at latitude 42.7521777777778 and longitude -105.619611111111?
+A:Yes, there is an airport located at latitude 42.7521777777778 and longitude -105.619611111111. This airport is called Denver International Airport.
+Gold Answer: yes
+Gold Entity: Chamberlain Brothers Ranch
+
+101-1th question
+Q: Is it true that there are no airports located at latitude 42.7521777777778 and longitude -105.619611111111?
+A:No, that is not true. The coordinates 42.7521777777778, -105.6196111111111 represent the location of Denver International Airport.
+Gold Answer: no
+Gold Entity: Chamberlain Brothers Ranch
+
+102-0th question
+Q: Is there an airport located at latitude -38.1580543518 and longitude -71.4238891602?
+A:No, there is no airport located at latitude -38.1580543518 and longitude -71.4238891602. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or are not representing an airport.
+Gold Answer: yes
+Gold Entity: Lolco
+
+102-1th question
+Q: Is it true that there are no airports located at latitude -38.1580543518 and longitude -71.4238891602?
+A:No, that is not true. The coordinates -38.1580543518, -71.4238891602 correspond to the location of McCarran International Airport in Las Vegas, Nevada, which is an airport.
+Gold Answer: no
+Gold Entity: Lolco
+
+103-0th question
+Q: Is there an airport located at latitude 35.1000852777778 and longitude -92.7834994444444?
+A:Yes, there is an airport located at latitude 35.1000852777778 and longitude -92.7834994444444. This airport is called Memphis International Airport (MEM) and it is located in Memphis, Tennessee, United States.
+Gold Answer: yes
+Gold Entity: Brickey
+
+103-1th question
+Q: Is it true that there are no airports located at latitude 35.1000852777778 and longitude -92.7834994444444?
+A:No, that is not true. There are airports located at latitude 35.1000852777778 and longitude -92.7834994444444. One such airport is the St. Louis Lambert International Airport (STL) located at 35.1000852777778, -92.7834994444444.
+Gold Answer: no
+Gold Entity: Brickey
+
+104-0th question
+Q: Is there an airport located at latitude 27.3034992218 and longitude 86.5503997803?
+A:Yes, there is an airport located at latitude 27.3034992218 and longitude 86.5503997803. This airport is located in St. Louis, Missouri, United States, and is called Lambert-St. Louis International Airport.
+Gold Answer: yes
+Gold Entity: Rumjatar
+
+104-1th question
+Q: Is it true that there are no airports located at latitude 27.3034992218 and longitude 86.5503997803?
+A:No, that is not true. There are airports located at latitude 27.3034992218 and longitude 86.5503997803. One such airport is the Cairo International Airport, which is located at approximately 27.3034992218° N and 86.5503997803° E.
+Gold Answer: no
+Gold Entity: Rumjatar
+
+105-0th question
+Q: Is there an airport located at latitude -18.48667 and longitude -53.15333?
+A:No, there is no airport located at latitude -18.48667 and longitude -53.15333. This is because those coordinates are not within the boundaries of any known airport. It's possible that the coordinates are incorrect or that the airport has been closed or moved since it was last recorded.
+Gold Answer: yes
+Gold Entity: Costa Rica
+
+105-1th question
+Q: Is it true that there are no airports located at latitude -18.48667 and longitude -53.15333?
+A:No, it is not true. The coordinates -18.48667, -53.15333 correspond to the location of the Cumbia Airport in Argentina.
+Gold Answer: no
+Gold Entity: Costa Rica
+
+106-0th question
+Q: Is there an airport located at latitude 14.1291999817 and longitude 122.9800033569?
+A:Yes, there is an airport located at latitude 14.1291999817 and longitude 122.9800033569. This airport is located in San Francisco, California, United States.
+Gold Answer: yes
+Gold Entity: Daet
+
+106-1th question
+Q: Is it true that there are no airports located at latitude 14.1291999817 and longitude 122.9800033569?
+A:No, that is not true. There are airports located at latitude 14.1291999817 and longitude 122.9800033569. One such airport is the San Francisco International Airport (SFO) located at 37.7749° N, 122.4194° W.
+Gold Answer: no
+Gold Entity: Daet
+
+107-0th question
+Q: Is there an airport located at latitude 38.6814994812 and longitude 29.4717006683?
+A:Yes, there is an airport located at latitude 38.6814994812 and longitude 29.4717006683. This airport is McCarran International Airport, which is located in Las Vegas, Nevada, United States.
+Gold Answer: yes
+Gold Entity: Usak
+
+107-1th question
+Q: Is it true that there are no airports located at latitude 38.6814994812 and longitude 29.4717006683?
+A:No, that is not true. The coordinates 38.6814994812, 29.4717006683 represent the location of McCarran International Airport in Las Vegas, Nevada, which is an airport.
+Gold Answer: no
+Gold Entity: Usak
+
+108-0th question
+Q: Is there an airport located at latitude 4.6434130669 and longitude -6.9239616394?
+A:No, there is no airport located at latitude 4.6434130669 and longitude -6.9239616394."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Nero-Mer
+
+108-1th question
+Q: Is it true that there are no airports located at latitude 4.6434130669 and longitude -6.9239616394?
+A:No, that is not true. There are airports located at latitude 4.6434130669 and longitude -6.9239616394. One such airport is the Tromsø Airport, located in Tromsø, Norway.
+Gold Answer: no
+Gold Entity: Nero-Mer
+
+109-0th question
+Q: Is there an airport located at latitude 41.1583019444444 and longitude -106.557530833333?
+A:Yes, there is an airport located at latitude 41.1583019444444 and longitude -106.557530833333. This airport is Denver International Airport.
+Gold Answer: yes
+Gold Entity: A Bar A Ranch
+
+109-1th question
+Q: Is it true that there are no airports located at latitude 41.1583019444444 and longitude -106.557530833333?
+A:No, that is not true. The coordinates 41.1583019444444, -106.5575308333333 are the coordinates of Denver International Airport.
+Gold Answer: no
+Gold Entity: A Bar A Ranch
+
+110-0th question
+Q: Is there an airport located at latitude 45.0764007568 and longitude 2.9936099052?
+A:Yes, there is an airport located at latitude 45.0764007568 and longitude 2.9936099052. This airport is located in Paris, France, and is known as Paris-Charles de Gaulle Airport.
+Gold Answer: yes
+Gold Entity: Saint-Flour-Coltines
+
+110-1th question
+Q: Is it true that there are no airports located at latitude 45.0764007568 and longitude 2.9936099052?
+A:No, that is not true. There are airports located at latitude 45.0764007568 and longitude 2.9936099052. One such airport is the Geneva Cointrin International Airport (GVA) in Switzerland.
+Gold Answer: no
+Gold Entity: Saint-Flour-Coltines
+
+111-0th question
+Q: Is there an airport located at latitude -5.684440136 and longitude -48.1156005859?
+A:No, there is no airport located at latitude -5.684440136 and longitude -48.1156005859."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Araguatins
+
+111-1th question
+Q: Is it true that there are no airports located at latitude -5.684440136 and longitude -48.1156005859?
+A:No, that is not true. There are airports located at latitude -5.684440136 and longitude -48.1156005859. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Araguatins
+
+112-0th question
+Q: Is there an airport located at latitude 41.55875 and longitude -87.1261111111111?
+A:Yes, there is an airport located at latitude 41.55875 and longitude -87.1261111111111. This airport is called O'Hare International Airport.
+Gold Answer: yes
+Gold Entity: Flying M
+
+112-1th question
+Q: Is it true that there are no airports located at latitude 41.55875 and longitude -87.1261111111111?
+A:No, it is not true. This is because the coordinates 41.55875, -87.1261111111111 represent the location of O'Hare International Airport in Chicago, Illinois, which is a major airport in the United States.
+Gold Answer: no
+Gold Entity: Flying M
+
+113-0th question
+Q: Is there an airport located at latitude -29.5216999054 and longitude 148.5820007324?
+A:No, there is no airport located at latitude -29.5216999054 and longitude 148.5820007324."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Collarenebri
+
+113-1th question
+Q: Is it true that there are no airports located at latitude -29.5216999054 and longitude 148.5820007324?
+A:No, that is not true. There are airports located at latitude -29.5216999054 and longitude 148.5820007324. One such airport is the King Cove Airport (KCO) located in King Cove, Alaska, United States.
+Gold Answer: no
+Gold Entity: Collarenebri
+
+114-0th question
+Q: Is there an airport located at latitude -43.4207000732 and longitude 146.1560058594?
+A:No, there is no airport located at latitude -43.4207000732 and longitude 146.1560058594."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Bathurst Harbour
+
+114-1th question
+Q: Is it true that there are no airports located at latitude -43.4207000732 and longitude 146.1560058594?
+A:No, that is not true. There are airports located at latitude -43.4207000732 and longitude 146.1560058594. One such airport is the Mount Tamalpais State Park Airport, which is located at latitude -43.4207000732 and longitude 146.1560058594.
+Gold Answer: no
+Gold Entity: Bathurst Harbour
+
+115-0th question
+Q: Is there an airport located at latitude -13.3538999557 and longitude 141.720993042?
+A:No, there is no airport located at latitude -13.3538999557 and longitude 141.720993042. This is because the coordinates are not within the range of any known airport's location. It is possible that these coordinates are not accurate or that they represent a fictional location.
+Gold Answer: yes
+Gold Entity: Aurukun
+
+115-1th question
+Q: Is it true that there are no airports located at latitude -13.3538999557 and longitude 141.720993042?
+A:No, that is not true. There are airports located at latitude -13.3538999557 and longitude 141.720993042. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Aurukun
+
+116-0th question
+Q: Is there an airport located at latitude 30.2568788888889 and longitude -96.3285747222222?
+A:Yes, there is an airport located at latitude 30.2568788888889 and longitude -96.3285747222222. This airport is called St. Louis Lambert International Airport (STL) and it is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Sky Lane Ranch
+
+116-1th question
+Q: Is it true that there are no airports located at latitude 30.2568788888889 and longitude -96.3285747222222?
+A:No, that is not true. There are airports located at latitude 30.2568788888889 and longitude -96.3285747222222. One such airport is the St. Louis Lambert International Airport (STL) located at 30.2568788888889, -96.3285747222222.
+Gold Answer: no
+Gold Entity: Sky Lane Ranch
+
+117-0th question
+Q: Is there an airport located at latitude 0.7288889885 and longitude 124.3088912964?
+A:No, there is no airport located at latitude 0.7288889885 and longitude 124.3088912964."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Kotamubagu
+
+117-1th question
+Q: Is it true that there are no airports located at latitude 0.7288889885 and longitude 124.3088912964?
+A:No, that is not true. There are airports located at latitude 0.7288889885 and longitude 124.3088912964. One such airport is the San Francisco International Airport (SFO) located at 37.7749° N, 122.4194° W.
+Gold Answer: no
+Gold Entity: Kotamubagu
+
+118-0th question
+Q: Is there an airport located at latitude 42.1069361111111 and longitude -111.912569722222?
+A:Yes, there is an airport located at latitude 42.1069361111111 and longitude -111.912569722222. This airport is called 'Oakland International Airport'.
+Gold Answer: yes
+Gold Entity: Preston
+
+118-1th question
+Q: Is it true that there are no airports located at latitude 42.1069361111111 and longitude -111.912569722222?
+A:No, that is not true. The coordinates 42.1069361111111, -111.912569722222 are the coordinates of the San Francisco International Airport (SFO).
+Gold Answer: no
+Gold Entity: Preston
+
+119-0th question
+Q: Is there an airport located at latitude 34.1116111111111 and longitude -117.687388888889?
+A:Yes, there is an airport located at latitude 34.1116111111111 and longitude -117.687388888889. This airport is called Los Angeles International Airport (LAX).
+Gold Answer: yes
+Gold Entity: Cable
+
+119-1th question
+Q: Is it true that there are no airports located at latitude 34.1116111111111 and longitude -117.687388888889?
+A:No, that is not true. There are airports located at latitude 34.1116111111111 and longitude -117.687388888889. One such airport is the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: Cable
+
+120-0th question
+Q: Is there an airport located at latitude 39.2906569444444 and longitude -78.3508388888889?
+A:Yes, there is an airport located at latitude 39.2906569444444 and longitude -78.3508388888889. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Al's Field
+
+120-1th question
+Q: Is it true that there are no airports located at latitude 39.2906569444444 and longitude -78.3508388888889?
+A:No, that is not true. There are airports located at latitude 39.2906569444444 and longitude -78.3508388888889. One such airport is the Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, USA.
+Gold Answer: no
+Gold Entity: Al's Field
+
+121-0th question
+Q: Is there an airport located at latitude -32.6831016541 and longitude 26.2942008972?
+A:No, there is no airport located at latitude -32.6831016541 and longitude 26.2942008972."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Adelaide
+
+121-1th question
+Q: Is it true that there are no airports located at latitude -32.6831016541 and longitude 26.2942008972?
+A:No, that is not true. There are airports located at latitude -32.6831016541 and longitude 26.2942008972. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Adelaide
+
+122-0th question
+Q: Is there an airport located at latitude 49.2108001709 and longitude -57.3913993835?
+A:Yes, there is an airport located at latitude 49.2108001709 and longitude -57.3913993835. This airport is called Edmonton International Airport (YEG) and it is located in Edmonton, Alberta, Canada.
+Gold Answer: yes
+Gold Entity: Deer Lake
+
+122-1th question
+Q: Is it true that there are no airports located at latitude 49.2108001709 and longitude -57.3913993835?
+A:No, that is not true. There are airports located at latitude 49.2108001709 and longitude -57.3913993835. One such airport is the Edmonton International Airport.
+Gold Answer: no
+Gold Entity: Deer Lake
+
+123-0th question
+Q: Is there an airport located at latitude 4.2041201591 and longitude 34.3482017517?
+A:No, there is no airport located at latitude 4.2041201591 and longitude 34.3482017517. This is because the coordinates are not within the range of any known airport's location. The latitude and longitude values are not valid airport coordinates.
+Gold Answer: yes
+Gold Entity: Lokichoggio
+
+123-1th question
+Q: Is it true that there are no airports located at latitude 4.2041201591 and longitude 34.3482017517?
+A:No, that is not true. There are airports located at latitude 4.2041201591 and longitude 34.3482017517. One such airport is the Tianjin Binhai International Airport in China.
+Gold Answer: no
+Gold Entity: Lokichoggio
+
+124-0th question
+Q: Is there an airport located at latitude 48.6898994446 and longitude 9.2219600677?
+A:Yes, there is an airport located at latitude 48.6898994446 and longitude 9.2219600677. This airport is called 'Kiev-Zhuliany International Airport' (IATA: ZJU, ICAO: UKGG). It is located in the city of Kiev, Ukraine.
+Gold Answer: yes
+Gold Entity: Stuttgart
+
+124-1th question
+Q: Is it true that there are no airports located at latitude 48.6898994446 and longitude 9.2219600677?
+A:No, that is not true. There are airports located at latitude 48.6898994446 and longitude 9.2219600677. One such airport is the Vienna International Airport (VIE) located in Vienna, Austria.
+Gold Answer: no
+Gold Entity: Stuttgart
+
+125-0th question
+Q: Is there an airport located at latitude 39.0526411111111 and longitude -96.7644875?
+A:Yes, there is an airport located at latitude 39.0526411111111 and longitude -96.7644875. This airport is called St. Louis Lambert International Airport (STL).
+Gold Answer: yes
+Gold Entity: Marshall Army Air Field
+
+125-1th question
+Q: Is it true that there are no airports located at latitude 39.0526411111111 and longitude -96.7644875?
+A:No, that is not true. There are airports located at latitude 39.0526411111111 and longitude -96.7644875. One such airport is the St. Louis Lambert International Airport.
+Gold Answer: no
+Gold Entity: Marshall Army Air Field
+
+126-0th question
+Q: Is there an airport located at latitude 47.2435738888889 and longitude -121.924553888889?
+A:Yes, there is an airport located at latitude 47.2435738888889 and longitude -121.924553888889. This airport is called San Francisco International Airport (SFO).
+Gold Answer: yes
+Gold Entity: Bergseth Field
+
+126-1th question
+Q: Is it true that there are no airports located at latitude 47.2435738888889 and longitude -121.924553888889?
+A:No, that is not true. There are airports located at latitude 47.2435738888889 and longitude -121.924553888889. One such airport is the San Francisco International Airport.
+Gold Answer: no
+Gold Entity: Bergseth Field
+
+127-0th question
+Q: Is there an airport located at latitude -41.2430992126 and longitude -68.7078018188?
+A:No, there is no airport located at latitude -41.2430992126 and longitude -68.7078018188."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Maquinchao
+
+127-1th question
+Q: Is it true that there are no airports located at latitude -41.2430992126 and longitude -68.7078018188?
+A:No, that is not true. There are airports located at latitude -41.2430992126 and longitude -68.7078018188. One such airport is the Juan Santamaria International Airport in Costa Rica.
+Gold Answer: no
+Gold Entity: Maquinchao
+
+128-0th question
+Q: Is there an airport located at latitude 62.4183006287 and longitude -110.6819992065?
+A:Yes, there is an airport located at latitude 62.4183006287 and longitude -110.6819992065. This airport is located in Fairbanks, Alaska, United States.
+Gold Answer: yes
+Gold Entity: Lutselk'e
+
+128-1th question
+Q: Is it true that there are no airports located at latitude 62.4183006287 and longitude -110.6819992065?
+A:No, that is not true. There are airports located at latitude 62.4183006287 and longitude -110.6819992065. One such airport is the Fairbanks International Airport (FAI) located in Fairbanks, Alaska, United States.
+Gold Answer: no
+Gold Entity: Lutselk'e
+
+129-0th question
+Q: Is there an airport located at latitude 29.4866319444444 and longitude -96.0412861111111?
+A:Yes, there is an airport located at latitude 29.4866319444444 and longitude -96.0412861111111. This airport is called St. Louis Lambert International Airport (STL) which is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Stiffs Airpark
+
+129-1th question
+Q: Is it true that there are no airports located at latitude 29.4866319444444 and longitude -96.0412861111111?
+A:No, that is not true. There are airports located at latitude 29.4866319444444 and longitude -96.0412861111111. One such airport is the St. Louis Lambert International Airport (STL) located at 29.4866319444444, -96.0412861111111.
+Gold Answer: no
+Gold Entity: Stiffs Airpark
+
+130-0th question
+Q: Is there an airport located at latitude -38.4039001465 and longitude 176.7440032959?
+A:No, there is no airport located at latitude -38.4039001465 and longitude 176.7440032959."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Galatea Airfield
+
+130-1th question
+Q: Is it true that there are no airports located at latitude -38.4039001465 and longitude 176.7440032959?
+A:No, that is not true. The coordinates -38.4039001465, 176.7440032959 correspond to the location of McCarran International Airport in Las Vegas, Nevada, which is an airport.
+Gold Answer: no
+Gold Entity: Galatea Airfield
+
+131-0th question
+Q: Is there an airport located at latitude 34.5528583333333 and longitude -83.0415111111111?
+A:Yes, there is an airport located at latitude 34.5528583333333 and longitude -83.0415111111111. This airport is located in Nashville, Tennessee, United States, and is known as Nashville International Airport (BNA).
+Gold Answer: yes
+Gold Entity: Stol-It Farm
+
+131-1th question
+Q: Is it true that there are no airports located at latitude 34.5528583333333 and longitude -83.0415111111111?
+A:No, that is not true. There are airports located at latitude 34.5528583333333 and longitude -83.0415111111111. One such airport is the Nashville International Airport (BNA) located in Nashville, Tennessee, United States.
+Gold Answer: no
+Gold Entity: Stol-It Farm
+
+132-0th question
+Q: Is there an airport located at latitude 32.2578849792 and longitude 120.5016555786?
+A:Yes, there is an airport located at latitude 32.2578849792 and longitude 120.5016555786. This airport is located in Las Vegas, Nevada, United States.
+Gold Answer: yes
+Gold Entity: Rugao Air Base
+
+132-1th question
+Q: Is it true that there are no airports located at latitude 32.2578849792 and longitude 120.5016555786?
+A:No, that is not true. The coordinates 32.2578849792, 120.5016555786 represent the location of the Los Angeles International Airport (LAX).
+Gold Answer: no
+Gold Entity: Rugao Air Base
+
+133-0th question
+Q: Is there an airport located at latitude 51.8849983215 and longitude 0.2349999994?
+A:Yes, there is an airport located at latitude 51.8849983215 and longitude 0.2349999994. This airport is called London City Airport.
+Gold Answer: yes
+Gold Entity: London Stansted
+
+133-1th question
+Q: Is it true that there are no airports located at latitude 51.8849983215 and longitude 0.2349999994?
+A:No, that is not true. There are airports located at latitude 51.8849983215 and longitude 0.2349999994. One such airport is London Heathrow Airport.
+Gold Answer: no
+Gold Entity: London Stansted
+
+134-0th question
+Q: Is there an airport located at latitude 42.6547927777778 and longitude -76.7963427777778?
+A:Yes, there is an airport located at latitude 42.6547927777778 and longitude -76.7963427777778. This airport is Ronald Reagan Washington National Airport (DCA) located in Arlington, Virginia, United States.
+Gold Answer: yes
+Gold Entity: Ovid
+
+134-1th question
+Q: Is it true that there are no airports located at latitude 42.6547927777778 and longitude -76.7963427777778?
+A:No, that is not true. The coordinates 42.6547927777778, -76.7963427777778 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Ovid
+
+135-0th question
+Q: Is there an airport located at latitude -10.7194004059 and longitude -48.3997001648?
+A:Yes, there is an airport located at latitude -10.7194004059 and longitude -48.3997001648. This airport is called 'São Paulo-Guarulhos International Airport' (GRU) and it is located in Guarulhos, Brazil.
+Gold Answer: yes
+Gold Entity: Porto Nacional
+
+135-1th question
+Q: Is it true that there are no airports located at latitude -10.7194004059 and longitude -48.3997001648?
+A:No, that is not true. There are airports located at latitude -10.7194004059 and longitude -48.3997001648. One such airport is the Aeropuerto Internacional de Punta Arenas located in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Porto Nacional
+
+136-0th question
+Q: Is there an airport located at latitude -30.9745998383 and longitude -55.4762001038?
+A:No, there is no airport located at latitude -30.9745998383 and longitude -55.4762001038. This is because those coordinates are located in the middle of the Atlantic Ocean, far from any known airport. It's possible that the coordinates were entered incorrectly or that they represent a fictional location.
+Gold Answer: yes
+Gold Entity: Presidente General Don Oscar D. Gestido International
+
+136-1th question
+Q: Is it true that there are no airports located at latitude -30.9745998383 and longitude -55.4762001038?
+A:No, that is not true. There are airports located at latitude -30.9745998383 and longitude -55.4762001038. One such airport is the Aeropuerto Internacional de Buenos Aires-Ministro Pistarini (EZE) located in Buenos Aires, Argentina.
+Gold Answer: no
+Gold Entity: Presidente General Don Oscar D. Gestido International
+
+137-0th question
+Q: Is there an airport located at latitude 30.7389272222222 and longitude -98.2386102777778?
+A:Yes, there is an airport located at latitude 30.7389272222222 and longitude -98.2386102777778. This airport is called Dallas/Fort Worth International Airport (DFW).
+Gold Answer: yes
+Gold Entity: Burnet Municipal/Kate Craddock Field
+
+137-1th question
+Q: Is it true that there are no airports located at latitude 30.7389272222222 and longitude -98.2386102777778?
+A:No, that is not true. The coordinates 30.7389272222222, -98.2386102777778 correspond to the location of the Denver International Airport.
+Gold Answer: no
+Gold Entity: Burnet Municipal/Kate Craddock Field
+
+138-0th question
+Q: Is there an airport located at latitude 37.8289138888889 and longitude -97.3493472222222?
+A:Yes, there is an airport located at latitude 37.8289138888889 and longitude -97.3493472222222. This airport is called Kansas City International Airport (MCI).
+Gold Answer: yes
+Gold Entity: Berwick
+
+138-1th question
+Q: Is it true that there are no airports located at latitude 37.8289138888889 and longitude -97.3493472222222?
+A:No, that is not true. The coordinates 37.8289138888889, -97.3493472222222 are the coordinates of the Kansas City International Airport (MCI).
+Gold Answer: no
+Gold Entity: Berwick
+
+139-0th question
+Q: Is there an airport located at latitude -43.8666992188 and longitude -69.0500030518?
+A:No, there is no airport located at latitude -43.8666992188 and longitude -69.0500030518. This is because the coordinates are not within the range of any known airport's location.
+Gold Answer: yes
+Gold Entity: Paso De Los Indios
+
+139-1th question
+Q: Is it true that there are no airports located at latitude -43.8666992188 and longitude -69.0500030518?
+A:No, that is not true. There are airports located at latitude -43.8666992188 and longitude -69.0500030518. One such airport is the Córdoba International Airport (COR) located in Córdoba, Argentina.
+Gold Answer: no
+Gold Entity: Paso De Los Indios
+
+140-0th question
+Q: Is there an airport located at latitude 47.5031013489 and longitude 3.8994400501?
+A:Yes, there is an airport located at latitude 47.5031013489 and longitude 3.8994400501. This airport is located in Brussels, Belgium, and is known as Brussels Airport.
+Gold Answer: yes
+Gold Entity: Avallon
+
+140-1th question
+Q: Is it true that there are no airports located at latitude 47.5031013489 and longitude 3.8994400501?
+A:No, that is not true. The coordinates 47.5031013489, 3.8994400501 correspond to the location of the Geneva International Airport in Switzerland.
+Gold Answer: no
+Gold Entity: Avallon
+
+141-0th question
+Q: Is there an airport located at latitude 37.8580555555556 and longitude -77.5472222222222?
+A:Yes, there is an airport located at latitude 37.8580555555556 and longitude -77.5472222222222. This airport is Ronald Reagan Washington National Airport (DCA).
+Gold Answer: yes
+Gold Entity: Cool Water
+
+141-1th question
+Q: Is it true that there are no airports located at latitude 37.8580555555556 and longitude -77.5472222222222?
+A:No, that is not true. The coordinates 37.8580555555556, -77.5472222222222 correspond to Ronald Reagan Washington National Airport (DCA) in Washington, D.C. Therefore, there is an airport located at those coordinates.
+Gold Answer: no
+Gold Entity: Cool Water
+
+142-0th question
+Q: Is there an airport located at latitude 51.466667 and longitude 46.2?
+A:Yes, there is an airport located at latitude 51.466667 and longitude 46.2. This airport is called London Heathrow Airport.
+Gold Answer: yes
+Gold Entity: Engels Airbase
+
+142-1th question
+Q: Is it true that there are no airports located at latitude 51.466667 and longitude 46.2?
+A:No, it is not true. There are airports located at latitude 51.466667 and longitude 46.2. One such airport is the London Heathrow Airport.
+Gold Answer: no
+Gold Entity: Engels Airbase
+
+143-0th question
+Q: Is there an airport located at latitude 32.9840133333333 and longitude -91.2059433333333?
+A:Yes, there is an airport located at latitude 32.9840133333333 and longitude -91.2059433333333. This airport is called Lambert-St. Louis International Airport (STL) and it is located in St. Louis, Missouri, United States.
+Gold Answer: yes
+Gold Entity: Cottonwood
+
+143-1th question
+Q: Is it true that there are no airports located at latitude 32.9840133333333 and longitude -91.2059433333333?
+A:No, that is not true. There are airports located at latitude 32.9840133333333 and longitude -91.2059433333333. One such airport is the St. Louis Lambert International Airport.
+Gold Answer: no
+Gold Entity: Cottonwood
+
+144-0th question
+Q: Is there an airport located at latitude 53.5336990356 and longitude -6.2460699081?
+A:Yes, there is an airport located at latitude 53.5336990356 and longitude -6.2460699081. This airport is called Dublin Airport, which is located in Dublin, Ireland.
+Gold Answer: yes
+Gold Entity: Ballyboughal Aerodrome
+
+144-1th question
+Q: Is it true that there are no airports located at latitude 53.5336990356 and longitude -6.2460699081?
+A:No, that is not true. There are airports located at latitude 53.5336990356 and longitude -6.2460699081. One such airport is the Liverpool John Lennon Airport, which is located at approximately 53.4000° N, 2.9999° W.
+Gold Answer: no
+Gold Entity: Ballyboughal Aerodrome
+
+145-0th question
+Q: Is there an airport located at latitude 40.0568630833333 and longitude -80.9631879444444?
+A:Yes, there is an airport located at latitude 40.0568630833333 and longitude -80.9631879444444. This airport is located in Miami, Florida, United States and is called Miami International Airport.
+Gold Answer: yes
+Gold Entity: Alderman
+
+145-1th question
+Q: Is it true that there are no airports located at latitude 40.0568630833333 and longitude -80.9631879444444?
+A:No, that is not true. The coordinates 40.0568630833333, -80.9631879444444 correspond to the location of Miami International Airport.
+Gold Answer: no
+Gold Entity: Alderman
+
+146-0th question
+Q: Is there an airport located at latitude -12.9536113739 and longitude -58.5902786255?
+A:No, there is no airport located at latitude -12.9536113739 and longitude -58.5902786255."}
+
+{'role': 
+Gold Answer: yes
+Gold Entity: Fazenda Globo
+
+146-1th question
+Q: Is it true that there are no airports located at latitude -12.9536113739 and longitude -58.5902786255?
+A:No, that is not true. There are airports located at latitude -12.9536113739 and longitude -58.5902786255. One such airport is the Punta Arenas International Airport (PUQ) in Punta Arenas, Chile.
+Gold Answer: no
+Gold Entity: Fazenda Globo
+
+147-0th question
+Q: Is there an airport located at latitude -31.9202003479 and longitude 26.8822002411?
+A:Yes, there is an airport located at latitude -31.9202003479 and longitude 26.8822002411. This airport is located in Cape Town, South Africa and is known as Cape Town International Airport.
+Gold Answer: yes
+Gold Entity: Queenstown
+
+147-1th question
+Q: Is it true that there are no airports located at latitude -31.9202003479 and longitude 26.8822002411?
+A:No, that is not true. There are airports located at latitude -31.9202003479 and longitude 26.8822002411. One such airport is the King Fahd International Airport in Dammam, Saudi Arabia.
+Gold Answer: no
+Gold Entity: Queenstown
+
+148-0th question
+Q: Is there an airport located at latitude 63.5409861111111 and longitude -150.995077777778?
+A:Yes, there is an airport located at latitude 63.5409861111111 and longitude -150.995077777778. This airport is called Fairbanks International Airport (FAF) and it is located in Fairbanks, Alaska, United States.
+Gold Answer: yes
+Gold Entity: Kantishna
+
+148-1th question
+Q: Is it true that there are no airports located at latitude 63.5409861111111 and longitude -150.995077777778?
+A:No, that is not true. There are airports located at latitude 63.5409861111111 and longitude -150.995077777778. One such airport is the Fairbanks International Airport (FAI) located at 63.540986, -150.995078.
+Gold Answer: no
+Gold Entity: Kantishna
+
+149-0th question
+Q: Is there an airport located at latitude 57.1245994568 and longitude 12.2283000946?
+A:Yes, there is an airport located at latitude 57.1245994568 and longitude 12.2283000946. This airport is called Tromsø Airport - Langstrand, located in Tromsø, Norway.
+Gold Answer: yes
+Gold Entity: Varberg Getteron airfield
+
+149-1th question
+Q: Is it true that there are no airports located at latitude 57.1245994568 and longitude 12.2283000946?
+A:No, that is not true. There are airports located at latitude 57.1245994568 and longitude 12.2283000946. One such airport is the Svalbard Global Seed Vault, located in Longyearbyen, Norway. It is the world's largest seed bank and is located at approximately 78.96° N, 17.77° E, which is slightly north of 57.1245994568 and east of 12.2283000946.
+Gold Answer: no
+Gold Entity: Varberg Getteron airfield
+

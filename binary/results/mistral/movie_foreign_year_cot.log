@@ -1,0 +1,1822 @@
+0-0th question
+Q: Was the director who directed the movie titled Avatar that was released in 2009 born in the 1950s?
+A:No, the director of the movie Avatar, which was released in 2009, was not born in the 1950s. The director of Avatar is James Cameron, who was born in 1954.
+Gold Answer: yes
+Gold Entity: James Cameron, 1954
+
+0-1th question
+Q: Is it true that the director who directed the movie titled Avatar that was released in 2009 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Avatar that was released in 2009 was not born in the 1950s. The director of Avatar, James Cameron, was born in 1954, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: James Cameron, 1954
+
+1-0th question
+Q: Was the director who directed the movie titled Pirates of the Caribbean: At World's End that was released in 2007 born in the 1960s?
+A:No, the director of Pirates of the Caribbean: At World's End, which was released in 2007, was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1954.
+Gold Answer: yes
+Gold Entity: Gore Verbinski, 1964
+
+1-1th question
+Q: Is it true that the director who directed the movie titled Pirates of the Caribbean: At World's End that was released in 2007 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Pirates of the Caribbean: At World's End that was released in 2007 was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1954, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Gore Verbinski, 1964
+
+2-0th question
+Q: Was the director who directed the movie titled Spectre that was released in 2015 born in the 1960s?
+A:No, the director of the movie Spectre, which was released in 2015, was not born in the 1960s. The director of Spectre is James Bond, who was born in 1960. However, the director of the movie is not James Bond, but rather Yann Samuell, who was born in 1973.
+Gold Answer: yes
+Gold Entity: Sam Mendes, 1965
+
+2-1th question
+Q: Is it true that the director who directed the movie titled Spectre that was released in 2015 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Spectre that was released in 2015 was not born in the 1960s. The director of Spectre, James Bond, was born in 1960.
+Gold Answer: no
+Gold Entity: Sam Mendes, 1965
+
+3-0th question
+Q: Was the director who directed the movie titled The Dark Knight Rises that was released in 2012 born in the 1970s?
+A:No, the director of The Dark Knight Rises, which was released in 2012, was not born in the 1970s. Christopher Nolan, the director of The Dark Knight Rises, was born in 1970. However, he was not the director of The Dark Knight Rises. The director of The Dark Knight Rises was Christopher Nolan's brother, Jonathan Nolan, who was born in 1971.
+Gold Answer: yes
+Gold Entity: Christopher Nolan, 1970
+
+3-1th question
+Q: Is it true that the director who directed the movie titled The Dark Knight Rises that was released in 2012 was not born in the 1970s?
+A:No, it is not true that the director who directed The Dark Knight Rises was not born in the 1970s. Christopher Nolan, the director of The Dark Knight Rises, was born in 1970.
+Gold Answer: no
+Gold Entity: Christopher Nolan, 1970
+
+4-0th question
+Q: Was the director who directed the movie titled John Carter that was released in 2012 born in the 1960s?
+A:No, the director of the movie John Carter, which was released in 2012, was not born in the 1960s. Andrew Stanton, the director of John Carter, was born in 1963. Therefore, he was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Andrew Stanton, 1965
+
+4-1th question
+Q: Is it true that the director who directed the movie titled John Carter that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled John Carter that was released in 2012 was not born in the 1960s. Andrew Stanton, the director of John Carter, was born in 1962.
+Gold Answer: no
+Gold Entity: Andrew Stanton, 1965
+
+5-0th question
+Q: Was the director who directed the movie titled Spider-Man 3 that was released in 2007 born in the 1950s?
+A:No, the director of Spider-Man 3, which was released in 2007, was not born in the 1950s. The director of Spider-Man 3 is Sam Raimi, who was born in 1959. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Sam Raimi, 1959
+
+5-1th question
+Q: Is it true that the director who directed the movie titled Spider-Man 3 that was released in 2007 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Spider-Man 3 that was released in 2007 was not born in the 1950s. The director of Spider-Man 3 is Sam Raimi, who was born in 1959. Therefore, he was born in the 1950s.
+Gold Answer: no
+Gold Entity: Sam Raimi, 1959
+
+6-0th question
+Q: Was the director who directed the movie titled Tangled that was released in 2010 born in the 1970s?
+A:No, the director of the movie Tangled that was released in 2010, Glenn T. Fiske, was born in the 1950s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Nathan Greno, 1975
+
+6-1th question
+Q: Is it true that the director who directed the movie titled Tangled that was released in 2010 was not born in the 1970s?
+A:No, the director of the movie Tangled, which was released in 2010, was born in the 1970s. The director of Tangled is Nathan Greno, who was born in 1972.
+Gold Answer: no
+Gold Entity: Nathan Greno, 1975
+
+7-0th question
+Q: Was the director who directed the movie titled Avengers: Age of Ultron that was released in 2015 born in the 1960s?
+A:No, the director of Avengers: Age of Ultron, which was released in 2015, was not born in the 1960s. The director of Avengers: Age of Ultron is Joss Whedon, who was born in 1961.
+Gold Answer: yes
+Gold Entity: Joss Whedon, 1964
+
+7-1th question
+Q: Is it true that the director who directed the movie titled Avengers: Age of Ultron that was released in 2015 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Avengers: Age of Ultron that was released in 2015 was not born in the 1960s. The director of Avengers: Age of Ultron, Joss Whedon, was born in 1961, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Joss Whedon, 1964
+
+8-0th question
+Q: Was the director who directed the movie titled Harry Potter and the Half-Blood Prince that was released in 2009 born in the 1960s?
+A:No, the director of Harry Potter and the Half-Blood Prince, which was released in 2009, was not born in the 1960s. The director of that movie is David Yates, who was born in 1963.
+Gold Answer: yes
+Gold Entity: David Yates, 1963
+
+8-1th question
+Q: Is it true that the director who directed the movie titled Harry Potter and the Half-Blood Prince that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Harry Potter and the Half-Blood Prince that was released in 2009 was not born in the 1960s. The director of that movie, David Yates, was born in 1963, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: David Yates, 1963
+
+9-0th question
+Q: Was the director who directed the movie titled Batman v Superman: Dawn of Justice that was released in 2016 born in the 1960s?
+A:No, the director of Batman v Superman: Dawn of Justice, which was released in 2016, was not born in the 1960s. The director of that movie is Zack Snyder, who was born in 1966. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Zack Snyder, 1966
+
+9-1th question
+Q: Is it true that the director who directed the movie titled Batman v Superman: Dawn of Justice that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Batman v Superman: Dawn of Justice that was released in 2016 was not born in the 1960s. The director of that movie, Zack Snyder, was born in 1966.
+Gold Answer: no
+Gold Entity: Zack Snyder, 1966
+
+10-0th question
+Q: Was the director who directed the movie titled Superman Returns that was released in 2006 born in the 1960s?
+A:Yes, the director of the movie Superman Returns, which was released in 2006, was born in the 1960s. The director's name is Bryan Singer, and he was born in 1965.
+Gold Answer: yes
+Gold Entity: Bryan Singer, 1965
+
+10-1th question
+Q: Is it true that the director who directed the movie titled Superman Returns that was released in 2006 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Superman Returns that was released in 2006 was not born in the 1960s. The director of Superman Returns, Brett Ratner, was born in 1969, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Bryan Singer, 1965
+
+11-0th question
+Q: Was the director who directed the movie titled Quantum of Solace that was released in 2008 born in the 1960s?
+A:No, the director of the movie Quantum of Solace, which was released in 2008, was not born in the 1960s. The director of Quantum of Solace was Guy Ritchie, who was born in 1968.
+Gold Answer: yes
+Gold Entity: Marc Forster, 1969
+
+11-1th question
+Q: Is it true that the director who directed the movie titled Quantum of Solace that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Quantum of Solace that was released in 2008 was not born in the 1960s. The director of that movie, Marc Forster, was born in 1963, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Marc Forster, 1969
+
+12-0th question
+Q: Was the director who directed the movie titled Pirates of the Caribbean: Dead Man's Chest that was released in 2006 born in the 1960s?
+A:No, the director of Pirates of the Caribbean: Dead Man's Chest, which was released in 2006, was not born in the 1960s. Gore Verbinski was born in 1954, which means he was not born in the 1960s. However, it's worth noting that Verbinski was born in the 1950s, which is a decade before the 1960s. Therefore, it's possible that Verbinski was born in the 1960s, but it's not accurate to say that he was.
+Gold Answer: yes
+Gold Entity: Gore Verbinski, 1964
+
+12-1th question
+Q: Is it true that the director who directed the movie titled Pirates of the Caribbean: Dead Man's Chest that was released in 2006 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Pirates of the Caribbean: Dead Man's Chest that was released in 2006 was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1954, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Gore Verbinski, 1964
+
+13-0th question
+Q: Was the director who directed the movie titled The Lone Ranger that was released in 2013 born in the 1960s?
+A:No, the director of the movie titled The Lone Ranger that was released in 2013, Gore Verbinski, was born in the 1950s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Gore Verbinski, 1964
+
+13-1th question
+Q: Is it true that the director who directed the movie titled The Lone Ranger that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Lone Ranger that was released in 2013 was not born in the 1960s. Gore Verbinski, the director of the movie, was born in 1954, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Gore Verbinski, 1964
+
+14-0th question
+Q: Was the director who directed the movie titled Man of Steel that was released in 2013 born in the 1960s?
+A:No, the director of the movie Man of Steel, which was released in 2013, was not born in the 1960s. The director of Man of Steel is Zack Snyder, who was born in 1966. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Zack Snyder, 1966
+
+14-1th question
+Q: Is it true that the director who directed the movie titled Man of Steel that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Man of Steel that was released in 2013 was not born in the 1960s. The director of Man of Steel, Zack Snyder, was born in 1966.
+Gold Answer: no
+Gold Entity: Zack Snyder, 1966
+
+15-0th question
+Q: Was the director who directed the movie titled The Chronicles of Narnia: Prince Caspian that was released in 2008 born in the 1960s?
+A:No, the director of The Chronicles of Narnia: Prince Caspian, which was released in 2008, was not born in the 1960s. The director of that movie is Andrew Adamson, who was born in 1961.
+Gold Answer: yes
+Gold Entity: Andrew Adamson, 1966
+
+15-1th question
+Q: Is it true that the director who directed the movie titled The Chronicles of Narnia: Prince Caspian that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Chronicles of Narnia: Prince Caspian that was released in 2008 was not born in the 1960s. The director of that movie is Andrew Adamson, who was born in 1961.
+Gold Answer: no
+Gold Entity: Andrew Adamson, 1966
+
+16-0th question
+Q: Was the director who directed the movie titled The Avengers that was released in 2012 born in the 1960s?
+A:No, the director of the movie titled The Avengers that was released in 2012, Joss Whedon, was born in the 1960s. He was born on February 22, 1961.
+Gold Answer: yes
+Gold Entity: Joss Whedon, 1964
+
+16-1th question
+Q: Is it true that the director who directed the movie titled The Avengers that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Avengers that was released in 2012 was not born in the 1960s. The director of The Avengers, Joss Whedon, was born in 1961, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Joss Whedon, 1964
+
+17-0th question
+Q: Was the director who directed the movie titled Pirates of the Caribbean: On Stranger Tides that was released in 2011 born in the 1960s?
+A:No, the director of the movie titled Pirates of the Caribbean: On Stranger Tides, which was released in 2011, was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1964.
+Gold Answer: yes
+Gold Entity: Rob Marshall, 1960
+
+17-1th question
+Q: Is it true that the director who directed the movie titled Pirates of the Caribbean: On Stranger Tides that was released in 2011 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Pirates of the Caribbean: On Stranger Tides that was released in 2011 was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1964.
+Gold Answer: no
+Gold Entity: Rob Marshall, 1960
+
+18-0th question
+Q: Was the director who directed the movie titled Men in Black 3 that was released in 2012 born in the 1950s?
+A:No, the director of Men in Black 3, which was released in 2012, was not born in the 1950s. The director of Men in Black 3 is Will Smith, who was born in 1968. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Barry Sonnenfeld, 1953
+
+18-1th question
+Q: Is it true that the director who directed the movie titled Men in Black 3 that was released in 2012 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Men in Black 3 that was released in 2012 was not born in the 1950s. The director of Men in Black 3 is Will Smith, who was born in 1968, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Barry Sonnenfeld, 1953
+
+19-0th question
+Q: Was the director who directed the movie titled The Hobbit: The Battle of the Five Armies that was released in 2014 born in the 1960s?
+A:No, Peter Jackson, the director of The Hobbit: The Battle of the Five Armies, was born in the 1960s. He was born on January 31, 1961.
+Gold Answer: yes
+Gold Entity: Peter Jackson, 1961
+
+19-1th question
+Q: Is it true that the director who directed the movie titled The Hobbit: The Battle of the Five Armies that was released in 2014 was not born in the 1960s?
+A:No, it is not true that the director who directed The Hobbit: The Battle of the Five Armies was not born in the 1960s. Peter Jackson, the director of the movie, was born in 1961.
+Gold Answer: no
+Gold Entity: Peter Jackson, 1961
+
+20-0th question
+Q: Was the director who directed the movie titled Robin Hood that was released in 2010 born in the 1930s?
+A:No, the director of the 2010 movie Robin Hood, Gore Verbinski, was born in the 1960s. I can confirm this information from my knowledge base.
+Gold Answer: yes
+Gold Entity: Ridley Scott, 1937
+
+20-1th question
+Q: Is it true that the director who directed the movie titled Robin Hood that was released in 2010 was not born in the 1930s?
+A:No, it is not true that the director who directed the movie titled Robin Hood that was released in 2010 was not born in the 1930s. The director of the movie is Gore Verbinski, who was born in 1964, which falls within the 1930s.
+Gold Answer: no
+Gold Entity: Ridley Scott, 1937
+
+21-0th question
+Q: Was the director who directed the movie titled The Hobbit: The Desolation of Smaug that was released in 2013 born in the 1960s?
+A:No, Peter Jackson, the director of The Hobbit: The Desolation of Smaug, was not born in the 1960s. He was born in 1961."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Peter Jackson, 1961
+
+21-1th question
+Q: Is it true that the director who directed the movie titled The Hobbit: The Desolation of Smaug that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed The Hobbit: The Desolation of Smaug, which was released in 2013, was not born in the 1960s. The director of The Hobbit: The Desolation of Smaug is Peter Jackson, who was born in 1961.
+Gold Answer: no
+Gold Entity: Peter Jackson, 1961
+
+22-0th question
+Q: Was the director who directed the movie titled The Golden Compass that was released in 2007 born in the 1960s?
+A:No, the director of The Golden Compass, which was released in 2007, was not born in the 1960s. The director of The Golden Compass is Chris Nolan, who was born in 1970.
+Gold Answer: yes
+Gold Entity: Chris Weitz, 1969
+
+22-1th question
+Q: Is it true that the director who directed the movie titled The Golden Compass that was released in 2007 was not born in the 1960s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Chris Weitz, 1969
+
+23-0th question
+Q: Was the director who directed the movie titled King Kong that was released in 2005 born in the 1960s?
+A:No, the director of the 2005 King Kong movie, Peter Jackson, was born in the 1960s. However, the original King Kong movie released in 1933 was directed by Carl Theodor Dreyer, who was born in the 1890s.
+Gold Answer: yes
+Gold Entity: Peter Jackson, 1961
+
+23-1th question
+Q: Is it true that the director who directed the movie titled King Kong that was released in 2005 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled King Kong that was released in 2005 was not born in the 1960s. The director of the movie is Peter Jackson, who was born in 1961.
+Gold Answer: no
+Gold Entity: Peter Jackson, 1961
+
+24-0th question
+Q: Was the director who directed the movie titled Titanic that was released in 1997 born in the 1950s?
+A:No, the director of the movie Titanic that was released in 1997, James Cameron, was born in the 1950s. He was born in 1954.
+Gold Answer: yes
+Gold Entity: James Cameron, 1954
+
+24-1th question
+Q: Is it true that the director who directed the movie titled Titanic that was released in 1997 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Titanic that was released in 1997 was not born in the 1950s. The director of Titanic, James Cameron, was born in 1954, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: James Cameron, 1954
+
+25-0th question
+Q: Was the director who directed the movie titled Battleship that was released in 2012 born in the 1960s?
+A:No, the director of the movie titled Battleship that was released in 2012, Peter Berg, was not born in the 1960s. He was born in 1964.
+Gold Answer: yes
+Gold Entity: Peter Berg, 1964
+
+25-1th question
+Q: Is it true that the director who directed the movie titled Battleship that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Battleship that was released in 2012 was not born in the 1960s. The director of the movie is Peter Berg, who was born in 1964, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Peter Berg, 1964
+
+26-0th question
+Q: Was the director who directed the movie titled Jurassic World that was released in 2015 born in the 1970s?
+A:No, the director of the movie Jurassic World, which was released in 2015, was not born in the 1970s. The director of Jurassic World is Colin Trevorrow, who was born in 1979. Therefore, the director was not born in the 1970s.
+Gold Answer: yes
+Gold Entity: Colin Trevorrow, 1976
+
+26-1th question
+Q: Is it true that the director who directed the movie titled Jurassic World that was released in 2015 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Jurassic World that was released in 2015 was not born in the 1970s. The director of Jurassic World, Colin Trevorrow, was born in 1979, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Colin Trevorrow, 1976
+
+27-0th question
+Q: Was the director who directed the movie titled Skyfall that was released in 2012 born in the 1960s?
+A:Yes, the director of Skyfall, which was released in 2012, was born in the 1960s. The director of Skyfall is Sam Mendes, who was born in 1965.
+Gold Answer: yes
+Gold Entity: Sam Mendes, 1965
+
+27-1th question
+Q: Is it true that the director who directed the movie titled Skyfall that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Skyfall that was released in 2012 was not born in the 1960s. The director of Skyfall, Sam Mendes, was born in 1965, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Sam Mendes, 1965
+
+28-0th question
+Q: Was the director who directed the movie titled Spider-Man 2 that was released in 2004 born in the 1950s?
+A:No, the director of Spider-Man 2, which was released in 2004, was not born in the 1950s. The director of Spider-Man 2 is Sam Raimi, who was born in 1959. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Sam Raimi, 1959
+
+28-1th question
+Q: Is it true that the director who directed the movie titled Spider-Man 2 that was released in 2004 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Spider-Man 2 that was released in 2004 was not born in the 1950s. The director of Spider-Man 2, Sam Raimi, was born in 1959, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Sam Raimi, 1959
+
+29-0th question
+Q: Was the director who directed the movie titled Iron Man 3 that was released in 2013 born in the 1960s?
+A:No, the director of Iron Man 3, which was released in 2013, was not born in the 1960s. The director of Iron Man 3 is Shane Black, who was born in 1961.
+Gold Answer: yes
+Gold Entity: Shane Black, 1961
+
+29-1th question
+Q: Is it true that the director who directed the movie titled Iron Man 3 that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Iron Man 3 that was released in 2013 was not born in the 1960s. The director of Iron Man 3 is Shane Black, who was born in 1960.
+Gold Answer: no
+Gold Entity: Shane Black, 1961
+
+30-0th question
+Q: Was the director who directed the movie titled Alice in Wonderland that was released in 2010 born in the 1950s?
+A:No, the director of the 2010 movie Alice in Wonderland, Tim Burton, was born in the 1960s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Tim Burton, 1958
+
+30-1th question
+Q: Is it true that the director who directed the movie titled Alice in Wonderland that was released in 2010 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Alice in Wonderland that was released in 2010 was not born in the 1950s. The director of that movie, Tim Burton, was born in 1961, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Tim Burton, 1958
+
+31-0th question
+Q: Was the director who directed the movie titled X-Men: The Last Stand that was released in 2006 born in the 1960s?
+A:No, the director of the movie titled X-Men: The Last Stand, which was released in 2006, was not born in the 1960s. The director of that movie is Gore Verbinski, who was born in 1964.
+Gold Answer: yes
+Gold Entity: Brett Ratner, 1969
+
+31-1th question
+Q: Is it true that the director who directed the movie titled X-Men: The Last Stand that was released in 2006 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled X-Men: The Last Stand that was released in 2006 was not born in the 1960s. The director of X-Men: The Last Stand, Matthew Vaughn, was born in 1968, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Brett Ratner, 1969
+
+32-0th question
+Q: Was the director who directed the movie titled Monsters University that was released in 2013 born in the 1970s?
+A:No, the director of Monsters University, which was released in 2013, was not born in the 1970s. The director of Monsters University is Mike Wazowski, who was born in 1958.
+Gold Answer: yes
+Gold Entity: Dan Scanlon, 1976
+
+32-1th question
+Q: Is it true that the director who directed the movie titled Monsters University that was released in 2013 was not born in the 1970s?
+A:No, the director of Monsters University, which was released in 2013, was born in the 1970s. The director of Monsters University is Monique Lupinacci, who was born in 1971.
+Gold Answer: no
+Gold Entity: Dan Scanlon, 1976
+
+33-0th question
+Q: Was the director who directed the movie titled Transformers: Revenge of the Fallen that was released in 2009 born in the 1960s?
+A:No, Michael Bay was born in the 1960s. However, he did not direct the movie titled Transformers: Revenge of the Fallen that was released in 2009. He was the executive producer of the movie, but the director was Jon Turteltaub.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+33-1th question
+Q: Is it true that the director who directed the movie titled Transformers: Revenge of the Fallen that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Transformers: Revenge of the Fallen that was released in 2009 was not born in the 1960s. The director of that movie, Michael Bay, was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+34-0th question
+Q: Was the director who directed the movie titled Transformers: Age of Extinction that was released in 2014 born in the 1960s?
+A:No, Michael Bay was born in the 1960s. However, he did not direct the movie titled Transformers: Age of Extinction that was released in 2014. He was the executive producer of the movie, but the director was James Wan. Michael Bay is known for directing the first three Transformers movies, not the fourth one.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+34-1th question
+Q: Is it true that the director who directed the movie titled Transformers: Age of Extinction that was released in 2014 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Transformers: Age of Extinction that was released in 2014 was not born in the 1960s. Michael Bay, the director of the movie, was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+35-0th question
+Q: Was the director who directed the movie titled Oz the Great and Powerful that was released in 2013 born in the 1950s?
+A:No, the director of the movie titled Oz the Great and Powerful, which was released in 2013, was not born in the 1950s. The director's name is James Mangold, and he was born in 1963.
+Gold Answer: yes
+Gold Entity: Sam Raimi, 1959
+
+35-1th question
+Q: Is it true that the director who directed the movie titled Oz the Great and Powerful that was released in 2013 was not born in the 1950s?
+A:Yes, it is true that the director who directed the movie titled Oz the Great and Powerful that was released in 2013 was not born in the 1950s. The director of the movie is James Mangold, who was born in 1963.
+Gold Answer: no
+Gold Entity: Sam Raimi, 1959
+
+36-0th question
+Q: Was the director who directed the movie titled TRON: Legacy that was released in 2010 born in the 1970s?
+A:Yes, the director of TRON: Legacy, Joseph Kosinski, was born in the 1970s. He was born in 1974.
+Gold Answer: yes
+Gold Entity: Joseph Kosinski, 1974
+
+36-1th question
+Q: Is it true that the director who directed the movie titled TRON: Legacy that was released in 2010 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled TRON: Legacy that was released in 2010 was not born in the 1970s. The director of TRON: Legacy, Joseph Kosinski, was born in 1979, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Joseph Kosinski, 1974
+
+37-0th question
+Q: Was the director who directed the movie titled Cars 2 that was released in 2011 born in the 1950s?
+A:No, the director of Cars 2, which was released in 2011, was not born in the 1950s. The director of Cars 2 is John Lasseter, who was born in 1957. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: John Lasseter, 1957
+
+37-1th question
+Q: Is it true that the director who directed the movie titled Cars 2 that was released in 2011 was not born in the 1950s?
+A:No, the director of Cars 2, John Lasseter, was born in the 1950s. He was born on February 11, 1957. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: John Lasseter, 1957
+
+38-0th question
+Q: Was the director who directed the movie titled Green Lantern that was released in 2011 born in the 1940s?
+A:No, the director of the 2011 Green Lantern movie, Martin Campbell, was not born in the 1940s. He was born in 1956.
+Gold Answer: yes
+Gold Entity: Martin Campbell, 1943
+
+38-1th question
+Q: Is it true that the director who directed the movie titled Green Lantern that was released in 2011 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled Green Lantern that was released in 2011 was not born in the 1940s. The director of Green Lantern, Martin Campbell, was born in 1943, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Martin Campbell, 1943
+
+39-0th question
+Q: Was the director who directed the movie titled Toy Story 3 that was released in 2010 born in the 1960s?
+A:Yes, the director of Toy Story 3, Lee Unkrich, was born in the 1960s. He was born in 1963."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Lee Unkrich, 1967
+
+39-1th question
+Q: Is it true that the director who directed the movie titled Toy Story 3 that was released in 2010 was not born in the 1960s?
+A:No, it is not true that the director who directed Toy Story 3, which was released in 2010, was not born in the 1960s. The director of Toy Story 3 is Lee Unkrich, who was born in 1969. Therefore, he was born in the 1960s.
+Gold Answer: no
+Gold Entity: Lee Unkrich, 1967
+
+40-0th question
+Q: Was the director who directed the movie titled Terminator Salvation that was released in 2009 born in the 1960s?
+A:No, the director of Terminator Salvation, which was released in 2009, was not born in the 1960s. The director of Terminator Salvation is McG, who was born in 1966. Therefore, the director was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: McG, 1968
+
+40-1th question
+Q: Is it true that the director who directed the movie titled Terminator Salvation that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Terminator Salvation that was released in 2009 was not born in the 1960s. The director of the movie is McG, who was born in 1966.
+Gold Answer: no
+Gold Entity: McG, 1968
+
+41-0th question
+Q: Was the director who directed the movie titled Furious 7 that was released in 2015 born in the 1970s?
+A:No, the director of Furious 7, which was released in 2015, was not born in the 1970s. James Wan, the director of Furious 7, was born in 1977, which is not in the 1970s. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: James Wan, 1977
+
+41-1th question
+Q: Is it true that the director who directed the movie titled Furious 7 that was released in 2015 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Furious 7 that was released in 2015 was not born in the 1970s. The director of Furious 7, James Wan, was born in 1977, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: James Wan, 1977
+
+42-0th question
+Q: Was the director who directed the movie titled World War Z that was released in 2013 born in the 1960s?
+A:No, the director of the movie titled World War Z that was released in 2013, Marc Forster, was not born in the 1960s. He was born in 1963.
+Gold Answer: yes
+Gold Entity: Marc Forster, 1969
+
+42-1th question
+Q: Is it true that the director who directed the movie titled World War Z that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled World War Z that was released in 2013 was not born in the 1960s. The director of the movie is Marc Forster, who was born in 1963.
+Gold Answer: no
+Gold Entity: Marc Forster, 1969
+
+43-0th question
+Q: Was the director who directed the movie titled X-Men: Days of Future Past that was released in 2014 born in the 1960s?
+A:No, the director of the movie X-Men: Days of Future Past, which was released in 2014, was not born in the 1960s. The director of that movie is James Gunn, who was born in 1966.
+Gold Answer: yes
+Gold Entity: Bryan Singer, 1965
+
+43-1th question
+Q: Is it true that the director who directed the movie titled X-Men: Days of Future Past that was released in 2014 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled X-Men: Days of Future Past that was released in 2014 was not born in the 1960s. The director of that movie, James Gunn, was born in 1966.
+Gold Answer: no
+Gold Entity: Bryan Singer, 1965
+
+44-0th question
+Q: Was the director who directed the movie titled Star Trek Into Darkness that was released in 2013 born in the 1960s?
+A:No, the director of Star Trek Into Darkness, J.J. Abrams, was born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: J.J. Abrams, 1966
+
+44-1th question
+Q: Is it true that the director who directed the movie titled Star Trek Into Darkness that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Star Trek Into Darkness that was released in 2013 was not born in the 1960s. The director of that movie, J.J. Abrams, was born in 1966.
+Gold Answer: no
+Gold Entity: J.J. Abrams, 1966
+
+45-0th question
+Q: Was the director who directed the movie titled Jack the Giant Slayer that was released in 2013 born in the 1960s?
+A:No, the director of the movie Jack the Giant Slayer, which was released in 2013, was not born in the 1960s. The director of the movie is Gore Verbinski, who was born in 1964.
+Gold Answer: yes
+Gold Entity: Bryan Singer, 1965
+
+45-1th question
+Q: Is it true that the director who directed the movie titled Jack the Giant Slayer that was released in 2013 was not born in the 1960s?
+A:No, the director of the movie Jack the Giant Slayer, which was released in 2013, was born in the 1960s. Gore Verbinski, the director of the movie, was born in 1958.
+Gold Answer: no
+Gold Entity: Bryan Singer, 1965
+
+46-0th question
+Q: Was the director who directed the movie titled The Great Gatsby that was released in 2013 born in the 1960s?
+A:No, the director of the 2013 movie adaptation of The Great Gatsby, Baz Luhrmann, was born in the 1960s. He was born in 1962.
+Gold Answer: yes
+Gold Entity: Baz Luhrmann, 1962
+
+46-1th question
+Q: Is it true that the director who directed the movie titled The Great Gatsby that was released in 2013 was not born in the 1960s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Baz Luhrmann, 1962
+
+47-0th question
+Q: Was the director who directed the movie titled Pacific Rim that was released in 2013 born in the 1960s?
+A:No, the director of Pacific Rim, which was released in 2013, was not born in the 1960s. The director of Pacific Rim is Guillermo del Toro, who was born in 1960. However, Pacific Rim was released in 2013, which means that Guillermo del Toro was not born in the 1960s. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Guillermo del Toro, 1964
+
+47-1th question
+Q: Is it true that the director who directed the movie titled Pacific Rim that was released in 2013 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Pacific Rim that was released in 2013 was not born in the 1960s. The director of Pacific Rim, Guillermo del Toro, was born in 1960.
+Gold Answer: no
+Gold Entity: Guillermo del Toro, 1964
+
+48-0th question
+Q: Was the director who directed the movie titled Transformers: Dark of the Moon that was released in 2011 born in the 1960s?
+A:No, Michael Bay was born in the 1960s. However, he did not direct Transformers: Dark of the Moon. The director of that movie was James Wan. Michael Bay was the executive producer of the movie.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+48-1th question
+Q: Is it true that the director who directed the movie titled Transformers: Dark of the Moon that was released in 2011 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Transformers: Dark of the Moon that was released in 2011 was not born in the 1960s. The director of that movie is Michael Bay, who was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+49-0th question
+Q: Was the director who directed the movie titled Indiana Jones and the Kingdom of the Crystal Skull that was released in 2008 born in the 1940s?
+A:No, the director of the movie titled Indiana Jones and the Kingdom of the Crystal Skull, Steven Spielberg, was born in the 1940s. However, the character of Indiana Jones, played by Harrison Ford, was born in the 1930s.
+Gold Answer: yes
+Gold Entity: Steven Spielberg, 1946
+
+49-1th question
+Q: Is it true that the director who directed the movie titled Indiana Jones and the Kingdom of the Crystal Skull that was released in 2008 was not born in the 1940s?
+A:No, the director who directed the movie titled Indiana Jones and the Kingdom of the Crystal Skull that was released in 2008 was born in the 1940s. Steven Spielberg, the director of the movie, was born in 1946.
+Gold Answer: no
+Gold Entity: Steven Spielberg, 1946
+
+50-0th question
+Q: Was the director who directed the movie titled The Good Dinosaur that was released in 2015 born in the 1970s?
+A:No, the director of The Good Dinosaur, which was released in 2015, was not born in the 1970s. The director of The Good Dinosaur is Eric Leighton, who was born in 1968. Therefore, the director was not born in the 1970s.
+Gold Answer: yes
+Gold Entity: Peter Sohn, 1977
+
+50-1th question
+Q: Is it true that the director who directed the movie titled The Good Dinosaur that was released in 2015 was not born in the 1970s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Peter Sohn, 1977
+
+51-0th question
+Q: Was the director who directed the movie titled Star Trek Beyond that was released in 2016 born in the 1970s?
+A:No, the director of the movie Star Trek Beyond, which was released in 2016, was not born in the 1970s. The director of Star Trek Beyond is Justin Lin, who was born in 1976. Therefore, the director was not born in the 1970s.
+Gold Answer: yes
+Gold Entity: Justin Lin, 1971
+
+51-1th question
+Q: Is it true that the director who directed the movie titled Star Trek Beyond that was released in 2016 was not born in the 1970s?
+A:Yes, it is true that the director who directed the movie titled Star Trek Beyond that was released in 2016 was not born in the 1970s. The director of Star Trek Beyond is Justin Lin, who was born in 1976. Therefore, he was not born in the 1970s.
+Gold Answer: no
+Gold Entity: Justin Lin, 1971
+
+52-0th question
+Q: Was the director who directed the movie titled WALL·E that was released in 2008 born in the 1960s?
+A:No, the director of the movie WALL·E, which was released in 2008, was not born in the 1960s. Andrew Stanton was born in 1963, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born in the 1960s, which is before the 1960s. However, he was born
+Gold Answer: yes
+Gold Entity: Andrew Stanton, 1965
+
+52-1th question
+Q: Is it true that the director who directed the movie titled WALL·E that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled WALL·E that was released in 2008 was not born in the 1960s. Andrew Stanton, the director of WALL·E, was born in 1962, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Andrew Stanton, 1965
+
+53-0th question
+Q: Was the director who directed the movie titled Rush Hour 3 that was released in 2007 born in the 1960s?
+A:No, the director of Rush Hour 3, Brett Ratner, was born in the 1960s. He was born in 1965.
+Gold Answer: yes
+Gold Entity: Brett Ratner, 1969
+
+53-1th question
+Q: Is it true that the director who directed the movie titled Rush Hour 3 that was released in 2007 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Rush Hour 3 that was released in 2007 was not born in the 1960s. The director of Rush Hour 3 is Brett Ratner, who was born in 1969, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Brett Ratner, 1969
+
+54-0th question
+Q: Was the director who directed the movie titled 2012 that was released in 2009 born in the 1950s?
+A:No, the director of the movie titled 2012 that was released in 2009, Roland Emmerich, was born in the 1950s. He was born in 1954.
+Gold Answer: yes
+Gold Entity: Roland Emmerich, 1955
+
+54-1th question
+Q: Is it true that the director who directed the movie titled 2012 that was released in 2009 was not born in the 1950s?
+A:No, it is not true. The director of the movie 2012, which was released in 2009, was born in the 1950s. The director's name is Roland Emmerich, who was born in 1954.
+Gold Answer: no
+Gold Entity: Roland Emmerich, 1955
+
+55-0th question
+Q: Was the director who directed the movie titled A Christmas Carol that was released in 2009 born in the 1950s?
+A:No, the director of the 2009 movie A Christmas Carol, Robert Zemeckis, was born in the 1950s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Robert Zemeckis, 1952
+
+55-1th question
+Q: Is it true that the director who directed the movie titled A Christmas Carol that was released in 2009 was not born in the 1950s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Robert Zemeckis, 1952
+
+56-0th question
+Q: Was the director who directed the movie titled Jupiter Ascending that was released in 2015 born in the 1960s?
+A:No, the director of Jupiter Ascending, Lana Wachowski, was born in the 1960s. However, her sister Lilly Wachowski, who is also a director, was born in the 1970s.
+Gold Answer: yes
+Gold Entity: Lana Wachowski, 1965
+
+56-1th question
+Q: Is it true that the director who directed the movie titled Jupiter Ascending that was released in 2015 was not born in the 1960s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Lana Wachowski, 1965
+
+57-0th question
+Q: Was the director who directed the movie titled The Legend of Tarzan that was released in 2016 born in the 1960s?
+A:No, the director of The Legend of Tarzan, which was released in 2016, was not born in the 1960s. The director of The Legend of Tarzan, which was released in 2016, is Gore Verbinski. Gore Verbinski was born in 1964, which is not in the 1960s. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: David Yates, 1963
+
+57-1th question
+Q: Is it true that the director who directed the movie titled The Legend of Tarzan that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Legend of Tarzan that was released in 2016 was not born in the 1960s. The director of the movie is David Yates, who was born in 1963.
+Gold Answer: no
+Gold Entity: David Yates, 1963
+
+58-0th question
+Q: Was the director who directed the movie titled The Chronicles of Narnia: The Lion, the Witch and the Wardrobe that was released in 2005 born in the 1960s?
+A:No, the director of the movie titled The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, which was released in 2005, was not born in the 1960s. The director's name is Christopher Nolan, and he was born in 1970.
+Gold Answer: yes
+Gold Entity: Andrew Adamson, 1966
+
+58-1th question
+Q: Is it true that the director who directed the movie titled The Chronicles of Narnia: The Lion, the Witch and the Wardrobe that was released in 2005 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Chronicles of Narnia: The Lion, the Witch and the Wardrobe that was released in 2005 was not born in the 1960s. The director of that movie, Andrew Adamson, was born in 1961, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Andrew Adamson, 1966
+
+59-0th question
+Q: Was the director who directed the movie titled X-Men: Apocalypse that was released in 2016 born in the 1960s?
+A:No, the director of X-Men: Apocalypse, which was released in 2016, was not born in the 1960s. The director of X-Men: Apocalypse is James Gunn, who was born in 1966. Therefore, the director was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Bryan Singer, 1965
+
+59-1th question
+Q: Is it true that the director who directed the movie titled X-Men: Apocalypse that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled X-Men: Apocalypse that was released in 2016 was not born in the 1960s. The director of X-Men: Apocalypse is James Mangold, who was born in 1963, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Bryan Singer, 1965
+
+60-0th question
+Q: Was the director who directed the movie titled The Dark Knight that was released in 2008 born in the 1970s?
+A:No, the director of The Dark Knight, which was released in 2008, was not born in the 1970s. The director of The Dark Knight is Christopher Nolan, who was born in 1968. Therefore, the director was not born in the 1970s.
+Gold Answer: yes
+Gold Entity: Christopher Nolan, 1970
+
+60-1th question
+Q: Is it true that the director who directed the movie titled The Dark Knight that was released in 2008 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled The Dark Knight that was released in 2008 was not born in the 1970s. The director of The Dark Knight, Christopher Nolan, was born in 1970.
+Gold Answer: no
+Gold Entity: Christopher Nolan, 1970
+
+61-0th question
+Q: Was the director who directed the movie titled Up that was released in 2009 born in the 1960s?
+A:No, Pete Docter, the director of the movie Up, was born in the 1960s. He was born on February 11, 1961. Therefore, the statement is false.
+Gold Answer: yes
+Gold Entity: Pete Docter, 1968
+
+61-1th question
+Q: Is it true that the director who directed the movie titled Up that was released in 2009 was not born in the 1960s?
+A:No, Pete Docter, the director of the movie Up, was born in the 1960s. He was born in 1961. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Pete Docter, 1968
+
+62-0th question
+Q: Was the director who directed the movie titled Monsters vs. Aliens that was released in 2009 born in the 1970s?
+A:No, the director of the movie titled Monsters vs. Aliens that was released in 2009, Tomm Moore, was born in the 1980s. I know this because I have access to information about the birthdate of Tomm Moore.
+Gold Answer: yes
+Gold Entity: Rob Letterman, 1970
+
+62-1th question
+Q: Is it true that the director who directed the movie titled Monsters vs. Aliens that was released in 2009 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Monsters vs. Aliens that was released in 2009 was not born in the 1970s. The director of that movie is Tomm Moore, who was born in 1971.
+Gold Answer: no
+Gold Entity: Rob Letterman, 1970
+
+63-0th question
+Q: Was the director who directed the movie titled Iron Man that was released in 2008 born in the 1960s?
+A:No, the director of the 2008 Iron Man movie, Jon Favreau, was born in the 1960s. However, the director of the 2010 Iron Man 2 movie, Justin Theroux, was born in the 1970s.
+Gold Answer: yes
+Gold Entity: Jon Favreau, 1966
+
+63-1th question
+Q: Is it true that the director who directed the movie titled Iron Man that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Iron Man that was released in 2008 was not born in the 1960s. The director of Iron Man, which was released in 2008, is Jon Favreau, who was born in 1966.
+Gold Answer: no
+Gold Entity: Jon Favreau, 1966
+
+64-0th question
+Q: Was the director who directed the movie titled Hugo that was released in 2011 born in the 1940s?
+A:No, the director of the movie titled Hugo, which was released in 2011, was not born in the 1940s. The director of the movie is Martin Scorsese, who was born in 1949.
+Gold Answer: yes
+Gold Entity: Martin Scorsese, 1942
+
+64-1th question
+Q: Is it true that the director who directed the movie titled Hugo that was released in 2011 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled Hugo that was released in 2011 was not born in the 1940s. The director of the movie Hugo, Martin Scorsese, was born in 1942, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Martin Scorsese, 1942
+
+65-0th question
+Q: Was the director who directed the movie titled Wild Wild West that was released in 1999 born in the 1950s?
+A:No, the director of the movie titled Wild Wild West that was released in 1999, Barry Levinson, was born in the 1940s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Barry Sonnenfeld, 1953
+
+65-1th question
+Q: Is it true that the director who directed the movie titled Wild Wild West that was released in 1999 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Wild Wild West that was released in 1999 was not born in the 1950s. The director of the movie is Barry Levinson, who was born in 1946, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Barry Sonnenfeld, 1953
+
+66-0th question
+Q: Was the director who directed the movie titled The Mummy: Tomb of the Dragon Emperor that was released in 2008 born in the 1940s?
+A:No, the director of The Mummy: Tomb of the Dragon Emperor, which was released in 2008, was not born in the 1940s. The director of that movie is Rob Cohen, who was born in 1955.
+Gold Answer: yes
+Gold Entity: Rob Cohen, 1949
+
+66-1th question
+Q: Is it true that the director who directed the movie titled The Mummy: Tomb of the Dragon Emperor that was released in 2008 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled The Mummy: Tomb of the Dragon Emperor that was released in 2008 was not born in the 1940s. The director of that movie, Rob Cohen, was born in 1955, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Rob Cohen, 1949
+
+67-0th question
+Q: Was the director who directed the movie titled Suicide Squad that was released in 2016 born in the 1960s?
+A:No, the director of the 2016 Suicide Squad movie, David Ayer, was born in the 1970s. I know this because I have access to information about the director's birthdate.
+Gold Answer: yes
+Gold Entity: David Ayer, 1968
+
+67-1th question
+Q: Is it true that the director who directed the movie titled Suicide Squad that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Suicide Squad that was released in 2016 was not born in the 1960s. The director of the movie is James Gunn, who was born in 1966.
+Gold Answer: no
+Gold Entity: David Ayer, 1968
+
+68-0th question
+Q: Was the director who directed the movie titled Evan Almighty that was released in 2007 born in the 1950s?
+A:No, the director of the movie Evan Almighty, which was released in 2007, was not born in the 1950s. The director of Evan Almighty is Tom Shadyac, who was born in 1959.
+Gold Answer: yes
+Gold Entity: Tom Shadyac, 1958
+
+68-1th question
+Q: Is it true that the director who directed the movie titled Evan Almighty that was released in 2007 was not born in the 1950s?
+A:Yes, it is true that the director who directed the movie titled Evan Almighty that was released in 2007 was not born in the 1950s. The director of the movie is Tom Shadyac, who was born in 1959. Therefore, he was not born in the 1950s.
+Gold Answer: no
+Gold Entity: Tom Shadyac, 1958
+
+69-0th question
+Q: Was the director who directed the movie titled Edge of Tomorrow that was released in 2014 born in the 1960s?
+A:No, the director of the movie titled Edge of Tomorrow that was released in 2014, Tom Cruise, was not born in the 1960s. He was born in 1962.
+Gold Answer: yes
+Gold Entity: Doug Liman, 1965
+
+69-1th question
+Q: Is it true that the director who directed the movie titled Edge of Tomorrow that was released in 2014 was not born in the 1960s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Doug Liman, 1965
+
+70-0th question
+Q: Was the director who directed the movie titled G.I. Joe: The Rise of Cobra that was released in 2009 born in the 1960s?
+A:No, the director of the movie G.I. Joe: The Rise of Cobra, which was released in 2009, was not born in the 1960s. The director of that movie is Stephen Sommers, who was born in 1958.
+Gold Answer: yes
+Gold Entity: Stephen Sommers, 1962
+
+70-1th question
+Q: Is it true that the director who directed the movie titled G.I. Joe: The Rise of Cobra that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled G.I. Joe: The Rise of Cobra that was released in 2009 was not born in the 1960s. The director of that movie, Stephen Sommers, was born in 1958, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Stephen Sommers, 1962
+
+71-0th question
+Q: Was the director who directed the movie titled Inside Out that was released in 2015 born in the 1960s?
+A:No, Pete Docter, the director of Inside Out, was not born in the 1960s. He was born in 1961."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Pete Docter, 1968
+
+71-1th question
+Q: Is it true that the director who directed the movie titled Inside Out that was released in 2015 was not born in the 1960s?
+A:No, the director of Inside Out, Pete Docter, was born in the 1960s. He was born in 1961. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Pete Docter, 1968
+
+72-0th question
+Q: Was the director who directed the movie titled The Jungle Book that was released in 2016 born in the 1960s?
+A:No, the director of the 2016 movie The Jungle Book, Jon Favreau, was born in the 1960s. However, he was not born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: Jon Favreau, 1966
+
+72-1th question
+Q: Is it true that the director who directed the movie titled The Jungle Book that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Jungle Book that was released in 2016 was not born in the 1960s. The director of the movie is Gore Verbinski, who was born in 1964.
+Gold Answer: no
+Gold Entity: Jon Favreau, 1966
+
+73-0th question
+Q: Was the director who directed the movie titled Iron Man 2 that was released in 2010 born in the 1960s?
+A:No, the director of Iron Man 2, which was released in 2010, was not born in the 1960s. The director of Iron Man 2 is Jon Favreau, who was born in 1966. Therefore, the director of Iron Man 2 was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Jon Favreau, 1966
+
+73-1th question
+Q: Is it true that the director who directed the movie titled Iron Man 2 that was released in 2010 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Iron Man 2 that was released in 2010 was not born in the 1960s. The director of Iron Man 2 is Jon Favreau, who was born in 1966.
+Gold Answer: no
+Gold Entity: Jon Favreau, 1966
+
+74-0th question
+Q: Was the director who directed the movie titled Snow White and the Huntsman that was released in 2012 born in the 1970s?
+A:No, the director of the movie titled Snow White and the Huntsman that was released in 2012, Rupert Sanders, was not born in the 1970s. He was born in 1960.
+Gold Answer: yes
+Gold Entity: Rupert Sanders, 1971
+
+74-1th question
+Q: Is it true that the director who directed the movie titled Snow White and the Huntsman that was released in 2012 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Snow White and the Huntsman that was released in 2012 was not born in the 1970s. The director of that movie, Rupert Sanders, was born in 1960, which is in the 1970s.
+Gold Answer: no
+Gold Entity: Rupert Sanders, 1971
+
+75-0th question
+Q: Was the director who directed the movie titled Dawn of the Planet of the Apes that was released in 2014 born in the 1960s?
+A:No, the director of the movie titled Dawn of the Planet of the Apes that was released in 2014, Matt Reeves, was born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: Matt Reeves, 1966
+
+75-1th question
+Q: Is it true that the director who directed the movie titled Dawn of the Planet of the Apes that was released in 2014 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Dawn of the Planet of the Apes that was released in 2014 was not born in the 1960s. The director of that movie, Matt Reeves, was born in 1966.
+Gold Answer: no
+Gold Entity: Matt Reeves, 1966
+
+76-0th question
+Q: Was the director who directed the movie titled The Lovers that was released in 2015 born in the 1940s?
+A:No, the director of the movie titled The Lovers that was released in 2015, Azazel Jacobs, was born in the 1970s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Roland Joffé, 1945
+
+76-1th question
+Q: Is it true that the director who directed the movie titled The Lovers that was released in 2015 was not born in the 1940s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Roland Joffé, 1945
+
+77-0th question
+Q: Was the director who directed the movie titled Tomorrowland that was released in 2015 born in the 1950s?
+A:No, the director of the movie Tomorrowland, which was released in 2015, was not born in the 1950s. The director of Tomorrowland is Brad Bird, who was born in 1958.
+Gold Answer: yes
+Gold Entity: Brad Bird, 1957
+
+77-1th question
+Q: Is it true that the director who directed the movie titled Tomorrowland that was released in 2015 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Tomorrowland that was released in 2015 was not born in the 1950s. The director of the movie is Brad Bird, who was born in 1958, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Brad Bird, 1957
+
+78-0th question
+Q: Was the director who directed the movie titled Wreck-It Ralph that was released in 2012 born in the 1960s?
+A:No, the director of the movie titled Wreck-It Ralph that was released in 2012, Rich Moore, was born in the 1970s. I know this because I have access to information about the birthdate of the director.
+Gold Answer: yes
+Gold Entity: Rich Moore, 1963
+
+78-1th question
+Q: Is it true that the director who directed the movie titled Wreck-It Ralph that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Wreck-It Ralph that was released in 2012 was not born in the 1960s. The director of the movie is Rich Moore, who was born in 1969. Therefore, he was born in the 1960s.
+Gold Answer: no
+Gold Entity: Rich Moore, 1963
+
+79-0th question
+Q: Was the director who directed the movie titled The Polar Express that was released in 2004 born in the 1950s?
+A:No, the director of The Polar Express, which was released in 2004, was not born in the 1950s. Robert Zemeckis, the director of The Polar Express, was born in 1951, which is not in the 1950s. The 1950s refer to the decade from 1950 to 1960, and Robert Zemeckis was born in 1951, which is outside of that time frame.
+Gold Answer: yes
+Gold Entity: Robert Zemeckis, 1952
+
+79-1th question
+Q: Is it true that the director who directed the movie titled The Polar Express that was released in 2004 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled The Polar Express that was released in 2004 was not born in the 1950s. The director of The Polar Express, Robert Zemeckis, was born in 1951, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Robert Zemeckis, 1952
+
+80-0th question
+Q: Was the director who directed the movie titled Independence Day: Resurgence that was released in 2016 born in the 1950s?
+A:No, the director of Independence Day: Resurgence, who is Roland Emmerich, was not born in the 1950s. He was born in 1954.
+Gold Answer: yes
+Gold Entity: Roland Emmerich, 1955
+
+80-1th question
+Q: Is it true that the director who directed the movie titled Independence Day: Resurgence that was released in 2016 was not born in the 1950s?
+A:No, the director of Independence Day: Resurgence, Roland Emmerich, was born in the 1950s. He was born in 1954 in Munich, Germany. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Roland Emmerich, 1955
+
+81-0th question
+Q: Was the director who directed the movie titled How to Train Your Dragon that was released in 2010 born in the 1970s?
+A:Yes, the director of the movie How to Train Your Dragon, which was released in 2010, was born in the 1970s. The director's name is Dean DeBlois, and he was born in 1971.
+Gold Answer: yes
+Gold Entity: Dean DeBlois, 1970
+
+81-1th question
+Q: Is it true that the director who directed the movie titled How to Train Your Dragon that was released in 2010 was not born in the 1970s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Dean DeBlois, 1970
+
+82-0th question
+Q: Was the director who directed the movie titled Terminator 3: Rise of the Machines that was released in 2003 born in the 1960s?
+A:No, the director of Terminator 3: Rise of the Machines, which was released in 2003, was not born in the 1960s. The director of Terminator 3: Rise of the Machines is Jonathan Hyams, who was born in 1970.
+Gold Answer: yes
+Gold Entity: Jonathan Mostow, 1961
+
+82-1th question
+Q: Is it true that the director who directed the movie titled Terminator 3: Rise of the Machines that was released in 2003 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Terminator 3: Rise of the Machines that was released in 2003 was not born in the 1960s. The director of that movie, Jonathan Hyams, was born in 1968, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Jonathan Mostow, 1961
+
+83-0th question
+Q: Was the director who directed the movie titled Guardians of the Galaxy that was released in 2014 born in the 1960s?
+A:No, the director of the movie titled Guardians of the Galaxy that was released in 2014, James Gunn, was born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: James Gunn, 1966
+
+83-1th question
+Q: Is it true that the director who directed the movie titled Guardians of the Galaxy that was released in 2014 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Guardians of the Galaxy that was released in 2014 was not born in the 1960s. The director of that movie, James Gunn, was born in 1966.
+Gold Answer: no
+Gold Entity: James Gunn, 1966
+
+84-0th question
+Q: Was the director who directed the movie titled Interstellar that was released in 2014 born in the 1970s?
+A:No, Christopher Nolan, the director of Interstellar, was born in the 1960s. He was born on July 7, 1960, in London, England.
+Gold Answer: yes
+Gold Entity: Christopher Nolan, 1970
+
+84-1th question
+Q: Is it true that the director who directed the movie titled Interstellar that was released in 2014 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Interstellar that was released in 2014 was not born in the 1970s. Christopher Nolan, the director of Interstellar, was born in 1970.
+Gold Answer: no
+Gold Entity: Christopher Nolan, 1970
+
+85-0th question
+Q: Was the director who directed the movie titled Inception that was released in 2010 born in the 1970s?
+A:No, the director of the movie Inception that was released in 2010, Christopher Nolan, was born in the 1960s. I am certain of this information.
+Gold Answer: yes
+Gold Entity: Christopher Nolan, 1970
+
+85-1th question
+Q: Is it true that the director who directed the movie titled Inception that was released in 2010 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Inception that was released in 2010 was not born in the 1970s. The director of Inception, Christopher Nolan, was born in 1970.
+Gold Answer: no
+Gold Entity: Christopher Nolan, 1970
+
+86-0th question
+Q: Was the director who directed the movie titled Godzilla Resurgence that was released in 2016 born in the 1960s?
+A:No, the director of Godzilla Resurgence, Gareth Edwards, was born in the 1970s. I know this because I have access to information about his birthdate.
+Gold Answer: yes
+Gold Entity: Hideaki Anno, 1960
+
+86-1th question
+Q: Is it true that the director who directed the movie titled Godzilla Resurgence that was released in 2016 was not born in the 1960s?
+A:Yes, it is true that the director who directed the movie titled Godzilla Resurgence that was released in 2016 was not born in the 1960s. The director of Godzilla Resurgence is Gareth Edwards, who was born in 1972. Therefore, he was not born in the 1960s.
+Gold Answer: no
+Gold Entity: Hideaki Anno, 1960
+
+87-0th question
+Q: Was the director who directed the movie titled The Hobbit: An Unexpected Journey that was released in 2012 born in the 1960s?
+A:No, Peter Jackson, the director of The Hobbit: An Unexpected Journey, was born in the 1960s. He was born on January 31, 1961.
+Gold Answer: yes
+Gold Entity: Peter Jackson, 1961
+
+87-1th question
+Q: Is it true that the director who directed the movie titled The Hobbit: An Unexpected Journey that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed The Hobbit: An Unexpected Journey was not born in the 1960s. Peter Jackson, the director of the movie, was born in 1961, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Peter Jackson, 1961
+
+88-0th question
+Q: Was the director who directed the movie titled The Fast and the Furious that was released in 2001 born in the 1940s?
+A:No, the director of The Fast and the Furious, which was released in 2001, was not born in the 1940s. The director of The Fast and the Furious is Rob Cohen, who was born in 1959.
+Gold Answer: yes
+Gold Entity: Rob Cohen, 1949
+
+88-1th question
+Q: Is it true that the director who directed the movie titled The Fast and the Furious that was released in 2001 was not born in the 1940s?
+A:Yes, it is true. The director of The Fast and the Furious, which was released in 2001, is Rob Cohen, who was born in 1959, not in the 1940s. Rob Cohen is a film director and screenwriter who is known for his work in the action and thriller genres. He has directed several successful films, including The Fast and the Furious, The Fast Five, and The Fast & Furious 6. He was born in 1959 in New York City, and he started his career in the film industry as a screenwriter before moving on to directing.
+Gold Answer: no
+Gold Entity: Rob Cohen, 1949
+
+89-0th question
+Q: Was the director who directed the movie titled The Curious Case of Benjamin Button that was released in 2008 born in the 1960s?
+A:No, the director of the movie titled The Curious Case of Benjamin Button that was released in 2008, David Fincher, was born in the 1960s. He was born in 1953.
+Gold Answer: yes
+Gold Entity: David Fincher, 1962
+
+89-1th question
+Q: Is it true that the director who directed the movie titled The Curious Case of Benjamin Button that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Curious Case of Benjamin Button that was released in 2008 was not born in the 1960s. The director of the movie is David Fincher, who was born in 1966.
+Gold Answer: no
+Gold Entity: David Fincher, 1962
+
+90-0th question
+Q: Was the director who directed the movie titled X-Men: First Class that was released in 2011 born in the 1970s?
+A:No, the director of the movie titled X-Men: First Class, which was released in 2011, was not born in the 1970s. The director of that movie is Matthew Vaughn, who was born in 1968.
+Gold Answer: yes
+Gold Entity: Matthew Vaughn, 1971
+
+90-1th question
+Q: Is it true that the director who directed the movie titled X-Men: First Class that was released in 2011 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled X-Men: First Class that was released in 2011 was not born in the 1970s. The director of X-Men: First Class, Matthew Vaughn, was born in 1971, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Matthew Vaughn, 1971
+
+91-0th question
+Q: Was the director who directed the movie titled The Hunger Games: Mockingjay - Part 2 that was released in 2015 born in the 1970s?
+A:No, the director of The Hunger Games: Mockingjay - Part 2, which was released in 2015, was not born in the 1970s. The director of The Hunger Games: Mockingjay - Part 2 is Gary Ross, who was born in 1956.
+Gold Answer: yes
+Gold Entity: Francis Lawrence, 1971
+
+91-1th question
+Q: Is it true that the director who directed the movie titled The Hunger Games: Mockingjay - Part 2 that was released in 2015 was not born in the 1970s?
+A:No, it is not true that the director who directed The Hunger Games: Mockingjay - Part 2, which was released in 2015, was not born in the 1970s. The director of The Hunger Games: Mockingjay - Part 2 is Gary Ross, who was born in 1960, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Francis Lawrence, 1971
+
+92-0th question
+Q: Was the director who directed the movie titled The Sorcerer's Apprentice that was released in 2010 born in the 1960s?
+A:No, the director of the movie titled The Sorcerer's Apprentice that was released in 2010, Jon Turteltaub, was born in the 1950s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Jon Turteltaub, 1963
+
+92-1th question
+Q: Is it true that the director who directed the movie titled The Sorcerer's Apprentice that was released in 2010 was not born in the 1960s?
+A:No, the director who directed the movie titled The Sorcerer's Apprentice that was released in 2010 was born in the 1960s. The director's name is Jon Turteltaub, and he was born in 1967.
+Gold Answer: no
+Gold Entity: Jon Turteltaub, 1963
+
+93-0th question
+Q: Was the director who directed the movie titled Poseidon that was released in 2006 born in the 1940s?
+A:No, the director of the movie Poseidon that was released in 2006, Wolfgang Petersen, was born in the 1950s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Wolfgang Petersen, 1941
+
+93-1th question
+Q: Is it true that the director who directed the movie titled Poseidon that was released in 2006 was not born in the 1940s?
+A:Yes, it is true that the director who directed the movie titled Poseidon that was released in 2006 was not born in the 1940s. The director of Poseidon is Wolfgang Petersen, who was born in 1959. Therefore, he was not born in the 1940s.
+Gold Answer: no
+Gold Entity: Wolfgang Petersen, 1941
+
+94-0th question
+Q: Was the director who directed the movie titled Warcraft that was released in 2016 born in the 1970s?
+A:No, the director of the movie Warcraft that was released in 2016, Duncan Jones, was not born in the 1970s. He was born in 1971.
+Gold Answer: yes
+Gold Entity: Duncan Jones, 1971
+
+94-1th question
+Q: Is it true that the director who directed the movie titled Warcraft that was released in 2016 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Warcraft that was released in 2016 was not born in the 1970s. The director of Warcraft, Duncan Jones, was born in 1971.
+Gold Answer: no
+Gold Entity: Duncan Jones, 1971
+
+95-0th question
+Q: Was the director who directed the movie titled The Chronicles of Narnia: The Voyage of the Dawn Treader that was released in 2010 born in the 1940s?
+A:No, the director of The Chronicles of Narnia: The Voyage of the Dawn Treader, released in 2010, was not born in the 1940s. Michael Apted, the director, was born in 1942, which means he was not born in the 1940s. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Michael Apted, 1941
+
+95-1th question
+Q: Is it true that the director who directed the movie titled The Chronicles of Narnia: The Voyage of the Dawn Treader that was released in 2010 was not born in the 1940s?
+A:No, that is not true. The director of The Chronicles of Narnia: The Voyage of the Dawn Treader, released in 2010, was born in the 1940s. Michael Apted, the director, was born in 1941.
+Gold Answer: no
+Gold Entity: Michael Apted, 1941
+
+96-0th question
+Q: Was the director who directed the movie titled Pearl Harbor that was released in 2001 born in the 1960s?
+A:No, the director of the movie Pearl Harbor, which was released in 2001, was not born in the 1960s. The director of the movie is Michael Bay, who was born in 1960. However, the movie was released in 2001, which means that Bay was already in his 40s when the movie was released. Therefore, the director of the movie was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+96-1th question
+Q: Is it true that the director who directed the movie titled Pearl Harbor that was released in 2001 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Pearl Harbor that was released in 2001 was not born in the 1960s. The director of the movie is Michael Bay, who was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+97-0th question
+Q: Was the director who directed the movie titled Transformers that was released in 2007 born in the 1960s?
+A:No, Michael Bay was born in the 1960s. However, he did not direct the 2007 movie Transformers. The director of the 2007 movie Transformers was Jon Turteltaub. Michael Bay directed the 2009 movie Transformers: Revenge of the Fallen and the 2014 movie Transformers: Age of Extinction.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+97-1th question
+Q: Is it true that the director who directed the movie titled Transformers that was released in 2007 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Transformers that was released in 2007 was not born in the 1960s. Michael Bay, the director of the movie, was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+98-0th question
+Q: Was the director who directed the movie titled Alexander that was released in 2004 born in the 1940s?
+A:No, the director of the movie titled Alexander that was released in 2004, Troy Duffy, was born in the 1960s. He was born on July 1, 1967. Therefore, he was not born in the 1940s.
+Gold Answer: yes
+Gold Entity: Oliver Stone, 1946
+
+98-1th question
+Q: Is it true that the director who directed the movie titled Alexander that was released in 2004 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled Alexander that was released in 2004 was not born in the 1940s. The director of the movie Alexander, which was released in 2004, is Mel Gibson, who was born in 1956, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Oliver Stone, 1946
+
+99-0th question
+Q: Was the director who directed the movie titled Harry Potter and the Order of the Phoenix that was released in 2007 born in the 1960s?
+A:No, the director of Harry Potter and the Order of the Phoenix, which was released in 2007, was not born in the 1960s. The director of that movie is Chris Columbus, who was born in 1958.
+Gold Answer: yes
+Gold Entity: David Yates, 1963
+
+99-1th question
+Q: Is it true that the director who directed the movie titled Harry Potter and the Order of the Phoenix that was released in 2007 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Harry Potter and the Order of the Phoenix that was released in 2007 was not born in the 1960s. The director of that movie, Chris Columbus, was born in 1960.
+Gold Answer: no
+Gold Entity: David Yates, 1963
+
+100-0th question
+Q: Was the director who directed the movie titled Hancock that was released in 2008 born in the 1960s?
+A:No, the director of the movie Hancock, which was released in 2008, was not born in the 1960s. The director of Hancock is Peter Jackson, who was born in 1961.
+Gold Answer: yes
+Gold Entity: Peter Berg, 1964
+
+100-1th question
+Q: Is it true that the director who directed the movie titled Hancock that was released in 2008 was not born in the 1960s?
+A:No, the director of the movie Hancock, which was released in 2008, was born in the 1960s. Gary Ross, the director of Hancock, was born in 1960. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Peter Berg, 1964
+
+101-0th question
+Q: Was the director who directed the movie titled I Am Legend that was released in 2007 born in the 1970s?
+A:No, the director of the movie I Am Legend, which was released in 2007, was not born in the 1970s. The director of the movie is Francis Lawrence, who was born in 1967.
+Gold Answer: yes
+Gold Entity: Francis Lawrence, 1971
+
+101-1th question
+Q: Is it true that the director who directed the movie titled I Am Legend that was released in 2007 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled I Am Legend that was released in 2007 was not born in the 1970s. The director of the movie is Francis Lawrence, who was born in 1972, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Francis Lawrence, 1971
+
+102-0th question
+Q: Was the director who directed the movie titled Charlie and the Chocolate Factory that was released in 2005 born in the 1950s?
+A:No, the director of the 2005 movie Charlie and the Chocolate Factory, Tim Burton, was born in the 1960s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Tim Burton, 1958
+
+102-1th question
+Q: Is it true that the director who directed the movie titled Charlie and the Chocolate Factory that was released in 2005 was not born in the 1950s?
+A:No, it is not true. The director of the 2005 movie Charlie and the Chocolate Factory, Tim Burton, was born in the 1950s. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Tim Burton, 1958
+
+103-0th question
+Q: Was the director who directed the movie titled Ratatouille that was released in 2007 born in the 1950s?
+A:No, the director of Ratatouille, Brad Bird, was born in the 1950s. He was born in 1957."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Brad Bird, 1957
+
+103-1th question
+Q: Is it true that the director who directed the movie titled Ratatouille that was released in 2007 was not born in the 1950s?
+A:No, the director of Ratatouille, Brad Bird, was born in the 1950s. He was born on August 18, 1957, which makes him a member of the Baby Boomer generation.
+Gold Answer: no
+Gold Entity: Brad Bird, 1957
+
+104-0th question
+Q: Was the director who directed the movie titled Batman Begins that was released in 2005 born in the 1970s?
+A:No, the director of Batman Begins, which was released in 2005, was not born in the 1970s. The director of Batman Begins is Christopher Nolan, who was born in 1970. However, he was not born in the 1970s. He was born in 1970, which means he was born in the 1960s.
+Gold Answer: yes
+Gold Entity: Christopher Nolan, 1970
+
+104-1th question
+Q: Is it true that the director who directed the movie titled Batman Begins that was released in 2005 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Batman Begins that was released in 2005 was not born in the 1970s. The director of Batman Begins, Christopher Nolan, was born in 1970.
+Gold Answer: no
+Gold Entity: Christopher Nolan, 1970
+
+105-0th question
+Q: Was the director who directed the movie titled Madagascar: Escape 2 Africa that was released in 2008 born in the 1960s?
+A:No, the director of the movie titled Madagascar: Escape 2 Africa that was released in 2008, Eric Leighton, was born in the 1970s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Eric Darnell, 1961
+
+105-1th question
+Q: Is it true that the director who directed the movie titled Madagascar: Escape 2 Africa that was released in 2008 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Madagascar: Escape 2 Africa that was released in 2008 was not born in the 1960s. The director of that movie is Eric Leighton, who was born in 1967.
+Gold Answer: no
+Gold Entity: Eric Darnell, 1961
+
+106-0th question
+Q: Was the director who directed the movie titled Night at the Museum: Battle of the Smithsonian that was released in 2009 born in the 1960s?
+A:No, the director of Night at the Museum: Battle of the Smithsonian, which was released in 2009, was not born in the 1960s. The director's name is Shawn Levy, and he was born in 1964.
+Gold Answer: yes
+Gold Entity: Shawn Levy, 1968
+
+106-1th question
+Q: Is it true that the director who directed the movie titled Night at the Museum: Battle of the Smithsonian that was released in 2009 was not born in the 1960s?
+A:No, the director of Night at the Museum: Battle of the Smithsonian, which was released in 2009, was born in the 1960s. The director's name is Shawn Levy, and he was born in 1964.
+Gold Answer: no
+Gold Entity: Shawn Levy, 1968
+
+107-0th question
+Q: Was the director who directed the movie titled X-Men Origins: Wolverine that was released in 2009 born in the 1960s?
+A:No, the director of X-Men Origins: Wolverine, which was released in 2009, was not born in the 1960s. Gore Verbinski was born in 1964, which is not in the 1960s. However, it's important to note that Verbinski directed the movie in 2009, which was released in 2009, so he was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Gavin Hood, 1963
+
+107-1th question
+Q: Is it true that the director who directed the movie titled X-Men Origins: Wolverine that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled X-Men Origins: Wolverine that was released in 2009 was not born in the 1960s. The director of that movie, Gore Verbinski, was born in 1964, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Gavin Hood, 1963
+
+108-0th question
+Q: Was the director who directed the movie titled The Matrix Revolutions that was released in 2003 born in the 1960s?
+A:Yes, the director of The Matrix Revolutions, which was released in 2003, was born in the 1960s. The director's name is Lana Wachowski, and she was born in 1965.
+Gold Answer: yes
+Gold Entity: Lana Wachowski, 1965
+
+108-1th question
+Q: Is it true that the director who directed the movie titled The Matrix Revolutions that was released in 2003 was not born in the 1960s?
+A:No, it is not true that the director who directed The Matrix Revolutions was not born in the 1960s. The director of The Matrix Revolutions is Lana Wachowski, who was born in 1965. Therefore, she was born in the 1960s.
+Gold Answer: no
+Gold Entity: Lana Wachowski, 1965
+
+109-0th question
+Q: Was the director who directed the movie titled Frozen that was released in 2013 born in the 1950s?
+A:No, the director of the movie Frozen that was released in 2013, Jennifer Lee, was born in the 1970s. The director of the movie Frozen II, Chris Buck, was born in the 1960s.
+Gold Answer: yes
+Gold Entity: Chris Buck, 1958
+
+109-1th question
+Q: Is it true that the director who directed the movie titled Frozen that was released in 2013 was not born in the 1950s?
+A:No, the director of the movie Frozen, which was released in 2013, was born in the 1950s. Jennifer Lee, the director of Frozen, was born in 1969, which falls within the 1950s decade.
+Gold Answer: no
+Gold Entity: Chris Buck, 1958
+
+110-0th question
+Q: Was the director who directed the movie titled The Matrix Reloaded that was released in 2003 born in the 1960s?
+A:Yes, the director of The Matrix Reloaded, which was released in 2003, was born in the 1960s. The director's name is Lana Wachowski, and she was born in 1965.
+Gold Answer: yes
+Gold Entity: Lana Wachowski, 1965
+
+110-1th question
+Q: Is it true that the director who directed the movie titled The Matrix Reloaded that was released in 2003 was not born in the 1960s?
+A:No, it is not true that the director who directed The Matrix Reloaded was not born in the 1960s. The director of The Matrix Reloaded is Lana Wachowski, who was born in 1965. Therefore, she was born in the 1960s.
+Gold Answer: no
+Gold Entity: Lana Wachowski, 1965
+
+111-0th question
+Q: Was the director who directed the movie titled Angels & Demons that was released in 2009 born in the 1950s?
+A:No, the director of the movie titled Angels & Demons that was released in 2009, Ron Howard, was born in the 1940s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Ron Howard, 1954
+
+111-1th question
+Q: Is it true that the director who directed the movie titled Angels & Demons that was released in 2009 was not born in the 1950s?
+A:No, the director of the movie Angels & Demons, which was released in 2009, was born in the 1950s. The director's name is Ron Howard, and he was born in 1954.
+Gold Answer: no
+Gold Entity: Ron Howard, 1954
+
+112-0th question
+Q: Was the director who directed the movie titled Thor that was released in 2011 born in the 1960s?
+A:No, the director of the 2011 movie Thor, Kenneth Branagh, was born in the 1950s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Kenneth Branagh, 1960
+
+112-1th question
+Q: Is it true that the director who directed the movie titled Thor that was released in 2011 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Thor that was released in 2011 was not born in the 1960s. The director of Thor (2011) is Kenneth Branagh, who was born in 1959, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Kenneth Branagh, 1960
+
+113-0th question
+Q: Was the director who directed the movie titled Bolt that was released in 2008 born in the 1960s?
+A:No, the director of the movie Bolt, which was released in 2008, was not born in the 1960s. The director of Bolt is Chris Buck, who was born in 1960. However, the director of the movie Bolt was not born in the 1960s. Chris Buck was born in 1960, but he was not the director of the movie Bolt. The director of the movie Bolt was Mark Dindal, who was born in 1960. Mark Dindal was born in 1960, but he was not the director of the movie Bolt. The director of the movie Bolt was Chris Buck, who was born in 1960. Chris Buck was born in 1960, but he was not the director of the movie Bolt. Chris Buck was born in 1960, but he was not the director of the movie Bolt. Chris Buck was born in 1960, but he was not the director of the movie Bolt. Chris Buck was born in 1960, but he was not the director of the movie Bolt. Chris Buck was born in 1960, but he was not the director of the movie Bolt. Chris Buck was born in 19
+Gold Answer: yes
+Gold Entity: Byron Howard, 1968
+
+113-1th question
+Q: Is it true that the director who directed the movie titled Bolt that was released in 2008 was not born in the 1960s?
+A:No, the director of the movie Bolt, which was released in 2008, was born in the 1960s. Chris Buck was born in 1960 and he is the director of the movie Bolt. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Byron Howard, 1968
+
+114-0th question
+Q: Was the director who directed the movie titled G-Force that was released in 2009 born in the 1950s?
+A:No, the director of the movie G-Force that was released in 2009, Hoyte van Hoytema, was born in the 1960s. I can confirm this information from my knowledge base.
+Gold Answer: yes
+Gold Entity: Hoyt Yeatman, 1955
+
+114-1th question
+Q: Is it true that the director who directed the movie titled G-Force that was released in 2009 was not born in the 1950s?
+A:Yes, it is true that the director who directed the movie titled G-Force that was released in 2009 was not born in the 1950s. The director of G-Force is Hoyte van Hoytema, who was born in 1962. Therefore, he was not born in the 1950s.
+Gold Answer: no
+Gold Entity: Hoyt Yeatman, 1955
+
+115-0th question
+Q: Was the director who directed the movie titled Wrath of the Titans that was released in 2012 born in the 1970s?
+A:No, the director of the movie titled Wrath of the Titans that was released in 2012, Jonathan Liebesman, was born in the 1960s."}
+
+{'role': 'user', 
+Gold Answer: yes
+Gold Entity: Jonathan Liebesman, 1976
+
+115-1th question
+Q: Is it true that the director who directed the movie titled Wrath of the Titans that was released in 2012 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Wrath of the Titans that was released in 2012 was not born in the 1970s. The director of the movie is Jonathan Liebesman, who was born in 1970.
+Gold Answer: no
+Gold Entity: Jonathan Liebesman, 1976
+
+116-0th question
+Q: Was the director who directed the movie titled Dark Shadows that was released in 2012 born in the 1950s?
+A:No, the director of the movie titled Dark Shadows that was released in 2012, Tim Burton, was born in the 1960s. However, he was born in 1962, which is in the 1960s, but not the 1950s.
+Gold Answer: yes
+Gold Entity: Tim Burton, 1958
+
+116-1th question
+Q: Is it true that the director who directed the movie titled Dark Shadows that was released in 2012 was not born in the 1950s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Tim Burton, 1958
+
+117-0th question
+Q: Was the director who directed the movie titled Mission: Impossible - Rogue Nation that was released in 2015 born in the 1960s?
+A:No, the director of Mission: Impossible - Rogue Nation, which was released in 2015, was not born in the 1960s. The director of that movie is Christopher McQuarrie, who was born in 1968.
+Gold Answer: yes
+Gold Entity: Christopher McQuarrie, 1968
+
+117-1th question
+Q: Is it true that the director who directed the movie titled Mission: Impossible - Rogue Nation that was released in 2015 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Mission: Impossible - Rogue Nation that was released in 2015 was not born in the 1960s. The director of that movie is Christopher McQuarrie, who was born in 1968.
+Gold Answer: no
+Gold Entity: Christopher McQuarrie, 1968
+
+118-0th question
+Q: Was the director who directed the movie titled The Legend of Tarzan that was released in 2016 born in the 1960s?
+A:No, the director of The Legend of Tarzan, which was released in 2016, was not born in the 1960s. The director of The Legend of Tarzan, which was released in 2016, is Gore Verbinski. Gore Verbinski was born in 1964, which is not in the 1960s. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: David Yates, 1963
+
+118-1th question
+Q: Is it true that the director who directed the movie titled The Legend of Tarzan that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled The Legend of Tarzan that was released in 2016 was not born in the 1960s. The director of the movie is David Yates, who was born in 1963.
+Gold Answer: no
+Gold Entity: David Yates, 1963
+
+119-0th question
+Q: Was the director who directed the movie titled Kung Fu Panda 2 that was released in 2011 born in the 1970s?
+A:No, the director of Kung Fu Panda 2, which was released in 2011, was not born in the 1970s. The director of Kung Fu Panda 2 is Jennifer Yuh Nelson, who was born in 1971. Therefore, the director was not born in the 1970s.
+Gold Answer: yes
+Gold Entity: Jennifer Yuh Nelson, 1972
+
+119-1th question
+Q: Is it true that the director who directed the movie titled Kung Fu Panda 2 that was released in 2011 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Kung Fu Panda 2 that was released in 2011 was not born in the 1970s. The director of Kung Fu Panda 2 is Jennifer Yuh Nelson, who was born in 1971.
+Gold Answer: no
+Gold Entity: Jennifer Yuh Nelson, 1972
+
+120-0th question
+Q: Was the director who directed the movie titled The Last Airbender that was released in 2010 born in the 1970s?
+A:No, the director of The Last Airbender, which was released in 2010, was not born in the 1970s. The director, M. Night Shyamalan, was born in 1967.
+Gold Answer: yes
+Gold Entity: M. Night Shyamalan, 1970
+
+120-1th question
+Q: Is it true that the director who directed the movie titled The Last Airbender that was released in 2010 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled The Last Airbender that was released in 2010 was not born in the 1970s. The director of the movie, M. Night Shyamalan, was born in 1967, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: M. Night Shyamalan, 1970
+
+121-0th question
+Q: Was the director who directed the movie titled Mission: Impossible III that was released in 2006 born in the 1960s?
+A:Yes, the director of Mission: Impossible III, which was released in 2006, was born in the 1960s. The director's name is J.J. Abrams, and he was born in 1968.
+Gold Answer: yes
+Gold Entity: J.J. Abrams, 1966
+
+121-1th question
+Q: Is it true that the director who directed the movie titled Mission: Impossible III that was released in 2006 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Mission: Impossible III that was released in 2006 was not born in the 1960s. The director of that movie is J.J. Abrams, who was born in 1968, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: J.J. Abrams, 1966
+
+122-0th question
+Q: Was the director who directed the movie titled White House Down that was released in 2013 born in the 1950s?
+A:No, the director of the movie White House Down, which was released in 2013, was not born in the 1950s. The director of the movie is Roland Emmerich, who was born in 1954. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Roland Emmerich, 1955
+
+122-1th question
+Q: Is it true that the director who directed the movie titled White House Down that was released in 2013 was not born in the 1950s?
+A:No, the director of the movie White House Down, which was released in 2013, was born in the 1950s. Roland Emmerich, the director, was born in 1955. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Roland Emmerich, 1955
+
+123-0th question
+Q: Was the director who directed the movie titled Pan that was released in 2015 born in the 1970s?
+A:No, the director of the movie Pan, which was released in 2015, was not born in the 1970s. The director of Pan is Joe Cornish, who was born in 1972.
+Gold Answer: yes
+Gold Entity: Joe Wright, 1972
+
+123-1th question
+Q: Is it true that the director who directed the movie titled Pan that was released in 2015 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Pan that was released in 2015 was not born in the 1970s. The director of Pan, Joe Cornish, was born in 1974, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Joe Wright, 1972
+
+124-0th question
+Q: Was the director who directed the movie titled Mr. Peabody & Sherman that was released in 2014 born in the 1960s?
+A:No, the director of the movie titled Mr. Peabody & Sherman that was released in 2014, Thomas Boyd, was born in the 1970s. Therefore, he was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Rob Minkoff, 1962
+
+124-1th question
+Q: Is it true that the director who directed the movie titled Mr. Peabody & Sherman that was released in 2014 was not born in the 1960s?
+A:No, the director of the movie Mr. Peabody & Sherman, which was released in 2014, was born in the 1960s. The director's name is Max Fleischer, who was born in 1963.
+Gold Answer: no
+Gold Entity: Rob Minkoff, 1962
+
+125-0th question
+Q: Was the director who directed the movie titled Troy that was released in 2004 born in the 1940s?
+A:No, the director of the movie Troy that was released in 2004, Wolfgang Petersen, was born in the 1940s. He was born in 1949.
+Gold Answer: yes
+Gold Entity: Wolfgang Petersen, 1941
+
+125-1th question
+Q: Is it true that the director who directed the movie titled Troy that was released in 2004 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled Troy that was released in 2004 was not born in the 1940s. The director of Troy, Wolfgang Petersen, was born in 1949, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Wolfgang Petersen, 1941
+
+126-0th question
+Q: Was the director who directed the movie titled Madagascar 3: Europe's Most Wanted that was released in 2012 born in the 1960s?
+A:No, the director of the movie titled Madagascar 3: Europe's Most Wanted that was released in 2012 was not born in the 1960s. The director of that movie is Eric Leighton, who was born in 1970.
+Gold Answer: yes
+Gold Entity: Eric Darnell, 1961
+
+126-1th question
+Q: Is it true that the director who directed the movie titled Madagascar 3: Europe's Most Wanted that was released in 2012 was not born in the 1960s?
+A:No, the director of the movie titled Madagascar 3: Europe's Most Wanted that was released in 2012, Eric Leighton, was born in the 1960s. He was born in 1964.
+Gold Answer: no
+Gold Entity: Eric Darnell, 1961
+
+127-0th question
+Q: Was the director who directed the movie titled Ghostbusters that was released in 2016 born in the 1960s?
+A:No, the director of the 2016 Ghostbusters movie, Paul Feig, was born in the 1960s. However, he was not born in the 1960s. He was born in 1962.
+Gold Answer: yes
+Gold Entity: Paul Feig, 1962
+
+127-1th question
+Q: Is it true that the director who directed the movie titled Ghostbusters that was released in 2016 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Ghostbusters that was released in 2016 was not born in the 1960s. The director of the movie is Paul Feig, who was born in 1962, which falls within the 1960s.
+Gold Answer: no
+Gold Entity: Paul Feig, 1962
+
+128-0th question
+Q: Was the director who directed the movie titled Armageddon that was released in 1998 born in the 1960s?
+A:No, the director of the movie Armageddon, which was released in 1998, was not born in the 1960s. The director of Armageddon was Michael Bay, who was born in 1960. However, Bay was not the director of Armageddon. The director of Armageddon was Michael Bay's friend and colleague, Jon Turteltaub, who was born in 1967.
+Gold Answer: yes
+Gold Entity: Michael Bay, 1965
+
+128-1th question
+Q: Is it true that the director who directed the movie titled Armageddon that was released in 1998 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Armageddon that was released in 1998 was not born in the 1960s. The director of Armageddon, Michael Bay, was born in 1960.
+Gold Answer: no
+Gold Entity: Michael Bay, 1965
+
+129-0th question
+Q: Was the director who directed the movie titled Men in Black II that was released in 2002 born in the 1950s?
+A:No, the director of Men in Black II, which was released in 2002, was not born in the 1950s. The director of Men in Black II was Barry Sonnenfeld, who was born in 1951.
+Gold Answer: yes
+Gold Entity: Barry Sonnenfeld, 1953
+
+129-1th question
+Q: Is it true that the director who directed the movie titled Men in Black II that was released in 2002 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Men in Black II that was released in 2002 was not born in the 1950s. The director of Men in Black II is Barry Sonnenfeld, who was born in 1951, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Barry Sonnenfeld, 1953
+
+130-0th question
+Q: Was the director who directed the movie titled Beowulf that was released in 2007 born in the 1950s?
+A:No, the director of the movie Beowulf released in 2007, Robert Zemeckis, was born in the 1950s. He was born in 1951.
+Gold Answer: yes
+Gold Entity: Robert Zemeckis, 1952
+
+130-1th question
+Q: Is it true that the director who directed the movie titled Beowulf that was released in 2007 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Beowulf that was released in 2007 was not born in the 1950s. The director of the movie is Gore Verbinski, who was born in 1954.
+Gold Answer: no
+Gold Entity: Robert Zemeckis, 1952
+
+131-0th question
+Q: Was the director who directed the movie titled Mission: Impossible - Ghost Protocol that was released in 2011 born in the 1950s?
+A:No, the director of Mission: Impossible - Ghost Protocol, which was released in 2011, was not born in the 1950s. The director of that movie is J.J. Abrams, who was born in 1966.
+Gold Answer: yes
+Gold Entity: Brad Bird, 1957
+
+131-1th question
+Q: Is it true that the director who directed the movie titled Mission: Impossible - Ghost Protocol that was released in 2011 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Mission: Impossible - Ghost Protocol that was released in 2011 was not born in the 1950s. The director of that movie is Joseph Kosinski, who was born in 1979, which is in the 1970s, not the 1950s. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Brad Bird, 1957
+
+132-0th question
+Q: Was the director who directed the movie titled Rise of the Guardians that was released in 2012 born in the 1960s?
+A:No, the director of the movie titled Rise of the Guardians that was released in 2012, Tomm Moore, was born in the 1970s. I know this because I have access to information about the director's birthdate.
+Gold Answer: yes
+Gold Entity: Peter Ramsey, 1962
+
+132-1th question
+Q: Is it true that the director who directed the movie titled Rise of the Guardians that was released in 2012 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Rise of the Guardians that was released in 2012 was not born in the 1960s. The director of the movie is Tomm Moore, who was born in 1964.
+Gold Answer: no
+Gold Entity: Peter Ramsey, 1962
+
+133-0th question
+Q: Was the director who directed the movie titled Fun with Dick and Jane that was released in 2005 born in the 1950s?
+A:No, the director of the movie titled Fun with Dick and Jane that was released in 2005, Shawn Levy, was born in the 1960s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Dean Parisot, 1952
+
+133-1th question
+Q: Is it true that the director who directed the movie titled Fun with Dick and Jane that was released in 2005 was not born in the 1950s?
+A:No, it is not true. The director of the movie titled Fun with Dick and Jane that was released in 2005, Shawn Levy, was born in the 1960s. Therefore, it is not true that the director was not born in the 1950s.
+Gold Answer: no
+Gold Entity: Dean Parisot, 1952
+
+134-0th question
+Q: Was the director who directed the movie titled The Last Samurai that was released in 2003 born in the 1950s?
+A:No, the director of The Last Samurai, which was released in 2003, was not born in the 1950s. The director of The Last Samurai is Clint Eastwood, who was born in 1930. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Edward Zwick, 1952
+
+134-1th question
+Q: Is it true that the director who directed the movie titled The Last Samurai that was released in 2003 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled The Last Samurai that was released in 2003 was not born in the 1950s. The director of The Last Samurai, Edward Norton, was born in 1969, which falls within the 1950s.
+Gold Answer: no
+Gold Entity: Edward Zwick, 1952
+
+135-0th question
+Q: Was the director who directed the movie titled Exodus: Gods and Kings that was released in 2014 born in the 1930s?
+A:No, the director of the movie Exodus: Gods and Kings, which was released in 2014, was not born in the 1930s. The director of the movie is Ridley Scott, who was born in 1937.
+Gold Answer: yes
+Gold Entity: Ridley Scott, 1937
+
+135-1th question
+Q: Is it true that the director who directed the movie titled Exodus: Gods and Kings that was released in 2014 was not born in the 1930s?
+A:Yes, it is true that the director who directed the movie titled Exodus: Gods and Kings that was released in 2014 was not born in the 1930s. The director of the movie is Ridley Scott, who was born in 1937. Therefore, he was not born in the 1930s.
+Gold Answer: no
+Gold Entity: Ridley Scott, 1937
+
+136-0th question
+Q: Was the director who directed the movie titled Star Trek that was released in 2009 born in the 1960s?
+A:No, the director of the 2009 Star Trek movie, J.J. Abrams, was born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: J.J. Abrams, 1966
+
+136-1th question
+Q: Is it true that the director who directed the movie titled Star Trek that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Star Trek that was released in 2009 was not born in the 1960s. The director of that movie, J.J. Abrams, was born in 1966.
+Gold Answer: no
+Gold Entity: J.J. Abrams, 1966
+
+137-0th question
+Q: Was the director who directed the movie titled Spider-Man that was released in 2002 born in the 1950s?
+A:No, the director of the 2002 Spider-Man movie was not born in the 1950s. The director of the 2002 Spider-Man movie was Sam Raimi, who was born in 1959. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Sam Raimi, 1959
+
+137-1th question
+Q: Is it true that the director who directed the movie titled Spider-Man that was released in 2002 was not born in the 1950s?
+A:No, it is not true that the director who directed the movie titled Spider-Man that was released in 2002 was not born in the 1950s. The director of that movie, Sam Raimi, was born in 1959.
+Gold Answer: no
+Gold Entity: Sam Raimi, 1959
+
+138-0th question
+Q: Was the director who directed the movie titled How to Train Your Dragon 2 that was released in 2014 born in the 1970s?
+A:No, the director of How to Train Your Dragon 2, which was released in 2014, was not born in the 1970s. The director of How to Train Your Dragon 2 is Dean DeBlois, who was born in 1966.
+Gold Answer: yes
+Gold Entity: Dean DeBlois, 1970
+
+138-1th question
+Q: Is it true that the director who directed the movie titled How to Train Your Dragon 2 that was released in 2014 was not born in the 1970s?
+A:Yes, it is true that the director who directed the movie titled How to Train Your Dragon 2 that was released in 2014 was not born in the 1970s. The director of the movie is Dean DeBlois, who was born in 1966.
+Gold Answer: no
+Gold Entity: Dean DeBlois, 1970
+
+139-0th question
+Q: Was the director who directed the movie titled Gods of Egypt that was released in 2016 born in the 1960s?
+A:No, the director of the movie Gods of Egypt, which was released in 2016, was not born in the 1960s. The director of the movie is Alex Garland, who was born in 1965.
+Gold Answer: yes
+Gold Entity: Alex Proyas, 1963
+
+139-1th question
+Q: Is it true that the director who directed the movie titled Gods of Egypt that was released in 2016 was not born in the 1960s?
+A:RESPONSE ERROR
+Gold Answer: no
+Gold Entity: Alex Proyas, 1963
+
+140-0th question
+Q: Was the director who directed the movie titled Stealth that was released in 2005 born in the 1940s?
+A:No, the director of the movie Stealth that was released in 2005, James Wan, was born in the 1970s. Therefore, the answer is no.
+Gold Answer: yes
+Gold Entity: Rob Cohen, 1949
+
+140-1th question
+Q: Is it true that the director who directed the movie titled Stealth that was released in 2005 was not born in the 1940s?
+A:Yes, it is true that the director who directed the movie titled Stealth that was released in 2005 was not born in the 1940s. The director of Stealth is James Wan, who was born in 1977, which is not in the 1940s.
+Gold Answer: no
+Gold Entity: Rob Cohen, 1949
+
+141-0th question
+Q: Was the director who directed the movie titled Watchmen that was released in 2009 born in the 1960s?
+A:Yes, the director of the movie titled Watchmen that was released in 2009, Zack Snyder, was born in the 1960s. He was born in 1966.
+Gold Answer: yes
+Gold Entity: Zack Snyder, 1966
+
+141-1th question
+Q: Is it true that the director who directed the movie titled Watchmen that was released in 2009 was not born in the 1960s?
+A:No, it is not true that the director who directed the movie titled Watchmen that was released in 2009 was not born in the 1960s. The director of Watchmen, Zack Snyder, was born in 1966.
+Gold Answer: no
+Gold Entity: Zack Snyder, 1966
+
+142-0th question
+Q: Was the director who directed the movie titled Lethal Weapon 4 that was released in 1998 born in the 1930s?
+A:No, the director of Lethal Weapon 4, which was released in 1998, was not born in the 1930s. The director of Lethal Weapon 4 was Richard Marquand, who was born in 1945. Therefore, the director was not born in the 1930s.
+Gold Answer: yes
+Gold Entity: Richard Donner, 1930
+
+142-1th question
+Q: Is it true that the director who directed the movie titled Lethal Weapon 4 that was released in 1998 was not born in the 1930s?
+A:Yes, it is true. The director of Lethal Weapon 4, which was released in 1998, is not a person born in the 1930s. The director of Lethal Weapon 4 is Richard Marquand, who was born in 1945. Therefore, he was not born in the 1930s.
+Gold Answer: no
+Gold Entity: Richard Donner, 1930
+
+143-0th question
+Q: Was the director who directed the movie titled Hulk that was released in 2003 born in the 1950s?
+A:No, the director of the 2003 Hulk movie was not born in the 1950s. The director of the 2003 Hulk movie was Louis Leterrier, who was born in 1962. Therefore, the director was not born in the 1950s.
+Gold Answer: yes
+Gold Entity: Ang Lee, 1954
+
+143-1th question
+Q: Is it true that the director who directed the movie titled Hulk that was released in 2003 was not born in the 1950s?
+A:No, the director who directed the movie titled Hulk that was released in 2003 was born in the 1950s. The director's name is Ang Lee, and he was born in 1954.
+Gold Answer: no
+Gold Entity: Ang Lee, 1954
+
+144-0th question
+Q: Was the director who directed the movie titled G.I. Joe: Retaliation that was released in 2013 born in the 1970s?
+A:No, the director of G.I. Joe: Retaliation, Jon Muthane, was born in the 1980s. I know this because I have access to information about the birthdate of directors and can verify that Jon Muthane was born in the 1980s.
+Gold Answer: yes
+Gold Entity: Jon M. Chu, 1979
+
+144-1th question
+Q: Is it true that the director who directed the movie titled G.I. Joe: Retaliation that was released in 2013 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled G.I. Joe: Retaliation that was released in 2013 was not born in the 1970s. The director of that movie, Jon M. Chu, was born in 1971, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Jon M. Chu, 1979
+
+145-0th question
+Q: Was the director who directed the movie titled Sahara that was released in 2005 born in the 1970s?
+A:No, the director of the movie Sahara that was released in 2005, Breck Eisley, was born in the 1980s. I can confirm this information through my knowledge cutoff of 2021.
+Gold Answer: yes
+Gold Entity: Breck Eisner, 1970
+
+145-1th question
+Q: Is it true that the director who directed the movie titled Sahara that was released in 2005 was not born in the 1970s?
+A:No, it is not true that the director who directed the movie titled Sahara that was released in 2005 was not born in the 1970s. The director of Sahara, Breck Eisley, was born in 1978, which falls within the 1970s.
+Gold Answer: no
+Gold Entity: Breck Eisner, 1970
+
+146-0th question
+Q: Was the director who directed the movie titled Final Fantasy: The Spirits Within that was released in 2001 born in the 1960s?
+A:No, the director of the movie Final Fantasy: The Spirits Within, which was released in 2001, was not born in the 1960s. The director's name is Hiroshi Kikuchi, and he was born in 1950. Therefore, he was not born in the 1960s.
+Gold Answer: yes
+Gold Entity: Hironobu Sakaguchi, 1962
+
+146-1th question
+Q: Is it true that the director who directed the movie titled Final Fantasy: The Spirits Within that was released in 2001 was not born in the 1960s?
+A:No, the director of the movie Final Fantasy: The Spirits Within, which was released in 2001, was born in the 1960s. His name is Hiroshi Kikuchi, and he was born in 1961. Therefore, the statement is false.
+Gold Answer: no
+Gold Entity: Hironobu Sakaguchi, 1962
+
+147-0th question
+Q: Was the director who directed the movie titled The World Is Not Enough that was released in 1999 born in the 1940s?
+A:No, the director of the movie titled The World Is Not Enough that was released in 1999 was not born in the 1940s. The director of that movie was Peter Hyams, who was born in 1943. Therefore, the statement is incorrect.
+Gold Answer: yes
+Gold Entity: Michael Apted, 1941
+
+147-1th question
+Q: Is it true that the director who directed the movie titled The World Is Not Enough that was released in 1999 was not born in the 1940s?
+A:Yes, it is true. The director of The World Is Not Enough, Peter Hyams, was born in 1943, which means he was not born in the 1940s. However, it is important to note that the movie was released in 1999, which is after the director's birth year.
+Gold Answer: no
+Gold Entity: Michael Apted, 1941
+
+148-0th question
+Q: Was the director who directed the movie titled Master and Commander: The Far Side of the World that was released in 2003 born in the 1940s?
+A:No, the director of Master and Commander: The Far Side of the World, which was released in 2003, was not born in the 1940s. Peter Jackson, the director, was born in 1961.
+Gold Answer: yes
+Gold Entity: Peter Weir, 1944
+
+148-1th question
+Q: Is it true that the director who directed the movie titled Master and Commander: The Far Side of the World that was released in 2003 was not born in the 1940s?
+A:No, it is not true that the director who directed the movie titled Master and Commander: The Far Side of the World that was released in 2003 was not born in the 1940s. The director of that movie is Peter Jackson, who was born in 1961, which falls within the 1940s.
+Gold Answer: no
+Gold Entity: Peter Weir, 1944
+
+149-0th question
+Q: Was the director who directed the movie titled The Twilight Saga: Breaking Dawn - Part 2 that was released in 2012 born in the 1950s?
+A:No, the director of The Twilight Saga: Breaking Dawn - Part 2, which was released in 2012, was not born in the 1950s. The director of that movie is Bill Condon, who was born in 1962.
+Gold Answer: yes
+Gold Entity: Bill Condon, 1955
+
+149-1th question
+Q: Is it true that the director who directed the movie titled The Twilight Saga: Breaking Dawn - Part 2 that was released in 2012 was not born in the 1950s?
+A:No, it is not true that the director who directed The Twilight Saga: Breaking Dawn - Part 2, which was released in 2012, was not born in the 1950s. The director of this movie is Bill Condon, who was born in 1955.
+Gold Answer: no
+Gold Entity: Bill Condon, 1955
+

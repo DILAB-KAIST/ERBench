@@ -1,0 +1,1501 @@
+,player_name,club_name,city_name
+0,L. Messi,FC Barcelona,Barcelona
+1,Cristiano Ronaldo,Juventus,Turin
+2,Neymar Jr,Paris Saint-Germain,Paris
+3,E. Hazard,Real Madrid CF,Madrid
+4,K. De Bruyne,Manchester City,Manchester
+5,J. Oblak,Atlético de Madrid,Madrid
+6,L. Modrić,Real Madrid CF,Madrid
+7,M. ter Stegen,FC Barcelona,Barcelona
+8,V. van Dijk,Liverpool,Liverpool
+9,M. Salah,Liverpool,Liverpool
+10,G. Chiellini,Juventus,Turin
+11,S. Agüero,Manchester City,Manchester
+12,Sergio Ramos,Real Madrid CF,Madrid
+13,L. Suárez,FC Barcelona,Barcelona
+14,R. Lewandowski,FC Bayern München,Munich
+15,Sergio Busquets,FC Barcelona,Barcelona
+16,De Gea,Manchester United,Manchester
+17,A. Griezmann,FC Barcelona,Barcelona
+18,K. Koulibaly,Napoli,Naples
+19,H. Kane,Tottenham Hotspur,London
+20,Alisson,Liverpool,Liverpool
+21,N. Kanté,Chelsea,London
+22,K. Mbappé,Paris Saint-Germain,Paris
+23,Piqué,FC Barcelona,Barcelona
+24,S. Handanovič,Inter,Milan
+25,M. Neuer,FC Bayern München,Munich
+26,H. Lloris,Tottenham Hotspur,London
+27,David Silva,Manchester City,Manchester
+28,E. Cavani,Paris Saint-Germain,Paris
+29,D. Godín,Inter,Milan
+30,T. Kroos,Real Madrid CF,Madrid
+31,M. Reus,Borussia Dortmund,Dortmund
+32,P. Aubameyang,Arsenal,London
+33,C. Eriksen,Tottenham Hotspur,London
+34,T. Courtois,Real Madrid CF,Madrid
+35,P. Pogba,Manchester United,Manchester
+36,R. Sterling,Manchester City,Manchester
+37,S. Mané,Liverpool,Liverpool
+38,Ederson,Manchester City,Manchester
+39,P. Dybala,Juventus,Turin
+40,Fernandinho,Manchester City,Manchester
+41,Thiago Silva,Paris Saint-Germain,Paris
+42,K. Benzema,Real Madrid CF,Madrid
+43,J. Vertonghen,Tottenham Hotspur,London
+44,D. Mertens,Napoli,Naples
+45,M. Hummels,Borussia Dortmund,Dortmund
+46,T. Alderweireld,Tottenham Hotspur,London
+47,Jordi Alba,FC Barcelona,Barcelona
+48,Thiago,FC Bayern München,Munich
+49,K. Navas,Real Madrid CF,Madrid
+50,L. Insigne,Napoli,Naples
+51,H. Son,Tottenham Hotspur,London
+52,Casemiro,Real Madrid CF,Madrid
+53,A. Laporte,Manchester City,Manchester
+54,Bernardo Silva,Manchester City,Manchester
+55,I. Rakitić,FC Barcelona,Barcelona
+56,M. Pjanić,Juventus,Turin
+57,Á. Di María,Paris Saint-Germain,Paris
+58,L. Bonucci,Juventus,Turin
+59,W. Szczęsny,Juventus,Turin
+60,Coutinho,FC Bayern München,Munich
+61,Parejo,Valencia CF,Valencia
+62,T. Müller,FC Bayern München,Munich
+63,C. Immobile,Lazio,Rome
+64,A. Lacazette,Arsenal,London
+65,Isco,Real Madrid CF,Madrid
+66,M. Verratti,Paris Saint-Germain,Paris
+67,Roberto Firmino,Liverpool,Liverpool
+68,S. Umtiti,FC Barcelona,Barcelona
+69,Marquinhos,Paris Saint-Germain,Paris
+70,J. Kimmich,FC Bayern München,Munich
+71,L. Sané,Manchester City,Manchester
+72,M. Škriniar,Inter,Milan
+73,Z. Ibrahimović,LA Galaxy,Los Angeles
+74,A. Gómez,Atalanta,Bergamo
+75,G. Higuaín,Juventus,Turin
+76,B. Matuidi,Juventus,Turin
+77,G. Bale,Real Madrid CF,Madrid
+78,Marcelo,Real Madrid CF,Madrid
+79,A. Witsel,Borussia Dortmund,Dortmund
+80,P. Gulácsi,RB Leipzig,Leipzig
+81,R. Bürki,Borussia Dortmund,Dortmund
+82,Alex Sandro,Juventus,Turin
+83,R. Lukaku,Inter,Milan
+84,Iago Aspas,RC Celta de Vigo,Vigo
+85,K. Manolas,Napoli,Naples
+86,Koke,Atlético de Madrid,Madrid
+87,Neto,FC Barcelona,Barcelona
+88,D. Alaba,FC Bayern München,Munich
+89,J. Rodríguez,Real Madrid CF,Madrid
+90,A. Lopes,Olympique Lyonnais,Lyon
+91,Allan,Napoli,Naples
+92,M. Icardi,Inter,Milan
+93,R. Varane,Real Madrid CF,Madrid
+94,Carvajal,Real Madrid CF,Madrid
+95,Saúl,Atlético de Madrid,Madrid
+96,H. Ziyech,Ajax,Amsterdam
+97,Fabinho,Liverpool,Liverpool
+98,N. Süle,FC Bayern München,Munich
+99,Bruno Fernandes,Sporting CP,Lisbon
+100,A. Robertson,Liverpool,Liverpool
+101,J. Giménez,Atlético de Madrid,Madrid
+102,C. Lenglet,FC Barcelona,Barcelona
+103,S. Milinković-Savić,Lazio,Rome
+104,F. de Jong,FC Barcelona,Barcelona
+105,G. Donnarumma,AC Milan,Milan
+106,Rodri,Manchester City,Manchester
+107,M. de Ligt,Juventus,Turin
+108,Pepe,FC Porto,Porto
+109,João Moutinho,Wolverhampton Wanderers,Wolverhampton
+110,S. Ruffier,AS Saint-Étienne,Saint-Étienne
+111,S. Sirigu,Torino F.C.,Turin
+112,M. Hamšík,Dalian Professional Football Club,Dalian
+113,Sokratis,Arsenal,London
+114,Lucas Leiva,Lazio,Rome
+115,M. Özil,Arsenal,London
+116,Javi Martínez,FC Bayern München,Munich
+117,Y. Sommer,Borussia Mönchengladbach,Mönchengladbach
+118,E. Džeko,Roma,Rome
+119,G. Wijnaldum,Liverpool,Liverpool
+120,I. Perišić,FC Bayern München,Munich
+121,M. Mandžukić,Juventus,Turin
+122,A. Vidal,FC Barcelona,Barcelona
+123,J. Boateng,FC Bayern München,Munich
+124,Azpilicueta,Chelsea,London
+125,José Callejón,Napoli,Naples
+126,İ. Gündoğan,Manchester City,Manchester
+127,Paulinho,Guangzhou FC,Guangzhou
+128,K. Walker,Manchester City,Manchester
+129,Canales,Real Betis Balompié,Seville
+130,Douglas Costa,Juventus,Turin
+131,B. Leno,Arsenal,London
+132,Pizzi,SL Benfica,Lisbon
+133,S. de Vrij,Inter,Milan
+134,Luis Alberto,Lazio,Rome
+135,D. Tadić,Ajax,Amsterdam
+136,J. Iličić,Atalanta,Bergamo
+137,Felipe Anderson,West Ham United,London
+138,M. Depay,Olympique Lyonnais,Lyon
+139,R. Mahrez,Manchester City,Manchester
+140,E. Višća,İstanbul Başakşehir FK,Istanbul
+141,S. Gnabry,FC Bayern München,Munich
+142,Kepa,Chelsea,London
+143,Felipe,Atlético de Madrid,Madrid
+144,L. Goretzka,FC Bayern München,Munich
+145,João Cancelo,Manchester City,Manchester
+146,D. Alli,Tottenham Hotspur,London
+147,J. Brandt,Borussia Dortmund,Dortmund
+148,Alex Telles,FC Porto,Porto
+149,K. Coman,FC Bayern München,Munich
+150,N. Fekir,Real Betis Balompié,Seville
+151,L. Hernández,FC Bayern München,Munich
+152,Arthur,FC Barcelona,Barcelona
+153,O. Dembélé,FC Barcelona,Barcelona
+154,J. Sancho,Borussia Dortmund,Dortmund
+155,K. Havertz,Bayer 04 Leverkusen,Leverkusen
+156,J. Pavlenka,SV Werder Bremen,Bremen
+157,Iniesta,Vissel Kobe,Kobe
+158,G. Buffon,Juventus,Turin
+159,Casillas,FC Porto,Porto
+160,R. Jarstein,Hertha BSC,Berlin
+161,V. Kompany,RSC Anderlecht,Brussels
+162,Raúl Albiol,Villarreal CF,Villarreal
+163,F. Quagliarella,U.C. Sampdoria,Genoa
+164,K. Schmeichel,Leicester City,Leicester
+165,Falcao,AS Monaco,Monaco
+166,Miranda,Jiangsu FC,Nanjing
+167,C. Vela,Los Angeles FC,Los Angeles
+168,E. Garay,Valencia CF,Valencia
+169,Rui Patrício,Wolverhampton Wanderers,Wolverhampton
+170,R. Nainggolan,Cagliari,Cagliari
+171,É. Banega,Sevilla FC,Seville
+172,Diego Costa,Atlético de Madrid,Madrid
+173,S. Khedira,Juventus,Turin
+174,David Luiz,Arsenal,London
+175,M. Kruse,Fenerbahçe SK,Istanbul
+176,J. Henderson,Liverpool,Liverpool
+177,G. Sigurðsson,Everton,Liverpool
+178,A. Ramsey,Juventus,Turin
+179,Oscar,Shanghai Port FC,Shanghai
+180,K. Trapp,Eintracht Frankfurt,Frankfurt
+181,Illarramendi,Real Sociedad,San Sebastian
+182,D. Blind,Ajax,Amsterdam
+183,L. Hrádecký,Bayer 04 Leverkusen,Leverkusen
+184,N. Otamendi,Manchester City,Manchester
+185,K. Casteels,VfL Wolfsburg,Wolfsburg
+186,J. Cuadrado,Juventus,Turin
+187,I. Gueye,Paris Saint-Germain,Paris
+188,K. Kampl,RB Leipzig,Leipzig
+189,Bartra,Real Betis Balompié,Seville
+190,Rodrigo,Valencia CF,Valencia
+191,W. Zaha,Crystal Palace,London
+192,Pablo Sarabia,Paris Saint-Germain,Paris
+193,C. Aránguiz,Bayer 04 Leverkusen,Leverkusen
+194,W. Ben Yedder,AS Monaco,Monaco
+195,F. Acerbi,Lazio,Rome
+196,J. Cillessen,Valencia CF,Valencia
+197,Paco Alcácer,Borussia Dortmund,Dortmund
+198,L. Digne,Everton,Liverpool
+199,Danilo Pereira,FC Porto,Porto
+200,Lucas Moura,Tottenham Hotspur,London
+201,Morata,Atlético de Madrid,Madrid
+202,J. Draxler,Paris Saint-Germain,Paris
+203,J. Stones,Manchester City,Manchester
+204,J. Pickford,Everton,Liverpool
+205,F. Thauvin,Olympique de Marseille,Marseille
+206,A. Milik,Napoli,Naples
+207,Jorginho,Chelsea,London
+208,S. Haller,West Ham United,London
+209,William Carvalho,Real Betis Balompié,Seville
+210,Y. Carrasco,Dalian Professional Football Club,Dalian
+211,A. Rabiot,Juventus,Turin
+212,Grimaldo,SL Benfica,Lisbon
+213,A. Romagnoli,AC Milan,Milan
+214,A. Martial,Manchester United,Manchester
+215,T. Werner,RB Leipzig,Leipzig
+216,F. Bernardeschi,Juventus,Turin
+217,Anderson Talisca,Guangzhou FC,Guangzhou
+218,J. Tah,Bayer 04 Leverkusen,Leverkusen
+219,T. Lemar,Atlético de Madrid,Madrid
+220,A. Kramarić,TSG Hoffenheim,Sinsheim
+221,D. Djené,Getafe CF,Getafe
+222,C. Tolisso,FC Bayern München,Munich
+223,D. Sánchez,Tottenham Hotspur,London
+224,Marco Asensio,Real Madrid CF,Madrid
+225,Pau López,Roma,Rome
+226,Borja Iglesias,Real Betis Balompié,Seville
+227,Gonçalo Guedes,Valencia CF,Valencia
+228,N. Pépé,Arsenal,London
+229,G. Lo Celso,Tottenham Hotspur,London
+230,Fabián,Napoli,Naples
+231,M. Akanji,Borussia Dortmund,Dortmund
+232,Louri Beretta,Clube Atlético Mineiro,Belo Horizonte
+233,Josué Chiamulera,Grêmio,Porto Alegre
+234,Ronaldo Cabrais,Grêmio,Porto Alegre
+235,T. Alexander-Arnold,Liverpool,Liverpool
+236,M. Rashford,Manchester United,Manchester
+237,L. Jović,Real Madrid CF,Madrid
+238,Pepe Reina,AC Milan,Milan
+239,D. De Rossi,Boca Juniors,Buenos Aires
+240,Aduriz,Athletic Club de Bilbao,Bilbao
+241,Jesús Navas,Sevilla FC,Seville
+242,Santi Cazorla,Villarreal CF,Villarreal
+243,H. Herrera,Atlético de Madrid,Madrid
+244,L. Biglia,AC Milan,Milan
+245,Ł. Fabiański,West Ham United,London
+246,E. Viviano,Sporting CP,Lisbon
+247,Juan Mata,Manchester United,Manchester
+248,O. Giroud,Chelsea,London
+249,Sergio Asenjo,Villarreal CF,Villarreal
+250,S. Kjær,Sevilla FC,Seville
+251,Willian,Chelsea,London
+252,V. Ćorluka,FC Lokomotiv Moscow,Moscow
+253,M. Arnautović,Shanghai Port FC,Shanghai
+254,A. Sánchez,Manchester United,Manchester
+255,Giuliano,Al Nassr,Riyadh
+256,A. Kolarov,Roma,Rome
+257,M. Balotelli,Brescia,Brescia
+258,Marlos,Shakhtar Donetsk,Donetsk
+259,Taison,Shakhtar Donetsk,Donetsk
+260,B. Dost,Sporting CP,Lisbon
+261,G. Bonaventura,AC Milan,Milan
+262,Pedro,Chelsea,London
+263,Muniain,Athletic Club de Bilbao,Bilbao
+264,L. de Jong,Sevilla FC,Seville
+265,S. El Shaarawy,Shanghai Shenhua FC,Shanghai
+266,Ander Herrera,Paris Saint-Germain,Paris
+267,M. Götze,Borussia Dortmund,Dortmund
+268,A. Areola,Paris Saint-Germain,Paris
+269,T. Delaney,Borussia Dortmund,Dortmund
+270,X. Shaqiri,Liverpool,Liverpool
+271,Mário Fernandes,PFC CSKA Moscow,Moscow
+272,O. Baumann,TSG Hoffenheim,Sinsheim
+273,Willian José,Real Sociedad,San Sebastian
+274,J. Matip,Liverpool,Liverpool
+275,S. Coates,Sporting CP,Lisbon
+276,M. Perin,Juventus,Turin
+277,C. Bakambu,Beijing Guoan FC,Beijing
+278,Sergi Roberto,FC Barcelona,Barcelona
+279,N. Schulz,Borussia Dortmund,Dortmund
+280,K. Volland,Bayer 04 Leverkusen,Leverkusen
+281,Nacho Fernández,Real Madrid CF,Madrid
+282,B. Lecomte,AS Monaco,Monaco
+283,Gabriel Paulista,Valencia CF,Valencia
+284,T. Meunier,Paris Saint-Germain,Paris
+285,J. Roussillon,VfL Wolfsburg,Wolfsburg
+286,Suso,AC Milan,Milan
+287,K. Bellarabi,Bayer 04 Leverkusen,Leverkusen
+288,H. Maguire,Manchester United,Manchester
+289,T. Hazard,Borussia Dortmund,Dortmund
+290,S. Savić,Atlético de Madrid,Madrid
+291,A. Rüdiger,Chelsea,London
+292,M. Kovačić,Chelsea,London
+293,J. Lingard,Manchester United,Manchester
+294,E. Forsberg,RB Leipzig,Leipzig
+295,F. Kostić,Eintracht Frankfurt,Frankfurt
+296,A. Belotti,Torino F.C.,Turin
+297,Q. Promes,Ajax,Amsterdam
+298,J. Vardy,Leicester City,Leicester
+299,Pacheco,Deportivo Alavés,Vitoria-Gasteiz
+300,T. Partey,Atlético de Madrid,Madrid
+301,Ricardo Pereira,Leicester City,Leicester
+302,N. Tagliafico,Ajax,Amsterdam
+303,D. Rugani,Juventus,Turin
+304,K. Demirbay,Bayer 04 Leverkusen,Leverkusen
+305,T. Strakosha,Lazio,Rome
+306,Á. Correa,Atlético de Madrid,Madrid
+307,D. Zapata,Atalanta,Bergamo
+308,Iñaki Williams,Athletic Club de Bilbao,Bilbao
+309,M. Politano,Inter,Milan
+310,Morales,Levante Unión Deportiva,Valencia
+311,Rafa,SL Benfica,Lisbon
+312,N. Keïta,Liverpool,Liverpool
+313,H. Lozano,PSV,Eindhoven
+314,David Soria,Getafe CF,Getafe
+315,L. Torreira,Arsenal,London
+316,Rúben Neves,Wolverhampton Wanderers,Wolverhampton
+317,P. Kimpembe,Paris Saint-Germain,Paris
+318,S. Bergwijn,PSV,Eindhoven
+319,A. Onana,Ajax,Amsterdam
+320,Gelson Martins,AS Monaco,Monaco
+321,Nélson Semedo,FC Barcelona,Barcelona
+322,L. Bailey,Bayer 04 Leverkusen,Leverkusen
+323,Oyarzabal,Real Sociedad,San Sebastian
+324,Raphaelito Anjos,Grêmio,Porto Alegre
+325,Juiano Mestres,Cruzeiro,Belo Horizonte
+326,Rosberto Dourado,Clube Atlético Mineiro,Belo Horizonte
+327,Gabriel Jesus,Manchester City,Manchester
+328,Quaresma,Beşiktaş JK,Istanbul
+329,J. Mathieu,Sporting CP,Lisbon
+330,J. Milner,Liverpool,Liverpool
+331,L. López,Racing Club,Avellaneda
+332,B. Gomis,Al Hilal,Riyadh
+333,M. Dembélé,Guangzhou City,Guangzhou
+334,Cesc Fàbregas,AS Monaco,Monaco
+335,A. Consigli,U.S. Sassuolo Calcio,Sassuolo
+336,L. Koscielny,FC Girondins de Bordeaux,Bordeaux
+337,Jardel,SL Benfica,Lisbon
+338,Renato Augusto,Beijing Guoan FC,Beijing
+339,José Fonte,LOSC Lille,Lille
+340,A. Guardado,Real Betis Balompié,Seville
+341,Ł. Piszczek,Borussia Dortmund,Dortmund
+342,K. Gameiro,Valencia CF,Valencia
+343,D. Payet,Olympique de Marseille,Marseille
+344,Beñat,Athletic Club de Bilbao,Bilbao
+345,Adán,Atlético de Madrid,Madrid
+346,B. Höwedes,FC Lokomotiv Moscow,Moscow
+347,F. Muslera,Galatasaray SK,Istanbul
+348,M. Sissoko,Tottenham Hotspur,London
+349,M. Parolo,Lazio,Rome
+350,Fernando,Sevilla FC,Seville
+351,N. Gaitán,Chicago Fire Football Club,Chicago
+352,S. Giovinco,Al Hilal,Riyadh
+353,Luiz Gustavo,Olympique de Marseille,Marseille
+354,N. Nkoulou,Torino F.C.,Turin
+355,A. Ljajić,Beşiktaş JK,Istanbul
+356,N. Matić,Manchester United,Manchester
+357,Marcos Alonso,Chelsea,London
+358,H. Mkhitaryan,Arsenal,London
+359,J. Corona,FC Porto,Porto
+360,André Almeida,SL Benfica,Lisbon
+361,G. Xhaka,Arsenal,London
+362,Jordi Masip,Real Valladolid CF,Valladolid
+363,T. Horn,1. FC Köln,Cologne
+364,Rafinha,FC Barcelona,Barcelona
+365,G. Kondogbia,Valencia CF,Valencia
+366,A. Florenzi,Roma,Rome
+367,T. Vaclík,Sevilla FC,Seville
+368,E. Zahavi,Guangzhou City,Guangzhou
+369,W. Orban,RB Leipzig,Leipzig
+370,M. Sabitzer,RB Leipzig,Leipzig
+371,A. Cragno,Cagliari,Cagliari
+372,L. Shaw,Manchester United,Manchester
+373,L. Milivojević,Crystal Palace,London
+374,A. Plea,Borussia Mönchengladbach,Mönchengladbach
+375,F. Vázquez,Sevilla FC,Seville
+376,Y. Poulsen,RB Leipzig,Leipzig
+377,R. Fraser,AFC Bournemouth,Bournemouth
+378,M. Ginter,Borussia Mönchengladbach,Mönchengladbach
+379,J. Martínez,Atlanta United,Atlanta
+380,Gerard Moreno,Villarreal CF,Villarreal
+381,A. Doucouré,Watford,Watford
+382,E. Can,Juventus,Turin
+383,Lucas Vázquez,Real Madrid CF,Madrid
+384,R. Guerreiro,Borussia Dortmund,Dortmund
+385,P. Zieliński,Napoli,Naples
+386,Gayà,Valencia CF,Valencia
+387,João Mário,Inter,Milan
+388,Thiago Mendes,Olympique Lyonnais,Lyon
+389,G. Rulli,Montpellier Hérault SC,Montpellier
+390,A. Izzo,Torino F.C.,Turin
+391,Dani García,Athletic Club de Bilbao,Bilbao
+392,M. Brozović,Inter,Milan
+393,D. van de Beek,Ajax,Amsterdam
+394,V. Lindelöf,Manchester United,Manchester
+395,Dani Ceballos,Arsenal,London
+396,W. Weghorst,VfL Wolfsburg,Wolfsburg
+397,M. Acuña,Sporting CP,Lisbon
+398,Pablo Fornals,West Ham United,London
+399,W. Ndidi,Leicester City,Leicester
+400,Laure Santeiro,Fluminense,Rio de Janeiro
+401,L. Martínez,Inter,Milan
+402,H. Aouar,Olympique Lyonnais,Lyon
+403,T. Ndombele,Tottenham Hotspur,London
+404,David Neres,Ajax,Amsterdam
+405,Éder Militão,Real Madrid CF,Madrid
+406,Joaquín,Real Betis Balompié,Seville
+407,W. Rooney,D.C. United,"Washington, D.C."
+408,Moyá,Real Sociedad,San Sebastián
+409,Nani,Orlando City Soccer Club,Orlando
+410,J. Mascherano,Hebei FC,Shijiazhuang
+411,Diego López,RCD Espanyol de Barcelona,Barcelona
+412,I. Akinfeev,PFC CSKA Moscow,Moscow
+413,A. Gignac,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+414,Jorge Molina,Getafe CF,Getafe
+415,B. Costil,FC Girondins de Bordeaux,Bordeaux
+416,L. Perrin,AS Saint-Étienne,Saint-Étienne
+417,B. Foster,Watford,Watford
+418,T. Heaton,Aston Villa,Birmingham
+419,S. Mandanda,Olympique de Marseille,Marseille
+420,Charles,SD Eibar,Eibar
+421,Ş. Radu,Lazio,Rome
+422,D. Rose,Tottenham Hotspur,London
+423,E. Lamela,Tottenham Hotspur,London
+424,Raúl García,Athletic Club de Bilbao,Bilbao
+425,Naldo,AS Monaco,Monaco
+426,D. Wass,Valencia CF,Valencia
+427,S. Romero,Manchester United,Manchester
+428,Pedro León,SD Eibar,Eibar
+429,I. Piatti,Club de Foot Montréal,Montreal
+430,D. Ospina,Napoli,Naples
+431,M. Díaz,Racing Club,Avellaneda
+432,M. Valbuena,Olympiacos CFP,Piraeus
+433,L. Bender,Bayer 04 Leverkusen,Leverkusen
+434,S. Bender,Bayer 04 Leverkusen,Leverkusen
+435,E. Capoue,Watford,Watford
+436,Antunes,Getafe CF,Getafe
+437,R. Fährmann,Norwich City,Norwich
+438,F. Fazio,Roma,Rome
+439,M. Hasebe,Eintracht Frankfurt,Frankfurt
+440,Sidnei,Real Betis Balompié,Seville
+441,D. Perotti,Roma,Rome
+442,L. Pratto,River Plate,Buenos Aires
+443,S. Feghouli,Galatasaray SK,Istanbul
+444,K. Trippier,Atlético de Madrid,Madrid
+445,M. Musacchio,AC Milan,Milan
+446,Y. M'Vila,AS Saint-Étienne,Saint-Étienne
+447,L. Stindl,Borussia Mönchengladbach,Mönchengladbach
+448,F. Smolov,FC Lokomotiv Moscow,Moscow
+449,S. Nzonzi,Galatasaray SK,Istanbul
+450,M. Lanzini,West Ham United,London
+451,F. Coquelin,Valencia CF,Valencia
+452,Hulk,Shanghai Port FC,Shanghai
+453,K. Strootman,Olympique de Marseille,Marseille
+454,C. Smalling,Manchester United,Manchester
+455,K. Glik,AS Monaco,Monaco
+456,J. Zoet,PSV,Eindhoven
+457,E. Salvio,Boca Juniors,Buenos Aires
+458,D. Subašić,AS Monaco,Monaco
+459,K. Vogt,TSG Hoffenheim,Sinsheim
+460,R. Pereyra,Watford,Watford
+461,R. Rodríguez,AC Milan,Milan
+462,Y. Belhanda,Galatasaray SK,Istanbul
+463,Sergi Enrich,SD Eibar,Eibar
+464,D. Lovren,Liverpool,Liverpool
+465,S. Verdi,Napoli,Naples
+466,C. Wilson,AFC Bournemouth,Bournemouth
+467,J. Guilavogui,VfL Wolfsburg,Wolfsburg
+468,A. Oxlade-Chamberlain,Liverpool,Liverpool
+469,M. Ryan,Brighton & Hove Albion,Brighton
+470,L. Muriel,Atalanta,Bergamo
+471,D. Vida,Beşiktaş JK,Istanbul
+472,Ibai Gómez,Athletic Club de Bilbao,Bilbao
+473,Sergi Gómez,Sevilla FC,Seville
+474,Campaña,Levante Unión Deportiva,Valencia
+475,H. Vanaken,Club Brugge KV,Bruges
+476,S. Berghuis,Feyenoord,Rotterdam
+477,Cristian Tello,Real Betis Balompié,Seville
+478,Ismaily,Shakhtar Donetsk,Donetsk
+479,A. Mandi,Real Betis Balompié,Seville
+480,F. Ghoulam,Napoli,Naples
+481,M. Hinteregger,Eintracht Frankfurt,Frankfurt
+482,S. Sané,FC Schalke 04,Gelsenkirchen
+483,Deulofeu,Watford,Watford
+484,Sergi Darder,RCD Espanyol de Barcelona,Barcelona
+485,S. Zaza,Torino F.C.,Turin
+486,D. Klaassen,SV Werder Bremen,Bremen
+487,P. Kadeřábek,TSG Hoffenheim,Sinsheim
+488,Héctor Bellerín,Arsenal,London
+489,Š. Vrsaljko,Atlético de Madrid,Madrid
+490,Pozuelo,Toronto FC,Toronto
+491,C. Kramer,Borussia Mönchengladbach,Mönchengladbach
+492,K. Zouma,Chelsea,London
+493,Iñigo Martínez,Athletic Club de Bilbao,Bilbao
+494,R. Jiménez,Wolverhampton Wanderers,Wolverhampton
+495,B. Mendy,Manchester City,Manchester
+496,Bernat,Paris Saint-Germain,Paris
+497,Portu,Real Sociedad,San Sebastián
+498,M. Nastasić,FC Schalke 04,Gelsenkirchen
+499,Bernard,Everton,Liverpool
+500,E. Andrada,Boca Juniors,Buenos Aires
+501,T. Stepanenko,Shakhtar Donetsk,Donetsk
+502,Manu Trigueros,Villarreal CF,Villarreal
+503,L. Paredes,Paris Saint-Germain,Paris
+504,M. Keane,Everton,Liverpool
+505,H. Çalhanoğlu,AC Milan,Milan
+506,Gabriel,SL Benfica,Lisbon
+507,M. Dabbur,Sevilla FC,Seville
+508,N. Aké,AFC Bournemouth,Bournemouth
+509,J. Quintero,River Plate,Buenos Aires
+510,Samu Castillejo,AC Milan,Milan
+511,M. Halstenberg,RB Leipzig,Leipzig
+512,E. Hysaj,Napoli,Naples
+513,André Gomes,Everton,Liverpool
+514,M. Dembélé,Olympique Lyonnais,Lyon
+515,O. Vlachodimos,SL Benfica,Lisbon
+516,Santi Mina,RC Celta de Vigo,Vigo
+517,Rony Lopes,Sevilla FC,Seville
+518,A. Christensen,Chelsea,London
+519,F. Armani,River Plate,Buenos Aires
+520,I. Marcone,Boca Juniors,Buenos Aires
+521,W. Benítez,OGC Nice,Nice
+522,J. Correa,Lazio,Rome
+523,M. Maignan,LOSC Lille,Lille
+524,K. Baldé,AS Monaco,Monaco
+525,Y. Tielemans,Leicester City,Leicester
+526,T. Bakayoko,Chelsea,London
+527,M. Vecino,Inter,Milan
+528,A. Rebić,Eintracht Frankfurt,Frankfurt
+529,M. Dúbravka,Newcastle United,Newcastle upon Tyne
+530,M. Caldara,AC Milan,Milan
+531,J. Weigl,Borussia Dortmund,Dortmund
+532,H. Winks,Tottenham Hotspur,London
+533,Jony,Lazio,Rome
+534,K. Piątek,AC Milan,Milan
+535,Mata,Getafe CF,Getafe
+536,V. Rongier,FC Nantes,Nantes
+537,N. Barella,Inter,Milan
+538,Diogo Jota,Wolverhampton Wanderers,Wolverhampton
+539,J. Gomez,Liverpool,Liverpool
+540,E. Bailly,Manchester United,Manchester
+541,Marcos Llorente,Atlético de Madrid,Madrid
+542,M. Eggestein,SV Werder Bremen,Bremen
+543,M. Dmitrović,SD Eibar,Eibar
+544,M. Marega,FC Porto,Porto
+545,Yeray,Athletic Club de Bilbao,Bilbao
+546,F. Mendy,Real Madrid CF,Madrid
+547,Mario Hermoso,Atlético de Madrid,Madrid
+548,Everton Andrão,Fluminense,Rio de Janeiro
+549,Welington Dano,Cruzeiro,Belo Horizonte
+550,M. Almirón,Newcastle United,Newcastle upon Tyne
+551,Odriozola,Real Madrid CF,Madrid
+552,Carlos Soler,Valencia CF,Valencia
+553,M. Lazzari,Lazio,Rome
+554,Melendo,RCD Espanyol de Barcelona,Barcelona
+555,M. Gómez,Valencia CF,Valencia
+556,Rúben Dias,SL Benfica,Lisbon
+557,D. Livaković,Dinamo Zagreb,Zagreb
+558,Loren,Real Betis Balompié,Seville
+559,João Félix,Atlético de Madrid,Madrid
+560,David Villa,Vissel Kobe,Kobe
+561,B. Yılmaz,Beşiktaş JK,Istanbul
+562,A. Mirante,Roma,Rome
+563,S. Kalou,Hertha BSC,Berlin
+564,Dante,OGC Nice,Nice
+565,M. Debuchy,AS Saint-Étienne,Saint-Étienne
+566,E. Lavezzi,Hebei FC,Shijiazhuang
+567,Borja Valero,Inter,Milan
+568,M. Škrtel,Atalanta,Bergamo
+569,J. Evans,Leicester City,Leicester
+570,D. Valeri,Portland Timbers,Portland
+571,N. Moisander,SV Werder Bremen,Bremen
+572,D. Criscito,Genoa,Genoa
+573,A. Candreva,Inter,Milan
+574,Marcano,FC Porto,Porto
+575,K. Boateng,Fiorentina,Florence
+576,A. Fernández,Beijing Renhe FC,Beijing
+577,N. Guzmán,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+578,Nacho Monreal,Arsenal,London
+579,Ángel,Getafe CF,Getafe
+580,Granero,RCD Espanyol de Barcelona,Barcelona
+581,Éder,Jiangsu FC,Nanjing
+582,R. Vormer,Club Brugge KV,Bruges
+583,S. Coleman,Everton,Liverpool
+584,A. Lallana,Liverpool,Liverpool
+585,A. Modeste,1. FC Köln,Cologne
+586,M. Gradel,Toulouse Football Club,Toulouse
+587,M. Sakho,Crystal Palace,London
+588,Yuri Berchiche,Athletic Club de Bilbao,Bilbao
+589,Mariano,Galatasaray SK,Istanbul
+590,Ö. Toprak,SV Werder Bremen,Bremen
+591,J. King,AFC Bournemouth,Bournemouth
+592,N. Kalinić,Atlético de Madrid,Madrid
+593,C. Stuani,Girona FC,Girona
+594,S. Ulreich,FC Bayern München,Munich
+595,K. Asamoah,Inter,Milan
+596,Alex Teixeira,Jiangsu FC,Nanjing
+597,S. Lulić,Lazio,Rome
+598,S. Rondón,Dalian Professional Football Club,Dalian
+599,S. Kagawa,Real Zaragoza,Zaragoza
+600,J. Wilshere,West Ham United,London
+601,Guaita,Crystal Palace,London
+602,Cote,SD Eibar,Eibar
+603,Iago Falqué,Torino F.C.,Turin
+604,J. Pastore,Roma,Rome
+605,Maicon,Al Nassr,Riyadh
+606,S. Mustafi,Arsenal,London
+607,F. Orellana,SD Eibar,Eibar
+608,Elkeson,Guangzhou FC,Guangzhou
+609,Kike García,SD Eibar,Eibar
+610,Escudero,Sevilla FC,Seville
+611,Mario Gaspar,Villarreal CF,Villarreal
+612,L. Cabrera,Getafe CF,Getafe
+613,Herrerín,Athletic Club de Bilbao,Bilbao
+614,H. Seferović,SL Benfica,Lisbon
+615,Víctor Ruiz,Beşiktaş JK,Istanbul
+616,G. Pezzella,Fiorentina,Florence
+617,Laguardia,Deportivo Alavés,Vitoria-Gasteiz
+618,I. Belfodil,TSG Hoffenheim,Sinsheim
+619,A. Yarmolenko,West Ham United,London
+620,W. Khazri,AS Saint-Étienne,Saint-Étienne
+621,P. Jones,Manchester United,Manchester
+622,E. Pérez,River Plate,Buenos Aires
+623,D. Caligiuri,FC Schalke 04,Gelsenkirchen
+624,S. Aurier,Tottenham Hotspur,London
+625,R. Barkley,Chelsea,London
+626,Danilo,Juventus,Turin
+627,N. Pallois,FC Nantes,Nantes
+628,Vitolo,Atlético de Madrid,Madrid
+629,M. Badelj,Fiorentina,Florence
+630,C. Tătărușanu,Olympique Lyonnais,Lyon
+631,J. Murillo,U.C. Sampdoria,Genoa
+632,E. Dier,Tottenham Hotspur,London
+633,D. da Costa,Eintracht Frankfurt,Frankfurt
+634,J. Tarkowski,Burnley,Burnley
+635,W. Boly,Wolverhampton Wanderers,Wolverhampton
+636,L. Spinazzola,Roma,Rome
+637,Zé Luís,FC Porto,Porto
+638,L. Karius,Beşiktaş JK,Istanbul
+639,N. Pope,Burnley,Burnley
+640,D. Suárez,Getafe CF,Getafe
+641,J. Brooks,VfL Wolfsburg,Wolfsburg
+642,K. Lala,RC Strasbourg Alsace,Strasbourg
+643,S. Arias,Atlético de Madrid,Madrid
+644,Roque Mesa,CD Leganés,Leganés
+645,M. Batshuayi,Chelsea,London
+646,Mário Rui,Napoli,Naples
+647,T. Inui,SD Eibar,Eibar
+648,D. Baselli,Torino F.C.,Turin
+649,J. Ward-Prowse,Southampton,Southampton
+650,T. Savanier,Montpellier Hérault SC,Montpellier
+651,B. Davies,Tottenham Hotspur,London
+652,Leo Baptistao,Wuhan FC,Wuhan
+653,D. Cheryshev,Valencia CF,Valencia
+654,M. Arnold,VfL Wolfsburg,Wolfsburg
+655,L. Trossard,Brighton & Hove Albion,Brighton
+656,C. Bacca,Villarreal CF,Villarreal
+657,S. Kolašinac,Arsenal,London
+658,J. Veltman,Ajax,Amsterdam
+659,A. Samaris,SL Benfica,Lisbon
+660,A. Januzaj,Real Sociedad,San Sebastián
+661,J. Hector,1. FC Köln,Cologne
+662,Fred,Manchester United,Manchester
+663,F. Schär,Newcastle United,Newcastle upon Tyne
+664,De Tomás,SL Benfica,Lisbon
+665,Otávio,FC Porto,Porto
+666,Jonny,Wolverhampton Wanderers,Wolverhampton
+667,M. Sanson,Olympique de Marseille,Marseille
+668,Rubén Peña,Villarreal CF,Villarreal
+669,N. Stark,Hertha BSC,Berlin
+670,R. Zobnin,Spartak Moskva,Moscow
+671,Ricardo Horta,SC Braga,Braga
+672,A. Iwobi,Everton,Liverpool
+673,R. Loftus-Cheek,Chelsea,London
+674,A. Hamdallah,Al Nassr,Riyadh
+675,J. Lerma,AFC Bournemouth,Bournemouth
+676,J. Gbamin,Everton,Liverpool
+677,D. Benedetto,Olympique de Marseille,Marseille
+678,L. Sigali,Racing Club,Avellaneda
+679,L. Alario,Bayer 04 Leverkusen,Leverkusen
+680,D. Zappacosta,Chelsea,London
+681,A. Saint-Maximin,Newcastle United,Newcastle upon Tyne
+682,S. Lobotka,RC Celta de Vigo,Vigo
+683,L. Dubois,Olympique Lyonnais,Lyon
+684,M. Samatta,KRC Genk,Genk
+685,Diego Carlos,Sevilla FC,Seville
+686,J. Denayer,Olympique Lyonnais,Lyon
+687,Munir,Sevilla FC,Seville
+688,Angeliño,Manchester City,Manchester
+689,J. Maddison,Leicester City,Leicester
+690,Wu Lei,RCD Espanyol de Barcelona,Barcelona
+691,Raúl,SC Braga,Braga
+692,Mariano,Real Madrid CF,Madrid
+693,L. Klostermann,RB Leipzig,Leipzig
+694,Petros,Al Nassr,Riyadh
+695,R. Aguilar,AS Monaco,Monaco
+696,K. Toko-Ekambi,Villarreal CF,Villarreal
+697,Dyego Sousa,Shenzhen FC,Shenzhen
+698,C. Pavón,LA Galaxy,Los Angeles
+699,Merino,Real Sociedad,San Sebastian
+700,A. Golovin,AS Monaco,Monaco
+701,A. Diallo,Paris Saint-Germain,Paris
+702,T. Kehrer,Paris Saint-Germain,Paris
+703,B. Pavard,FC Bayern München,Munich
+704,Soares,FC Porto,Porto
+705,R. Bentancur,Juventus,Turin
+706,C. Pulisic,Chelsea,London
+707,S. Berge,KRC Genk,Genk
+708,F. Balbuena,West Ham United,London
+709,L. Pellegrini,Roma,Rome
+710,F. Grillitsch,TSG Hoffenheim,Sinsheim
+711,André Silva,AC Milan,Milan
+712,M. Rashica,SV Werder Bremen,Bremen
+713,Rubén Alcaraz,Real Valladolid CF,Valladolid
+714,A. Wan-Bissaka,Manchester United,Manchester
+715,B. Chilwell,Leicester City,Leicester
+716,Maikel Catarino,Clube Atlético Mineiro,Belo Horizonte
+717,Antônio Chiamuloira,Internacional,Porto Alegre
+718,Melvin Parrela,Centro Sportivo Alagoano,Maceio
+719,Gabri Prestão,Internacional,Porto Alegre
+720,Luimo Boas Santos,Santos,Santos
+721,F. Kessié,AC Milan,Milan
+722,A. Lafont,FC Nantes,Nantes
+723,Richarlison,Everton,Liverpool
+724,R. Malinovskyi,Atalanta,Bergamo
+725,Wesley,Aston Villa,Birmingham
+726,S. Nakajima,FC Porto,Porto
+727,Raphinha,Sporting CP,Lisbon
+728,Lucas Paquetá,AC Milan,Milan
+729,A. Hakimi,Borussia Dortmund,Dortmund
+730,D. Samassékou,TSG Hoffenheim,Sinsheim
+731,F. Chiesa,Fiorentina,Florence
+732,Marc Roca,RCD Espanyol de Barcelona,Barcelona
+733,T. Souček,SK Slavia Praha,Prague
+734,I. Konaté,RB Leipzig,Leipzig
+735,D. Zagadou,Borussia Dortmund,Dortmund
+736,Vinícius Jr.,Real Madrid CF,Madrid
+737,Junior Firpo,FC Barcelona,Barcelona
+738,Dani Olmo,Dinamo Zagreb,Zagreb
+739,V. Tsygankov,Dynamo Kyiv,Kyiv
+740,E. Belözoğlu,Fenerbahçe SK,Istanbul
+741,G. Ochoa,Club América,Mexico City
+742,C. Tévez,Boca Juniors,Buenos Aires
+743,J. Sosa,Trabzonspor,Trabzon
+744,Raffael,Borussia Mönchengladbach,Mönchengladbach
+745,Andrés Fernández,Villarreal CF,Villarreal
+746,J. Pinola,River Plate,Buenos Aires
+747,M. Zárate,Boca Juniors,Buenos Aires
+748,Hilton,Montpellier Hérault SC,Montpellier
+749,G. Hoarau,BSC Young Boys,Bern
+750,A. Granqvist,Helsingborgs IF,Helsingborg
+751,R. Babel,Galatasaray SK,Istanbul
+752,T. Vermaelen,Vissel Kobe,Kobe
+753,D. Abraham,Eintracht Frankfurt,Frankfurt
+754,S. Nasri,RSC Anderlecht,Brussels
+755,I. Khune,Kaizer Chiefs,Johannesburg
+756,A. Masiello,Atalanta,Bergamo
+757,R. Bertrand,Southampton,Southampton
+758,J. dos Santos,LA Galaxy,Los Angeles
+759,Gervinho,Parma,Parma
+760,N. Şahin,SV Werder Bremen,Bremen
+761,S. Defour,Burnley,Burnley
+762,K. Mirallas,Everton,Liverpool
+763,Manu García,Deportivo Alavés,Vitoria-Gasteiz
+764,Coke,Levante Unión Deportiva,Valencia
+765,V. Moses,Fenerbahçe SK,Istanbul
+766,C. Ansaldi,Torino F.C.,Turin
+767,S. Mignolet,Club Brugge KV,Bruges
+768,J. Tomkins,Crystal Palace,London
+769,F. Caicedo,Lazio,Rome
+770,V. Birsa,Cagliari,Cagliari
+771,D. Mbokani,Royal Antwerp FC,Antwerp
+772,C. Zapata,Genoa,Genoa
+773,J. Hernández,West Ham United,London
+774,P. Diop,SD Eibar,Eibar
+775,M. Sulejmani,BSC Young Boys,Bern
+776,D. Da Silva,Stade Rennais FC,Rennes
+777,Marcelo,Olympique Lyonnais,Lyon
+778,Guilherme,FC Lokomotiv Moscow,Moscow
+779,S. Jovetić,AS Monaco,Monaco
+780,M. Cáceres,Lazio,Rome
+781,J. Holebas,Watford,Watford
+782,N. Amrabat,Al Nassr,Riyadh
+783,T. Deeney,Watford,Watford
+784,L. Fejsa,SL Benfica,Lisbon
+785,D. Schwaab,PSV,Eindhoven
+786,O. Karnezis,Napoli,Naples
+787,N. Petersen,Sport-Club Freiburg,Freiburg
+788,P. Piatti,RCD Espanyol de Barcelona,Barcelona
+789,S. Wagner,Tianjin Jinmen Tiger FC,Tianjin
+790,Bruno,Villarreal CF,Villarreal
+791,Adrien Silva,Leicester City,Leicester
+792,Mikel San José,Athletic Club de Bilbao,Bilbao
+793,D. Welbeck,Watford,Watford
+794,R. Zieler,Hannover 96,Hannover
+795,A. Barnes,Burnley,Burnley
+796,Rafael Tolói,Atalanta,Bergamo
+797,C. Grenier,Stade Rennais FC,Rennes
+798,Camacho,VfL Wolfsburg,Wolfsburg
+799,Rafael Carioca,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+800,Alan Carvalho,Tianjin Quanjian FC,Tianjin
+801,R. Boudebouz,AS Saint-Étienne,Saint-Étienne
+802,A. Mehmedi,VfL Wolfsburg,Wolfsburg
+803,V. Wanyama,Tottenham Hotspur,London
+804,Daniel Carriço,Sevilla FC,Seville
+805,S. Rudy,TSG Hoffenheim,Sinsheim
+806,Souza,Al Ahli,Jeddah
+807,B. Hübner,TSG Hoffenheim,Sinsheim
+808,Iborra,Villarreal CF,Villarreal
+809,J. Baumgartlinger,Bayer 04 Leverkusen,Leverkusen
+810,Rafael,Olympique Lyonnais,Lyon
+811,B. Mee,Burnley,Burnley
+812,De Marcos,Athletic Club de Bilbao,Bilbao
+813,M. Hitz,Borussia Dortmund,Dortmund
+814,C. Kabasele,Watford,Watford
+815,N. Clyne,Liverpool,Liverpool
+816,B. André,LOSC Lille,Lille
+817,M. Antonio,West Ham United,London
+818,P. Groß,Brighton & Hove Albion,Brighton
+819,J. Guðmundsson,Burnley,Burnley
+820,D. Ginczek,VfL Wolfsburg,Wolfsburg
+821,S. Duffy,Brighton & Hove Albion,Brighton
+822,S. Cook,AFC Bournemouth,Bournemouth
+823,Jaume Costa,Valencia CF,Valencia
+824,R. Soriano,Bologna,Bologna
+825,G. Medel,Beşiktaş JK,Istanbul
+826,D. Didavi,VfB Stuttgart,Stuttgart
+827,A. Delort,Montpellier Hérault SC,Montpellier
+828,Hugo Mallo,RC Celta de Vigo,Vigo
+829,A. Townsend,Crystal Palace,London
+830,T. Cairney,Fulham,London
+831,A. Finnbogason,FC Augsburg,Augsburg
+832,Joel Robles,Real Betis Balompié,Seville
+833,N. Lodeiro,Seattle Sounders FC,Seattle
+834,G. Krychowiak,FC Lokomotiv Moscow,Moscow
+835,F. Lejeune,Newcastle United,Newcastle upon Tyne
+836,Sérgio Oliveira,FC Porto,Porto
+837,B. Stambouli,FC Schalke 04,Gelsenkirchen
+838,K. Malcuit,Napoli,Naples
+839,V. Aboubakar,FC Porto,Porto
+840,M. Gregoritsch,FC Augsburg,Augsburg
+841,Nolito,Sevilla FC,Seville
+842,M. Sels,RC Strasbourg Alsace,Strasbourg
+843,L. Dunk,Brighton & Hove Albion,Brighton
+844,S. Rode,Eintracht Frankfurt,Frankfurt
+845,M. Uth,FC Schalke 04,Gelsenkirchen
+846,A. Soumaoro,LOSC Lille,Lille
+847,Pedro Mendes,Montpellier Hérault SC,Montpellier
+848,A. Marchesín,FC Porto,Porto
+849,M. Doherty,Wolverhampton Wanderers,Wolverhampton
+850,David López,RCD Espanyol de Barcelona,Barcelona
+851,G. Ramírez,U.C. Sampdoria,Genoa
+852,J. Veretout,Roma,Rome
+853,M. Rojo,Manchester United,Manchester
+854,R. Freuler,Atalanta,Bergamo
+855,Naldo,RCD Espanyol de Barcelona,Barcelona
+856,J. Gouweleeuw,FC Augsburg,Augsburg
+857,D. Demme,RB Leipzig,Leipzig
+858,Fernando,Beijing Guoan FC,Beijing
+859,A. Schwolow,Sport-Club Freiburg,Freiburg
+860,J. Vestergaard,Southampton,Southampton
+861,G. Defrel,Roma,Rome
+862,Álvaro,Olympique de Marseille,Marseille
+863,J. Butland,Stoke City,Stoke-on-Trent
+864,A. Carrillo,Al Hilal,Riyadh
+865,J. Lascelles,Newcastle United,Newcastle upon Tyne
+866,V. Fischer,F.C. København,Copenhagen
+867,K. Fortounis,Olympiacos CFP,Piraeus
+868,S. García,Godoy Cruz,Mendoza
+869,Denis Suárez,RC Celta de Vigo,Vigo
+870,K. Rekik,Hertha BSC,Berlin
+871,O. Yokuşlu,RC Celta de Vigo,Vigo
+872,S. Meïté,Torino F.C.,Turin
+873,J. Boëtius,1. FSV Mainz 05,Mainz
+874,Djaniny,Al Ahli,Jeddah
+875,Z. Feddal,Real Betis Balompié,Seville
+876,L. Pavoletti,Cagliari,Cagliari
+877,R. Olsen,Roma,Rome
+878,G. Pizarro,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+879,B. Traoré,Olympique Lyonnais,Lyon
+880,B. Cristante,Roma,Rome
+881,C. Hérelle,OGC Nice,Nice
+882,M. de Roon,Atalanta,Bergamo
+883,H. Sakai,Olympique de Marseille,Marseille
+884,Omar Mascarell,FC Schalke 04,Gelsenkirchen
+885,Óliver Torres,Sevilla FC,Seville
+886,F. Mollet,Montpellier Hérault SC,Montpellier
+887,G. Laborde,Montpellier Hérault SC,Montpellier
+888,J. Hofmann,Borussia Mönchengladbach,Mönchengladbach
+889,D. Berardi,U.S. Sassuolo Calcio,Sassuolo
+890,Bruma,PSV,Eindhoven
+891,I. Amadou,Norwich City,Norwich
+892,V. Grifo,TSG Hoffenheim,Sinsheim
+893,M. Meyer,Crystal Palace,London
+894,R. Gagliardini,Inter,Milan
+895,José Sá,Olympiacos CFP,Piraeus
+896,L. Dendoncker,Wolverhampton Wanderers,Wolverhampton
+897,R. De Paul,Udinese Calcio,Udine
+898,D. Selke,Hertha BSC,Berlin
+899,M. Lemina,Southampton,Southampton
+900,D. Origi,Liverpool,Liverpool
+901,G. Kanga,AC Sparta Praha,Prague
+902,F. Tait,Stade Rennais FC,Rennes
+903,D. Laxalt,AC Milan,Milan
+904,E. Pulgar,Fiorentina,Florence
+905,A. Selikhov,Spartak Moskva,Moscow
+906,F. Fabra,Boca Juniors,Buenos Aires
+907,A. Miranchuk,FC Lokomotiv Moscow,Moscow
+908,G. Cano,Independiente Medellín,Medellín
+909,C. Izquierdoz,Boca Juniors,Buenos Aires
+910,J. Musso,Udinese Calcio,Udine
+911,A. Donatti,Racing Club,Avellaneda
+912,R. Saravia,FC Porto,Porto
+913,Rúben Vezo,Levante Unión Deportiva,Valencia
+914,N. Maksimović,Napoli,Naples
+915,Ayoze Pérez,Leicester City,Leicester
+916,A. Mitrović,Fulham,London
+917,I. Fernández,River Plate,Buenos Aires
+918,N. Domínguez,Racing Club,Avellaneda
+919,Capa,Athletic Club de Bilbao,Bilbao
+920,Marcelo Goiano,Demir Grup Sivasspor,Sivas
+921,J. Seri,Galatasaray SK,Istanbul
+922,Bastos,Lazio,Rome
+923,M. Dahoud,Borussia Dortmund,Dortmund
+924,G. Maripán,Deportivo Alavés,Vitoria-Gasteiz
+925,R. Battaglia,Sporting CP,Lisbon
+926,B. Santamaria,Angers SCO,Angers
+927,H. Hateboer,Atalanta,Bergamo
+928,M. Diagne,Galatasaray SK,Istanbul
+929,Y. Mina,Everton,Liverpool
+930,N. Elvedi,Borussia Mönchengladbach,Mönchengladbach
+931,M. Ødegaard,Real Sociedad,San Sebastián
+932,G. Arias,Racing Club,Avellaneda
+933,Joelinton,Newcastle United,Newcastle upon Tyne
+934,O. Al Soma,Al Ahli,Jeddah
+935,J. Andersen,Olympique Lyonnais,Lyon
+936,Joan Jordán,Sevilla FC,Seville
+937,J. Bamba,LOSC Lille,Lille
+938,A. Meret,Napoli,Naples
+939,E. Skhiri,1. FC Köln,Cologne
+940,N. Amiri,Bayer 04 Leverkusen,Leverkusen
+941,M. Campaña,Club Atlético Independiente,Avellaneda
+942,B. Verbič,Dynamo Kyiv,Kyiv
+943,G. Martínez,Atlanta United,Atlanta
+944,Daniel Podence,Olympiacos CFP,Piraeus
+945,L. Tousart,Olympique Lyonnais,Lyon
+946,O. Zinchenko,Manchester City,Manchester
+947,S. Deli,Club Brugge KV,Bruges
+948,D. Zakaria,Borussia Mönchengladbach,Mönchengladbach
+949,G. Dzhikiya,Spartak Moskva,Moscow
+950,Ronaldo Esler,Clube Atlético Mineiro,Belo Horizonte
+951,Claudio Coíntra,Internacional,Porto Alegre
+952,Everticinho,Grêmio,Porto Alegre
+953,Sidney Pessinho,Internacional,Porto Alegre
+954,I. Diop,West Ham United,London
+955,Y. Yazıcı,LOSC Lille,Lille
+956,D. Dumfries,PSV,Eindhoven
+957,H. Onyekuru,AS Monaco,Monaco
+958,Bruno Viana,SC Braga,Braga
+959,D. Rice,West Ham United,London
+960,J. Ikoné,LOSC Lille,Lille
+961,F. Neuhaus,Borussia Mönchengladbach,Mönchengladbach
+962,I. Sarr,Watford,Watford
+963,C. Ünder,Roma,Rome
+964,M. Zaracho,Racing Club,Avellaneda
+965,Aarón Martín,1. FSV Mainz 05,Mainz
+966,J. Mateta,1. FSV Mainz 05,Mainz
+967,M. Ngadeu,KAA Gent,Ghent
+968,E. Bardhi,Levante Unión Deportiva,Valencia
+969,N. Maksimović,Getafe CF,Getafe
+970,Calero,RCD Espanyol de Barcelona,Barcelona
+971,Ferro,SL Benfica,Lisbon
+972,Júnior Moraes,Shakhtar Donetsk,Donetsk
+973,D. Baier,FC Augsburg,Augsburg
+974,Jô,Nagoya Grampus,Nagoya
+975,A. Pyatov,Shakhtar Donetsk,Donetsk
+976,Iván Ramis,SD Eibar,Eibar
+977,Iván Cuéllar,CD Leganés,Leganés
+978,K. Huntelaar,Ajax,Amsterdam
+979,J. Hart,Burnley,Burnley
+980,G. Clichy,İstanbul Başakşehir FK,Istanbul
+981,A. Young,Manchester United,Manchester
+982,R. Civelli,Club Atlético Banfield,Banfield
+983,D. Cvitanich,Racing Club,Avellaneda
+984,J. Farfán,FC Lokomotiv Moscow,Moscow
+985,Gelson Fernandes,Eintracht Frankfurt,Frankfurt
+986,Javi García,Real Betis Balompié,Seville
+987,V. Ibišević,Hertha BSC,Berlin
+988,G. Pellè,Shandong Taishan,Jinan
+989,B. Wright-Phillips,New York Red Bulls,Harrison
+990,G. Cahill,Crystal Palace,London
+991,T. Walcott,Everton,Liverpool
+992,Danilo,Bologna,Bologna
+993,I. Scocco,River Plate,Buenos Aires
+994,E. Elia,İstanbul Başakşehir FK,Istanbul
+995,L. Schøne,Genoa,Genoa
+996,G. Murray,Brighton & Hove Albion,Brighton
+997,Z. Junuzović,FC Red Bull Salzburg,Salzburg
+998,C. Bravo,Manchester City,Manchester
+999,V. Odjidja-Ofoe,KAA Gent,Ghent
+1000,P. Wernbloom,PAOK,Thessaloniki
+1001,R. Gurtner,Amiens SC,Amiens
+1002,M. Schneiderlin,Everton,Liverpool
+1003,Miguel Veloso,Hellas Verona,Verona
+1004,M. Layún,CF Monterrey,Monterrey
+1005,J. Lens,Beşiktaş JK,Istanbul
+1006,Varela,PAOK,Thessaloniki
+1007,L. Rémy,LOSC Lille,Lille
+1008,M. Suchý,FC Augsburg,Augsburg
+1009,S. De Maio,Udinese Calcio,Udine
+1010,P. Aguilar,Cruz Azul,Mexico City
+1011,G. Sio,Gençlerbirliği SK,Ankara
+1012,F. Delph,Everton,Liverpool
+1013,N. Subotić,1. FC Union Berlin,Berlin
+1014,Roberto,West Ham United,London
+1015,M. Dossevi,Toulouse Football Club,Toulouse
+1016,A. Ogbonna,West Ham United,London
+1017,I. Traoré,Borussia Mönchengladbach,Mönchengladbach
+1018,M. Carcela-González,Standard de Liège,Liège
+1019,R. Alessandrini,LA Galaxy,Los Angeles
+1020,Alan Kardec,Chongqing Liangjiang Athletic,Chongqing
+1021,Maurício,PAOK,Thessaloniki
+1022,A. Poli,Bologna,Bologna
+1023,O. Ighalo,Shanghai Shenhua FC,Shanghai
+1024,D. Drinkwater,Burnley,Burnley
+1025,Claudemir,SC Braga,Braga
+1026,Douglas,Vitória de Guimarães,Guimarães
+1027,A. Dzagoev,PFC CSKA Moscow,Moscow
+1028,M. Suárez,River Plate,Buenos Aires
+1029,D. Janmaat,Watford,Watford
+1030,G. Bou,New England Revolution,Foxborough
+1031,A. Dragović,Bayer 04 Leverkusen,Leverkusen
+1032,S. Aziz,Fenerbahçe SK,Istanbul
+1033,J. Shelvey,Newcastle United,Newcastle upon Tyne
+1034,A. Westwood,Burnley,Burnley
+1035,D. Latza,1. FSV Mainz 05,Mainz
+1036,Victor Sánchez,RCD Espanyol de Barcelona,Barcelona
+1037,T. Pukki,Norwich City,Norwich
+1038,J. Kucka,Parma,Parma
+1039,T. Rincón,Torino F.C.,Turin
+1040,C. Wood,Burnley,Burnley
+1041,Johnathan,Tianjin Jinmen Tiger FC,Tianjin
+1042,M. Plattenhardt,Hertha BSC,Berlin
+1043,Y. Mallı,VfL Wolfsburg,Wolfsburg
+1044,Carlos Eduardo,Al Hilal,Riyadh
+1045,L. Rodríguez,Club Atlético Colón,Santa Fe
+1046,C. Tosun,Everton,Liverpool
+1047,D. Pröpper,Brighton & Hove Albion,Brighton
+1048,N. Gudelj,Sevilla FC,Seville
+1049,G. Burgstaller,FC Schalke 04,Gelsenkirchen
+1050,Rômulo,Genoa,Genoa
+1051,Y. El Arabi,Olympiacos CFP,Piraeus
+1052,Renan Ribeiro,Sporting CP,Lisbon
+1053,Fransérgio,SC Braga,Braga
+1054,O. Özyakup,Beşiktaş JK,Istanbul
+1055,J. Martin,RC Strasbourg Alsace,Strasbourg
+1056,Juanmi,Real Betis Balompié,Seville
+1057,P. Herrmann,Borussia Mönchengladbach,Mönchengladbach
+1058,R. Funes Mori,CF Monterrey,Monterrey
+1059,Tomás Pina,Deportivo Alavés,Vitoria-Gasteiz
+1060,Cláudio Ramos,CD Tondela,Tondela
+1061,Sergio León,Levante Unión Deportiva,Valencia
+1062,N. Redmond,Southampton,Southampton
+1063,Lucas Pérez,Deportivo Alavés,Vitoria-Gasteiz
+1064,André André,Vitória de Guimarães,Guimarães
+1065,R. Funes Mori,Villarreal CF,Villarreal
+1066,Wilson Eduardo,SC Braga,Braga
+1067,M. van Ginkel,Chelsea,London
+1068,P. Hernández,Club Atlético Independiente,Avellaneda
+1069,Arbilla,SD Eibar,Eibar
+1070,Pedro Obiang,U.S. Sassuolo Calcio,Sassuolo
+1071,M. Bizot,AZ Alkmaar,Alkmaar
+1072,M. Esser,Hannover 96,Hannover
+1073,Bruno,Getafe CF,Getafe
+1074,T. Koubek,FC Augsburg,Augsburg
+1075,J. Forrest,Celtic,Glasgow
+1076,D. Sidibé,Everton,Liverpool
+1077,R. Saponara,Genoa,Genoa
+1078,L. Tonelli,Napoli,Naples
+1079,Pablo,FC Girondins de Bordeaux,Bordeaux
+1080,L. Kurzawa,Paris Saint-Germain,Paris
+1081,E. Bičakčić,TSG Hoffenheim,Sinsheim
+1082,C. Piccini,Valencia CF,Valencia
+1083,C. Coady,Wolverhampton Wanderers,Wolverhampton
+1084,R. Knoche,VfL Wolfsburg,Wolfsburg
+1085,L. Bittencourt,TSG Hoffenheim,Sinsheim
+1086,A. Trebel,RSC Anderlecht,Brussels
+1087,M. Niang,Stade Rennais FC,Rennes
+1088,B. Reynet,Toulouse Football Club,Toulouse
+1089,Luís Neto,Sporting CP,Lisbon
+1090,K. Stöger,Fortuna Düsseldorf,Düsseldorf
+1091,O. Selnæs,Shenzhen FC,Shenzhen
+1092,M. Pereyra,Orlando City Soccer Club,Orlando
+1093,F. Fajr,Getafe CF,Getafe
+1094,N. Füllkrug,SV Werder Bremen,Bremen
+1095,L. Ocampos,Sevilla FC,Seville
+1096,L. Castro,Cagliari,Cagliari
+1097,V. Chiricheș,Napoli,Naples
+1098,S. Ristovski,Sporting CP,Lisbon
+1099,A. Younes,Napoli,Naples
+1100,M. De Sciglio,Juventus,Turin
+1101,W. Hughes,Watford,Watford
+1102,J. Grealish,Aston Villa,Birmingham
+1103,M. Weiser,Bayer 04 Leverkusen,Leverkusen
+1104,Sergio Rico,Sevilla FC,Seville
+1105,E. Vargas,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+1106,J. Lukaku,Lazio,Rome
+1107,Marçal,Olympique Lyonnais,Lyon
+1108,Roger,Levante Unión Deportiva,Valencia
+1109,K. Ayhan,Fortuna Düsseldorf,Düsseldorf
+1110,T. Strobl,Borussia Mönchengladbach,Mönchengladbach
+1111,R. Saïss,Wolverhampton Wanderers,Wolverhampton
+1112,Andreas Pereira,Manchester United,Manchester
+1113,Rubén Sobrino,Valencia CF,Valencia
+1114,Y. Bounou,Girona FC,Girona
+1115,K. Mbabu,VfL Wolfsburg,Wolfsburg
+1116,Emerson,Chelsea,London
+1117,R. Pizarro,CF Monterrey,Monterrey
+1118,R. Centurión,Club Atlético de San Luis,San Luis Potosí
+1119,M. Benassi,Fiorentina,Florence
+1120,S. Boufal,Southampton,Southampton
+1121,M. Elneny,Arsenal,London
+1122,C. Vargas,Club Atlas,Guadalajara
+1123,Nacho,Real Valladolid CF,Valladolid
+1124,P. Max,FC Augsburg,Augsburg
+1125,P. Sisto,RC Celta de Vigo,Vigo
+1126,B. Mechele,Club Brugge KV,Bruges
+1127,A. Djiku,RC Strasbourg Alsace,Strasbourg
+1128,Y. Gerhardt,VfL Wolfsburg,Wolfsburg
+1129,Diego Llorente,Real Sociedad,San Sebastian
+1130,W. Cyprien,OGC Nice,Nice
+1131,C. Salcedo,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+1132,F. Acheampong,Tianjin Jinmen Tiger FC,Tianjin
+1133,N. Bentaleb,FC Schalke 04,Gelsenkirchen
+1134,F. Ferreyra,RCD Espanyol de Barcelona,Barcelona
+1135,P. Højbjerg,Southampton,Southampton
+1136,B. Bourigeaud,Stade Rennais FC,Rennes
+1137,L. Miranda,Club Tijuana,Tijuana
+1138,L. López,Boca Juniors,Buenos Aires
+1139,M. Casco,River Plate,Buenos Aires
+1140,P. Pérez,Club Atlético Independiente,Avellaneda
+1141,A. Petagna,SPAL,Ferrara
+1142,M. Sportiello,Atalanta,Bergamo
+1143,I. Bebou,TSG Hoffenheim,Sinsheim
+1144,K. Tete,Olympique Lyonnais,Lyon
+1145,Wendell,Bayer 04 Leverkusen,Leverkusen
+1146,Paulinho,SC Braga,Braga
+1147,M. Meza,CF Monterrey,Monterrey
+1148,G. Simeone,Fiorentina,Florence
+1149,J. Palomino,Atalanta,Bergamo
+1150,Pedro Henrique,Vitória de Guimarães,Guimarães
+1151,G. Escalante,SD Eibar,Eibar
+1152,A. Sanabria,Genoa,Genoa
+1153,D. Brooks,AFC Bournemouth,Bournemouth
+1154,J. Bednarek,Southampton,Southampton
+1155,R. Borré,River Plate,Buenos Aires
+1156,A. Schöpf,FC Schalke 04,Gelsenkirchen
+1157,D. Calvert-Lewin,Everton,Liverpool
+1158,O. Duda,Hertha BSC,Berlin
+1159,A. Miranchuk,FC Lokomotiv Moscow,Moscow
+1160,Jorge Meré,1. FC Köln,Cologne
+1161,E. Ünal,Real Valladolid CF,Valladolid
+1162,B. Fernández,Portland Timbers,Portland
+1163,M. Pašalić,Atalanta,Bergamo
+1164,S. Lainer,Borussia Mönchengladbach,Mönchengladbach
+1165,P. Bernardoni,Nîmes Olympique,Nîmes
+1166,M. Lopez,Olympique de Marseille,Marseille
+1167,A. Marušić,Lazio,Rome
+1168,R. Bensebaini,Borussia Mönchengladbach,Mönchengladbach
+1169,L. Cook,AFC Bournemouth,Bournemouth
+1170,E. Boateng,Dalian Professional Football Club,Dalian
+1171,K. Lasagna,Udinese Calcio,Udine
+1172,Vallejo,Wolverhampton Wanderers,Wolverhampton
+1173,Alex Berenguer,Torino F.C.,Turin
+1174,K. Laimer,RB Leipzig,Leipzig
+1175,G. Rodríguez,Club América,Mexico City
+1176,C. Domínguez,Club Atlético Independiente,Avellaneda
+1177,Trezeguet,Aston Villa,Birmingham
+1178,N. Mukiele,RB Leipzig,Leipzig
+1179,Aritz Elustondo,Real Sociedad,San Sebastian
+1180,R. Ábila,Boca Juniors,Buenos Aires
+1181,O. Colley,U.C. Sampdoria,Genoa
+1182,E. Audero,U.C. Sampdoria,Genoa
+1183,Borja Mayoral,Levante Unión Deportiva,Valencia
+1184,M. Vargas,RCD Espanyol de Barcelona,Barcelona
+1185,D. Calabria,AC Milan,Milan
+1186,D. Upamecano,RB Leipzig,Leipzig
+1187,Sergi Guardiola,Real Valladolid CF,Valladolid
+1188,G. Pereiro,PSV,Eindhoven
+1189,Córdoba,Athletic Club de Bilbao,Bilbao
+1190,S. Sensi,Inter,Milan
+1191,P. Lees-Melou,OGC Nice,Nice
+1192,Gazzolisco,Internacional,Porto Alegre
+1193,Vieirundinho,Santos,Santos
+1194,Simão Acunha,Clube Atlético Mineiro,Belo Horizonte
+1195,Formosandrinho,Botafogo,Rio de Janeiro
+1196,M. Gaćinović,Eintracht Frankfurt,Frankfurt
+1197,M. Diakhaby,Valencia CF,Valencia
+1198,E. Akbaba,Galatasaray SK,Istanbul
+1199,N. Nández,Cagliari,Cagliari
+1200,E. Palacios,River Plate,Buenos Aires
+1201,M. Grujić,Hertha BSC,Berlin
+1202,C. Nkunku,RB Leipzig,Leipzig
+1203,M. Arambarri,Getafe CF,Getafe
+1204,E. Mendy,Stade Rennais FC,Rennes
+1205,J. Mæhle,KRC Genk,Genk
+1206,P. Rosario,PSV,Eindhoven
+1207,R. Marin,Ajax,Amsterdam
+1208,Brais Méndez,RC Celta de Vigo,Vigo
+1209,Luiz Felipe,Lazio,Rome
+1210,N. Mazraoui,Ajax,Amsterdam
+1211,F. Bustos,Club Atlético Independiente,Avellaneda
+1212,A. Barák,Udinese Calcio,Udine
+1213,M. Rojas,Racing Club,Avellaneda
+1214,S. McTominay,Manchester United,Manchester
+1215,C. Luyindama,Galatasaray SK,Istanbul
+1216,P. Cutrone,Wolverhampton Wanderers,Wolverhampton
+1217,Wendel,Sporting CP,Lisbon
+1218,F. Valverde,Real Madrid CF,Madrid
+1219,L. Martínez,Ajax,Amsterdam
+1220,Galeno,SC Braga,Braga
+1221,A. Paschalakis,PAOK,Thessaloniki
+1222,Y. Atal,OGC Nice,Nice
+1223,N. Vlašić,PFC CSKA Moscow,Moscow
+1224,Chiquinho,SL Benfica,Lisbon
+1225,P. Hrošovský,KRC Genk,Genk
+1226,Reguilón,Sevilla FC,Seville
+1227,Renan Lodi,Atlético de Madrid,Madrid
+1228,S. Proto,Lazio,Rome
+1229,J. Defoe,Rangers FC,Glasgow
+1230,P. Jagielka,Sheffield United,Sheffield
+1231,B. Schweinsteiger,Chicago Fire Football Club,Chicago
+1232,H. Kaldırım,Fenerbahçe SK,Istanbul
+1233,A. Hutchinson,Beşiktaş JK,Istanbul
+1234,J. Briand,FC Girondins de Bordeaux,Bordeaux
+1235,Gomes,Watford,Watford
+1236,B. Džemaili,Bologna,Bologna
+1237,L. Ponzio,River Plate,Buenos Aires
+1238,R. Klavan,Cagliari,Cagliari
+1239,J. Dátolo,Club Atlético Banfield,Banfield
+1240,A. Turan,İstanbul Başakşehir FK,Istanbul
+1241,S. Kırıntılı,İttifak Holding Konyaspor,Konya
+1242,O. Wendt,Borussia Mönchengladbach,Mönchengladbach
+1243,Soldado,Granada CF,Granada
+1244,Diego Castro,Perth Glory,Perth
+1245,M. Gómez,VfB Stuttgart,Stuttgart
+1246,M. Noble,West Ham United,London
+1247,J. Sand,Club Atlético Lanús,Lanús
+1248,P. Skjelbred,Hertha BSC,Berlin
+1249,R. Palacio,Bologna,Bologna
+1250,M. Bradley,Toronto FC,Toronto
+1251,R. Snodgrass,West Ham United,London
+1252,Markel Bergara,Getafe CF,Getafe
+1253,A. Hunt,Hamburger SV,Hamburg
+1254,Léo Matos,PAOK,Thessaloniki
+1255,S. Bolat,Royal Antwerp FC,Antwerp
+1256,A. Mierzejewski,Chongqing Liangjiang Athletic,Chongqing
+1257,K. El Ahmadi,Al Ittihad,Jeddah
+1258,J. Orozco,Santos Laguna,Torreon
+1259,S. Sessègnon,Gençlerbirliği SK,Ankara
+1260,A. Diamanti,Western United FC,Caroline Springs
+1261,D. Basta,Lazio,Rome
+1262,F. Higuaín,Columbus Crew,Columbus
+1263,Marcelo Grohe,Al Ittihad,Jeddah
+1264,S. Bocchetti,Hellas Verona,Verona
+1265,K. Vermeer,Feyenoord,Rotterdam
+1266,J. Cork,Burnley,Burnley
+1267,J. Rodriguez,Burnley,Burnley
+1268,G. dos Santos,Club América,Mexico City
+1269,J. McArthur,Crystal Palace,London
+1270,J. Maidana,Deportivo Toluca,Toluca
+1271,D. Zurutuza,Real Sociedad,San Sebastian
+1272,S. Bamba,Cardiff City,Cardiff
+1273,Adrián,CA Osasuna,Pamplona
+1274,J. Altidore,Toronto FC,Toronto
+1275,W. Reid,West Ham United,London
+1276,D. Chygrynskyi,AEK Athens,Athens
+1277,A. Ayew,Swansea City,Swansea
+1278,O. Toivonen,Melbourne Victory,Melbourne
+1279,Mossoró,İstanbul Başakşehir FK,Istanbul
+1280,M. Fellaini,Shandong Taishan,Jinan
+1281,F. Lustenberger,BSC Young Boys,Bern
+1282,F. Johnson,Borussia Mönchengladbach,Mönchengladbach
+1283,Vieirinha,PAOK,Thessaloniki
+1284,J. De Guzmán,Eintracht Frankfurt,Frankfurt
+1285,Fabricio,Fulham,London
+1286,D. Biseswar,PAOK,Thessaloniki
+1287,T. Mangani,Angers SCO,Angers
+1288,R. Donk,Galatasaray SK,Istanbul
+1289,Pablo Hernández,Leeds United,Leeds
+1290,Ki Sung Yueng,Newcastle United,Newcastle upon Tyne
+1291,C. Cathcart,Watford,Watford
+1292,B. Dočkal,AC Sparta Praha,Prague
+1293,A. Ekdal,U.C. Sampdoria,Genoa
+1294,D. Stephens,Brighton & Hove Albion,Brighton
+1295,Beto,Göztepe SK,Izmir
+1296,R. Rosales,CD Leganés,Leganés
+1297,M. Albrighton,Leicester City,Leicester
+1298,M. Jørgensen,Fenerbahçe SK,Istanbul
+1299,E. Choupo-Moting,Paris Saint-Germain,Paris
+1300,S. Terodde,1. FC Köln,Cologne
+1301,M. Moralez,New York City FC,New York
+1302,F. Roncaglia,CA Osasuna,Pamplona
+1303,K. Papadopoulos,Hamburger SV,Hamburg
+1304,M. Lang,Borussia Mönchengladbach,Mönchengladbach
+1305,N. Sánchez,CF Monterrey,Monterrey
+1306,Á. Szalai,TSG Hoffenheim,Sinsheim
+1307,M. Stoch,PAOK,Thessaloniki
+1308,P. van Aanholt,Crystal Palace,London
+1309,F. Borini,AC Milan,Milan
+1310,E. Hernández,Cruz Azul,Mexico City
+1311,T. Gebre Selassie,SV Werder Bremen,Bremen
+1312,I. Radovanović,Genoa,Genoa
+1313,Kiko Olivas,Real Valladolid CF,Valladolid
+1314,C. Kouyaté,Crystal Palace,London
+1315,O. El Kaddouri,PAOK,Thessaloniki
+1316,Rochina,Levante Unión Deportiva,Valencia
+1317,L. Acosta,Club Atlético Lanús,Lanús
+1318,Diogo Viana,SC Braga,Braga
+1319,C. Villanueva,Al Ittihad,Jeddah
+1320,M. Schmelzer,Borussia Dortmund,Dortmund
+1321,Miguel Lopes,Yukatel Kayserispor,Kayseri
+1322,E. Berisha,SPAL,Ferrara
+1323,A. McCarthy,Southampton,Southampton
+1324,Iturraspe,RCD Espanyol de Barcelona,Barcelona
+1325,A. Cresswell,West Ham United,London
+1326,T. Cleverley,Watford,Watford
+1327,Kiko Femenía,Watford,Watford
+1328,Ł. Skorupski,Bologna,Bologna
+1329,T. Kolodziejczak,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+1330,S. Zuber,TSG Hoffenheim,Sinsheim
+1331,Rubén Pérez,CD Leganés,Leganés
+1332,A. Hansen,Rosenborg BK,Trondheim
+1333,T. Jantschke,Borussia Mönchengladbach,Mönchengladbach
+1334,E. Mangala,Valencia CF,Valencia
+1335,S. Blanco,Portland Timbers,Portland
+1336,D. Quintero,Minnesota United FC,Saint Paul
+1337,I. Brizuela,Club Deportivo Guadalajara,Guadalajara
+1338,K. Théophile-Catherine,Dinamo Zagreb,Zagreb
+1339,A. Smith,AFC Bournemouth,Bournemouth
+1340,Y. Ōsako,SV Werder Bremen,Bremen
+1341,L. Chichizola,Getafe CF,Getafe
+1342,D. Reyes,Fenerbahçe SK,Istanbul
+1343,N. Araújo,RC Celta de Vigo,Vigo
+1344,E. Cardona,Pachuca,Pachuca
+1345,S. Padt,FC Groningen,Groningen
+1346,Júnior Caiçara,İstanbul Başakşehir FK,Istanbul
+1347,M. Jajalo,Udinese Calcio,Udine
+1348,R. Hamouma,AS Saint-Étienne,Saint-Étienne
+1349,A. Schürrle,Spartak Moskva,Moscow
+1350,Aitor,Levante Unión Deportiva,Valencia
+1351,N. Viergever,PSV,Eindhoven
+1352,Portillo,Getafe CF,Getafe
+1353,A. Gray,Watford,Watford
+1354,P. Jansson,Brentford,London
+1355,Montoya,Brighton & Hove Albion,Brighton
+1356,Adrián,Liverpool,Liverpool
+1357,A. Mooy,Brighton & Hove Albion,Brighton
+1358,D. Ings,Southampton,Southampton
+1359,D. Pabón,CF Monterrey,Monterrey
+1360,J. Martínez,Portimonense SC,Portimão
+1361,G. Moreno,Shanghai Shenhua FC,Shanghai
+1362,T. Gutiérrez,Junior FC,Barranquilla
+1363,Mexer,FC Girondins de Bordeaux,Bordeaux
+1364,Héldon,Al Taawoun,Buraidah
+1365,D. Boyata,Hertha BSC,Berlin
+1366,M. Höger,1. FC Köln,Cologne
+1367,C. Ortíz,CF Monterrey,Monterrey
+1368,Raúl Navas,CA Osasuna,Pamplona
+1369,M. Gabbiadini,U.C. Sampdoria,Genoa
+1370,S. Taïder,Club de Foot Montréal,Montreal
+1371,João Pedro,Cagliari,Cagliari
+1372,H. Tekin,Fenerbahçe SK,Istanbul
+1373,J. Clasie,AZ Alkmaar,Alkmaar
+1374,R. Inglese,Parma,Parma
+1375,Oriol Romeu,Southampton,Southampton
+1376,J. Guidetti,Deportivo Alavés,Vitoria-Gasteiz
+1377,D. Praet,Leicester City,Leicester
+1378,L. Unnerstall,PSV,Eindhoven
+1379,N. Jørgensen,Feyenoord,Rotterdam
+1380,A. Maher,FC Utrecht,Utrecht
+1381,B. Raman,FC Schalke 04,Gelsenkirchen
+1382,C. Schindler,Huddersfield Town,Huddersfield
+1383,Juan Jesus,Roma,Rome
+1384,A. Wakaso,Vitória de Guimarães,Guimarães
+1385,E. Gigliotti,Deportivo Toluca,Toluca
+1386,Cédric,Southampton,Southampton
+1387,R. Morrison,Sheffield United,Sheffield
+1388,V. Darida,Hertha BSC,Berlin
+1389,R. Brady,Burnley,Burnley
+1390,F. Fernández,Newcastle United,Newcastle upon Tyne
+1391,F. Klaus,VfL Wolfsburg,Wolfsburg
+1392,Aleix Vidal,Deportivo Alavés,Vitoria-Gasteiz
+1393,O. Onazi,Trabzonspor,Trabzon
+1394,T. Monconduit,Amiens SC,Amiens
+1395,M. Elyounoussi,Southampton,Southampton
+1396,A. Knockaert,Fulham,London
+1397,J. Bořil,SK Slavia Praha,Prague
+1398,S. Sanogo,Al Ittihad,Jeddah
+1399,J. Locadia,Brighton & Hove Albion,Brighton
+1400,R. Ruidíaz,Seattle Sounders FC,Seattle
+1401,J. Campbell,Club León,León
+1402,R. Ibarra,Club América,Mexico City
+1403,Toño García,Levante Unión Deportiva,Valencia
+1404,C. Taylor,Burnley,Burnley
+1405,N. Sliti,Ettifaq FC,Dammam
+1406,S. Kverkvelia,FC Lokomotiv Moscow,Moscow
+1407,Alberto Moreno,Villarreal CF,Villarreal
+1408,D. Gayle,Newcastle United,Newcastle upon Tyne
+1409,S. Denswil,Bologna,Bologna
+1410,M. Livaja,AEK Athens,Athens
+1411,Y. Mvogo,RB Leipzig,Leipzig
+1412,I. Hayden,Newcastle United,Newcastle upon Tyne
+1413,D. Heintz,Sport-Club Freiburg,Freiburg
+1414,D. Garmash,Dynamo Kyiv,Kyiv
+1415,Y. Abdelhamid,Stade de Reims,Reims
+1416,Paulinho,Portimonense SC,Portimão
+1417,Matheus,SC Braga,Braga
+1418,G. González,LA Galaxy,Los Angeles
+1419,A. Thomasson,RC Strasbourg Alsace,Strasbourg
+1420,Guilherme,Olympiacos CFP,Piraeus
+1421,D. Siovas,CD Leganés,Leganés
+1422,E. Mena,Racing Club,Avellaneda
+1423,Garry Rodrigues,Fenerbahçe SK,Istanbul
+1424,J. Córdoba,1. FC Köln,Cologne
+1425,A. Szymanowski,CD Leganés,Leganés
+1426,A. Rusnák,Real Salt Lake,Sandy
+1427,R. Steffen,VfL Wolfsburg,Wolfsburg
+1428,Paulo Oliveira,SD Eibar,Eibar
+1429,B. Engels,Aston Villa,Birmingham
+1430,C. McGregor,Celtic,Glasgow
+1431,Rubén Blanco,RC Celta de Vigo,Vigo
+1432,Fernandinho,Hebei FC,Shijiazhuang
+1433,K. Linetty,U.C. Sampdoria,Genoa
+1434,Luiz Phellype,Sporting CP,Lisbon
+1435,P. Gollini,Atalanta,Bergamo
+1436,Pere Pons,Deportivo Alavés,Vitoria-Gasteiz
+1437,R. Khedira,FC Augsburg,Augsburg
+1438,D. Kohr,Eintracht Frankfurt,Frankfurt
+1439,Ricardo Esgaio,SC Braga,Braga
+1440,A. Masuaku,West Ham United,London
+1441,L. Augustinsson,SV Werder Bremen,Bremen
+1442,D. Yedlin,Newcastle United,Newcastle upon Tyne
+1443,J. Hendrix,PSV,Eindhoven
+1444,Ó. Duarte,Levante Unión Deportiva,Valencia
+1445,F. Di Francesco,SPAL,Ferrara
+1446,M. Uribe,FC Porto,Porto
+1447,F. Mancuello,Deportivo Toluca,Toluca
+1448,M. Benítez,Club Atlético Independiente,Avellaneda
+1449,A. Aguerre,Newell's Old Boys,Rosario
+1450,G. Herrera,Club Atlético Talleres,Córdoba
+1451,D. Türüç,Fenerbahçe SK,Istanbul
+1452,M. Cornet,Olympique Lyonnais,Lyon
+1453,S. Widmer,FC Basel 1893,Basel
+1454,A. Gunn,Southampton,Southampton
+1455,Wallace,Lazio,Rome
+1456,Gonçalo Paciência,Eintracht Frankfurt,Frankfurt
+1457,Rúben Semedo,Olympiacos CFP,Piraeus
+1458,A. Blake,Philadelphia Union,Philadelphia
+1459,Sequeira,SC Braga,Braga
+1460,T. Bongonda,KRC Genk,Genk
+1461,J. Izquierdo,Brighton & Hove Albion,Brighton
+1462,I. Pussetto,Udinese Calcio,Udine
+1463,Camarasa,Crystal Palace,London
+1464,S. Gigot,Spartak Moskva,Moscow
+1465,T. Didillon,RSC Anderlecht,Brussels
+1466,Embarba,Rayo Vallecano,Madrid
+1467,L. Waldschmidt,Sport-Club Freiburg,Freiburg
+1468,E. Valencia,Tigres U.A.N.L.,"San Nicolás, Nuevo León"
+1469,Ó. Romero,San Lorenzo de Almagro,Buenos Aires
+1470,Jaume,Valencia CF,Valencia
+1471,A. Živković,SL Benfica,Lisbon
+1472,B. Ndiaye,Stoke City,Stoke-on-Trent
+1473,L. Acosta,D.C. United,"Washington, D.C."
+1474,M. Locatelli,U.S. Sassuolo Calcio,Sassuolo
+1475,B. Embolo,Borussia Mönchengladbach,Mönchengladbach
+1476,T. Castagne,Atalanta,Bergamo
+1477,Otávio,FC Girondins de Bordeaux,Bordeaux
+1478,M. Nakamba,Aston Villa,Birmingham
+1479,Á. Mena,Club León,León
+1480,F. Cervi,SL Benfica,Lisbon
+1481,A. Briançon,Nîmes Olympique,Nîmes
+1482,R. Gosens,Atalanta,Bergamo
+1483,F. Kamano,FC Girondins de Bordeaux,Bordeaux
+1484,Y. Gómez Andrade,Unión de Santa Fe,Santa Fe
+1485,M. Çelik,LOSC Lille,Lille
+1486,Bustinza,CD Leganés,Leganés
+1487,F. Andone,Brighton & Hove Albion,Brighton
+1488,D. Ćaleta-Car,Olympique de Marseille,Marseille
+1489,İ. Kahveci,İstanbul Başakşehir FK,Istanbul
+1490,R. Mandragora,Udinese Calcio,Udine
+1491,J. Augustin,RB Leipzig,Leipzig
+1492,M. Díaz,Boca Juniors,Buenos Aires
+1493,K. Tierney,Arsenal,London
+1494,Rubén Duarte,Deportivo Alavés,Vitoria-Gasteiz
+1495,Álex Remiro,Real Sociedad,San Sebastian
+1496,F. Guilbert,Aston Villa,Birmingham
+1497,R. Holding,Arsenal,London
+1498,Pedraza,Real Betis Balompié,Seville
+1499,Matheus Pereira,West Bromwich Albion,West Bromwich

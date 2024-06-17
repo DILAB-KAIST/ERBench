@@ -1,0 +1,10 @@
+{
+    "num_total_entity": "1500",
+    "num_valid_entity": "0",
+    "num_questions": "0",
+    "binding_error_rate": NaN,
+    "qa_acc": NaN,
+    "rationale_acc": NaN,
+    "rationale_acc_given_correct_answer": NaN,
+    "qa_acc_given_correct_rationale": NaN
+}

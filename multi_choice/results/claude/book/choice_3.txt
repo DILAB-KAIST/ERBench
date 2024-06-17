@@ -1,0 +1,15 @@
+{
+    "num_total_entity": "1500",
+    "num_questions": "4500",
+    "binding_error_rate": 0.0,
+    "qa_acc": 0.38,
+    "prompt_0_qa_acc": 0.36,
+    "prompt_1_qa_acc": 0.43,
+    "prompt_2_qa_acc": 0.34,
+    "rationale_acc": 0.18,
+    "prompt_0_rationale_acc": 0.2,
+    "prompt_1_rationale_acc": 0.19,
+    "prompt_2_rationale_acc": 0.16,
+    "answer and rationale accuracy": 0.13,
+    "hallucination rate": 0.33
+}

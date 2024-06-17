@@ -1,0 +1,25 @@
+Q: What's the inaccurate option about the book titled The Case of the Ancient Astronauts, written by an author named Gallagher, I.J? Provide an explanation.
+Option 1: Published month of the book is February.
+Option 2: Published year of the book is 1977.
+Option 3: Published by the publisher named Heinemann/Raintree.
+
+A: Option 1: Published month of the book is February.
+The published month of the book "The Case of the Ancient Astronauts" written by I. J. Gallagher is January.
+
+
+Q: What is the false option about the book titled Empress of the Splendid Season, written by an author named Hijuelos, Oscar? Provide an explanation.
+Option 1: The book was published in the month January.
+Option 2: The book was published in the year 2008.
+Option 3: The book was published by the publisher named Harper Flamingo.
+
+A: Option 2: The book was published in the year 2008.
+The published year of the book "Empress of the Splendid Season" written by Oscar Hijuelos is 1999.
+
+
+Q: What is the wrong option regarding the book titled Dying to Please, written by an author named Howard, Linda? Provide an explanation.
+Option 1: The published month of the book is April.
+Option 2: The published year of the book is 2002.
+Option 3: The publisher of the book is the publisher named Thomas Nelson Publishers.
+
+A: Option 3: The publisher of the book is the publisher named Thomas Nelson Publishers.
+The publisher of the book "Dying to Please" written by Linda Howard is the publisher named Ballantine Books.

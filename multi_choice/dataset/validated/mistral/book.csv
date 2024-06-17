@@ -1,0 +1,1112 @@
+,entity_idx,question_idx,question,model_response
+0,0,1,"Is the published month of the book titled ""God Is Forever"" written by Sherry Small Sundick January?",No
+1,0,3,"Is the book titled ""God Is Forever"" written by Sherry Small Sundick published by the publisher named Sherry Small Sundick?",No
+2,1,1,"Is the published month of the book titled ""The Moonstone"" written by Collins, Wilkie and Connolly, Joy August?",No
+3,1,2,"Is the published year of the book titled ""The Moonstone"" written by Collins, Wilkie and Connolly, Joy 2005?",No
+4,2,2,"Is the published year of the book titled ""Dead Heat"" written by Francis, Dick and Francis, Felix 2007?",No
+5,4,1,"Is the published month of the book titled ""Standard Handbook of Environmental Engineering"" written by Corbitt, Robert A. (EDT) September?",No
+6,5,1,"Is the published month of the book titled ""Aromatherapy: The Use of Plant Essences in Healing"" written by Lautie, Raymond, Passebecq, Andre October?",No
+7,5,3,"Is the book titled ""Aromatherapy: The Use of Plant Essences in Healing"" written by Lautie, Raymond, Passebecq, Andre published by the publisher named HarperCollins Distribution Services?",No
+8,7,3,"Is the book titled ""Fuzzy Rabbit"" written by Billam, Rosemary and Julian-Ottie, Vanessa (ILT) published by the publisher named Random House Books for Young Readers?",No
+9,8,1,"Is the published month of the book titled ""Protecting the President: The Inside Story of a Secret Service Agent"" written by McCarthy, Dennis V. N. and Smith, Philip W. November?",No
+10,10,1,"Is the published month of the book titled ""The Hunt for Amazing Treasures"" written by Bazrod, Sondra Farrell December?",No
+11,11,1,"Is the published month of the book titled ""Taking Care Of Your Child: A Parent's Guide To Complete Medical Care"" written by Vickery, Donald M., Fries, James F., and Pantell, Robert H., M.D. January?",No
+12,12,1,"Is the published month of the book titled ""The You I Never Knew"" written by Wiggs, Susan January?",No
+13,13,1,"Is the published month of the book titled ""A Broader Vision: Perspectives on the Buddha and the Christ"" written by Drummond, Richard Henry October?",No
+14,13,3,"Is the book titled ""A Broader Vision: Perspectives on the Buddha and the Christ"" written by Drummond, Richard Henry published by the publisher named Are Pr?",No
+15,14,2,"Is the published year of the book titled ""Discourse on Method and Meditations on First Philosophy"" written by Descartes, Rene 2008?",No
+16,17,1,"Is the published month of the book titled ""The Photographic History of the Civil War"" written by Value Publ Rh July?",No
+17,17,3,"Is the book titled ""The Photographic History of the Civil War"" written by Value Publ Rh published by the publisher named Random House Value Publishing?",No
+18,18,1,"Is the published month of the book titled ""Holiday Origami"" written by Fraser, Mary Ann (ILT), Smolinski, Jill, and Bogart, Ann (ILT) August?",No
+19,19,1,"Is the published month of the book titled ""Subsequent Performances"" written by Miller, Jonathan October?",No
+20,20,1,"Is the published month of the book titled ""What to Expect The Toddler Years"" written by Eisenberg, Arlene, Murkoff, Heidi Eisenberg, and Hathaway, Sandee E. January?",No
+21,21,2,"Is the published year of the book titled ""The Men of Bitter Creek"" written by Johnston, Joan 2019?",No
+22,21,3,"Is the book titled ""The Men of Bitter Creek"" written by Johnston, Joan published by the publisher named Avon?",No
+23,22,1,"Is the published month of the book titled ""In Her Own Right: The Life of Elizabeth Cady Stanton"" written by Griffith, Elisabeth November?",No
+24,23,3,"Is the book titled ""Boxer Shorts : The Ultimate Underwear Joke Book"" written by Tait, Chris published by the publisher named Kidsbooks, Inc.?",No
+25,24,1,"Is the published month of the book titled ""The Human Factor"" written by Greene, Graham February?",No
+26,26,1,"Is the published month of the book titled ""The New York Times Book of the Civil War"" written by Keylin June?",No
+27,26,2,"Is the published year of the book titled ""The New York Times Book of the Civil War"" written by Keylin 1980?",No
+28,28,1,"Is the published month of the book titled ""Accident: A Novel"" written by Steel, Danielle February?",No
+29,30,1,"Is the published month of the book titled ""Star Loot"" written by Chandler, A. Bertram September?",No
+30,31,1,"Is the published month of the book titled ""Rickshaw Girl"" written by Perkins, Mitali and Hogan, Jamie (ILT) February?",No
+31,34,2,"Is the published year of the book titled ""All About Mortgages: Insider Tips for Financing and Refinancing Your Home"" written by Garton-Good, Julie and Good-Garton, Julie 1999?",No
+32,35,3,"Is the book titled ""Surfacing"" written by Margaret Atwood published by the publisher named Warner Books> C/o Little Br?",No
+33,36,1,"Is the published month of the book titled ""Irish Cooking: Classic and Modern Recipes"" written by Minogue, Ethel January?",No
+34,37,1,"Is the published month of the book titled ""A Blessing on the Moon"" written by Skibell, Joseph April?",No
+35,38,1,"Is the published month of the book titled ""Son of the great society"" written by Buchwald, Art January?",No
+36,41,1,"Is the published month of the book titled ""Inheritors of Earth"" written by Gordon Eklund, Poul Anderson January?",No
+37,46,3,"Is the book titled ""Double Buckeyes: A Story of the Way America Used to Be"" written by Shuster, Bud published by the publisher named White Mane Pub?",No
+38,48,1,"Is the published month of the book titled ""Humpty Dumpty"" written by Mother Goose January?",No
+39,48,2,"Is the published year of the book titled ""Humpty Dumpty"" written by Mother Goose 1996?",No
+40,48,3,"Is the book titled ""Humpty Dumpty"" written by Mother Goose published by the publisher named Playmore?",No
+41,50,1,"Is the published month of the book titled ""Light A Single Candle"" written by Beverly Butler January?",No
+42,53,1,"Is the published month of the book titled ""Stars of David: Prominent Jews Talk About Being Jewish"" written by Pogrebin, Abigail October?",No
+43,57,3,"Is the book titled ""A Bloodsmoor Romance"" written by Oates, Joyce Carol published by the publisher named Dutton Adult?",No
+44,58,1,"Is the published month of the book titled ""My Heart 2 Heart Girlfriends' photo album"" written by Franklin, Linda Campbell, Dumont, Ninda October?",No
+45,58,3,"Is the book titled ""My Heart 2 Heart Girlfriends' photo album"" written by Franklin, Linda Campbell, Dumont, Ninda published by the publisher named Fine Print Publishing?",No
+46,64,1,"Is the published month of the book titled ""How to Bake an American Pie"" written by Wilson, Karma and Colon, Raul (ILT) May?",No
+47,64,3,"Is the book titled ""How to Bake an American Pie"" written by Wilson, Karma and Colon, Raul (ILT) published by the publisher named Margaret K. McElderry Books?",No
+48,65,1,"Is the published month of the book titled ""All Dogs Go to Heaven: Movie Novelization"" written by Author Unknown December?",No
+49,65,3,"Is the book titled ""All Dogs Go to Heaven: Movie Novelization"" written by Author Unknown published by the publisher named Troll Communications Llc?",No
+50,66,1,"Is the published month of the book titled ""Heaven and Earth: Making the Psychic Connection"" written by Van Praagh, James September?",No
+51,71,1,"Is the published month of the book titled ""The Daily Six: Simple Steps to Prosperity and Purpose"" written by Chappelear, John November?",No
+52,74,1,"Is the published month of the book titled ""My Faith Still Holds"" written by Williams, Joyce (EDT) January?",No
+53,75,1,"Is the published month of the book titled ""Catastrophe"" written by Morris, Dick and McGann, Eileen June?",No
+54,78,1,"Is the published month of the book titled ""The Relationship Rescue Workbook: A Seven Step Strategy For Reconnecting with Your Partner"" written by McGraw, Phillip C., Ph.D. October?",No
+55,82,1,"Is the published month of the book titled ""The Catholic Youth Bible Revised: New American Bible"" written by nan August?",No
+56,82,2,"Is the published year of the book titled ""The Catholic Youth Bible Revised: New American Bible"" written by nan 2005?",No
+57,83,1,"Is the published month of the book titled ""Keeping Faith: Memoirs of a President"" written by Carter, Jimmy October?",No
+58,84,1,"Is the published month of the book titled ""Talking Leadership: Conversations with Powerful Women"" written by Hartman, Mary S. (EDT) February?",No
+59,85,1,"Is the published month of the book titled ""Becoming a Master Student"" written by Toft, Doug (EDT) and Mancina, Dean (EDT) January?",No
+60,89,1,"Is the published month of the book titled ""The Wonder Years: Helping Your Baby and Young Child Successfully Negotiate The Major Developmental Milestones"" written by American Academy of Pediatrics (COR) and Remer Altmann, Tanya (EDT) September?",No
+61,90,1,"Is the published month of the book titled ""The God of Stones and Spiders: Letters to a Church in Exile"" written by Colson, Charles September?",No
+62,92,1,"Is the published month of the book titled ""My Dog Tulip"" written by Ackerley, J. R February?",No
+63,92,3,"Is the book titled ""My Dog Tulip"" written by Ackerley, J. R published by the publisher named Poseidon Pr?",No
+64,94,1,"Is the published month of the book titled ""Silhouette Christmas Stories 1989"" written by Marilyn Pappano, Lass Small, Bay Matthews, Brittany Young October?",No
+65,95,1,"Is the published month of the book titled ""On Strike for Christmas: A Novel"" written by Roberts, Sheila October?",No
+66,96,3,"Is the book titled ""An American Bestiary"" written by Haverstock, Mary Sayre published by the publisher named Landmark Books Intl?",No
+67,98,1,"Is the published month of the book titled ""The Microwave Master"" written by Fandre, Donovan Jon September?",No
+68,98,3,"Is the book titled ""The Microwave Master"" written by Fandre, Donovan Jon published by the publisher named Kqed?",No
+69,99,1,"Is the published month of the book titled ""The English Year: A Personal Selection from Chamber's Book of Days"" written by Strong, Roy and Oman, Julia Trevelyan September?",No
+70,100,1,"Is the published month of the book titled ""Coastal North Carolina and the Outer Banks"" written by nan June?",No
+71,104,3,"Is the book titled ""Garden of Tea"" written by Pallan, Nancy Shumaker published by the publisher named Cedco Pub?",No
+72,106,1,"Is the published month of the book titled ""The Best Is Yet To Come"" written by Asmus, Dr. Barry July?",No
+73,106,3,"Is the book titled ""The Best Is Yet To Come"" written by Asmus, Dr. Barry published by the publisher named AmeriPress?",No
+74,108,1,"Is the published month of the book titled ""Disney's Aladdin The Magic Carpet Ride"" written by Margulies, Teddy Slater, Thompkins, Kenny (ILT), and Eggleston, Gary (ILT) August?",No
+75,109,1,"Is the published month of the book titled ""You Say You Want a Revolution : A Story of Information Age Politics"" written by Hundt, Reed E. March?",No
+76,111,3,"Is the book titled ""Super String Games"" written by Gryski, Camilla and Sankey, Tom (ILT) published by the publisher named William Morrow & Co?",No
+77,113,1,"Is the published month of the book titled ""Woman: An Intimate Geography"" written by Angier, Natalie February?",No
+78,114,1,"Is the published month of the book titled ""Changing the World One Smile At a Time"" written by Various January?",No
+79,115,1,"Is the published month of the book titled ""Sleeper Spy"" written by Safire, William August?",No
+80,118,2,"Is the published year of the book titled ""The Minimalist Cooks at Home: Recipes That Give You More Flavor from Fewer Ingredients in Less Time"" written by Bittman, Mark 2000?",No
+81,119,3,"Is the book titled ""124 Prayers for Caregivers"" written by Guntzelman, Joan published by the publisher named St Marys Pr?",No
+82,120,3,"Is the book titled ""The Boy Who Saved the Town"" written by Seabrooke, Brenda and Burns, Howard M. (ILT) published by the publisher named Tidewater Pub?",No
+83,121,2,"Is the published year of the book titled ""The Desire of Ages: God's Greatest Gift"" written by White, Ellen G. 1990?",No
+84,123,2,"Is the published year of the book titled ""There's Still a Person in There: The Complete Guide to Treating and Coping with Alzheimer's"" written by Naythons, Matthew, Castleman, Michael, and Gallagher-Thompson, Dolores 2000?",No
+85,124,1,"Is the published month of the book titled ""The Other Extreme"" written by MacGregor, T. J. December?",No
+86,125,1,"Is the published month of the book titled ""Exposing the Scoffers: Sign of the End Times"" written by Dr. Joe Van Koevering January?",No
+87,125,3,"Is the book titled ""Exposing the Scoffers: Sign of the End Times"" written by Dr. Joe Van Koevering published by the publisher named Good News?",No
+88,128,1,"Is the published month of the book titled ""The Gifted Gabaldón Sisters"" written by Lopez, Lorraine October?",No
+89,129,1,"Is the published month of the book titled ""The Good Cigar"" written by Jeffers, H. P., Gordon, Kevin (ILT), and Gordon, Kevin October?",No
+90,129,3,"Is the book titled ""The Good Cigar"" written by Jeffers, H. P., Gordon, Kevin (ILT), and Gordon, Kevin published by the publisher named UNKNO?",No
+91,130,1,"Is the published month of the book titled ""Profit from Your Vacation Home Dream: The Complete Guide to a Savvy Financial and Emotional Investment"" written by Karpinski, Christine Hrib July?",No
+92,131,1,"Is the published month of the book titled ""The colorful Du Pont Company"" written by Wingate, P. J January?",No
+93,131,3,"Is the book titled ""The colorful Du Pont Company"" written by Wingate, P. J published by the publisher named Serendipity Press?",No
+94,132,1,"Is the published month of the book titled ""Pippi Longstocking"" written by Lindgren, Astrid, Glanzman, Louis S. (ILT), and Glanzman, Louis S. May?",No
+95,132,2,"Is the published year of the book titled ""Pippi Longstocking"" written by Lindgren, Astrid, Glanzman, Louis S. (ILT), and Glanzman, Louis S. 1988?",No
+96,133,3,"Is the book titled ""Eatsmart: The Nutrition Cookbook You Can't Live Without"" written by Carper, Jean published by the publisher named Jecarper Enterprises?",No
+97,135,1,"Is the published month of the book titled ""Complete Guide to Antiques"" written by Martin Miller January?",No
+98,137,1,"Is the published month of the book titled ""Pioneering Ascents"" written by Mazel, David (EDT) April?",No
+99,138,1,"Is the published month of the book titled ""My Land and My People: The Original Autobiography of His Holiness the Dalai Lama of Tibet"" written by Dalai Lama XIV December?",No
+100,138,3,"Is the book titled ""My Land and My People: The Original Autobiography of His Holiness the Dalai Lama of Tibet"" written by Dalai Lama XIV published by the publisher named Grand Central Publishing?",No
+101,139,3,"Is the book titled ""Tropical Freeze"" written by Hall, James W. published by the publisher named Mysterious Pr?",No
+102,140,1,"Is the published month of the book titled ""Ian Fleming's Master Spy James Bond In For Special Services"" written by John Gardner January?",No
+103,141,1,"Is the published month of the book titled ""God's Eye View: Worshiping Your Way To A Higher Perspective"" written by Tenney, Tommy February?",No
+104,142,1,"Is the published month of the book titled ""Do Your Own Drywall: An Illustrated Guide"" written by Kozloski, A. J. July?",No
+105,145,1,"Is the published month of the book titled ""The Late Great Future"" written by Gregory, Walter M. Miller, Dillon, John (editors) (Frederik Pohl, and C Fitz Gerald January?",No
+106,145,3,"Is the book titled ""The Late Great Future"" written by Gregory, Walter M. Miller, Dillon, John (editors) (Frederik Pohl, and C Fitz Gerald published by the publisher named Fawcett Crest?",No
+107,146,3,"Is the book titled ""Princess Margaret"" written by Hope, Alice published by the publisher named F. Muller?",No
+108,148,1,"Is the published month of the book titled ""Geography and Development: A World Regional Approach"" written by FISHER January?",No
+109,149,2,"Is the published year of the book titled ""Concerning the Spiritual in Art"" written by Kandinsky, Wassily 1977?",No
+110,150,1,"Is the published month of the book titled ""Democracy in America Volume 1"" written by Alexis de Tocqueville January?",No
+111,150,2,"Is the published year of the book titled ""Democracy in America Volume 1"" written by Alexis de Tocqueville 1960?",No
+112,154,1,"Is the published month of the book titled ""The All New Ultimate Bread Machine Cookbook: 101 Brand New Irresistible Foolproof Recipes For Family And Friends"" written by Lacalamita, Tom October?",No
+113,154,2,"Is the published year of the book titled ""The All New Ultimate Bread Machine Cookbook: 101 Brand New Irresistible Foolproof Recipes For Family And Friends"" written by Lacalamita, Tom 1999?",No
+114,155,2,"Is the published year of the book titled ""The Tastemakers"" written by Lynes, Russell 1954?",No
+115,158,1,"Is the published month of the book titled ""Sex and the Seasoned Woman: Pursuing the Passionate Life"" written by Sheehy, Gail January?",No
+116,159,3,"Is the book titled ""The Home Alone Survival Guide"" written by Hammerslough, Jane published by the publisher named Trumpet?",No
+117,160,1,"Is the published month of the book titled ""High Crimes"" written by Finder, Joseph January?",No
+118,161,1,"Is the published month of the book titled ""Beautiful Creatures"" written by Garcia, Kami and Stohl, Margaret September?",No
+119,162,1,"Is the published month of the book titled ""First Ladies: From Martha Washington to Laura Bush"" written by Caroli, Betty Boyd September?",No
+120,162,3,"Is the book titled ""First Ladies: From Martha Washington to Laura Bush"" written by Caroli, Betty Boyd published by the publisher named Oxford University Press?",No
+121,166,1,"Is the published month of the book titled ""Low Cholesterol Cook Book"" written by Sunset Books January?",No
+122,168,1,"Is the published month of the book titled ""Camera Trickery"" written by Croy, O.R. January?",No
+123,169,2,"Is the published year of the book titled ""Peel My Love Like an Onion"" written by Castillo, Ana 1999?",No
+124,170,1,"Is the published month of the book titled ""If I Had a Hammer Women's Work"" written by Martz, Sandra January?",No
+125,171,1,"Is the published month of the book titled ""The Martyred"" written by Kim, Richard E. January?",No
+126,172,1,"Is the published month of the book titled ""Who Stole the Wizard of Oz?"" written by Avi and James, Derek (ILT) January?",No
+127,172,2,"Is the published year of the book titled ""Who Stole the Wizard of Oz?"" written by Avi and James, Derek (ILT) 1990?",No
+128,172,3,"Is the book titled ""Who Stole the Wizard of Oz?"" written by Avi and James, Derek (ILT) published by the publisher named Yearling?",No
+129,173,1,"Is the published month of the book titled ""The 1995: What Color Is Your Parachute? A Practical Manual for Job Hunters and Career Changers"" written by Bolles, Richard Nelson October?",No
+130,173,2,"Is the published year of the book titled ""The 1995: What Color Is Your Parachute? A Practical Manual for Job Hunters and Career Changers"" written by Bolles, Richard Nelson 1994?",No
+131,175,1,"Is the published month of the book titled ""London Bridges: A Novel"" written by Stevenson, Jane September?",No
+132,175,2,"Is the published year of the book titled ""London Bridges: A Novel"" written by Stevenson, Jane 2002?",No
+133,176,1,"Is the published month of the book titled ""Every Eye Beholds You"" written by Craughwell, Thomas January?",No
+134,176,3,"Is the book titled ""Every Eye Beholds You"" written by Craughwell, Thomas published by the publisher named Quality Paperback Bookclub?",No
+135,179,1,"Is the published month of the book titled ""True Work: The Sacred Dimension of Earning a Living"" written by Toms, Michael, Willis, Justine, and Toms, Justine Willis February?",No
+136,180,1,"Is the published month of the book titled ""Broken Lives : Personal View of the Bosnian Conflict"" written by STEWART, Lieutenant-Colonel Bob. January?",No
+137,182,1,"Is the published month of the book titled ""The Lucky Guide to Mastering Any Style: How to Wear Iconic Looks and Make Them Your Own"" written by France, Kim and Linett, Andrea October?",No
+138,183,1,"Is the published month of the book titled ""Kick the Clutter: Clear Out Excess Stuff Without Losing What You Love"" written by Ellen Phillips January?",No
+139,187,1,"Is the published month of the book titled ""No Place Left Called Home"" written by Cogswell, James A. February?",No
+140,187,3,"Is the book titled ""No Place Left Called Home"" written by Cogswell, James A. published by the publisher named Friendship Pr?",No
+141,189,1,"Is the published month of the book titled ""The Book Whisperer: Awakening the Inner Reader in Every Child"" written by Anderson, Jeff (FRW) and Miller, Donalyn February?",No
+142,193,2,"Is the published year of the book titled ""Sexual confidence"" written by Phillips, Debora 1980?",No
+143,194,1,"Is the published month of the book titled ""Playing The Game"" written by Sheard, Jim, Armstrong, Wally April?",No
+144,198,1,"Is the published month of the book titled ""Dancers in the Afterglow"" written by Jack L. Chalker August?",No
+145,199,1,"Is the published month of the book titled ""On the Up and Up: A Survival Guide for Women Living with Men on the Down Low"" written by Hunter, Karen and Browder, Brenda Stone February?",No
+146,202,2,"Is the published year of the book titled ""Crazy Time: Surviving Divorce"" written by Trafford, Abigail 1982?",No
+147,202,3,"Is the book titled ""Crazy Time: Surviving Divorce"" written by Trafford, Abigail published by the publisher named Harpercollins?",No
+148,204,1,"Is the published month of the book titled ""When Christ and His Saints Slept: A Novel"" written by Penman, Sharon Kay February?",No
+149,205,2,"Is the published year of the book titled ""The Sweetwater Saga"" written by Roxanne Dent 1979?",No
+150,206,1,"Is the published month of the book titled ""Vegetables: Artichokes to Zucchini"" written by Famularo, Joe and Imperiale, Louise September?",No
+151,207,3,"Is the book titled ""The Prize: A Collection of Stories"" written by Weedn, Flavia published by the publisher named Our Sentiments Exactly?",No
+152,210,1,"Is the published month of the book titled ""What I Know Now: Letters to My Younger Self"" written by Spragins, Ellyn (EDT) April?",No
+153,212,1,"Is the published month of the book titled ""War Is a Force that Gives Us Meaning"" written by Hedges, Chris June?",No
+154,213,1,"Is the published month of the book titled ""Stainless Steal Hearts"" written by Kraus, Harry Lee June?",No
+155,213,3,"Is the book titled ""Stainless Steal Hearts"" written by Kraus, Harry Lee published by the publisher named Crossway?",No
+156,214,3,"Is the book titled ""Mandarin"" written by Elegant, Robert published by the publisher named Simon & Schuster?",No
+157,215,2,"Is the published year of the book titled ""The Underground Man"" written by MacDonald, Ross 1971?",No
+158,215,3,"Is the book titled ""The Underground Man"" written by MacDonald, Ross published by the publisher named Alfred A. Knopf?",No
+159,216,1,"Is the published month of the book titled ""Writing in General and the Short Story in Particular: An Informal Textbook"" written by Hills, L. Rust June?",No
+160,217,1,"Is the published month of the book titled ""Bug in a Rug"" written by Sue Graves January?",No
+161,219,1,"Is the published month of the book titled ""Daily Candy A to Z: An Insider's Guide to the Sweet Life"" written by nan April?",No
+162,220,1,"Is the published month of the book titled ""Type 2 Diabetes for Beginners"" written by Barrier, Phyllis February?",No
+163,221,1,"Is the published month of the book titled ""The Oil Factor: Protect Yourself and Profit from the Coming EnergyCrisis"" written by Leeb, Stephen and Leeb, Donna February?",No
+164,222,3,"Is the book titled ""The Christmas story"" written by Watson, Jane Werner published by the publisher named Golden Press?",No
+165,229,1,"Is the published month of the book titled ""The Covenant In Action"" written by Smiley, Tavis (COM) February?",No
+166,231,1,"Is the published month of the book titled ""The Ultimate Joke Book: 100s of Great Clean Jokes"" written by Harmon, Daniel E. January?",No
+167,232,1,"Is the published month of the book titled ""The Magdalene Cipher"" written by JIM HOUGAN January?",No
+168,234,1,"Is the published month of the book titled ""American Red Cross standard first aid: Workbook"" written by American Red  Cross January?",No
+169,236,1,"Is the published month of the book titled ""Microcomputer dictionary"" written by Sippl, Charles J., January?",No
+170,239,2,"Is the published year of the book titled ""Great Ideas And Theories Of Modern Cosmology"" written by Singh, Jagjit 1961?",No
+171,240,1,"Is the published month of the book titled ""Poems Of Childhood"" written by Rh Value Publishing December?",No
+172,240,3,"Is the book titled ""Poems Of Childhood"" written by Rh Value Publishing published by the publisher named Random House Value Publishing?",No
+173,241,1,"Is the published month of the book titled ""Wall Street Words: An Essential A to Z Guide for Today's Investor"" written by Scott, David L. July?",No
+174,244,1,"Is the published month of the book titled ""Until Proven Innocent"" written by Kelly, Susan July?",No
+175,244,2,"Is the published year of the book titled ""Until Proven Innocent"" written by Kelly, Susan 1990?",No
+176,244,3,"Is the book titled ""Until Proven Innocent"" written by Kelly, Susan published by the publisher named Villard?",No
+177,245,1,"Is the published month of the book titled ""The Book of Courtly Love: The Passionate Code of the Troubadours"" written by Hopkins, Andrea November?",No
+178,246,2,"Is the published year of the book titled ""Chapman Piloting 52ED"" written by Chapman, Charles F. 1976?",No
+179,247,1,"Is the published month of the book titled ""Personal Finance for Seniors"" written by frank-w-cawood-and-associates-staf January?",No
+180,250,1,"Is the published month of the book titled ""Dog Heroes"" written by Karl Meyer January?",No
+181,252,1,"Is the published month of the book titled ""And Still We Rise: Interviews With 50 Black Role Models"" written by Reynolds, Barbara A. February?",No
+182,252,3,"Is the book titled ""And Still We Rise: Interviews With 50 Black Role Models"" written by Reynolds, Barbara A. published by the publisher named USA Today Books?",No
+183,256,1,"Is the published month of the book titled ""Decorating cakes and Cookies"" written by Jenne, Gerhard January?",No
+184,257,1,"Is the published month of the book titled ""Natural Healing Foods Encyclopedia"" written by FC A December?",No
+185,259,1,"Is the published month of the book titled ""The Pollinators of Eden"" written by John Boyd January?",No
+186,261,1,"Is the published month of the book titled ""Wall Coverings"" written by Sunset October?",No
+187,263,1,"Is the published month of the book titled ""A Hovering of Vultures"" written by Barnard, Robert September?",No
+188,264,1,"Is the published month of the book titled ""Basic Portrait Techniques"" written by Wolf, Rachel (EDT) and Rubin Wolf, Rachel (EDT) February?",No
+189,265,1,"Is the published month of the book titled ""Ventus"" written by Schroeder, Karl December?",No
+190,265,3,"Is the book titled ""Ventus"" written by Schroeder, Karl published by the publisher named Tor Books?",No
+191,266,1,"Is the published month of the book titled ""365 Ways to Prepare for Christmas"" written by Monn, David E. September?",No
+192,274,1,"Is the published month of the book titled ""Best New American Voices 2001"" written by Kulka, John (EDT), Danford, Natalie (EDT), and Baxter, Charles (EDT) November?",No
+193,275,3,"Is the book titled ""Glow: A Prescription for Radiant Health and Beauty"" written by Pirello, Christina published by the publisher named HP Books?",No
+194,276,1,"Is the published month of the book titled ""How Will the Easter Bunny Know?"" written by Weston, Martha (ILT) and Winters, Kay February?",No
+195,277,1,"Is the published month of the book titled ""Good News Travels Fast"" written by Flinn, Lisa and Younger, Barbara January?",No
+196,278,1,"Is the published month of the book titled ""East of the Sun and West of the Moon"" written by Hague, Kathleen, Hague, Michael, and Asbjornsen, Peter Christen August?",No
+197,278,3,"Is the book titled ""East of the Sun and West of the Moon"" written by Hague, Kathleen, Hague, Michael, and Asbjornsen, Peter Christen published by the publisher named Voyager Books?",No
+198,280,2,"Is the published year of the book titled ""The Block"" written by Litwin, Bob, Silverman, Chip 1997?",No
+199,281,1,"Is the published month of the book titled ""Don't Say Yes When You Want to Say No: Making Life Right When It Feels All Wrong"" written by Fensterheim, Herbert and Baer, Jean October?",No
+200,281,3,"Is the book titled ""Don't Say Yes When You Want to Say No: Making Life Right When It Feels All Wrong"" written by Fensterheim, Herbert and Baer, Jean published by the publisher named Dell?",No
+201,283,2,"Is the published year of the book titled ""Mysteries of the Deep"" written by Thorndike, Joseph 1980?",No
+202,284,1,"Is the published month of the book titled ""Parenthood: Who's Raising Whom? Strategies for Saving Your Sanity"" written by Thomson, Michael M. December?",No
+203,289,1,"Is the published month of the book titled ""Lonely Planet Egyptian Arabic Phrasebook"" written by Wayne, Scott October?",No
+204,290,1,"Is the published month of the book titled ""Old Murders"" written by Whalley, Peter December?",No
+205,291,3,"Is the book titled ""Bella Tuscany: The Sweet Life in Italy"" written by Mayes, Frances published by the publisher named Broadway?",No
+206,292,1,"Is the published month of the book titled ""Guide to Writing Sociology Papers"" written by Sociology Writing Group, Richlin-Klonsky, Judith (EDT), Strenski, Ellen (EDT), Giarrusso, Roseann (EDT), and University of California, Los Angeles Sociology Writing Group (COR) July?",No
+207,293,1,"Is the published month of the book titled ""Compass Rose"" written by Casey, John October?",No
+208,294,1,"Is the published month of the book titled ""Weight Watchers Favorite Recipes"" written by Weight Watchers International March?",No
+209,295,1,"Is the published month of the book titled ""Steam Locomotives"" written by Kalla-Bishop, P. M. and Greggio, Luciano December?",No
+210,296,3,"Is the book titled ""The Bread Machine Book"" written by Lambert, Marjie published by the publisher named Chartwell Books?",No
+211,297,1,"Is the published month of the book titled ""What Would Jesus Do?"" written by Morris, Deborah and Sheldon, Garrett W. January?",No
+212,299,1,"Is the published month of the book titled ""Understanding Ballet"" written by Clarke, Mary and Crisp, Clement March?",No
+213,300,1,"Is the published month of the book titled ""Why Can't Men Open Up: Overcoming Men's Fear of Intimacy"" written by Naifeh, Steven and Smith, Gregory White May?",No
+214,300,2,"Is the published year of the book titled ""Why Can't Men Open Up: Overcoming Men's Fear of Intimacy"" written by Naifeh, Steven and Smith, Gregory White 1984?",No
+215,301,1,"Is the published month of the book titled ""If I Live to Be 100: Lessons from the Centenarians"" written by Ellis, Neenah September?",No
+216,303,1,"Is the published month of the book titled ""Spider's Web: The Secret History of How the White House Illegally Armed Iraq"" written by Friedman, Alan October?",No
+217,303,2,"Is the published year of the book titled ""Spider's Web: The Secret History of How the White House Illegally Armed Iraq"" written by Friedman, Alan 1993?",No
+218,305,3,"Is the book titled ""Skyward: Why Flyers Fly"" written by Munson, Russell published by the publisher named Howell Pr?",No
+219,307,3,"Is the book titled ""Lean Mean Urkell Machine"" written by Worth, Bonnie published by the publisher named Dell Pub Co?",No
+220,309,1,"Is the published month of the book titled ""Tomorrow Is Mom's Birthday"" written by Dorflinger, Carolyn and Trapani, Iza (ILT) February?",No
+221,309,3,"Is the book titled ""Tomorrow Is Mom's Birthday"" written by Dorflinger, Carolyn and Trapani, Iza (ILT) published by the publisher named Whispering Coyote Press?",No
+222,311,1,"Is the published month of the book titled ""New Testament Survey"" written by Merrill C. Tenney January?",No
+223,314,3,"Is the book titled ""Help"" written by Stockett, Kathryn published by the publisher named Penguin Canada?",No
+224,315,1,"Is the published month of the book titled ""The Lost Chronicles: The Official Companion Book with Bonus DVD Behind the Scenes of LOST"" written by Vaz, Mark Cotta September?",No
+225,317,1,"Is the published month of the book titled ""Perfect Business: How To Make A Million From Home With No Payroll No Debts No: How To Make A Million From Home With No Payroll No Employee Headaches No Debt"" written by Leboeuf, Michael (NRT) July?",No
+226,317,2,"Is the published year of the book titled ""Perfect Business: How To Make A Million From Home With No Payroll No Debts No: How To Make A Million From Home With No Payroll No Employee Headaches No Debt"" written by Leboeuf, Michael (NRT) 1996?",No
+227,317,3,"Is the book titled ""Perfect Business: How To Make A Million From Home With No Payroll No Debts No: How To Make A Million From Home With No Payroll No Employee Headaches No Debt"" written by Leboeuf, Michael (NRT) published by the publisher named Sound Ideas?",No
+228,320,2,"Is the published year of the book titled ""The pathology of leadership"" written by L'Etang, Hugh 1970?",No
+229,322,1,"Is the published month of the book titled ""Taylor's Guide to Ornamental Grasses"" written by Holmes, Roger (EDT) September?",No
+230,323,2,"Is the published year of the book titled ""Disappearances"" written by Wiser, William 1984?",No
+231,328,1,"Is the published month of the book titled ""Tertio Millennio Adveniente: of His Holiness Pope John Paul II"" written by Pope John Paul II January?",No
+232,330,1,"Is the published month of the book titled ""Antonia Saw The Oryx First"" written by Thomas, Maria January?",No
+233,330,3,"Is the book titled ""Antonia Saw The Oryx First"" written by Thomas, Maria published by the publisher named Soho Press?",No
+234,332,1,"Is the published month of the book titled ""Alaska and the Yukon"" written by Walker, Joyce March?",No
+235,332,3,"Is the book titled ""Alaska and the Yukon"" written by Walker, Joyce published by the publisher named Smithmark Pub?",No
+236,334,2,"Is the published year of the book titled ""The Cat Who Dropped a Bombshell"" written by Braun, Lilian Jackson 2006?",No
+237,335,1,"Is the published month of the book titled ""Discovering Maryland Wineries"" written by Atticks, Kevin M. December?",No
+238,338,2,"Is the published year of the book titled ""The Boy Who Dared to Rock: The Definitive Elvis"" written by Lichter, Paul 1978?",No
+239,339,1,"Is the published month of the book titled ""College Knowledge: What It Really Takes for Students to Succeed and What We Can Do to Get Them Ready"" written by Conley, David T. April?",No
+240,340,2,"Is the published year of the book titled ""Dogs For Dummies 2e"" written by Spadafori, Gina 2000?",No
+241,341,1,"Is the published month of the book titled ""I Call the Shots: Straight Talk About the Game of Golf Today"" written by Miller, Johnny and Yocom, Guy May?",No
+242,342,1,"Is the published month of the book titled ""No Time for Tears"" written by Freeman, Cynthia October?",No
+243,343,1,"Is the published month of the book titled ""Void Moon"" written by Connelly, Michael December?",No
+244,344,2,"Is the published year of the book titled ""Where There's Smoke"" written by Hunter, Evan 1975?",No
+245,345,1,"Is the published month of the book titled ""Tiger Burning Bright"" written by Lackey, Mercedes, Bradley, Marion Zimmer, and Norton, Andre October?",No
+246,345,2,"Is the published year of the book titled ""Tiger Burning Bright"" written by Lackey, Mercedes, Bradley, Marion Zimmer, and Norton, Andre 1996?",No
+247,345,3,"Is the book titled ""Tiger Burning Bright"" written by Lackey, Mercedes, Bradley, Marion Zimmer, and Norton, Andre published by the publisher named Avon Books?",No
+248,350,1,"Is the published month of the book titled ""Poseidon's Shadow"" written by Kobryn, A. P. July?",No
+249,351,1,"Is the published month of the book titled ""The Master of all Desires"" written by Riley, Judith Merkle November?",No
+250,351,3,"Is the book titled ""The Master of all Desires"" written by Riley, Judith Merkle published by the publisher named Viking Adult?",No
+251,352,3,"Is the book titled ""Stepping Stones"" written by Marshall, Lillian published by the publisher named Peter Pauper Pr?",No
+252,354,1,"Is the published month of the book titled ""New Mercies: A Novel"" written by Dallas, Sandra February?",No
+253,357,1,"Is the published month of the book titled ""While Shepherds Washed Their Flocks : And Other Funny Things Kids Say and Do"" written by Higas, Liz Curtis January?",No
+254,358,1,"Is the published month of the book titled ""The Prince of Egypt"" written by McCafferty, Catherine January?",No
+255,359,1,"Is the published month of the book titled ""The Pursuit of Loneliness: American Culture at the Breaking Point"" written by Slater, Philip January?",No
+256,359,2,"Is the published year of the book titled ""The Pursuit of Loneliness: American Culture at the Breaking Point"" written by Slater, Philip 1971?",No
+257,361,1,"Is the published month of the book titled ""Think You're the Only One? Oddball Groups Where Outsiders Fit In"" written by Brown, Seth January?",No
+258,361,3,"Is the book titled ""Think You're the Only One? Oddball Groups Where Outsiders Fit In"" written by Brown, Seth published by the publisher named Barnes & Noble?",No
+259,362,1,"Is the published month of the book titled ""Two Little Lies"" written by Carlyle, Liz January?",No
+260,362,2,"Is the published year of the book titled ""Two Little Lies"" written by Carlyle, Liz 2006?",No
+261,362,3,"Is the book titled ""Two Little Lies"" written by Carlyle, Liz published by the publisher named Pocket Star?",No
+262,364,3,"Is the book titled ""If I Were President"" written by Peggy Gavan published by the publisher named troll 1994?",No
+263,365,1,"Is the published month of the book titled ""Cape Cod"" written by Martin, William July?",No
+264,367,1,"Is the published month of the book titled ""Gone: An FBI Profiler Novel"" written by Gardner, Lisa December?",No
+265,368,2,"Is the published year of the book titled ""Stencil Source Book 2: Over 200 New Designs"" written by Meehan, Patricia 1995?",No
+266,369,1,"Is the published month of the book titled ""Child's Garden of Verses"" written by Stevenson, Robert Louis January?",No
+267,369,2,"Is the published year of the book titled ""Child's Garden of Verses"" written by Stevenson, Robert Louis 1989?",No
+268,370,1,"Is the published month of the book titled ""The Very Best Hanukkah Gift"" written by Rocklin, Joanne and O'Neill, Catharine (ILT) October?",No
+269,371,1,"Is the published month of the book titled ""American Blessings: A Celebration of Our Country's Spirit"" written by Running Press, Washburn, Michael (EDT), and Oyama, Susan (EDT) February?",No
+270,371,3,"Is the book titled ""American Blessings: A Celebration of Our Country's Spirit"" written by Running Press, Washburn, Michael (EDT), and Oyama, Susan (EDT) published by the publisher named Courage Books?",No
+271,372,3,"Is the book titled ""Kingdom of Cages"" written by Zettel, Sarah published by the publisher named Aspect?",No
+272,373,1,"Is the published month of the book titled ""Crockpot Recipe Collection"" written by Publications International (COR) September?",No
+273,374,3,"Is the book titled ""Another Language: Poetry"" written by Elkind, Sue Saniel and Burkhalter-Lackey, Lori (PHT) published by the publisher named Papier Mache Pr?",No
+274,375,1,"Is the published month of the book titled ""Villages: A novel"" written by Updike, John October?",No
+275,378,1,"Is the published month of the book titled ""Abe Lincoln and the Muddy Pig"" written by Krensky, Stephen and Griffith, Greshom (ILT) January?",No
+276,383,1,"Is the published month of the book titled ""The Passionate Gardener"" written by Raimondi, Georgia February?",No
+277,384,1,"Is the published month of the book titled ""Women and Psychotherapy: An Assessment of Research and Practice"" written by Brodsky, Annette M. and Hare-Mustin, Rachel T. October?",No
+278,387,1,"Is the published month of the book titled ""Gestures: The Do's and Taboos of Body Language Around the World"" written by Axtell, Roger E. and Fornwald, Mike (ILT) August?",No
+279,388,1,"Is the published month of the book titled ""Dear John"" written by Sparks, Nicholas December?",No
+280,389,1,"Is the published month of the book titled ""Christmas Ornaments to Make: 101 Sparkling Holiday Trims"" written by Better Homes and Gardens Books, Dahlstrom, Carol Field (EDT), and Banker, Susan (EDT) July?",No
+281,390,1,"Is the published month of the book titled ""All New People"" written by Lamott, Anne December?",No
+282,393,1,"Is the published month of the book titled ""Daniel in the Lions' Den"" written by The Clever Factory January?",No
+283,394,1,"Is the published month of the book titled ""The Power of Positive Productivity"" written by Dennis E. Hensley June?",No
+284,396,1,"Is the published month of the book titled ""Under and Alone: The True Story of the Undercover Agent Who Infiltrated America's Most Violent Outlaw Motorcycle Gang"" written by Queen, William April?",No
+285,396,2,"Is the published year of the book titled ""Under and Alone: The True Story of the Undercover Agent Who Infiltrated America's Most Violent Outlaw Motorcycle Gang"" written by Queen, William 2005?",No
+286,396,3,"Is the book titled ""Under and Alone: The True Story of the Undercover Agent Who Infiltrated America's Most Violent Outlaw Motorcycle Gang"" written by Queen, William published by the publisher named Random House?",No
+287,397,1,"Is the published month of the book titled ""Annuals You Should Grow"" written by King, Julius January?",No
+288,397,2,"Is the published year of the book titled ""Annuals You Should Grow"" written by King, Julius 1937?",No
+289,397,3,"Is the book titled ""Annuals You Should Grow"" written by King, Julius published by the publisher named Whitman?",No
+290,398,3,"Is the book titled ""Aupres De Ma Blonde"" written by Freeling, Nicolas published by the publisher named Vintage?",No
+291,399,1,"Is the published month of the book titled ""Stained glass primer"" written by Peter Mollica January?",No
+292,400,1,"Is the published month of the book titled ""Aunts: A Celebration of Those Special Women in Our Lives"" written by Cunningham, Annette Sara November?",No
+293,402,1,"Is the published month of the book titled ""The Trial Lawyers: The Nation's Top Litigators Tell How They Win"" written by Couric, Emily October?",No
+294,402,2,"Is the published year of the book titled ""The Trial Lawyers: The Nation's Top Litigators Tell How They Win"" written by Couric, Emily 1990?",No
+295,402,3,"Is the book titled ""The Trial Lawyers: The Nation's Top Litigators Tell How They Win"" written by Couric, Emily published by the publisher named St. Martin's Griffin?",No
+296,403,3,"Is the book titled ""Armchair Reader: The Amazing Book of History: Extraordinary Facts and Stories"" written by J.K. Kelley, Jonathan W. Jordan, William David, Robert Bullington, William Martin, William Sasser published by the publisher named West Side Publishing?",No
+297,405,1,"Is the published month of the book titled ""Just Wait Till You Have Children of Your Own"" written by Bombeck, Erma and Keane, Bil January?",No
+298,405,2,"Is the published year of the book titled ""Just Wait Till You Have Children of Your Own"" written by Bombeck, Erma and Keane, Bil 1972?",No
+299,409,1,"Is the published month of the book titled ""More Memories"" written by Emery, Ralph and Carter, Tom September?",No
+300,411,3,"Is the book titled ""Dear Birthmother: Thank You for Our Baby"" written by Silber, Kathleen and Speedlin, Phylis published by the publisher named Corona Pub Co?",No
+301,412,1,"Is the published month of the book titled ""Many Loves Have I"" written by William Brown Meloney January?",No
+302,413,1,"Is the published month of the book titled ""The Body: Being Light in Darkness"" written by Colson, Charles and Vaughn, Ellen Santilli August?",No
+303,413,3,"Is the book titled ""The Body: Being Light in Darkness"" written by Colson, Charles and Vaughn, Ellen Santilli published by the publisher named W Pub Group?",No
+304,416,3,"Is the book titled ""The Shirley Temple Story"" written by David, Lester published by the publisher named Putnam Pub Group (T)?",No
+305,417,1,"Is the published month of the book titled ""On Economics and Society"" written by Harry G. Johnson January?",No
+306,419,1,"Is the published month of the book titled ""Fifty Great American Short Stories"" written by Crane, Milton (EDT) August?",No
+307,420,3,"Is the book titled ""Hollywood Musicals"" written by Sennett, Ted published by the publisher named ABRADALE PRESS?",No
+308,421,1,"Is the published month of the book titled ""Do You Want to Know a Secret?"" written by Clark, Mary Jane November?",No
+309,421,3,"Is the book titled ""Do You Want to Know a Secret?"" written by Clark, Mary Jane published by the publisher named St Martins Pr?",No
+310,422,1,"Is the published month of the book titled ""Whitney Museum of American Art: Selected works from the permanent collection"" written by Whitney Museum of American Art January?",No
+311,423,1,"Is the published month of the book titled ""Single Over Thirty"" written by Husband, John D. February?",No
+312,423,3,"Is the book titled ""Single Over Thirty"" written by Husband, John D. published by the publisher named Talywain Press?",No
+313,426,3,"Is the book titled ""Mike Mulligan and His Steam Shovel"" written by Virginia Lee Burton published by the publisher named Newfield Publications?",No. The book is published by HarperCollins Publishers.
+314,428,2,"Is the published year of the book titled ""Concerning Death: A Practical Guide for the Living"" written by Grollman, Earl A. 1974?",No
+315,431,1,"Is the published month of the book titled ""The Magnificent Seven: The Authorized Story of American Gold"" written by Kleinbaum, N. H. October?",No
+316,436,1,"Is the published month of the book titled ""Timeless Healing: The Power and Biology of Belief"" written by Stark, Marg and Benson, Herbert April?",No
+317,437,1,"Is the published month of the book titled ""Portfolio Planner"" written by Jasmine, Julia July?",No
+318,437,2,"Is the published year of the book titled ""Portfolio Planner"" written by Jasmine, Julia 1995?",No
+319,438,3,"Is the book titled ""The World's Worst Cars"" written by Cheetham, Craig published by the publisher named Barnes & Noble Books?",No
+320,440,2,"Is the published year of the book titled ""Give to Live: How Giving Can Change Your Life"" written by Lawson, Douglas M. 1998?",No
+321,441,1,"Is the published month of the book titled ""The Carousel: A Novel"" written by Evans, Richard Paul October?",No
+322,442,1,"Is the published month of the book titled ""Quiet Places With Mary"" written by Powers, Isaias September?",No
+323,443,1,"Is the published month of the book titled ""Photography Catalog"" written by Snyder, Norman, Kismaric, Carole, and Myrus, Donald January?",No
+324,444,1,"Is the published month of the book titled ""The Book of Breakfasts and Brunches"" written by Harries, Karenza and Newnham, Alan (PHT) January?",No
+325,445,1,"Is the published month of the book titled ""They Flew to Fame"" written by Bowen, Robert Sidney January?",No
+326,446,1,"Is the published month of the book titled ""SELECTED WORKS OF JOHN DRYDEN"" written by ed. William Frost January?",No
+327,451,1,"Is the published month of the book titled ""Intrusions"" written by Hegi, Ursula March?",No
+328,451,3,"Is the book titled ""Intrusions"" written by Hegi, Ursula published by the publisher named Touchstone?",No
+329,452,2,"Is the published year of the book titled ""Lost Horizon"" written by Hilton, James 2004?",No
+330,458,1,"Is the published month of the book titled ""Quench not the spirit"" written by Augsburger, Myron S. January?",No
+331,466,1,"Is the published month of the book titled ""Israel's fateful hour"" written by Harkabi, Yehoshafat January?",No
+332,468,1,"Is the published month of the book titled ""Goliath:The Life of Robert Schuller"" written by Penner, James September?",No
+333,473,1,"Is the published month of the book titled ""The Rising Hope"" written by Swindoll, Charles R. December?",No
+334,476,1,"Is the published month of the book titled ""Champions of American Sport"" written by Marc Pachter January?",No
+335,481,1,"Is the published month of the book titled ""Barbie: The Pyramid Adventure"" written by Rita Balducci January?",No
+336,482,1,"Is the published month of the book titled ""At Play in the Fields of the Lord"" written by Matthiessen, Peter December?",No
+337,483,1,"Is the published month of the book titled ""The Wealth of Choices: How the New Economy Puts Power in Your Hands and Money in Your Pocket"" written by Murray, Alan S. June?",No
+338,485,1,"Is the published month of the book titled ""The Killer Angels"" written by Shaara, Michael October?",No
+339,485,2,"Is the published year of the book titled ""The Killer Angels"" written by Shaara, Michael 1980?",No
+340,486,1,"Is the published month of the book titled ""Glorious Needlepoint: Extraordinary Stitchery Designs from the Author of Glorious Knits"" written by Fassett, Kaffe and Lovi, Steve August?",No
+341,487,1,"Is the published month of the book titled ""Photographing baby and child"" written by Hornby, George January?",No
+342,488,1,"Is the published month of the book titled ""Louisiana Real and Rustic"" written by Lagasse, Emeril, Bienvenu, Marcelle, and Smale, Brian (PHT) September?",No
+343,489,1,"Is the published month of the book titled ""London from the Air"" written by Barbara Roveda January?",No
+344,490,1,"Is the published month of the book titled ""Lonely Planet Italy"" written by Williams, Nicola (EDT), Simonis, Damien (EDT), Adams, Fiona (EDT), Roddis, Miles (EDT), and Webb, Sally (EDT) March?",No
+345,491,1,"Is the published month of the book titled ""Today's Military Wife"" written by Cline, Lydia Sloan January?",No
+346,492,1,"Is the published month of the book titled ""Family Words: The Dictionary for People Who Don't Know a Frone from a Brinkle"" written by Dickson, Paul October?",No
+347,494,1,"Is the published month of the book titled ""The Twelve Teas of Christmas"" written by Barnes, Emilie and Clough, Sandy Lynam (ILT) June?",No
+348,495,1,"Is the published month of the book titled ""Congratulations Graduate"" written by Hallmark January?",No
+349,495,3,"Is the book titled ""Congratulations Graduate"" written by Hallmark published by the publisher named Honor Books?",No
+350,496,1,"Is the published month of the book titled ""The Presidential Transcripts with Commentary by the staff of the Washington Post"" written by Bob Woodward, Carl Bernstein, Haynes Johnson, Lawrence Meyer May?",No.
+351,497,2,"Is the published year of the book titled ""Sexual Healing"" written by Nelson, Jill 2003?",No
+352,499,1,"Is the published month of the book titled ""550 Home Landscaping Ideas"" written by Fell, Derek and Erler, Catriona February?",No
+353,500,3,"Is the book titled ""Out of the Ashes: The Resurrection of Saddam Hussein"" written by Cockburn, Andrew and Cockburn, Patrick published by the publisher named Harper?",No
+354,502,1,"Is the published month of the book titled ""The Wilson Plot"" written by Leigh, David December?",No
+355,503,1,"Is the published month of the book titled ""The Broker"" written by Grisham, John November?",No
+356,505,1,"Is the published month of the book titled ""The Winged Horse Anthology"" written by Joseph Auslander, Frank Ernest Hill January?",No
+357,506,3,"Is the book titled ""Hide This French Book"" written by Roustang-Stoller, Eve-Alice published by the publisher named Hide This?",No
+358,507,1,"Is the published month of the book titled ""How To Start A Conversation And Make Friends"" written by Gabor, Don and Power, Mary (ILT) January?",No
+359,508,1,"Is the published month of the book titled ""A Photographic and Comprehensive Guide to Yellowstone National Park"" written by Editor January?",No
+360,508,2,"Is the published year of the book titled ""A Photographic and Comprehensive Guide to Yellowstone National Park"" written by Editor 1976?",No
+361,508,3,"Is the book titled ""A Photographic and Comprehensive Guide to Yellowstone National Park"" written by Editor published by the publisher named National Parks Division of World-Wide Research & Pub.?",No
+362,509,1,"Is the published month of the book titled ""Bridges Not Walls: A Book About Interpersonal Communication"" written by Stewart, John Robert (EDT) January?",No
+363,509,2,"Is the published year of the book titled ""Bridges Not Walls: A Book About Interpersonal Communication"" written by Stewart, John Robert (EDT) 1990?",No
+364,511,1,"Is the published month of the book titled ""The Abby Aldrich Rockefeller Folk Art Collection Gallery Book"" written by Various January?",No
+365,514,1,"Is the published month of the book titled ""The Oxford Companion to the Theatre"" written by Hartnoll, Phyllis (EDT) October?",No
+366,515,1,"Is the published month of the book titled ""Different Mothers: Sons and Daughters of Lesbians Talk About Their Lives"" written by Rafkin, Louise (EDT) November?",No
+367,516,1,"Is the published month of the book titled ""The Maytrees: A Novel"" written by Dillard, Annie June?",No
+368,517,1,"Is the published month of the book titled ""The Obvious Diet: Your Personal Way to Lose Weight Fast Without Changing Your Lifestyle"" written by Victor, Ed September?",No
+369,517,2,"Is the published year of the book titled ""The Obvious Diet: Your Personal Way to Lose Weight Fast Without Changing Your Lifestyle"" written by Victor, Ed 2002?",No
+370,517,3,"Is the book titled ""The Obvious Diet: Your Personal Way to Lose Weight Fast Without Changing Your Lifestyle"" written by Victor, Ed published by the publisher named Arcade Publishing?",No
+371,519,1,"Is the published month of the book titled ""The Consultant's Guide to Proposal Writing: How to Satisfy Your Client and Double Your Income"" written by Holtz, Herman March?",No
+372,519,2,"Is the published year of the book titled ""The Consultant's Guide to Proposal Writing: How to Satisfy Your Client and Double Your Income"" written by Holtz, Herman 1990?",No
+373,520,1,"Is the published month of the book titled ""Come to the farm"" written by Tensen, Ruth Marjorie January?",No
+374,521,3,"Is the book titled ""The New Yorkers: A Novel"" written by Schine, Cathleen published by the publisher named Picador?",No
+375,526,1,"Is the published month of the book titled ""License to Sell"" written by Ilvento, Joe, Price, Doug September?",No
+376,528,1,"Is the published month of the book titled ""Combat"" written by Coonts, Stephen September?",No
+377,530,1,"Is the published month of the book titled ""Watergate: The Full Inside Story"" written by Shawcross, William, Chester, Lewis, McCrystal, Cal, and Aris, Stephen September?",No
+378,531,1,"Is the published month of the book titled ""I have a friend"" written by Muntean, Michaela January?",No
+379,531,3,"Is the book titled ""I have a friend"" written by Muntean, Michaela published by the publisher named Children's Television Workshop?",No
+380,532,1,"Is the published month of the book titled ""Mirror and Mirage: Fiction By Nineteen"" written by Albert J. (editor) Guerard January?",No
+381,532,2,"Is the published year of the book titled ""Mirror and Mirage: Fiction By Nineteen"" written by Albert J. (editor) Guerard 1980?",No
+382,532,3,"Is the book titled ""Mirror and Mirage: Fiction By Nineteen"" written by Albert J. (editor) Guerard published by the publisher named Stanford Alumni Association?",No
+383,533,1,"Is the published month of the book titled ""Secrets of a Fulfilled Woman: Finding True Contentment in Your Life"" written by Peretti, Barbara, Missler, Nancy, Thomas, Bonnie, Impe, Rexella Van, Barker, Barbara, McDowell, Dottie, Ankerberg, Darlene, Newbold, Elizabeth, and Perkins, Susie (COM) September?",No
+384,536,1,"Is the published month of the book titled ""The Complete Book of the Horse"" written by Roberts, Peter (EDT) April?",No
+385,536,3,"Is the book titled ""The Complete Book of the Horse"" written by Roberts, Peter (EDT) published by the publisher named Smithmark Pub?",No
+386,538,1,"Is the published month of the book titled ""O'Hara: A biography"" written by Farr, Finis January?",No
+387,540,1,"Is the published month of the book titled ""Too Much Tuscan Sun: Confessions Of A Chianti Tour Guide"" written by Castagno, Dario September?",No
+388,541,1,"Is the published month of the book titled ""CURE FOR THE COMMON LIFE"" written by Lucado, Max November?",No
+389,543,1,"Is the published month of the book titled ""King Charles III: A Biography"" written by Holden, Anthony December?",No
+390,543,3,"Is the book titled ""King Charles III: A Biography"" written by Holden, Anthony published by the publisher named Grove Pr?",No
+391,546,1,"Is the published month of the book titled ""The Story of the Night: Studies in Shakespeare's Major Trajedies"" written by Holloway, John January?",No
+392,547,1,"Is the published month of the book titled ""Brewing Quality Beers: The Home Brewer's Essential Guidebook"" written by Burch, ron January?",No
+393,548,1,"Is the published month of the book titled ""Greenland: Island at the Top of the World"" written by Anderson, Madelyn Klein August?",No
+394,548,3,"Is the book titled ""Greenland: Island at the Top of the World"" written by Anderson, Madelyn Klein published by the publisher named Cliffs Notes?",No
+395,549,1,"Is the published month of the book titled ""Nothing But the Truth"" written by Keating, Karl October?",No
+396,549,3,"Is the book titled ""Nothing But the Truth"" written by Keating, Karl published by the publisher named Catholic Answers Inc?",No
+397,550,1,"Is the published month of the book titled ""All About the Sea"" written by Ferdinand C. Lane January?",No
+398,552,1,"Is the published month of the book titled ""Handbook Plus: The Handbook for Today's Driver"" written by Charles D. Torreiro January?",No
+399,553,2,"Is the published year of the book titled ""The Five Minute Hair Stylist"" written by Moodie, Christine 1991?",No
+400,555,1,"Is the published month of the book titled ""Two Men from Eden"" written by Morris Cerullo January?",No
+401,557,1,"Is the published month of the book titled ""Prevention's New Foods for Healing: Capture the Powerful Cures of More Than 100 Common Foods"" written by Prevention Magazine Health Books (COR), Vantine, Julia, Yeager, Selene, and Mount, Bridget February?",No
+402,559,1,"Is the published month of the book titled ""Ageless: Take Control of Your Age and Stay Youthful for Life"" written by Miles, Elizabeth and Schneider, Edward L. April?",No
+403,560,1,"Is the published month of the book titled ""True Green Kids: 100 Things You Can Do to Save the Planet"" written by Mckay, Kim, Bonnin, Jenny, and De Rothschild, David (FRW) September?",No
+404,561,1,"Is the published month of the book titled ""The Coming Conflict with China"" written by Bernstein, Richard and Munro, Ross H. February?",No
+405,561,3,"Is the book titled ""The Coming Conflict with China"" written by Bernstein, Richard and Munro, Ross H. published by the publisher named Vintage?",No
+406,563,3,"Is the book titled ""Where She Came From: A Daughter's Search for Her Mother's History"" written by Epstein, Helen published by the publisher named Holmes and Meier edition?",No
+407,564,1,"Is the published month of the book titled ""Match Wits with Mensa®: Test Your Trivia Smarts"" written by Gordon, Peter September?",No
+408,567,1,"Is the published month of the book titled ""Scarlet Feather"" written by Binchy, Maeve January?",No
+409,568,1,"Is the published month of the book titled ""Bech: a Book"" written by Updike, John January?",No
+410,569,1,"Is the published month of the book titled ""The Girl with the Golden Gun"" written by Major, Ann October?",No
+411,569,2,"Is the published year of the book titled ""The Girl with the Golden Gun"" written by Major, Ann 2005?",No
+412,569,3,"Is the book titled ""The Girl with the Golden Gun"" written by Major, Ann published by the publisher named MIRA?",No
+413,570,1,"Is the published month of the book titled ""A Christmas Treasury"" written by Elder, Sam January?",No
+414,571,1,"Is the published month of the book titled ""The Elements of Feng Shui"" written by Man-Ho Kwok January?",No
+415,572,1,"Is the published month of the book titled ""Awesome Facts About Sharks"" written by Llewellyn, Claire January?",No
+416,574,3,"Is the book titled ""Zen for Americans"" written by Shaku, Soyen published by the publisher named Metro Books?",No
+417,575,1,"Is the published month of the book titled ""Quintessence"" written by Edwards, Owen and Cornfeld, Betty February?",No
+418,581,3,"Is the book titled ""The Deity Formerly Known as God"" written by Stevens, Jarrett published by the publisher named Zondervan?",No
+419,582,1,"Is the published month of the book titled ""Friendship 911 Helping Friends Who Struggle With Life's Toughest Issues"" written by McDowell, Josh, Hostetler, Bob, and Bellis, Dave July?",No
+420,582,2,"Is the published year of the book titled ""Friendship 911 Helping Friends Who Struggle With Life's Toughest Issues"" written by McDowell, Josh, Hostetler, Bob, and Bellis, Dave 2000?",No
+421,583,1,"Is the published month of the book titled ""Halliwell's Film Guide"" written by Walker, James January?",No
+422,584,3,"Is the book titled ""A River Town"" written by Keneally, Thomas published by the publisher named Plume?",No
+423,585,1,"Is the published month of the book titled ""The Little Engine That Could"" written by Piper, Watty and Smouse, Phil A. (ILT) December?",No
+424,585,2,"Is the published year of the book titled ""The Little Engine That Could"" written by Piper, Watty and Smouse, Phil A. (ILT) 2002?",No
+425,585,3,"Is the book titled ""The Little Engine That Could"" written by Piper, Watty and Smouse, Phil A. (ILT) published by the publisher named Barbour Publishing, Incorporated?",No
+426,586,2,"Is the published year of the book titled ""The Wild Christmas Reindeer"" written by Brett, Jan 1990?",No
+427,589,1,"Is the published month of the book titled ""Computer Wars: The Fall of IBM and the Future of Western Technology"" written by Morris, Charles R. and Ferguson, Charles H. February?",No
+428,590,2,"Is the published year of the book titled ""The Gift of Nothing"" written by McDonnell, Patrick 2005?",No
+429,592,1,"Is the published month of the book titled ""Litanies and Other Prayers for the Revised Common Lectionary Year B"" written by Cole, Phyllis and Tilson, Everett. August?",No
+430,593,2,"Is the published year of the book titled ""Low Back Pain Syndrome"" written by Cailliet, Ren'e 1968?",No
+431,597,1,"Is the published month of the book titled ""Seducing the Duchess"" written by March, Ashley October?",No
+432,598,1,"Is the published month of the book titled ""A More Perfect Constitution: Why the Constitution Must Be Revised: Ideas to Inspire a New Generation"" written by Sabato, Larry J. September?",No
+433,600,1,"Is the published month of the book titled ""The Prayer of Jabez: Devotional"" written by Wilkinson, Bruce and Kopp, David May?",No
+434,602,1,"Is the published month of the book titled ""Perfect Women: Hidden Fears of Inadequacy and the Drive to Perform"" written by Dowling, Colette September?",No
+435,604,1,"Is the published month of the book titled ""Janet's Horses"" written by Denton, Kady MacDonald March?",No
+436,604,3,"Is the book titled ""Janet's Horses"" written by Denton, Kady MacDonald published by the publisher named Clarion Books?",No
+437,607,1,"Is the published month of the book titled ""Steel Guitar"" written by Barnes, Linda December?",No
+438,608,1,"Is the published month of the book titled ""Pippi in the South Seas"" written by Lindgren, Astrid January?",No
+439,608,3,"Is the book titled ""Pippi in the South Seas"" written by Lindgren, Astrid published by the publisher named Scholastic?",No
+440,609,1,"Is the published month of the book titled ""Letters from Vatican City"" written by Rynne, Xavier January?",No
+441,609,2,"Is the published year of the book titled ""Letters from Vatican City"" written by Rynne, Xavier 1963?",No
+442,610,1,"Is the published month of the book titled ""52 Dates for You and Your Mate"" written by Arp, Dave and Arp, Claudia January?",No
+443,611,1,"Is the published month of the book titled ""What Research Has to Say About Reading Instruction"" written by Farstrup, Alan E. (EDT), Samuels, S. Jay (EDT), and Samuels, Jay (EDT) March?",No
+444,612,1,"Is the published month of the book titled ""The Darwin Awards Evolution In Action"" written by Norcutt, Wendy. January?",No
+445,613,1,"Is the published month of the book titled ""Bush on the Couch: Inside the Mind of the President"" written by Frank, Justin A. July?",No
+446,615,1,"Is the published month of the book titled ""Sixth Sense: Including the Secrets of the Etheric Subtle Body"" written by Wilde, Stuart March?",No
+447,616,3,"Is the book titled ""Miss Manners' Guide to Excruciatingly Correct Behavior: The Ultimate Handbook on Modern Etiquette"" written by Martin, Judith and Kamen, Gloria (ILT) published by the publisher named Bbs Pub Corp?",No
+448,617,1,"Is the published month of the book titled ""Cats: An Owner's Guide"" written by Atkins, Carla, Fresak, Nikki (PHT), and Robinson, Alan (PHT) October?",No
+449,617,3,"Is the book titled ""Cats: An Owner's Guide"" written by Atkins, Carla, Fresak, Nikki (PHT), and Robinson, Alan (PHT) published by the publisher named Thunder Bay Pr?",No
+450,618,1,"Is the published month of the book titled ""Murder Most"" written by Greenberg, Martin H., Et. Al. (Edited by) January?",No
+451,618,3,"Is the book titled ""Murder Most"" written by Greenberg, Martin H., Et. Al. (Edited by) published by the publisher named Gramercy Books?",No
+452,619,1,"Is the published month of the book titled ""1000 Classic Recipes: The Complete Cookbook for Every Meal and Any Occasion"" written by nan January?",No
+453,619,2,"Is the published year of the book titled ""1000 Classic Recipes: The Complete Cookbook for Every Meal and Any Occasion"" written by nan 1999?",No
+454,619,3,"Is the book titled ""1000 Classic Recipes: The Complete Cookbook for Every Meal and Any Occasion"" written by nan published by the publisher named Anness?",No
+455,622,1,"Is the published month of the book titled ""The Erotic Secrets of a French Maid"" written by Cach, Lisa February?",No
+456,622,3,"Is the book titled ""The Erotic Secrets of a French Maid"" written by Cach, Lisa published by the publisher named Gallery Books?",No
+457,623,1,"Is the published month of the book titled ""Precious Moments of Christmas: Nine Stories that Celebrate the Season"" written by Butcher, Samuel J. (ILT) and Wiersma, Debbie Butcher August?",No
+458,625,1,"Is the published month of the book titled ""The Wishing Horse of Oz"" written by L. Frank Baum January?",No
+459,625,2,"Is the published year of the book titled ""The Wishing Horse of Oz"" written by L. Frank Baum 1935?",No
+460,626,3,"Is the book titled ""Holistic Medicine: A Meeting of East and West"" written by Altenberg, Henry Edward published by the publisher named Japan Pubns?",No
+461,627,1,"Is the published month of the book titled ""The Moon and Sixpence"" written by W Somerset Maugham May?",No
+462,627,2,"Is the published year of the book titled ""The Moon and Sixpence"" written by W Somerset Maugham 1977?",No
+463,628,1,"Is the published month of the book titled ""The Tribute: What Every Parent Longs to Hear"" written by Rainey, Dennis and Boehi, David April?",No
+464,629,1,"Is the published month of the book titled ""The Q Document: A Novel"" written by Roberts, James Hall January?",No
+465,629,2,"Is the published year of the book titled ""The Q Document: A Novel"" written by Roberts, James Hall 1964?",No
+466,634,1,"Is the published month of the book titled ""The Demon of Scattery"" written by Poul Anderson, Mildred Downey Broxon June?",No
+467,634,3,"Is the book titled ""The Demon of Scattery"" written by Poul Anderson, Mildred Downey Broxon published by the publisher named Ace Books?",No
+468,636,1,"Is the published month of the book titled ""Venus Envy"" written by Brown, Rita Mae January?",No
+469,638,3,"Is the book titled ""The Homocysteine Revolution: Medicine for the New Millennium"" written by McCully, Kilmer S. published by the publisher named Keats Pub?",No
+470,640,1,"Is the published month of the book titled ""Cooks Quotations: A Collection of Fine Paintings and the Best Cooking Quotes"" written by Helen Exley January?",No
+471,641,1,"Is the published month of the book titled ""Must Love Shoes: A Collection of Stories About Life in a Woman's Shoes"" written by Julie Gaver December?",No
+472,643,1,"Is the published month of the book titled ""The Zen of CSS Design: Visual Enlightenment for the Web"" written by Holzschlag, Molly E. and Shea, Dave February?",No
+473,644,1,"Is the published month of the book titled ""Mercy: A Novel"" written by Picoult, Jodi April?",No
+474,646,1,"Is the published month of the book titled ""Embattled Confederates: An Illustrated History of Southerners at War"" written by Wiley January?",No
+475,646,3,"Is the book titled ""Embattled Confederates: An Illustrated History of Southerners at War"" written by Wiley published by the publisher named Outlet?",No
+476,647,1,"Is the published month of the book titled ""Blow Fly"" written by Cornwell, Patricia Daniels October?",No
+477,647,3,"Is the book titled ""Blow Fly"" written by Cornwell, Patricia Daniels published by the publisher named Putnam?",No
+478,648,3,"Is the book titled ""After"" written by Efaw, Amy published by the publisher named Viking Books for Young Readers?",No
+479,649,1,"Is the published month of the book titled ""Gates of Mitzvah: Shaarei Mitzvah: A Guide to the Jewish Life Cycle"" written by Maslin, Simeon J. (EDT) September?",No
+480,650,1,"Is the published month of the book titled ""Exploding the myths that could destroy America"" written by Lutzer, Erwin W. January?",No
+481,652,3,"Is the book titled ""Mystic Tide"" written by Angela Dorsey published by the publisher named Pony?",No
+482,653,2,"Is the published year of the book titled ""Displaying Australia and New Guinea"" written by Fox, Matt J 1945?",No
+483,654,1,"Is the published month of the book titled ""Sunset Boulevard: From Movie to Musical"" written by Perry, George C. November?",No
+484,654,3,"Is the book titled ""Sunset Boulevard: From Movie to Musical"" written by Perry, George C. published by the publisher named Henry Holt & Co?",No
+485,656,2,"Is the published year of the book titled ""Building Your Baby's Brain: A Parent's Guide to the First Five Years"" written by Dodge, Diane Trister and Heroman, Cate 1999?",No
+486,658,3,"Is the book titled ""There's a Dead Person Following My Sister Around"" written by Vande Velde, Vivian published by the publisher named Puffin?",No
+487,660,1,"Is the published month of the book titled ""Love for a Lifetime: Building a Marriage That Will Go the Distance"" written by Dobson, James C. February?",No
+488,663,1,"Is the published month of the book titled ""The Ultimate Frankenstein: New Stories by Some of the World's Leading Authors"" written by Preiss, ron, Keller, David, Miller, Megan, and Betancourt, John (EDT) September?",No
+489,663,2,"Is the published year of the book titled ""The Ultimate Frankenstein: New Stories by Some of the World's Leading Authors"" written by Preiss, ron, Keller, David, Miller, Megan, and Betancourt, John (EDT) 1991?",No
+490,669,1,"Is the published month of the book titled ""Dinosaur Brains: Dealing With All the Impossible People at Work"" written by Bernstein, Albert J. February?",No
+491,670,2,"Is the published year of the book titled ""Longarm 018: Yellowstone"" written by Evans, Tabor 1980?",No
+492,671,1,"Is the published month of the book titled ""Handbook for Writers"" written by Millward, C. M. January?",No
+493,672,1,"Is the published month of the book titled ""The Soviet Crucible: Soviet Government in Theory and Practice"" written by Samuel (Edited by) Hendel January?",No
+494,674,1,"Is the published month of the book titled ""Innocent in Death"" written by Robb, J. D. February?",No
+495,675,1,"Is the published month of the book titled ""The Street Lawyer: A Novel"" written by Grisham, John February?",No
+496,676,1,"Is the published month of the book titled ""House of Gold"" written by Macfarlane Jr., Bud June?",No
+497,676,3,"Is the book titled ""House of Gold"" written by Macfarlane Jr., Bud published by the publisher named Saint Jude Media?",No
+498,679,2,"Is the published year of the book titled ""Houdinis Escapes"" written by Walter B. Gibson 1977?",No
+499,683,1,"Is the published month of the book titled ""The assertive woman"" written by Phelps, Stanlee, Austin, Nancy January?",No
+500,684,2,"Is the published year of the book titled ""The Wonderful Crisis of Middle age: Some Personal Reflections"" written by Leshan, Eda 1976?",No
+501,684,3,"Is the book titled ""The Wonderful Crisis of Middle age: Some Personal Reflections"" written by Leshan, Eda published by the publisher named Warner Books?",No
+502,685,3,"Is the book titled ""Fireside"" written by Summer Rain, Mary published by the publisher named Hampton Roads Publishing?",No
+503,686,2,"Is the published year of the book titled ""Spiritual Economics: The Prosperity Process"" written by Butterworth, Eric 1983?",No
+504,686,3,"Is the book titled ""Spiritual Economics: The Prosperity Process"" written by Butterworth, Eric published by the publisher named United Artists Music & Records?",No
+505,688,1,"Is the published month of the book titled ""Understanding the Enneagram: The Practical Guide to Personality Types"" written by Riso, Don Richard February?",No
+506,690,1,"Is the published month of the book titled ""The Book of Calm"" written by Time-Life Books September?",No
+507,691,1,"Is the published month of the book titled ""John Clancy's Christmas Cookbook"" written by Clancy, John February?",No
+508,692,1,"Is the published month of the book titled ""Mary Ellen's Best of Helpful Hints Book II"" written by Pinkham June?",No
+509,693,1,"Is the published month of the book titled ""I'll See You in the Morning"" written by Jolley, Mike and Moriuchi, Mique (ILT) July?",No
+510,695,1,"Is the published month of the book titled ""Murder at the Opera: A Capital Crimes Novel"" written by Truman, Margaret November?",No
+511,696,1,"Is the published month of the book titled ""How to Be Happier Day by Day"" written by Epstein, Alan January?",No
+512,696,2,"Is the published year of the book titled ""How to Be Happier Day by Day"" written by Epstein, Alan 1993?",No
+513,697,1,"Is the published month of the book titled ""Electronic Commerce: A Managerial Perspective"" written by Turban, Efraim (EDT), King, David, Lee, Jae Kyu, and Chung, H. Michael October?",No
+514,703,3,"Is the book titled ""Heirs of the Fisherman: Behind the Scenes of Papal Death and Succession"" written by Pham, John-Peter published by the publisher named Oxford University Press?",No
+515,704,1,"Is the published month of the book titled ""Reach Everyone You Teach"" written by Rosann Englebretson, Marlene LeFever, Steve Wamberg January?",No
+516,706,3,"Is the book titled ""The Rottweiler"" written by Rendell, Ruth published by the publisher named Crown?",No
+517,707,1,"Is the published month of the book titled ""The Color of Night"" written by Lindsey, David L. April?",No
+518,708,1,"Is the published month of the book titled ""Sister Wendy's Meditations on Love"" written by Beckett, Wendy September?",No
+519,708,2,"Is the published year of the book titled ""Sister Wendy's Meditations on Love"" written by Beckett, Wendy 1995?",No
+520,708,3,"Is the book titled ""Sister Wendy's Meditations on Love"" written by Beckett, Wendy published by the publisher named DK?",No
+521,710,1,"Is the published month of the book titled ""Book of the Dead"" written by Cornwell, Patricia Daniels October?",No
+522,711,1,"Is the published month of the book titled ""Helping Children Learn Mathematics"" written by Reys, Robert E., Suydam, Marilyn N., and Lindquist, Mary M. October?",No
+523,712,3,"Is the book titled ""Scholastic Reader Level 1: Whales and Dolphins"" written by Schwartz, Carol (ILT), Roop, Peter, and Roop, Connie published by the publisher named Cartwheel?",No
+524,715,1,"Is the published month of the book titled ""Slipcover Magic"" written by Hall, Dorothea (EDT) February?",No
+525,719,1,"Is the published month of the book titled ""Let Go of Clutter"" written by Harriet Schechter January?",No
+526,722,1,"Is the published month of the book titled ""The Sample Survey: Theory and Practice"" written by Warwick, Donald P. and Lininger, C. A. October?",No
+527,723,2,"Is the published year of the book titled ""Apparitions at Medjugorje Prolonged: A Merciful Delay for a World in Danger"" written by Laurentin, Rene 1987?",No
+528,725,1,"Is the published month of the book titled ""PC Annoyances: How to Fix the Most Annoying Things About Your Personal Computer"" written by Bass, Steve October?",No
+529,727,1,"Is the published month of the book titled ""Contemporary Issues in Leadership"" written by Taylor, Robert L. (EDT) and Rosenbach, William E. (EDT) January?",No
+530,728,1,"Is the published month of the book titled ""A Walk to Remember"" written by Sparks, Nicholas September?",No
+531,729,1,"Is the published month of the book titled ""The Boy Who Loved Windows: Opening The Heart And Mind Of A Child Threatened With Autism"" written by Stacey, Patricia September?",No
+532,730,1,"Is the published month of the book titled ""More Joy of Microwaving"" written by Microwave Cooking Institute October?",No
+533,732,1,"Is the published month of the book titled ""Intelligent Memory: Improve the Memory that Makes You Smarter"" written by Berger, Lisa and Gordon, Barry September?",No
+534,733,1,"Is the published month of the book titled ""Nato: The Challenge of Change"" written by Jeffery Simon January?",No
+535,734,1,"Is the published month of the book titled ""King Edward The Seventh"" written by Philip Magnus January?",No
+536,736,1,"Is the published month of the book titled ""Traditional Family Home Plans"" written by Garlinghouse Company June?",No
+537,737,1,"Is the published month of the book titled ""The Two Sides of Love: Using Personality Strengths to Greatly Improve Your Relationships"" written by Smalley, Gary and Trent, John January?",No
+538,740,1,"Is the published month of the book titled ""The Apprentice"" written by Llorente, Pilar Molina and Alonso, Juan Ramon (ILT) August?",No
+539,740,3,"Is the book titled ""The Apprentice"" written by Llorente, Pilar Molina and Alonso, Juan Ramon (ILT) published by the publisher named Square Fish?",No
+540,743,1,"Is the published month of the book titled ""Geraldine's Blanket"" written by Holly Keller January?",No
+541,743,2,"Is the published year of the book titled ""Geraldine's Blanket"" written by Holly Keller 1984?",No
+542,747,1,"Is the published month of the book titled ""The Monster of Florence"" written by douglas-with-spezi-mario-preston January?",No
+543,747,2,"Is the published year of the book titled ""The Monster of Florence"" written by douglas-with-spezi-mario-preston 2008?",No
+544,747,3,"Is the book titled ""The Monster of Florence"" written by douglas-with-spezi-mario-preston published by the publisher named Hachette Book Group USA?",No
+545,749,1,"Is the published month of the book titled ""Daughters Without Dads"" written by Rabey, Lois Mowday and Mowday, Lois February?",No
+546,751,1,"Is the published month of the book titled ""Food and Wine Annual Cookbook 2010: An Entire Year of Recipes"" written by Heddings, Kate (EDT) April?",No
+547,752,1,"Is the published month of the book titled ""How to Master the Art of Selling"" written by Hopkins, Tom June?",No
+548,753,1,"Is the published month of the book titled ""Photography and Your Digital World: The Ultimate Guide to Digital Technology"" written by Cope, Peter December?",No
+549,754,1,"Is the published month of the book titled ""Tears and Laughter in an Israel Courtroom"" written by Shneour Zalman Cheshin January?",No
+550,754,3,"Is the book titled ""Tears and Laughter in an Israel Courtroom"" written by Shneour Zalman Cheshin published by the publisher named Jewish Publication?",No
+551,755,1,"Is the published month of the book titled ""Wealthy and Wise: How You and America Can Get the Most Out of Your Giving"" written by Rosenberg, Claude, Jr. September?",No
+552,757,1,"Is the published month of the book titled ""Discipline Without Shouting or Spanking: Practical Solutions to the Most Common Preschool Behavior Problems"" written by Wychoff, Jerry and Unell, Barbara C. November?",No
+553,758,1,"Is the published month of the book titled ""Beyond Vietnam: The United States and Asia"" written by Reischauer, Edwin O. January?",No
+554,760,1,"Is the published month of the book titled ""Spectacular Spiders"" written by Lori C. Froeb January?",No
+555,763,1,"Is the published month of the book titled ""Bible Storybook for Toddlers"" written by Carolyn Larsen January?",No
+556,765,1,"Is the published month of the book titled ""Fundamentals of Nursing"" written by Perry, Anne Griffin, Potter, Patricia Ann, Hall, Amy (EDT), Stockert, Patricia A. (EDT), and Baier, Marjorie, Ph.D. (CON) December?",No
+557,766,1,"Is the published month of the book titled ""Shallows of Night"" written by Lustbader, Eric Van December?",No
+558,766,2,"Is the published year of the book titled ""Shallows of Night"" written by Lustbader, Eric Van 1980?",No
+559,767,2,"Is the published year of the book titled ""The Executive Life"" written by Editors of Fortune 1956?",No
+560,769,1,"Is the published month of the book titled ""Changed Hearts: The Solution to America's Crime Problem"" written by Charles Colson January?",No
+561,771,2,"Is the published year of the book titled ""Fat Burning Factors Lean Lifestyle"" written by Sisson, Mark 1996?",No
+562,772,1,"Is the published month of the book titled ""Super Ideas for Youth Groups"" written by Yaconelli, Mike January?",No
+563,775,1,"Is the published month of the book titled ""My First Prayers"" written by Gutmann, Bessie Pease, Akmon, Nancy C., and Akmon, Roni November?",No
+564,775,3,"Is the book titled ""My First Prayers"" written by Gutmann, Bessie Pease, Akmon, Nancy C., and Akmon, Roni published by the publisher named Blushing Rose Pub?",No
+565,778,1,"Is the published month of the book titled ""Simple French Cookery"" written by Beilenson, Edna January?",No
+566,778,3,"Is the book titled ""Simple French Cookery"" written by Beilenson, Edna published by the publisher named Peter Pauper Press?",No
+567,780,1,"Is the published month of the book titled ""Jill's Glasses"" written by Nancy Parent January?",No
+568,781,1,"Is the published month of the book titled ""The New Walker's Logbook"" written by Mark Fenton January?",No
+569,782,2,"Is the published year of the book titled ""The Secret Garden"" written by Burnett, Frances Hodgson 1989?",No
+570,783,1,"Is the published month of the book titled ""Cover letters that knock 'em dead"" written by Yate, Martin January?",No
+571,783,3,"Is the book titled ""Cover letters that knock 'em dead"" written by Yate, Martin published by the publisher named Bob Adams?",No
+572,784,1,"Is the published month of the book titled ""Gardener's Book of Needlepoint"" written by Bodi, Jack January?",No
+573,784,3,"Is the book titled ""Gardener's Book of Needlepoint"" written by Bodi, Jack published by the publisher named Simon & Schuster?",No
+574,787,1,"Is the published month of the book titled ""The Wishbones"" written by Perrotta, Tom April?",No
+575,788,1,"Is the published month of the book titled ""Healing Through the Power of Prayer: What the Bible Says About Healing"" written by Dailey, Timothy January?",No
+576,789,1,"Is the published month of the book titled ""Simply Homemade Food Gifts"" written by Dahlstrom, Carol Field (EDT), Miller, Jan (EDT), Trollope, Joyce (EDT), Darling, Jennifer Dorland (EDT), and Bander, Susan M. (EDT) August?",No
+577,790,1,"Is the published month of the book titled ""Kenya: A Novel"" written by Halkin, John July?",No
+578,791,3,"Is the book titled ""The Social Lives of Dogs"" written by Thomas, Elizabeth Marshall and Williams, Jared Taylor (ILT) published by the publisher named Simon & Schuster?",No
+579,795,3,"Is the book titled ""Made in America: His Own Story"" written by Ueberroth, Peter published by the publisher named Horizon Book Promotions?",No
+580,796,2,"Is the published year of the book titled ""The mortgaged heart"" written by McCullers, Carson 1971?",No
+581,797,1,"Is the published month of the book titled ""Minute Motivators for Leaders: Quick Inspiration for the Time of Your Life"" written by Toler, Stan January?",No
+582,798,2,"Is the published year of the book titled ""The Grill Book: New Foods and Flavors for the Grill"" written by McCune, Kelly 1991?",No
+583,804,1,"Is the published month of the book titled ""The Macmillan Visual Almanac"" written by Tesar, Jenny E. and Glassman, Bruce S. (EDT) August?",No
+584,807,1,"Is the published month of the book titled ""Dear Mother"" written by Hallmark January?",No
+585,808,1,"Is the published month of the book titled ""The Monkey Handlers"" written by Liddy, G. Gordon September?",No
+586,809,1,"Is the published month of the book titled ""Bread for the World"" written by Simon, Arthur March?",No
+587,809,2,"Is the published year of the book titled ""Bread for the World"" written by Simon, Arthur 1985?",No
+588,809,3,"Is the book titled ""Bread for the World"" written by Simon, Arthur published by the publisher named Eerdmans Pub Co?",No
+589,810,1,"Is the published month of the book titled ""Camera at War: A History of War Photography from 1848 to the Present Day"" written by Jorge Lewinski April?",No
+590,811,1,"Is the published month of the book titled ""Treasure Island"" written by Robert Louis Stevenson January?",No
+591,811,2,"Is the published year of the book titled ""Treasure Island"" written by Robert Louis Stevenson 2008?",No
+592,811,3,"Is the book titled ""Treasure Island"" written by Robert Louis Stevenson published by the publisher named DALMATION PRESS?",No
+593,812,1,"Is the published month of the book titled ""On the Edge of Darkness: Conversations about Conquering Depression"" written by Cronkite, Kathy February?",No
+594,813,1,"Is the published month of the book titled ""No Contest : Corporate Lawyers and the Perversion of Justice in America"" written by Nader, Ralph and Smith, Wesley J. October?",No
+595,814,1,"Is the published month of the book titled ""Baseball: Rules of the Game"" written by Sakurai, Jennifer M. and Dierksen, Jane (ILT) February?",No
+596,815,2,"Is the published year of the book titled ""West of Dodge: Frontier Stories  "" written by L'Amour, Louis 1997?",No
+597,816,1,"Is the published month of the book titled ""Before the Wind: True Stories About Sailing"" written by Gowdey, David (EDT) February?",No
+598,817,1,"Is the published month of the book titled ""Cash: An American Man"" written by Miller, Bill, Vancil, Mark, and Hoye, Jacob May?",No
+599,818,3,"Is the book titled ""Madam Butterfly"" written by Carner, Mosco published by the publisher named Silver Burdett Pr?",No
+600,822,1,"Is the published month of the book titled ""Newt Gingrich's Bedtime Stories for Orphans"" written by Crimmins, C. E. and Maeder, Tom July?",No
+601,822,3,"Is the book titled ""Newt Gingrich's Bedtime Stories for Orphans"" written by Crimmins, C. E. and Maeder, Tom published by the publisher named Newstar Pr?",No
+602,823,1,"Is the published month of the book titled ""Give and Take: The Complete Guide to Negotiating Strategies and Tactics"" written by Karrass, Chester L. December?",No
+603,823,2,"Is the published year of the book titled ""Give and Take: The Complete Guide to Negotiating Strategies and Tactics"" written by Karrass, Chester L. 1974?",No
+604,826,2,"Is the published year of the book titled ""Nonverbal Selling Power"" written by Gschwandtner, Gerhard and Garnett, Pat 1985?",No
+605,827,1,"Is the published month of the book titled ""The Snow Garden"" written by Rice, Christopher February?",No
+606,827,3,"Is the book titled ""The Snow Garden"" written by Rice, Christopher published by the publisher named Miramax?",No
+607,831,1,"Is the published month of the book titled ""The Coyote Bead"" written by Hausman, Gerald September?",No
+608,832,1,"Is the published month of the book titled ""Increasing Student Learning Through Multimedia Projects"" written by Simkins, Michael (EDT) September?",No
+609,837,1,"Is the published month of the book titled ""Sleeping Beauties: Newborns in Dreamland"" written by Raver, Tracy (PHT) and Ryden, Kelley (PHT) March?",No
+610,839,1,"Is the published month of the book titled ""How I Pray: People of Different Religions Share with Us That Most Sacred and Intimate Act of Faith"" written by Castelli, Jim (EDT) September?",No
+611,840,1,"Is the published month of the book titled ""HOLT HANDBOOK 5E"" written by Kirszner, Laurie G. and Mandell, Stephen R. January?",No
+612,841,1,"Is the published month of the book titled ""Voices From The Future: Our Children Tell Us About Violence in America"" written by Goodwillie, Susan (EDT) August?",No
+613,843,1,"Is the published month of the book titled ""French Women Don't Get Fat: The Secret of Eating for Pleasure"" written by Guiliano, Mireille December?",No
+614,844,1,"Is the published month of the book titled ""The Second Middle Age: Looking Differently at Life Beyond 50"" written by Manheimer, Ronald J. (EDT) April?",No
+615,844,3,"Is the book titled ""The Second Middle Age: Looking Differently at Life Beyond 50"" written by Manheimer, Ronald J. (EDT) published by the publisher named Visible Ink Pr?",No
+616,846,1,"Is the published month of the book titled ""When Helping You Is Hurting Me"" written by Berry, Carmen Renee February?",No
+617,847,1,"Is the published month of the book titled ""Feng Shui Made Easy: Designing Your Life with the Ancient Art of Placement"" written by Spear, William October?",No
+618,849,1,"Is the published month of the book titled ""CliffsNotes Pride and Prejudice"" written by Fitzwater, E. (EDT) September?",No
+619,850,3,"Is the book titled ""Now What Can I Do?"" written by Sweet, Melissa (ILT) and Bridges, Margaret Park published by the publisher named SeaStar?",No
+620,852,1,"Is the published month of the book titled ""Say Goodbye to Back Pain"" written by Betancourt, Marian and Hiesiger, Emile, M.D. October?",No
+621,853,3,"Is the book titled ""Thinking of You"" written by Sanna, Ellyn published by the publisher named Barbour Publishing, Incorporated?",No
+622,855,1,"Is the published month of the book titled ""The Complete Love's Little Instruction Book: Romantic Hints for Lovers of All Ages"" written by Pigeon, Annie January?",No
+623,857,1,"Is the published month of the book titled ""The People's Catechism: Catholic Faith for Adults"" written by Brennan, Patrick, Lucker, Raymond, and Leach, Michel June?",No
+624,858,1,"Is the published month of the book titled ""A Child's First Book of Poems"" written by Cyndy Szekeres January?",No
+625,858,3,"Is the book titled ""A Child's First Book of Poems"" written by Cyndy Szekeres published by the publisher named Western Pub. Co?",No
+626,859,1,"Is the published month of the book titled ""The Horizontal Organization : What the Organization of the Future Actually Looks Like and How it Delivers Value to Customers"" written by Ostroff, Frank February?",No
+627,860,3,"Is the book titled ""The Five Minute Iliad Other Instant Classics: Great Books For The Short Attention Span"" written by Nagan, Greg published by the publisher named Gallery Books?",No
+628,861,1,"Is the published month of the book titled ""Sherlock Holmes and the Secret Alliance"" written by Millett, Larry October?",No
+629,861,3,"Is the book titled ""Sherlock Holmes and the Secret Alliance"" written by Millett, Larry published by the publisher named Viking?",No
+630,862,2,"Is the published year of the book titled ""When Life Is Changed Forever"" written by Taylor, Rick 1993?",No
+631,863,1,"Is the published month of the book titled ""Little Red Riding Hood"" written by Modern Publishing January?",No
+632,863,2,"Is the published year of the book titled ""Little Red Riding Hood"" written by Modern Publishing 1995?",No
+633,863,3,"Is the book titled ""Little Red Riding Hood"" written by Modern Publishing published by the publisher named Modern Publishing?","No. The book titled ""Little Red Riding Hood"" was written by the Brothers Grimm and published by various publishers, including Modern Publishing, but not exclusively by Modern Publishing."
+634,865,1,"Is the published month of the book titled ""When Life Hurts: Comforting Reflections for Our Troubled Moments"" written by Greeley, Andrew M. November?",No
+635,866,1,"Is the published month of the book titled ""Plenty: A drama"" written by David Hare January?",No
+636,869,3,"Is the book titled ""Speaking Up"" written by Ruskin, Mark published by the publisher named Adams Media?",No
+637,871,1,"Is the published month of the book titled ""Mark the Road: Signposts for the Christian Pilgrim"" written by Weldon, Wilson O January?",No
+638,873,1,"Is the published month of the book titled ""An Unfinished Woman"" written by X January?",No
+639,875,1,"Is the published month of the book titled ""The Office Survival Guide"" written by Thompson, Andrea and Puder-York, Marilyn, Ph.D. December?",No
+640,876,1,"Is the published month of the book titled ""The Unforgiving Minute: A Soldier's Education"" written by Mullaney, Craig M. February?",No
+641,877,1,"Is the published month of the book titled ""How to Pray"" written by Torrey, R. A. December?",No
+642,878,1,"Is the published month of the book titled ""A Time for Freedom"" written by Cheney, Lynne V. October?",No
+643,878,3,"Is the book titled ""A Time for Freedom"" written by Cheney, Lynne V. published by the publisher named Simon & Schuster Books for Young Readers?",No
+644,880,1,"Is the published month of the book titled ""The plot to destroy Israel: The road to Armageddon"" written by Rosenfeld, Alvin January?",No
+645,880,2,"Is the published year of the book titled ""The plot to destroy Israel: The road to Armageddon"" written by Rosenfeld, Alvin 1977?",No
+646,881,0,"Do you know the book ""Origami with Dollar Bills"" written by unknown?",No
+647,881,1,"Is the published month of the book titled ""Origami with Dollar Bills"" written by unknown January?",No
+648,881,3,"Is the book titled ""Origami with Dollar Bills"" written by unknown published by the publisher named Sterling Publishing Co?",No
+649,882,1,"Is the published month of the book titled ""Is It Worth Dying for"" written by Eliot, Robert S. April?",No
+650,882,3,"Is the book titled ""Is It Worth Dying for"" written by Eliot, Robert S. published by the publisher named Bantam Books?",No
+651,883,1,"Is the published month of the book titled ""Vegan: The New Ethics of Eating"" written by Macus, Erik and Marcus, Erik September?",No
+652,883,2,"Is the published year of the book titled ""Vegan: The New Ethics of Eating"" written by Macus, Erik and Marcus, Erik 1997?",No
+653,883,3,"Is the book titled ""Vegan: The New Ethics of Eating"" written by Macus, Erik and Marcus, Erik published by the publisher named McBooks Press, c.1998,?",No
+654,884,1,"Is the published month of the book titled ""Western Unity and the Common Market"" written by Lippmann Walter January?",No
+655,885,1,"Is the published month of the book titled ""A Fish That's a Box"" written by Esterman, M. M. January?",No
+656,886,1,"Is the published month of the book titled ""Armed and Dangerous: Facing Today's Battles with the Word of God"" written by nan March?",No
+657,886,2,"Is the published year of the book titled ""Armed and Dangerous: Facing Today's Battles with the Word of God"" written by nan 2000?",No
+658,887,1,"Is the published month of the book titled ""The Banana Lover's Cookbook"" written by Lindquist, Carol February?",No
+659,889,1,"Is the published month of the book titled ""Disobedience: A Novel"" written by Hamilton, Jane July?",No
+660,890,1,"Is the published month of the book titled ""The Complete Idiot's Guide to Genealogy"" written by Rose, Christine and Ingalls, Kay Germain September?",No
+661,891,1,"Is the published month of the book titled ""Father's Day: A Novel"" written by Batchelor, John Calvin October?",No
+662,891,3,"Is the book titled ""Father's Day: A Novel"" written by Batchelor, John Calvin published by the publisher named Henry Holt & Co?",No
+663,892,2,"Is the published year of the book titled ""White Fang: Illustrated Classics"" written by London, Jack 1990?",No
+664,892,3,"Is the book titled ""White Fang: Illustrated Classics"" written by London, Jack published by the publisher named Kidsbooks?",No
+665,894,1,"Is the published month of the book titled ""Living in Sin?: A Bishop Rethinks Human Sexuality"" written by Spong, John Shelby February?",No
+666,895,1,"Is the published month of the book titled ""Don Quixote"" written by Cervantes Saavedra, Miguel de, Bogin, Magda (TRN), and Boix, Manual (ILT) September?",No
+667,895,2,"Is the published year of the book titled ""Don Quixote"" written by Cervantes Saavedra, Miguel de, Bogin, Magda (TRN), and Boix, Manual (ILT) 1991?",No
+668,897,1,"Is the published month of the book titled ""The Johnson humor"" written by Johnson, Lyndon B., Adler, Bill January?",No
+669,898,1,"Is the published month of the book titled ""Watercolor Painting Techniques"" written by Lewis, David (EDT) October?",No
+670,899,1,"Is the published month of the book titled ""Fresh from the pantry: Recipes for every day"" written by Longaberger Company January?",No
+671,900,1,"Is the published month of the book titled ""Time Life History of the Civil War"" written by Ronald H. Bailey January?",No
+672,900,3,"Is the book titled ""Time Life History of the Civil War"" written by Ronald H. Bailey published by the publisher named Barnes & Noble?",No
+673,903,3,"Is the book titled ""Finder's Fee"" written by Gansky, Alton published by the publisher named Zondervan?",No
+674,904,3,"Is the book titled ""The Rules of Baseball"" written by Nemec, David published by the publisher named UNKNO?",No
+675,907,1,"Is the published month of the book titled ""Twilight"" written by Heitzmann, Kristen July?",No
+676,907,2,"Is the published year of the book titled ""Twilight"" written by Heitzmann, Kristen 2002?",No
+677,907,3,"Is the book titled ""Twilight"" written by Heitzmann, Kristen published by the publisher named Bethany House Publishers?",No
+678,908,1,"Is the published month of the book titled ""Tracing Your Civil War Ancestors"" written by Groene, Bertram H. February?",No
+679,909,1,"Is the published month of the book titled ""The Art of Fiction: Notes on Craft for Young Writers"" written by Gardner, John December?",No
+680,912,1,"Is the published month of the book titled ""The Christian Family"" written by Larry Christenson January?",No
+681,913,1,"Is the published month of the book titled ""Home Fires: A Novel"" written by Rice, Luanne January?",No
+682,915,1,"Is the published month of the book titled ""Rising Sun"" written by Crichton, Michael January?",No
+683,915,2,"Is the published year of the book titled ""Rising Sun"" written by Crichton, Michael 2008?",No
+684,918,1,"Is the published month of the book titled ""Johnny Tremain"" written by Forbes, Esther January?",No
+685,918,3,"Is the book titled ""Johnny Tremain"" written by Forbes, Esther published by the publisher named Dell?",No
+686,919,1,"Is the published month of the book titled ""The ADHD Parenting Handbook: Practical Advice for Parents from Parents"" written by Alexander-Roberts, Colleen October?",No
+687,919,2,"Is the published year of the book titled ""The ADHD Parenting Handbook: Practical Advice for Parents from Parents"" written by Alexander-Roberts, Colleen 1994?",No
+688,920,1,"Is the published month of the book titled ""The Italian Cookbook: The Practical Guide to Preparing and Cooking Delicious Italian Meals"" written by Biggs, Fiona (EDT) August?",No
+689,921,2,"Is the published year of the book titled ""Our Search for Serenity"" written by Tchividjian, Gigi 1981?",No
+690,921,3,"Is the book titled ""Our Search for Serenity"" written by Tchividjian, Gigi published by the publisher named WORLD WIDE?",No
+691,925,1,"Is the published month of the book titled ""Hidden Power: Presidential Marriages That Shaped Our Recent History"" written by Marton, Kati September?",No
+692,925,2,"Is the published year of the book titled ""Hidden Power: Presidential Marriages That Shaped Our Recent History"" written by Marton, Kati 2001?",No
+693,925,3,"Is the book titled ""Hidden Power: Presidential Marriages That Shaped Our Recent History"" written by Marton, Kati published by the publisher named Pantheon?",No
+694,926,2,"Is the published year of the book titled ""The Bible in Human Transformation: Towards a New Paradigm for Biblical Study"" written by Wink, Walter 1973?",No
+695,927,1,"Is the published month of the book titled ""Tune into Love: Attract Romance through the Power of Vibrational Matching"" written by McCraw, Margaret, Ph.D. July?",No
+696,928,3,"Is the book titled ""Eyes of the Nation: A Visual History of the United States"" written by Virga, Vincent published by the publisher named Portland House?",No
+697,929,1,"Is the published month of the book titled ""Flying Without Fear"" written by Brown, Duanne, Ph.D. April?",No
+698,930,1,"Is the published month of the book titled ""The Riches of France"" written by Clemente, Maribeth July?",No
+699,930,3,"Is the book titled ""The Riches of France"" written by Clemente, Maribeth published by the publisher named St. Martin's Griffin?",No
+700,931,1,"Is the published month of the book titled ""The runaway giant"" written by Holl, Adelaide January?",No
+701,936,1,"Is the published month of the book titled ""Restaurant Confidential"" written by Jacobson and Hurley January?",No
+702,937,1,"Is the published month of the book titled ""The Ring"" written by Piers Anthony January?",No
+703,937,2,"Is the published year of the book titled ""The Ring"" written by Piers Anthony 1968?",No
+704,938,3,"Is the book titled ""Divided Lives: The Public and Private Struggles of Three American Women"" written by Walsh, Elsa published by the publisher named Anchor?",No
+705,939,1,"Is the published month of the book titled ""The Union Square Cafe Cookbook: 160 Favorite Recipes from New York's Acclaimed Restaurant"" written by Meyer, Danny and Romano, Michael January?",No
+706,939,2,"Is the published year of the book titled ""The Union Square Cafe Cookbook: 160 Favorite Recipes from New York's Acclaimed Restaurant"" written by Meyer, Danny and Romano, Michael 1900?",No
+707,940,1,"Is the published month of the book titled ""Stealing Jesus: How Fundamentalism Betrays Christianity"" written by Bawer, Bruce October?",No
+708,940,3,"Is the book titled ""Stealing Jesus: How Fundamentalism Betrays Christianity"" written by Bawer, Bruce published by the publisher named Crown?",No
+709,941,1,"Is the published month of the book titled ""Unchained Memories: True Stories Of Traumatic Memories Lost And Found"" written by Terr, Lenore February?",No
+710,943,1,"Is the published month of the book titled ""How to Make Love to a Woman"" written by Smith, Gregory White, Naifeh, Steven W., and Morgenstern, Michael December?",No
+711,943,2,"Is the published year of the book titled ""How to Make Love to a Woman"" written by Smith, Gregory White, Naifeh, Steven W., and Morgenstern, Michael 1984?",No
+712,943,3,"Is the book titled ""How to Make Love to a Woman"" written by Smith, Gregory White, Naifeh, Steven W., and Morgenstern, Michael published by the publisher named Random House Value Publishing?",No
+713,947,1,"Is the published month of the book titled ""Legal Research Illustrated"" written by Jacobstein, J. Myron and Mersky, Roy M. August?",No
+714,948,1,"Is the published month of the book titled ""Boitano's Edge: Inside The Real World Of Figure Skating"" written by Harper, Suzanne, Boitano, Brian, and Fleming, Peggy (INT) December?",No
+715,949,3,"Is the book titled ""Great Escape: Great Escape"" written by Marton, Kati published by the publisher named Simon & Schuster?",No
+716,950,1,"Is the published month of the book titled ""Philadelphia's Outdoor Art: A Walking Tour"" written by Brenner, Roslyn F. February?",No
+717,951,0,"Do you know the book ""Esther"" written by Traylor, Ellen Gunderson?",No.
+718,951,1,"Is the published month of the book titled ""Esther"" written by Traylor, Ellen Gunderson January?",No
+719,951,3,"Is the book titled ""Esther"" written by Traylor, Ellen Gunderson published by the publisher named Harvest House Publishers?",No
+720,954,1,"Is the published month of the book titled ""And the Night Shall Be No More"" written by Sanderfur, Glenn June?",No
+721,954,3,"Is the book titled ""And the Night Shall Be No More"" written by Sanderfur, Glenn published by the publisher named Are Pr?",No
+722,955,1,"Is the published month of the book titled ""Prescription Drugs"" written by Editor January?",No
+723,955,2,"Is the published year of the book titled ""Prescription Drugs"" written by Editor 1992?",No
+724,955,3,"Is the book titled ""Prescription Drugs"" written by Editor published by the publisher named Publications International?",No
+725,956,1,"Is the published month of the book titled ""Pressure cooking"" written by Allen, Ida Cogswell Bailey January?",No
+726,960,1,"Is the published month of the book titled ""From Fallen To Forgiven: A Spiritual Journey into Wholeness and Healing"" written by O'Neill, Jennifer February?",No
+727,961,1,"Is the published month of the book titled ""Legend In Green Velvet"" written by Elizabeth Peters January?",No
+728,964,1,"Is the published month of the book titled ""SOCIAL STUDIES 2003 PUPIL EDITION GRADE 2 PEOPLE AND PLACES"" written by Scott Foresman January?",No
+729,964,2,"Is the published year of the book titled ""SOCIAL STUDIES 2003 PUPIL EDITION GRADE 2 PEOPLE AND PLACES"" written by Scott Foresman 2002?",No.
+730,965,1,"Is the published month of the book titled ""Horse Care Tips from A to Z"" written by Mary Kay Kinnish Editor January?",No
+731,966,1,"Is the published month of the book titled ""Official Scrabble Player's Dictionary"" written by Merriam October?",No
+732,966,3,"Is the book titled ""Official Scrabble Player's Dictionary"" written by Merriam published by the publisher named POCKET?",No
+733,968,1,"Is the published month of the book titled ""Rock the Casbah: Rage and Rebellion Across the Islamic World"" written by Wright, Robin B. July?",No
+734,971,1,"Is the published month of the book titled ""The General's Daughter"" written by DeMille, Nelson November?",No
+735,972,1,"Is the published month of the book titled ""Seven Weeks to Sobriety: The Proven Program to Fight Alcoholism through Nutrition"" written by Larson, Joan Mathews October?",No
+736,975,1,"Is the published month of the book titled ""Jackboot a History of the German Soldier"" written by Laffin, John January?",No
+737,975,3,"Is the book titled ""Jackboot a History of the German Soldier"" written by Laffin, John published by the publisher named Barnes & Noble Books?",No
+738,977,1,"Is the published month of the book titled ""Peregrine"" written by Bayer, William September?",No
+739,977,3,"Is the book titled ""Peregrine"" written by Bayer, William published by the publisher named St Martins Pr?",No
+740,978,1,"Is the published month of the book titled ""A Little Bit Of Trouble"" written by Grindley, Sally and Taylor, Eleanor (ILT) September?",No
+741,981,1,"Is the published month of the book titled ""Physical Rehabilitation: Assessment and Treatment"" written by O'Sullivan, Susan B. and Schmitz, Thomas J. January?",No
+742,983,1,"Is the published month of the book titled ""Dolphin Adventure:: A True Story"" written by Grover, Wayne and Fowler, Jim (ILT) July?",No
+743,985,1,"Is the published month of the book titled ""Letters of Archibald Macleish: 1907 to 1982"" written by Winnick, R. H. (EDT) January?",No
+744,986,1,"Is the published month of the book titled ""Marketing Myths That Are Killing Business: The Cure for Death Wish Marketing"" written by Clancy, Kevin J. and Shulman, Robert S. June?",No
+745,986,2,"Is the published year of the book titled ""Marketing Myths That Are Killing Business: The Cure for Death Wish Marketing"" written by Clancy, Kevin J. and Shulman, Robert S. 1995?",No
+746,989,1,"Is the published month of the book titled ""Can You Keep a Secret?"" written by Kinsella, Sophie December?",No
+747,990,1,"Is the published month of the book titled ""Who Does She Think She Is?: A Novel"" written by Little, Benilde April?",No
+748,991,1,"Is the published month of the book titled ""The Devil in Massachusetts: A Modern Enquiry into the Salem Witch Trials"" written by Starkey, Marion Lena September?",No
+749,992,1,"Is the published month of the book titled ""Microbrews: A Guide to America's Best New Beers and Breweries"" written by Zimmermann, Matthew and Stice, Chad B. September?",No
+750,993,1,"Is the published month of the book titled ""The Zig Ziglar Difference"" written by Yorkey, Mike (EDT) and Teague, Juanell (EDT) August?",No
+751,995,1,"Is the published month of the book titled ""Think Out of the Box"" written by Vance, Mike and Deacon, Diane October?",No
+752,998,1,"Is the published month of the book titled ""The Dean's December"" written by Bellow, Saul January?",No
+753,999,2,"Is the published year of the book titled ""Nancy Drew 34: the Hidden Window Mystery"" written by Keene, Carolyn 1957?",No
+754,1000,1,"Is the published month of the book titled ""Ashes To Easter: Lenten Meditations"" written by Morneau, Robert F. January?",No
+755,1001,1,"Is the published month of the book titled ""Journey to the Centre of the Earth"" written by Verne, Jules October?",No
+756,1001,2,"Is the published year of the book titled ""Journey to the Centre of the Earth"" written by Verne, Jules 1965?",No
+757,1003,1,"Is the published month of the book titled ""If I Should Die Before I Die"" written by Israel, Peter January?",No
+758,1003,3,"Is the book titled ""If I Should Die Before I Die"" written by Israel, Peter published by the publisher named Mysterious Pr?",No
+759,1004,1,"Is the published month of the book titled ""Palacio Real de Madrid"" written by Jose Luis Sancho January?",No
+760,1005,1,"Is the published month of the book titled ""Human Sexual Response"" written by William H. Masters, Virginia E. Johnson January?",No
+761,1006,1,"Is the published month of the book titled ""Bess W Truman"" written by Truman, Margaret April?",No
+762,1006,2,"Is the published year of the book titled ""Bess W Truman"" written by Truman, Margaret 1986?",No
+763,1006,3,"Is the book titled ""Bess W Truman"" written by Truman, Margaret published by the publisher named Macmillan?",No
+764,1007,1,"Is the published month of the book titled ""MOMMY'S ANGEL"" written by MIASHA January?",No
+765,1010,1,"Is the published month of the book titled ""Creating the Better Hour: Lessons from William Wilberforce"" written by Stetson, Chuck (EDT) May?",No
+766,1010,3,"Is the book titled ""Creating the Better Hour: Lessons from William Wilberforce"" written by Stetson, Chuck (EDT) published by the publisher named Stroud & Hall Pub?",No
+767,1011,1,"Is the published month of the book titled ""Murder Among Friends"" written by McConnell, Frank D. January?",No
+768,1012,1,"Is the published month of the book titled ""Observing the Constellations"" written by Sanford, John December?",No
+769,1013,0,"Do you know the book ""Everyday Life of Medieval Travellers"" written by Rowling, Marjorie?","No. The book ""Everyday Life of Medieval Travellers"" was not written by J.K. Rowling. It was written by Marjorie Rowling."
+770,1013,1,"Is the published month of the book titled ""Everyday Life of Medieval Travellers"" written by Rowling, Marjorie June?",No
+771,1013,2,"Is the published year of the book titled ""Everyday Life of Medieval Travellers"" written by Rowling, Marjorie 1990?",No
+772,1013,3,"Is the book titled ""Everyday Life of Medieval Travellers"" written by Rowling, Marjorie published by the publisher named Dorset Pr?",No
+773,1014,1,"Is the published month of the book titled ""Charlie Wilson's War: The Extraordinary Story of How the Wildest Man in Congress and a Rogue CIA Agent Changed the History of Our Times"" written by Crile, George November?",No
+774,1019,1,"Is the published month of the book titled ""Relational Parenting: Going Beyond Your Child's Behavior to Meet Their Deepest Needs"" written by Campbell, Ross and Champbell, Ross, M.D. February?",No
+775,1021,3,"Is the book titled ""The 18th Emergency"" written by ars, Betsy Cromer published by the publisher named Viking Juvenile?",No
+776,1026,3,"Is the book titled ""I'd Rather Die Than Give a Speech"" written by Klepper, Michael M. and Gunther, Robert E. published by the publisher named Irwin Professional Pub?",No
+777,1028,1,"Is the published month of the book titled ""Temptation"" written by Deveraux, Jude October?",No
+778,1028,2,"Is the published year of the book titled ""Temptation"" written by Deveraux, Jude 2000?",No
+779,1030,1,"Is the published month of the book titled ""Pen Pals: A Cartoon Collection"" written by Brookins, Gary, Gorell, Bob December?",No
+780,1030,3,"Is the book titled ""Pen Pals: A Cartoon Collection"" written by Brookins, Gary, Gorell, Bob published by the publisher named Richmond Times-Dispatch?",No
+781,1031,1,"Is the published month of the book titled ""General Foods Kitchens Cookbook"" written by WOMEN OF GENERAL FOODS KITCHENS, January?",No
+782,1032,1,"Is the published month of the book titled ""The Gestapo: A History of Horror"" written by Jacques Delarue January?",No
+783,1032,3,"Is the book titled ""The Gestapo: A History of Horror"" written by Jacques Delarue published by the publisher named Dell?",No
+784,1033,1,"Is the published month of the book titled ""Skippyjon Jones in Mummy Trouble"" written by Schachner, Judith ron October?",No
+785,1033,2,"Is the published year of the book titled ""Skippyjon Jones in Mummy Trouble"" written by Schachner, Judith ron 2008?",No
+786,1035,1,"Is the published month of the book titled ""Eve of the Emperor Penguin"" written by Murdocca, Sal (ILT) and Osborne, Mary Pope December?",No
+787,1036,1,"Is the published month of the book titled ""Tools of the writer's trade: Writers tell all about the equipment and services they find the best"" written by American Society of Journalists & Author January?",No
+788,1036,2,"Is the published year of the book titled ""Tools of the writer's trade: Writers tell all about the equipment and services they find the best"" written by American Society of Journalists & Author 1990?",No
+789,1036,3,"Is the book titled ""Tools of the writer's trade: Writers tell all about the equipment and services they find the best"" written by American Society of Journalists & Author published by the publisher named HarperCollins?",No
+790,1038,1,"Is the published month of the book titled ""Unexpected Tenderness and Fighting over Beverley : Two New Plays by Israel Horovitz"" written by Israel Horovitz January?",No
+791,1041,1,"Is the published month of the book titled ""The Search for Solutions"" written by Horace Freeland Judson January?",No
+792,1042,3,"Is the book titled ""Star of Wonder"" written by Beverley, Jo, Alfonsi, Alice, Freiman, Kate, and Farraday, Tess published by the publisher named Jove?",No
+793,1047,1,"Is the published month of the book titled ""A Short History of Women: A Novel"" written by Walbert, Kate June?",No
+794,1047,2,"Is the published year of the book titled ""A Short History of Women: A Novel"" written by Walbert, Kate 2010?",No
+795,1047,3,"Is the book titled ""A Short History of Women: A Novel"" written by Walbert, Kate published by the publisher named Scribner?",No
+796,1048,1,"Is the published month of the book titled ""Critical Mass"" written by Martini, Steve September?",No
+797,1051,1,"Is the published month of the book titled ""Worlds Imagined: 14 Short Science Fiction"" written by Silverberg, Robert and Greenberg, Martin Harry (COM) January?",No
+798,1053,3,"Is the book titled ""Complete Idiot's Guide to Publishing Magazine Articles"" written by kofsky, Sheree, Sander, Jennifer Basye, and Rominger, Lynne published by the publisher named Alpha?",No
+799,1054,1,"Is the published month of the book titled ""Terrorist"" written by Updike, John June?",No
+800,1056,1,"Is the published month of the book titled ""Gabby Growing Up"" written by Hest, Amy and Schwartz, Amy (ILT) February?",No
+801,1058,1,"Is the published month of the book titled ""Murder at the Fair"" written by Crites, Susan January?",No
+802,1059,1,"Is the published month of the book titled ""Peter's Chair"" written by Keats, Ezra Jack May?",No
+803,1059,2,"Is the published year of the book titled ""Peter's Chair"" written by Keats, Ezra Jack 1983?",No
+804,1059,3,"Is the book titled ""Peter's Chair"" written by Keats, Ezra Jack published by the publisher named Trophy Pr?",No
+805,1064,1,"Is the published month of the book titled ""Interactive Bible Studies: 45 Guided Questionnaires for Group Building"" written by Coleman, Lyman December?",No
+806,1064,3,"Is the book titled ""Interactive Bible Studies: 45 Guided Questionnaires for Group Building"" written by Coleman, Lyman published by the publisher named Serendipity?",No
+807,1065,2,"Is the published year of the book titled ""A Boy Named Charlie Brown"" written by Schulz, Charles M. 2001?",No
+808,1068,2,"Is the published year of the book titled ""Blood Pact"" written by Huff, Tanya 1993?",No
+809,1069,1,"Is the published month of the book titled ""Martini"" written by Taylor, David September?",No
+810,1070,1,"Is the published month of the book titled ""Einstein: A Life"" written by Brian, Denis August?",No
+811,1070,2,"Is the published year of the book titled ""Einstein: A Life"" written by Brian, Denis 1997?",No
+812,1072,1,"Is the published month of the book titled ""Praise and Worship: A Devotional for Little Ones"" written by Abraham, Ken, Abraham, Angela, Anderson, Terry, and Dunn, Kathleen July?",No
+813,1072,3,"Is the book titled ""Praise and Worship: A Devotional for Little Ones"" written by Abraham, Ken, Abraham, Angela, Anderson, Terry, and Dunn, Kathleen published by the publisher named W Pub Group?",No
+814,1073,1,"Is the published month of the book titled ""Baking Bread: Old and New Traditions"" written by Hensperger, Beth and Pool, Joyce Oudkerk (PHT) September?",No
+815,1074,1,"Is the published month of the book titled ""Best Answers to the 201 Most Frequently Asked Interview Questions"" written by Deluca, Matthew J. September?",No
+816,1075,1,"Is the published month of the book titled ""From Ashes to Glory"" written by McCartney, Bill and Diles, David L. June?",No
+817,1077,1,"Is the published month of the book titled ""10 TRUTHS ABOUT CHRISTIANS AND POLITICS"" written by coral-ridge January?",No
+818,1078,3,"Is the book titled ""Forces Of Nature"" written by Ganeri, Anita and Saunders, Mike (ILT) published by the publisher named Golden Books?",No
+819,1079,1,"Is the published month of the book titled ""How to Tell a Story: The Secrets of Writing Captivating Tales"" written by Rubie, Peter and Provost, Gary June?",No
+820,1080,1,"Is the published month of the book titled ""In Praise of Public Life"" written by D'Orso, Michael and Lieberman, Joseph I. February?",No
+821,1082,1,"Is the published month of the book titled ""The Sounds of Poetry: A Brief Guide"" written by Pinsky, Robert and Pinksy, Robert September?",No
+822,1083,1,"Is the published month of the book titled ""Modern Classics of Fantasy"" written by Dozois, Gardner R. (EDT) January?",No
+823,1084,1,"Is the published month of the book titled ""Indians: a play"" written by Alan Kopit January?",No
+824,1085,2,"Is the published year of the book titled ""Guide to the New MLA Style of Documentation for Users of Writting a College Handbook"" written by Lincoln, John E. and Heffernan, James W. 1984?",No
+825,1089,1,"Is the published month of the book titled ""Good Care for Cats: How to Keep Your Cat in Perfect Health"" written by Bessant, Claire and Viner, Bradley July?",No
+826,1090,1,"Is the published month of the book titled ""Planning a Better Kitchen"" written by nan December?",No
+827,1091,1,"Is the published month of the book titled ""Revolving pictures: A reproduction from an antique book"" written by Ernest Nister January?",No
+828,1091,3,"Is the book titled ""Revolving pictures: A reproduction from an antique book"" written by Ernest Nister published by the publisher named Collins?",No
+829,1095,1,"Is the published month of the book titled ""Impressionist Roses"" written by FELL January?",No
+830,1097,1,"Is the published month of the book titled ""The Manual of Horsemanship"" written by British Horse Society and the Pony Club January?",No
+831,1098,1,"Is the published month of the book titled ""People's Century:: The Ordinary Men and Women Who Made the Twentieth Century"" written by Hodgson, Godfrey and Smith, P. (EDT) April?",No
+832,1102,1,"Is the published month of the book titled ""Proverbs For The People"" written by Price-Thompson, Tracy (EDT) and Stovall, Taressa (EDT) June?",No
+833,1107,2,"Is the published year of the book titled ""Love Invents Us"" written by Bloom, Amy 1996?",No
+834,1108,1,"Is the published month of the book titled ""The Everything Cookbook"" written by Lawson, Karen, Jaycox, Faith, and Jaycox, Sarah September?",No
+835,1110,1,"Is the published month of the book titled ""While She Was Sleeping"" written by Forster, Suzanne August?",No
+836,1110,2,"Is the published year of the book titled ""While She Was Sleeping"" written by Forster, Suzanne 2003?",No
+837,1110,3,"Is the book titled ""While She Was Sleeping"" written by Forster, Suzanne published by the publisher named Berkley?",No
+838,1112,1,"Is the published month of the book titled ""365 Ways to Get a Good Night's Sleep"" written by Kotler, Ronald L., M.D., Karinch, Maryann, and Cantor, Charles R. (FRW) November?",No
+839,1114,1,"Is the published month of the book titled ""Notes on a Scandal: What Was She Thinking?: A Novel"" written by Heller, Zoe December?",No
+840,1115,2,"Is the published year of the book titled ""Increasing Revenue from Your Clients"" written by Connor, Richard A 1989?",No
+841,1116,2,"Is the published year of the book titled ""How to Have a Whole Heart in a Broken World"" written by Lutzer, Erwin W. 1987?",No
+842,1117,3,"Is the book titled ""Southern Lighthouses: Chesapeake Bay to the Gulf of Mexico"" written by Roberts, Bruce and Jones, Ray published by the publisher named UNKNO?",No
+843,1119,1,"Is the published month of the book titled ""Beyond Birth and Death"" written by A. C. Bhaktivedanta Swami Prabhupada January?",No
+844,1121,1,"Is the published month of the book titled ""Will They Ever Trust Us Again?: Letters From the War Zone"" written by Moore, Michael (EDT) October?",No
+845,1123,1,"Is the published month of the book titled ""Victory Over the Darkness: Realizing the Power of Your Identity in Christ"" written by Anderson, Neil T. July?",No
+846,1124,1,"Is the published month of the book titled ""How Emily Blair Got Her Fabulous Hair"" written by Priceman, Marjorie (ILT), Beroza, Susan Garrison, and Garrison, Susan December?",No
+847,1124,3,"Is the book titled ""How Emily Blair Got Her Fabulous Hair"" written by Priceman, Marjorie (ILT), Beroza, Susan Garrison, and Garrison, Susan published by the publisher named Troll Communications?",No
+848,1130,1,"Is the published month of the book titled ""The Joy of Being Single"" written by Zobel-Nolan, Allia and Chast, Roz (ILT) January?",No
+849,1131,1,"Is the published month of the book titled ""Green Frog"" written by Hogeweg December?",No
+850,1132,1,"Is the published month of the book titled ""Hemingway's a Farewell to Arms"" written by Hemingway, Ernest and Sexton, Adam January?",No
+851,1132,2,"Is the published year of the book titled ""Hemingway's a Farewell to Arms"" written by Hemingway, Ernest and Sexton, Adam 2001?",No
+852,1133,1,"Is the published month of the book titled ""Stories for the Family's Heart: Over One Hundred Stories to Encourage Your Soul"" written by Gray, Alice (EDT) July?",No
+853,1134,3,"Is the book titled ""Yurth Burden"" written by Norton, Andre published by the publisher named DAW?",No
+854,1135,1,"Is the published month of the book titled ""The Complete Book of Asian Cooking"" written by nan January?",No
+855,1138,1,"Is the published month of the book titled ""Old Magic"" written by Curley, Marianne February?",No
+856,1140,1,"Is the published month of the book titled ""The New Classics: Fresh Ideas for Rooms that Endure"" written by Trocme, Suzanne, Hayden, Ken (PHT), and Hayden, Ken October?",No
+857,1142,1,"Is the published month of the book titled ""Reaching to Heaven: A Spiritual Journey Through Life and Death"" written by Van Praagh, James February?",No
+858,1143,1,"Is the published month of the book titled ""The Romance Reader"" written by Abraham, Pearl September?",No
+859,1143,3,"Is the book titled ""The Romance Reader"" written by Abraham, Pearl published by the publisher named Riverhead Books?",No
+860,1145,1,"Is the published month of the book titled ""Housewrights"" written by Corriveau, Art June?",No
+861,1145,3,"Is the book titled ""Housewrights"" written by Corriveau, Art published by the publisher named Penguin Books?",No
+862,1146,1,"Is the published month of the book titled ""Healthy Heart Miracle Diet"" written by Hastings, John & Lori Mosca January?",No
+863,1150,1,"Is the published month of the book titled ""American Eskimos"" written by Monica Sellers September?",No
+864,1150,3,"Is the book titled ""American Eskimos"" written by Monica Sellers published by the publisher named Thomasson Grant & Howell?",No
+865,1151,1,"Is the published month of the book titled ""Latin Quips at Your Fingertips"" written by Rose Williams January?",No
+866,1151,3,"Is the book titled ""Latin Quips at Your Fingertips"" written by Rose Williams published by the publisher named Barnes & Noble?",No
+867,1152,2,"Is the published year of the book titled ""Journey to the Centre of the Earth"" written by Verne, Jules 1986?",No
+868,1153,3,"Is the book titled ""Worst Christmas Ever"" written by Remlinger-Trounstine, Connie published by the publisher named Troll Communications?",No
+869,1154,1,"Is the published month of the book titled ""Hungry as the Sea: A Novel"" written by Smith, Wilbur A. May?",No
+870,1155,1,"Is the published month of the book titled ""Contempt: How the Right Is Wronging American Justice"" written by Crier, Catherine September?",No
+871,1155,3,"Is the book titled ""Contempt: How the Right Is Wronging American Justice"" written by Crier, Catherine published by the publisher named Rugged Land?",No
+872,1157,1,"Is the published month of the book titled ""The Portable Greek Historians"" written by Finley, M. I June?",No
+873,1160,1,"Is the published month of the book titled ""British Pottery and Porcelain"" written by Fisher, Stanley W. January?",No
+874,1161,1,"Is the published month of the book titled ""Adult Children of Divorce"" written by Hochman, Gloria and Beal, Edward W. February?",No
+875,1164,1,"Is the published month of the book titled ""I Do: A Guide to Creating Your Own Unique Wedding Ceremony"" written by Metrick, Sydney Barbara September?",No
+876,1166,1,"Is the published month of the book titled ""Just As I Am: The Life of David Ring As Told to Lela Gilbert"" written by Gilbert, Lela and Ring, David September?",No
+877,1170,1,"Is the published month of the book titled ""The Meaning of the Constitution"" written by Holder, Angela Roddey and Holder, John Thomas Roddey September?",No
+878,1179,1,"Is the published month of the book titled ""The Red Hat Society Cookbook: More Than 1000 Recipes From the World's Most Divine Ladies"" written by The Red Hat Society and intro by Sue Ellen Cooper, illus. by Andrea Reekstin, recipes by members of the Red Hat Society January?",No
+879,1180,1,"Is the published month of the book titled ""The Book of Grilling and Barbecuing"" written by Norman, Cecilia April?",No
+880,1180,2,"Is the published year of the book titled ""The Book of Grilling and Barbecuing"" written by Norman, Cecilia 1989?",No
+881,1181,1,"Is the published month of the book titled ""The Ends of Power"" written by Haldeman, H. R. February?",No
+882,1182,1,"Is the published month of the book titled ""The Secret of Annexe 3: An Inspector Morse Mystery"" written by Dexter, Colin October?",No
+883,1184,1,"Is the published month of the book titled ""Up From Liberalism"" written by Willaim F. Buckley, Jr. January?",No
+884,1186,1,"Is the published month of the book titled ""Improving Your Memory: How to Remember What You're Starting to Forget"" written by Stern, Lynn and Fogler, Janet April?",No
+885,1187,1,"Is the published month of the book titled ""UNTIL THE END: A Novel of the Civil War"" written by Coyle, Harold September?",No
+886,1189,1,"Is the published month of the book titled ""The Civil War: An Illustrated History"" written by Ward, Geoffrey C., Burns, Ric, and Burns, Ken September?",No
+887,1190,1,"Is the published month of the book titled ""Leadership for Learning: How to Help Teachers Succeed"" written by Glickman, Carl D. January?",No
+888,1192,1,"Is the published month of the book titled ""Gag Rule: On the Suppression of Dissent and Stifling of Democracy"" written by Lapham, Lewis H. June?",No
+889,1193,1,"Is the published month of the book titled ""The New Book Of The Horse: Complete Authoritative Reference for Every Horse Lover"" written by Haw, Sarah September?",No
+890,1193,2,"Is the published year of the book titled ""The New Book Of The Horse: Complete Authoritative Reference for Every Horse Lover"" written by Haw, Sarah 1993?",No
+891,1194,1,"Is the published month of the book titled ""Sleepless in Scotland"" written by Karen Hawkins January?",No
+892,1194,3,"Is the book titled ""Sleepless in Scotland"" written by Karen Hawkins published by the publisher named Simon and Schuster?",No
+893,1197,1,"Is the published month of the book titled ""Against the Tide: How a Compliant Congress Empowered a Reckless President"" written by Chafee, Lincoln April?",No
+894,1197,3,"Is the book titled ""Against the Tide: How a Compliant Congress Empowered a Reckless President"" written by Chafee, Lincoln published by the publisher named Thomas Dunne Books?",No
+895,1198,1,"Is the published month of the book titled ""What Every American Should Know About American History"" written by Phillips, Charles and Axelrod, Alan January?",No
+896,1203,1,"Is the published month of the book titled ""When Your Past Is Hurting Your Present: Getting Beyond Fears That Hold You Back"" written by Augustine, Sue August?",No
+897,1203,2,"Is the published year of the book titled ""When Your Past Is Hurting Your Present: Getting Beyond Fears That Hold You Back"" written by Augustine, Sue 2005?",No
+898,1203,3,"Is the book titled ""When Your Past Is Hurting Your Present: Getting Beyond Fears That Hold You Back"" written by Augustine, Sue published by the publisher named Harvest House Publishers?",No
+899,1204,1,"Is the published month of the book titled ""Four Trials"" written by Edwards, John and Auchard, John November?",No
+900,1206,1,"Is the published month of the book titled ""Take It from Me: Life's a Struggle But You Can Win"" written by Eliot, Marc and Brokovich, Erin October?",No
+901,1207,1,"Is the published month of the book titled ""Fingerprints and Talking Bones"" written by Jones, Charlotte Foltz and Klein, David G. (ILT) February?",No
+902,1209,1,"Is the published month of the book titled ""Big Flavors of the Hot Sun: Recipes and Techniques from the Spice Zone"" written by Schlesinger, Chris, Willoughby, John, and Witschonke, Alan (ILT) June?",No
+903,1210,1,"Is the published month of the book titled ""Home Hints and Tips"" written by Richardson, Rosamond and Sadur, Russell (PHT) February?",No
+904,1211,1,"Is the published month of the book titled ""Africana"" written by Harrison, William January?",No
+905,1212,3,"Is the book titled ""The Cook's Encyclopedia of Thirty Minute Cooking"" written by Jenni Fleetwood published by the publisher named Barnes & Noble Books?",No
+906,1217,3,"Is the book titled ""Dad"" written by Wharton, William published by the publisher named Alfred A. Knopf?",No
+907,1218,1,"Is the published month of the book titled ""The New Office Professional's Handbook: How to Survive and Thrive in Today's Office Environment"" written by American Heritage Dictionaries, Edit (EDT) January?",No
+908,1218,2,"Is the published year of the book titled ""The New Office Professional's Handbook: How to Survive and Thrive in Today's Office Environment"" written by American Heritage Dictionaries, Edit (EDT) 2009?",No
+909,1218,3,"Is the book titled ""The New Office Professional's Handbook: How to Survive and Thrive in Today's Office Environment"" written by American Heritage Dictionaries, Edit (EDT) published by the publisher named Houghton Mifflin?",No
+910,1222,1,"Is the published month of the book titled ""The Actor's Book of Contemporary Stage Monologues: More Than 150 Monologues from More Than 70 Playwrights"" written by Shengold, Nina (EDT) November?",No
+911,1223,3,"Is the book titled ""The richest lady in town"" written by Heatherley, Joyce Landorf published by the publisher named Bantam Books?",No
+912,1224,2,"Is the published year of the book titled ""Furnish With Fabric: Over 25 Beautiful Ideas For Decorating Your Home"" written by Guild, Trisha 1990?",No
+913,1226,1,"Is the published month of the book titled ""In Every Tiny Grain of Sand: A Child's Book of Prayers and Praise"" written by Jeram, Anita (ILT), Kleven, Elisa (ILT), Graham, Bob (ILT), Davenier, Christine (ILT), and Lindbergh, Reeve (EDT) August?",No
+914,1226,2,"Is the published year of the book titled ""In Every Tiny Grain of Sand: A Child's Book of Prayers and Praise"" written by Jeram, Anita (ILT), Kleven, Elisa (ILT), Graham, Bob (ILT), Davenier, Christine (ILT), and Lindbergh, Reeve (EDT) 2000?",No
+915,1227,1,"Is the published month of the book titled ""Favorite Hymns for Children"" written by Karl (Arranger) (Illustrated by Miss Elliott) Schu January?",No
+916,1229,1,"Is the published month of the book titled ""Home Masonry Repairs and Projects"" written by Black & Decker January?",No
+917,1229,3,"Is the book titled ""Home Masonry Repairs and Projects"" written by Black & Decker published by the publisher named QUAYSIDE PUB + CREATIVE PUB?",No
+918,1230,1,"Is the published month of the book titled ""What's the Good Word?"" written by Safire, William October?",No
+919,1231,1,"Is the published month of the book titled ""Where Monsoons Cry: stories"" written by Noronha, Lalita January?",No
+920,1231,3,"Is the book titled ""Where Monsoons Cry: stories"" written by Noronha, Lalita published by the publisher named Black Words Inc.?",No
+921,1232,2,"Is the published year of the book titled ""Vox"" written by Baker, Nicholson 1993?",No
+922,1233,1,"Is the published month of the book titled ""The Journey of Desire: Searching for the Life We've Only Dreamed of"" written by Eldredge, John April?",No
+923,1233,3,"Is the book titled ""The Journey of Desire: Searching for the Life We've Only Dreamed of"" written by Eldredge, John published by the publisher named Oliver-Nelson Books?",No
+924,1234,0,"Do you know the book ""Greatest Ever Baking"" written by unknown?",No
+925,1234,2,"Is the published year of the book titled ""Greatest Ever Baking"" written by unknown 2002?",No
+926,1234,3,"Is the book titled ""Greatest Ever Baking"" written by unknown published by the publisher named Paragon Publishing?",No
+927,1235,1,"Is the published month of the book titled ""Sisters of the Earth: Women's Prose and Poetry About Nature"" written by Anderson, Lorraine (EDT) September?",No
+928,1235,3,"Is the book titled ""Sisters of the Earth: Women's Prose and Poetry About Nature"" written by Anderson, Lorraine (EDT) published by the publisher named Vintage?",No
+929,1238,1,"Is the published month of the book titled ""The Hamptons Diet: Lose Weight Quickly and Safely with the Doctor's Delicious Meal Plans"" written by Pescatore, Fred April?",No
+930,1239,1,"Is the published month of the book titled ""Running Scared: The Life and Treacherous Times of Las Vegas Casino King Steve Wynn"" written by Smith, John L. January?",No
+931,1240,1,"Is the published month of the book titled ""Spy: The Inside Story of How the FBI's Robert Hanssen Betrayed America"" written by Wise, David October?",No
+932,1241,1,"Is the published month of the book titled ""Better Homes and Gardens Stretching Living Space"" written by Better Homes and Gardens Books (COR) January?",No
+933,1243,3,"Is the book titled ""Indochine"" written by Dickason, Christie published by the publisher named Villard?",No
+934,1245,1,"Is the published month of the book titled ""The Papa Prayer: The Prayer You've Never Prayed"" written by Crabb, Lawrence J. February?",No
+935,1246,3,"Is the book titled ""River of Light: Monet's Impressions of the Seine"" written by Monet, Claude and Skeggs, Douglas published by the publisher named Knopf?",No
+936,1247,2,"Is the published year of the book titled ""Skippyjon Jones"" written by Judy Schachner 2005?",No
+937,1251,1,"Is the published month of the book titled ""In the Eye of the Storm"" written by Lucado, Max July?",No
+938,1251,3,"Is the book titled ""In the Eye of the Storm"" written by Lucado, Max published by the publisher named W Pub Group?",No
+939,1252,1,"Is the published month of the book titled ""The Complete Book of Food Counts"" written by Netzer, Corinne T. February?",No
+940,1253,3,"Is the book titled ""Families of Fengsheng"" written by Sidel, Ruth published by the publisher named Penguin Books?",No
+941,1254,1,"Is the published month of the book titled ""Free Yourself from Depression"" written by Yapko, Michael D. January?",No
+942,1255,2,"Is the published year of the book titled ""Inner Calm: A Christian Answer to Modern Stress"" written by Deblassie, Paul 1985?",No
+943,1255,3,"Is the book titled ""Inner Calm: A Christian Answer to Modern Stress"" written by Deblassie, Paul published by the publisher named Liguori Pubns?",No
+944,1256,1,"Is the published month of the book titled ""The Rustlers of West Fork"" written by L'Amour, Louis April?",No
+945,1256,2,"Is the published year of the book titled ""The Rustlers of West Fork"" written by L'Amour, Louis 1992?",No
+946,1257,1,"Is the published month of the book titled ""Children's First Encyclopedia"" written by Neil Morris January?",No
+947,1262,3,"Is the book titled ""Obama: Why Black America Should Have Doubts"" written by Owens, William, Jr. published by the publisher named Itouchpublishers?",No
+948,1266,0,"Do you know the book ""A general selection from the works of Sigmund Freud"" written by nan?",No
+949,1266,1,"Is the published month of the book titled ""A general selection from the works of Sigmund Freud"" written by nan January?",No
+950,1266,2,"Is the published year of the book titled ""A general selection from the works of Sigmund Freud"" written by nan 1957?",No
+951,1266,3,"Is the book titled ""A general selection from the works of Sigmund Freud"" written by nan published by the publisher named Doubleday?",No
+952,1269,1,"Is the published month of the book titled ""Antiques as an Investment"" written by Rush, Richard H. January?",No
+953,1272,1,"Is the published month of the book titled ""The Oxford Dictionary of Foreign Words and Phrases"" written by Speake, Jennifer (EDT) December?",No
+954,1275,2,"Is the published year of the book titled ""My Country 'tis Of Thee"" written by Smith, Samuel Francis (EDT) 2004?",No
+955,1275,3,"Is the book titled ""My Country 'tis Of Thee"" written by Smith, Samuel Francis (EDT) published by the publisher named Cartwheel?",No
+956,1278,1,"Is the published month of the book titled ""Ashana"" written by Roesch, E. P. October?",No
+957,1279,1,"Is the published month of the book titled ""Girls' Night Out"" written by Valdes-Rodriguez, Alisa, Giffin, Emily, Gore, Kristin, Bagshawe, Tilly, Matthews, Carole (EDT), Mlynowski, Sarah (EDT), and Manby, Chris (EDT) May?",No
+958,1280,1,"Is the published month of the book titled ""Curious George and the Firefighters"" written by Rey, H. A., Rey, Margret, and Hines, Anna Grossnickle (ILT) August?",No
+959,1282,2,"Is the published year of the book titled ""The Run to Morning"" written by Higgins, Jack 1974?",No
+960,1282,3,"Is the book titled ""The Run to Morning"" written by Higgins, Jack published by the publisher named Stein & Day Pub?",No
+961,1288,3,"Is the book titled ""Movie Book: The 1930's"" written by Brockman, Alfred published by the publisher named Crescent?",No
+962,1291,1,"Is the published month of the book titled ""The Cardinal of the Kremlin"" written by Clancy, Tom July?",No
+963,1292,1,"Is the published month of the book titled ""Father Joe: The Man Who Saved My Soul"" written by Hendra, Tony May?",No
+964,1293,1,"Is the published month of the book titled ""And This Too Shall Pass: A Novel"" written by Harris, E. Lynn February?",No
+965,1299,1,"Is the published month of the book titled ""Amazing Grace: 366 Inspiring Hymn Stories for Daily Devotions"" written by Osbeck, Kenneth W. July?",No
+966,1301,1,"Is the published month of the book titled ""When Your Teen Is Struggling: Real Hope and Practical Help for Parents Today"" written by Gregston, Mark January?",No
+967,1302,1,"Is the published month of the book titled ""Making Money in Cyberspace"" written by Edwards, Sarah, Edwards, Paul, and Rohrbough, Linda September?",No
+968,1303,1,"Is the published month of the book titled ""To My Daughter with Love on the Important Things in Life"" written by Schutz, Susan Polis, Schutz, Stephen (ILT), and Schutz, Stephen October?",No
+969,1304,2,"Is the published year of the book titled ""Finding Facts Fast"" written by Todd, Alden 1979?",No
+970,1305,1,"Is the published month of the book titled ""The Saturday Evening Post Christmas Book"" written by Flythe, Starkey and White, Jean January?",No
+971,1305,2,"Is the published year of the book titled ""The Saturday Evening Post Christmas Book"" written by Flythe, Starkey and White, Jean 1977?",No
+972,1307,1,"Is the published month of the book titled ""The Poisonwood Bible"" written by Barbara Kingsolver January?",No
+973,1311,1,"Is the published month of the book titled ""A New Treasury of Poetry"" written by Philip, Neil and Lawrence, John (ILT) September?",No
+974,1314,1,"Is the published month of the book titled ""Palinisms: The Accidental Wit and Wisdom of Sarah Palin"" written by Weisberg, Jacob (EDT) August?",No
+975,1315,1,"Is the published month of the book titled ""Riso: Undiscovered Rice Dishes of Northern Italy"" written by Vitale, Gioietta and Lawley, Lisa September?",No
+976,1316,1,"Is the published month of the book titled ""Multicultural Issues in Counseling: New Approaches to Diversity"" written by Lee, Courtland C. and Richardson, Bernard L. (EDT) January?",No
+977,1317,1,"Is the published month of the book titled ""Howard Hughes: The Untold Story"" written by Brown, Peter Harry and Broeske, Pat H. November?",No
+978,1318,3,"Is the book titled ""The Thief and the Dogs"" written by Mahfouz, Naguib published by the publisher named Anchor?",No
+979,1323,1,"Is the published month of the book titled ""DK Guide to Space"" written by Bond, Peter April?",No
+980,1326,1,"Is the published month of the book titled ""A History of Warfare"" written by Keegan, John November?",No
+981,1327,1,"Is the published month of the book titled ""Who Can You Trust?: Overcoming Betrayal and Fear"" written by Butt, Howard E., Jr. October?",No
+982,1334,1,"Is the published month of the book titled ""One Snowy Night"" written by Macnaughton, Tina (ILT) and Butler, M. Christina February?",No
+983,1334,3,"Is the book titled ""One Snowy Night"" written by Macnaughton, Tina (ILT) and Butler, M. Christina published by the publisher named Good Books?",No
+984,1335,1,"Is the published month of the book titled ""The Torment of Sherlock Holmes"" written by Andrews, Val October?",No
+985,1335,3,"Is the book titled ""The Torment of Sherlock Holmes"" written by Andrews, Val published by the publisher named Breese Books Ltd?",No
+986,1336,1,"Is the published month of the book titled ""The Clueless Groom's Guide : More Than Any Man Should Ever Know About Getting Married"" written by Van Dijk, Peter May?",No
+987,1337,3,"Is the book titled ""Fresh Flower Arranger's Companion"" written by Andrea Neophyton published by the publisher named Booksales?",No
+988,1338,1,"Is the published month of the book titled ""Gertie's Great Gifts"" written by Perle, Ruth Lerner January?",No
+989,1338,3,"Is the book titled ""Gertie's Great Gifts"" written by Perle, Ruth Lerner published by the publisher named Grolier Enterprises?",No
+990,1340,2,"Is the published year of the book titled ""One Hundred Activities for Gifted Children"" written by Meredith, Paul 1957?",No
+991,1340,3,"Is the book titled ""One Hundred Activities for Gifted Children"" written by Meredith, Paul published by the publisher named Lake Pub Co?",No
+992,1341,1,"Is the published month of the book titled ""The Tribe of Tiger: Cats and Their Culture"" written by Thomas, Elizabeth Marshall and Williams, Jared Taylor (ILT) September?",No
+993,1341,3,"Is the book titled ""The Tribe of Tiger: Cats and Their Culture"" written by Thomas, Elizabeth Marshall and Williams, Jared Taylor (ILT) published by the publisher named Simon & Schuster?",No
+994,1343,1,"Is the published month of the book titled ""Research and Documentation in the Electronic Age"" written by Hacker, Diana and Fister, Barbara February?",No
+995,1344,1,"Is the published month of the book titled ""The Many Loves of Marriage"" written by Kinkade, Thomas, Libby, Larry, and Kinkade, Nanette December?",No
+996,1346,1,"Is the published month of the book titled ""Emeril's Creole Christmas"" written by Lagasse, Emeril and Bienvenu, Marcelle October?",No
+997,1347,3,"Is the book titled ""Dead Pan: A Jocelyn O'Roarke Mystery"" written by Dentinger, Jane published by the publisher named Viking?",No
+998,1348,1,"Is the published month of the book titled ""Swampfire"" written by Hass, Patricia Cecil January?",No
+999,1348,3,"Is the book titled ""Swampfire"" written by Hass, Patricia Cecil published by the publisher named Dodd, Mead?",No
+1000,1350,1,"Is the published month of the book titled ""Monet"" written by Frank Milner January?",No
+1001,1352,1,"Is the published month of the book titled ""The Darwin Conspiracy"" written by Darnton, John September?",No
+1002,1352,3,"Is the book titled ""The Darwin Conspiracy"" written by Darnton, John published by the publisher named Anchor?",No
+1003,1356,1,"Is the published month of the book titled ""Bandits"" written by Leonard, Elmore December?",No
+1004,1358,1,"Is the published month of the book titled ""Thanksgiving Is"" written by Borden, Louise and Bjorkman, Steve (ILT) October?",No
+1005,1358,3,"Is the book titled ""Thanksgiving Is"" written by Borden, Louise and Bjorkman, Steve (ILT) published by the publisher named Cartwheel Books?",No
+1006,1359,1,"Is the published month of the book titled ""Annie"" written by Fleischer, Leonore and Sobieski, Carol May?",No
+1007,1359,3,"Is the book titled ""Annie"" written by Fleischer, Leonore and Sobieski, Carol published by the publisher named Ballantine Books?",No
+1008,1361,1,"Is the published month of the book titled ""The City of Gold and Lead"" written by John Christopher September?",No
+1009,1363,3,"Is the book titled ""WW III: Signs of the Impending Battle of Armageddon"" written by White, John Wesley published by the publisher named Zondervan?",No
+1010,1365,1,"Is the published month of the book titled ""Civil Disobedience and Violence"" written by MURPHY, JEFFRIE G (editor) January?",No
+1011,1367,3,"Is the book titled ""Improve Your Lateral Thinking: Puzzles To Challenge Your Mind"" written by Sloane, Paul and MacHale, Des published by the publisher named Sterling?",No
+1012,1370,1,"Is the published month of the book titled ""Stephen Hawking's A Brief History of Time: A Reader's Companion"" written by Hawking, Stephen W. (EDT) May?",No
+1013,1371,1,"Is the published month of the book titled ""The Ultimate Bread"" written by Collister, Linda & Anthony Blake January?",No
+1014,1372,1,"Is the published month of the book titled ""Will earns his mark: And other stories of long ago"" written by nan January?",No
+1015,1373,1,"Is the published month of the book titled ""Secrets of the Richest Man Who Ever Lived"" written by Murdoch, Mike April?",No
+1016,1373,3,"Is the book titled ""Secrets of the Richest Man Who Ever Lived"" written by Murdoch, Mike published by the publisher named Deborah Murdock Johnson?",No
+1017,1375,1,"Is the published month of the book titled ""The Ten Commandments"" written by Macartney, Clarence E. and Szyk, Arthur (ILT) October?",No
+1018,1375,3,"Is the book titled ""The Ten Commandments"" written by Macartney, Clarence E. and Szyk, Arthur (ILT) published by the publisher named Testament?",No
+1019,1376,3,"Is the book titled ""The Secret of the Bulls"" written by Bernardo, Jose Raul published by the publisher named Simon & Schuster?",No
+1020,1377,2,"Is the published year of the book titled ""Hunters Bible"" written by Merrill, William 1968?",No
+1021,1377,3,"Is the book titled ""Hunters Bible"" written by Merrill, William published by the publisher named Doubleday Books?",No
+1022,1379,1,"Is the published month of the book titled ""The Venture Capital Cycle"" written by Lerner, Josh and Gompers, Paul A. February?",No
+1023,1381,3,"Is the book titled ""Celtic Fairy Tales"" written by Jacobs, Joseph published by the publisher named Merchant Book Company Limited?",No
+1024,1382,1,"Is the published month of the book titled ""Bankrupt: The Intellectual and Moral Bankruptcy of Today's Democratic Party"" written by Limbaugh, David September?",No
+1025,1384,1,"Is the published month of the book titled ""Book of Oriental Carpets and Rugs"" written by Bennett, Ian January?",No
+1026,1385,1,"Is the published month of the book titled ""The Debutante"" written by Bevarly, Elizabeth November?",No
+1027,1385,3,"Is the book titled ""The Debutante"" written by Bevarly, Elizabeth published by the publisher named Silhouette?",No
+1028,1386,1,"Is the published month of the book titled ""The Strange Story of the Frog Who Became a Prince"" written by Horwitz, Elinor Lander January?",No
+1029,1386,3,"Is the book titled ""The Strange Story of the Frog Who Became a Prince"" written by Horwitz, Elinor Lander published by the publisher named Dell Publishing Co., Inc.?",No
+1030,1387,3,"Is the book titled ""1001 Things Everyone Should Know About the Universe"" written by Gutsch, William A., Jr. published by the publisher named Main Street Books?",No
+1031,1393,1,"Is the published month of the book titled ""The Story of the Erie Canal"" written by R. Conrad Stein January?",No
+1032,1393,3,"Is the book titled ""The Story of the Erie Canal"" written by R. Conrad Stein published by the publisher named Avyx?",No
+1033,1395,1,"Is the published month of the book titled ""Moon Handbooks Montana"" written by Jewell, Judy and McRae, W. C. April?",No
+1034,1396,1,"Is the published month of the book titled ""Recipes for Fat Free Living Cookbook: Fat Free Desserts : Every Recipe Under 1 Gram of Fat Per Serving"" written by Steinback, Jyl January?",No
+1035,1397,1,"Is the published month of the book titled ""Chocolate: Cooking with the World's Best Ingredient"" written by Christine McFadden, Christine France January?",No
+1036,1399,1,"Is the published month of the book titled ""Kitchen Comforts"" written by Boassy, Gay T. January?",No
+1037,1400,1,"Is the published month of the book titled ""The Passion Of Christ"" written by Erika Swanson Geiss January?",No
+1038,1400,3,"Is the book titled ""The Passion Of Christ"" written by Erika Swanson Geiss published by the publisher named Publications International, Ltd.?",No
+1039,1401,1,"Is the published month of the book titled ""Celebutantes"" written by Goldberg, Amanda and Hopper, Ruthanna Khalighi February?",No
+1040,1401,3,"Is the book titled ""Celebutantes"" written by Goldberg, Amanda and Hopper, Ruthanna Khalighi published by the publisher named St. Martin's Griffin?",No
+1041,1402,1,"Is the published month of the book titled ""Mugged on Wall Street: An Insider Shows You How to Protect Yourself and Your Money from the Financial Pros"" written by Chase, C. David July?",No
+1042,1403,1,"Is the published month of the book titled ""NIV Compact Nave's Topical Bible"" written by Kohlenberger, John R., III January?",No
+1043,1406,1,"Is the published month of the book titled ""Honorable Enemies"" written by Weber, Joe December?",No
+1044,1406,3,"Is the book titled ""Honorable Enemies"" written by Weber, Joe published by the publisher named Jove?",No
+1045,1408,1,"Is the published month of the book titled ""Photographing Your Baby: Tips for Taking Great Pictures"" written by Eastman Kodak Company October?",No
+1046,1408,3,"Is the book titled ""Photographing Your Baby: Tips for Taking Great Pictures"" written by Eastman Kodak Company published by the publisher named Addison Wesley?",No
+1047,1409,1,"Is the published month of the book titled ""The Christmas Cross"" written by Lucado, Max October?",No
+1048,1410,1,"Is the published month of the book titled ""The Right Data: The Conservative Guidebook to Busting Liberal Economic Myths"" written by Rubenstein, Edwin S. January?",No
+1049,1411,1,"Is the published month of the book titled ""Between a rock and a hard place"" written by Hatfield, Mark O. January?",No
+1050,1411,3,"Is the book titled ""Between a rock and a hard place"" written by Hatfield, Mark O. published by the publisher named Word Books?",No
+1051,1413,1,"Is the published month of the book titled ""The Ultimate Round: 18 Life Lessons from the World's Greatest Golfers"" written by Glaspey, Terry, Dyke, Larry (ILT), and Dyke, Larry January?",No
+1052,1415,3,"Is the book titled ""Julie And Romeo"" written by Ray, Jeanne published by the publisher named Onyx?",No
+1053,1416,1,"Is the published month of the book titled ""The Brief History of the Dead"" written by Brockmeier, Kevin January?",No
+1054,1417,1,"Is the published month of the book titled ""Teddy Bear's Scrapbook"" written by nan January?",No
+1055,1418,1,"Is the published month of the book titled ""We Are the Children: A Celebration of Unicef's First Forty Years"" written by Spiegelman, Judith M. and UNICEF November?",No
+1056,1419,1,"Is the published month of the book titled ""Where Is the Afikomen?"" written by Groner, J. February?",No
+1057,1420,1,"Is the published month of the book titled ""Madame Hillary: The Dark Road to the White House"" written by Tyrrell, R. Emmett, Jr. and Davis, Mark W. January?",No
+1058,1421,1,"Is the published month of the book titled ""One of the Family"" written by Sanderson, Ruth (ILT) and Archer, Peggy October?",No
+1059,1421,3,"Is the book titled ""One of the Family"" written by Sanderson, Ruth (ILT) and Archer, Peggy published by the publisher named Goldencraft?",No
+1060,1422,2,"Is the published year of the book titled ""The Brain Game"" written by Aero, Rita and Weiner, Elliot 1983?",No
+1061,1424,3,"Is the book titled ""Sacajawea"" written by Howard, Harold P. published by the publisher named OUP?",No
+1062,1426,1,"Is the published month of the book titled ""Reader's Digest Pathfinders Sharks and Other Sea Creatures"" written by Leighton Taylor January?",No
+1063,1427,3,"Is the book titled ""What Management Is: How It Works and Why It's Everyone's Business"" written by Magretta, Joan and Stone, Nan Dundes published by the publisher named Free Press?",No
+1064,1433,1,"Is the published month of the book titled ""Knowledge Network"" written by Smart, Brian Hunter (EDT) and Whittaker, Bibby (EDT) September?",No
+1065,1434,1,"Is the published month of the book titled ""The Contemporary Atlas of China"" written by Nathan Sivin January?",No
+1066,1436,1,"Is the published month of the book titled ""Menopause"" written by Stoppard, Miriam September?",No
+1067,1436,3,"Is the book titled ""Menopause"" written by Stoppard, Miriam published by the publisher named DK ADULT?",No
+1068,1437,0,"Do you know the book ""The Ballad of John and Yoko"" written by Jonathan Cott~Christine Doudna?",No
+1069,1437,1,"Is the published month of the book titled ""The Ballad of John and Yoko"" written by Jonathan Cott~Christine Doudna January?",No
+1070,1437,2,"Is the published year of the book titled ""The Ballad of John and Yoko"" written by Jonathan Cott~Christine Doudna 1982?",No
+1071,1437,3,"Is the book titled ""The Ballad of John and Yoko"" written by Jonathan Cott~Christine Doudna published by the publisher named Dolphin Books?",No
+1072,1438,1,"Is the published month of the book titled ""Earth Magic"" written by Francis Hitching March?",No
+1073,1441,1,"Is the published month of the book titled ""Good Health For African Americans"" written by Wilson, Josleen and Dixon, Barbara M. December?",No
+1074,1442,1,"Is the published month of the book titled ""The Unforgiving Minute: A Soldier's Education"" written by Mullaney, Craig M. February?",No
+1075,1443,1,"Is the published month of the book titled ""The Chesapeake Bay in Maryland: An Atlas of Natural Resources"" written by Lippson, Alice Jane October?",No
+1076,1444,1,"Is the published month of the book titled ""Behold: Spot the Difference Bible Stories"" written by Madgwick, Wendy and Alles, Hemesh (ILT) December?",No
+1077,1444,3,"Is the book titled ""Behold: Spot the Difference Bible Stories"" written by Madgwick, Wendy and Alles, Hemesh (ILT) published by the publisher named Random House Books for Young Readers?",No
+1078,1447,1,"Is the published month of the book titled ""The Sixth Lamentation"" written by Brodrick, William July?",No
+1079,1450,1,"Is the published month of the book titled ""Great Food: Over 175 Recipes from Six of the World's Greatest Chef's"" written by nan March?",No
+1080,1450,2,"Is the published year of the book titled ""Great Food: Over 175 Recipes from Six of the World's Greatest Chef's"" written by nan 1998?",No
+1081,1451,1,"Is the published month of the book titled ""Food and Wine's Holiday Favorites"" written by Food Wine Staff August?",No
+1082,1452,1,"Is the published month of the book titled ""The Riddle of the Rhine: Chemical Strategy in Peace and War"" written by Victor Lefebure January?",No
+1083,1455,1,"Is the published month of the book titled ""Hello"" written by Padilla, Michael J., Miaoulis, Ioannis, Cyr, Martha, and Cronkite, Donald, Ph.D. January?",No
+1084,1458,1,"Is the published month of the book titled ""101 Questions Your Cat Would Ask Its Vet If Your Cat Could Talk"" written by Fogle, Bruce and Ward, Lalla (ILT) April?",No
+1085,1458,3,"Is the book titled ""101 Questions Your Cat Would Ask Its Vet If Your Cat Could Talk"" written by Fogle, Bruce and Ward, Lalla (ILT) published by the publisher named Castle?",No
+1086,1459,1,"Is the published month of the book titled ""Legal guide for the visual artist"" written by Crawford, Tad January?",No
+1087,1460,3,"Is the book titled ""Time and Again: An Anthology"" written by Roberts, Nora published by the publisher named Silhouette?",No
+1088,1461,1,"Is the published month of the book titled ""Images of the Wild: Photography and Stories"" written by Sams, Carl R., Stoick, Jean, Sams, Carl R. (PHT), Stoick, Jean (PHT), Monroe, Michael Glenn (ILT), Monroe, Colleen, and Monroe, Colleen (EDT) September?",No
+1089,1462,1,"Is the published month of the book titled ""The Maintenance Man"" written by Michael Baisden January?",No
+1090,1462,3,"Is the book titled ""The Maintenance Man"" written by Michael Baisden published by the publisher named Simon & Schuster?",No
+1091,1467,1,"Is the published month of the book titled ""Three Tall Women"" written by Albee, Edward September?",No
+1092,1467,3,"Is the book titled ""Three Tall Women"" written by Albee, Edward published by the publisher named Plume?",No
+1093,1473,1,"Is the published month of the book titled ""Clinton: Young Man in a Hurry"" written by Moore, Jim January?",No
+1094,1476,1,"Is the published month of the book titled ""Let History Judge: The Origins and Consequences of Stalinism"" written by Roy A. Medvedev January?",No
+1095,1476,3,"Is the book titled ""Let History Judge: The Origins and Consequences of Stalinism"" written by Roy A. Medvedev published by the publisher named Alfred A. Knopf?",No
+1096,1477,1,"Is the published month of the book titled ""Brazil"" written by Updike, John January?",No
+1097,1477,3,"Is the book titled ""Brazil"" written by Updike, John published by the publisher named Knopf?",No
+1098,1482,2,"Is the published year of the book titled ""Caleb Williams"" written by Godwin, William and Hindle, Maurice 1988?",No
+1099,1484,3,"Is the book titled ""Redneck Heaven: Portrait of a Vanishing Culture"" written by Bultman, Bethany published by the publisher named Bantam?",No
+1100,1485,1,"Is the published month of the book titled ""In Search Of History: A Personal Adventure"" written by Theodore H. White January?",No
+1101,1486,3,"Is the book titled ""A Child's Good Morning Book"" written by Brown, Margaret Wise and Charlot, Jean (ILT) published by the publisher named Festival?",No
+1102,1488,2,"Is the published year of the book titled ""Apocalypse Wow"" written by Garner, James Finn 1997?",No
+1103,1489,3,"Is the book titled ""Hugs for Girlfriends"" written by Boultinghouse, Philis published by the publisher named Howard Publishing Company?",No
+1104,1490,1,"Is the published month of the book titled ""Aerobic Walking : The Best and Safest Weight Loss and Cardiovascular Exercise for Everyone Overweight or Out of Shape"" written by Meyers, Casey September?",No
+1105,1490,3,"Is the book titled ""Aerobic Walking : The Best and Safest Weight Loss and Cardiovascular Exercise for Everyone Overweight or Out of Shape"" written by Meyers, Casey published by the publisher named Vintage?",No
+1106,1491,1,"Is the published month of the book titled ""Peer Gynt : A Dramatic Poem"" written by Ibsen, Henrik and Watts, Peter (TRN) April?",No
+1107,1491,2,"Is the published year of the book titled ""Peer Gynt : A Dramatic Poem"" written by Ibsen, Henrik and Watts, Peter (TRN) 1966?",No
+1108,1494,1,"Is the published month of the book titled ""War in the Pacific: From the Fall of Singapore to Japanese Surrender"" written by Scutts, Jerry October?",No
+1109,1494,3,"Is the book titled ""War in the Pacific: From the Fall of Singapore to Japanese Surrender"" written by Scutts, Jerry published by the publisher named Thunder Bay Pr?",No
+1110,1499,1,"Is the published month of the book titled ""365 Fascinating Facts about Jesus"" written by Strand, Robert March?",No

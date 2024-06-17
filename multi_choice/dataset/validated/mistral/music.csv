@@ -1,0 +1,1011 @@
+,entity_idx,question_idx,question,model_response
+0,3,1,"Is the song titled ""congratulations"" by reba mcentire released in 1984?",No
+1,4,1,"Is the song titled ""bad boy (feat. jungle rock jr.)"" by royce da 5'9"" released in 2009?",No
+2,5,1,"Is the song titled ""when i'm gone"" by marty robbins released in 1979?",No
+3,6,1,"Is the song titled ""in the garden"" by randy travis released in 2003?",No
+4,7,2,"Is the genre of the song titled ""the invite"" by pepper country/folk?",No
+5,9,1,"Is the song titled ""danger heartbreak dead ahead"" by the marvelettes released in 1988?",No
+6,9,2,"Is the genre of the song titled ""danger heartbreak dead ahead"" by the marvelettes blues/jazz?",No
+7,11,1,"Is the song titled ""fall"" by clay walker released in 2007?",No
+8,16,1,"Is the song titled ""walk it off"" by lil wayne released in 2014?",No
+9,18,1,"Is the song titled ""morning sunrise"" by weldon irvine released in 2016?",No
+10,18,2,"Is the genre of the song titled ""morning sunrise"" by weldon irvine blues/jazz?",No
+11,20,1,"Is the song titled ""got to get a knutt"" by the new birth released in 1972?",No
+12,21,2,"Is the genre of the song titled ""make her say"" by kid cudi pop/rock?",No
+13,23,1,"Is the song titled ""why did you hoodoo me"" by savoy brown released in 2017?",No
+14,25,1,"Is the song titled ""ragged as the road"" by reckless kelly released in 2008?",No
+15,26,1,"Is the song titled ""true love waits"" by radiohead released in 2016?",No
+16,27,1,"Is the song titled ""city club"" by the growlers released in 2016?",No
+17,28,1,"Is the song titled ""i've got a crush on you"" by steve tyrell released in 2003?",No
+18,28,2,"Is the genre of the song titled ""i've got a crush on you"" by steve tyrell blues/jazz?",No
+19,30,1,"Is the song titled ""freedom sound"" by the skatalites released in 1997?",No
+20,30,2,"Is the genre of the song titled ""freedom sound"" by the skatalites country/folk?",No
+21,31,1,"Is the song titled ""the pot"" by tool released in 2006?",No
+22,31,2,"Is the genre of the song titled ""the pot"" by tool pop/rock?",No
+23,34,1,"Is the song titled ""smile"" by lyle lovett released in 2003?",No
+24,35,1,"Is the song titled ""go hard or go home"" by wiz khalifa released in 2015?",No
+25,35,2,"Is the genre of the song titled ""go hard or go home"" by wiz khalifa pop/rock?",No
+26,37,1,"Is the song titled ""ends of the earth"" by kenny chesney released in 2018?",No
+27,41,2,"Is the genre of the song titled ""dollar sign"" by vybz kartel country/folk?",No
+28,42,2,"Is the genre of the song titled ""haut de gamme"" by 83 hip hop/reggae?",No
+29,43,1,"Is the song titled ""wish it were me"" by the platters released in 1968?",No
+30,44,2,"Is the genre of the song titled ""l.i.t."" by riley richard blues/jazz?",No
+31,50,1,"Is the song titled ""lush life"" by nat king cole released in 1991?",No
+32,50,2,"Is the genre of the song titled ""lush life"" by nat king cole blues/jazz?",No
+33,52,1,"Is the song titled ""if the stars were mine"" by melody gardot released in 2009?",No
+34,52,2,"Is the genre of the song titled ""if the stars were mine"" by melody gardot blues/jazz?",No
+35,55,2,"Is the genre of the song titled ""expecting"" by the white stripes blues/jazz?",No
+36,56,1,"Is the song titled ""you can't fall up (you just fall down)"" by tower of power released in 1991?",No
+37,57,2,"Is the genre of the song titled ""with a song in my heart"" by doris day blues/jazz?",No
+38,58,1,"Is the song titled ""a new machine, pt. 1"" by pink floyd released in 1987?",No
+39,59,1,"Is the song titled ""she said she said"" by chris smither released in 2018?",No
+40,61,1,"Is the song titled ""i'm so happy now"" by the young rascals released in 1967?",No
+41,63,2,"Is the genre of the song titled ""the becoming"" by nine inch nails pop/rock?",No
+42,64,2,"Is the genre of the song titled ""long stick goes boom"" by krokus blues/jazz?",No
+43,65,1,"Is the song titled ""standing on the edge of goodbye"" by john berry released in 2006?",No
+44,66,1,"Is the song titled ""let's spend the night together"" by muddy waters released in 1968?",No
+45,67,1,"Is the song titled ""do you feel what i dub?"" by too rude released in 1999?",No
+46,69,2,"Is the genre of the song titled ""i got a letter (this morning)"" by john lee hooker pop/rock?",No
+47,73,1,"Is the song titled ""a lover's concerto"" by sarah vaughan released in 1966?",No
+48,73,2,"Is the genre of the song titled ""a lover's concerto"" by sarah vaughan blues/jazz?",No
+49,76,2,"Is the genre of the song titled ""built for comfort"" by ufo blues/jazz?",No
+50,78,1,"Is the song titled ""everyday"" by lucy pearl released in 2000?",No
+51,79,1,"Is the song titled ""the blues come around"" by hank williams released in 1985?",No
+52,80,2,"Is the genre of the song titled ""blue skies"" by ella fitzgerald blues/jazz?",No
+53,85,2,"Is the genre of the song titled ""outta my face"" by pepper country/folk?",No
+54,87,1,"Is the song titled ""neon gravestones"" by twenty one pilots released in 2018?",No
+55,88,1,"Is the song titled ""sweat shock"" by j. roddy walston & the business released in 2013?",No
+56,88,2,"Is the genre of the song titled ""sweat shock"" by j. roddy walston & the business blues/jazz?",No
+57,89,2,"Is the genre of the song titled ""let him go"" by bob marley & the wailers country/folk?",No
+58,90,1,"Is the song titled ""killamonjaro"" by killy released in 2017?",No
+59,91,1,"Is the song titled ""the revolution will be televised"" by jeff beck released in 2016?",No
+60,91,2,"Is the genre of the song titled ""the revolution will be televised"" by jeff beck blues/jazz?",No
+61,93,1,"Is the song titled ""hop up"" by k kutta released in 2017?",No
+62,94,1,"Is the song titled ""chanting"" by john holt released in 1983?",No
+63,94,2,"Is the genre of the song titled ""chanting"" by john holt country/folk?",No
+64,96,2,"Is the genre of the song titled ""steady, as she goes"" by the raconteurs blues/jazz?",No
+65,97,1,"Is the song titled ""fats"" by thin lizzy released in 1981?",No
+66,97,2,"Is the genre of the song titled ""fats"" by thin lizzy blues/jazz?",No
+67,100,1,"Is the song titled ""anything goes"" by florida georgia line released in 2014?",No
+68,101,2,"Is the genre of the song titled ""oh love (live)"" by prince buster country/folk?",No
+69,102,1,"Is the song titled ""do the grind"" by earl king released in 2006?",No
+70,103,1,"Is the song titled ""open your eyes, you can fly"" by lizz wright released in 2003?",No
+71,106,1,"Is the song titled ""you gots to chill"" by epmd released in 2010?",No
+72,107,1,"Is the song titled ""made to love you"" by gary wright released in 1975?",No
+73,108,1,"Is the song titled ""i've been a long time leavin' (but i'll be a long time gone)"" by roger miller released in 1995?",No
+74,109,2,"Is the genre of the song titled ""cha cha cha d´amour"" by dean martin blues/jazz?",No
+75,110,2,"Is the genre of the song titled ""why must i cry"" by peter tosh country/folk?",No
+76,111,2,"Is the genre of the song titled ""you and me"" by soja country/folk?",No
+77,113,1,"Is the song titled ""crying games"" by lucky dube released in 1999?",No
+78,113,2,"Is the genre of the song titled ""crying games"" by lucky dube country/folk?",No
+79,117,2,"Is the genre of the song titled ""frame by frame"" by king crimson blues/jazz?",No
+80,118,1,"Is the song titled ""surfin' bird"" by the cramps released in 1989?",No
+81,119,2,"Is the genre of the song titled ""cordelia brown"" by harry belafonte pop/rock?",No
+82,120,1,"Is the song titled ""i can't get started with you"" by steve tyrell released in 1999?",No
+83,120,2,"Is the genre of the song titled ""i can't get started with you"" by steve tyrell blues/jazz?",No
+84,121,1,"Is the song titled ""i am the one you warned me of"" by blue öyster cult released in 1988?",No
+85,121,2,"Is the genre of the song titled ""i am the one you warned me of"" by blue öyster cult blues/jazz?",No
+86,123,1,"Is the song titled ""al capone"" by michael jackson released in 1987?",No
+87,124,1,"Is the song titled ""right on time"" by red hot chili peppers released in 1999?",No
+88,127,1,"Is the song titled ""i know the way to you by heart"" by vern gosdin released in 1985?",No
+89,128,2,"Is the genre of the song titled ""cold sweat"" by thin lizzy blues/jazz?",No
+90,129,2,"Is the genre of the song titled ""freedom death dance"" by eugene mcdaniels blues/jazz?",No
+91,131,1,"Is the song titled ""screaming and yelling"" by carole king released in 1975?",No
+92,132,1,"Is the song titled ""pure and simple"" by lynyrd skynyrd released in 1991?",No
+93,132,2,"Is the genre of the song titled ""pure and simple"" by lynyrd skynyrd blues/jazz?",No
+94,134,1,"Is the song titled ""her man"" by waylon jennings released in 1990?",No
+95,135,1,"Is the song titled ""can't use me"" by john holt released in 1983?",No
+96,135,2,"Is the genre of the song titled ""can't use me"" by john holt country/folk?",No
+97,136,2,"Is the genre of the song titled ""downtown tonight"" by tyler bryant & the shakedown blues/jazz?",No
+98,137,2,"Is the genre of the song titled ""time will show the wiser"" by fairport convention country/folk?",No
+99,138,1,"Is the song titled ""reach out for me"" by nancy wilson released in 1965?",No
+100,138,2,"Is the genre of the song titled ""reach out for me"" by nancy wilson blues/jazz?",No
+101,140,1,"Is the song titled ""text me texas"" by chris young released in 2013?",No
+102,140,2,"Is the genre of the song titled ""text me texas"" by chris young country/folk?",No
+103,141,2,"Is the genre of the song titled ""come closer"" by mishka country/folk?",No
+104,143,1,"Is the song titled ""freak of the week"" by marvelous 3 released in 1998?",No
+105,144,2,"Is the genre of the song titled ""parabol"" by tool pop/rock?",No
+106,145,1,"Is the song titled ""i call your name"" by the beatles released in 1988?",No
+107,148,2,"Is the genre of the song titled ""khanke to khanke"" by mohammed rafi pop/rock?",No
+108,150,1,"Is the song titled ""run away with me"" by carly rae jepsen released in 2015?",No
+109,151,1,"Is the song titled ""your cash ain't nothin' but trash"" by the clovers released in 1991?",No
+110,153,1,"Is the song titled ""the story of my love"" by conway twitty released in 1959?",No
+111,156,1,"Is the song titled ""bobby brown goes down"" by frank zappa released in 1979?",No
+112,156,2,"Is the genre of the song titled ""bobby brown goes down"" by frank zappa blues/jazz?",No
+113,159,1,"Is the song titled ""(the man who shot) liberty valance"" by gene pitney released in 1972?",No
+114,160,1,"Is the song titled ""crawling king snake"" by george thorogood & the destroyers released in 1985?",No
+115,161,1,"Is the song titled ""the man that i've been"" by cory morrow released in 1993?",No
+116,162,1,"Is the song titled ""fantastic voyage (lil stayne mix)"" by coolio released in 2008?",No
+117,163,1,"Is the song titled ""4:20"" by method man released in 2018?",No
+118,164,1,"Is the song titled ""everything i am"" by kanye west released in 2007?",No
+119,164,2,"Is the genre of the song titled ""everything i am"" by kanye west pop/rock?",No
+120,166,1,"Is the song titled ""hey mr. d.j."" by zhané released in 2013?",No
+121,166,2,"Is the genre of the song titled ""hey mr. d.j."" by zhané pop/rock?",No
+122,168,1,"Is the song titled ""i believe i can fly"" by me first and the gimme gimmes released in 2003?",No
+123,169,1,"Is the song titled ""hey, hey helen"" by abba released in 1975?",No
+124,171,2,"Is the genre of the song titled ""you used to love me"" by faith evans pop/rock?",No
+125,172,1,"Is the song titled ""mothership reconnection (feat.parliament/funkadelic)"" by scott grooves released in 2006?",No
+126,172,2,"Is the genre of the song titled ""mothership reconnection (feat.parliament/funkadelic)"" by scott grooves blues/jazz?",No
+127,173,1,"Is the song titled ""hair of the dog (studio demo)"" by nazareth released in 2009?",No
+128,173,2,"Is the genre of the song titled ""hair of the dog (studio demo)"" by nazareth blues/jazz?",No
+129,174,1,"Is the song titled ""run"" by bring me the horizon released in 2015?",No
+130,177,1,"Is the song titled ""out in l.a."" by red hot chili peppers released in 1984?",No
+131,178,1,"Is the song titled ""you've got to have freedom"" by pharoah sanders released in 2008?",No
+132,178,2,"Is the genre of the song titled ""you've got to have freedom"" by pharoah sanders blues/jazz?",No
+133,182,1,"Is the song titled ""wicked gonna come"" by blues saraceno released in 2018?",No
+134,184,2,"Is the genre of the song titled ""don't give in"" by steel pulse country/folk?",No
+135,188,1,"Is the song titled ""spirit crusher"" by death released in 1998?",No
+136,188,2,"Is the genre of the song titled ""spirit crusher"" by death pop/rock?",No
+137,191,2,"Is the genre of the song titled ""making days longer"" by rjd2 blues/jazz?",No
+138,192,2,"Is the genre of the song titled ""don't touch me tomato"" by phyllis dillon country/folk?",No
+139,193,1,"Is the song titled ""for all we know"" by donny hathaway released in 2013?",No
+140,194,2,"Is the genre of the song titled ""starships"" by nicki minaj pop/rock?",No
+141,197,2,"Is the genre of the song titled ""make you mine"" by black lips blues/jazz?",No
+142,199,1,"Is the song titled ""energy"" by earth, wind & fire released in 1971?",No
+143,199,2,"Is the genre of the song titled ""energy"" by earth, wind & fire blues/jazz?",No
+144,201,1,"Is the song titled ""your cheatin' heart"" by hank williams released in 1978?",No
+145,202,2,"Is the genre of the song titled ""baby's on fire"" by die antwoord pop/rock?",No
+146,203,2,"Is the genre of the song titled ""the tear of the year"" by jackie wilson blues/jazz?",No
+147,205,1,"Is the song titled ""i'm with you"" by the millennium released in 1968?",No
+148,206,1,"Is the song titled ""bang bang"" by nancy sinatra released in 2003?",No
+149,207,1,"Is the song titled ""avon"" by queens of the stone age released in 1998?",No
+150,207,2,"Is the genre of the song titled ""avon"" by queens of the stone age blues/jazz?",No
+151,208,1,"Is the song titled ""the next episode"" by dr. dre released in 2000?",No
+152,212,1,"Is the song titled ""dear michael"" by michael jackson released in 1975?",No
+153,213,2,"Is the genre of the song titled ""girl next door"" by long beach shortbus country/folk?",No
+154,216,1,"Is the song titled ""expecting"" by minnie riperton released in 1970?",No
+155,216,2,"Is the genre of the song titled ""expecting"" by minnie riperton blues/jazz?",No
+156,217,2,"Is the genre of the song titled ""renegade"" by thin lizzy blues/jazz?",No
+157,220,2,"Is the genre of the song titled ""my world"" by sublime with rome country/folk?",No
+158,221,2,"Is the genre of the song titled ""angelina"" by harry belafonte pop/rock?",No
+159,222,1,"Is the song titled ""you win again"" by johnny cash released in 1959?",No
+160,223,1,"Is the song titled ""sunburn"" by fuel released in 1997?",No
+161,224,2,"Is the genre of the song titled ""reach out and touch (somebody's hand)"" by aretha franklin blues/jazz?",No
+162,225,1,"Is the song titled ""edge of the earth"" by thirty seconds to mars released in 2002?",No
+163,227,1,"Is the song titled ""married to the blues"" by shemekia copeland released in 1998?",No
+164,228,2,"Is the genre of the song titled ""i got the blues"" by dion & the belmonts pop/rock?",No
+165,229,1,"Is the song titled ""after all the things i've done"" by hank thompson released in 1958?",No
+166,230,1,"Is the song titled ""they roll (feat. the game)"" by nipsey hussle released in 2013?",No
+167,230,2,"Is the genre of the song titled ""they roll (feat. the game)"" by nipsey hussle pop/rock?",No
+168,231,2,"Is the genre of the song titled ""in orbit"" by thelonious monk blues/jazz?",No
+169,236,2,"Is the genre of the song titled ""elevator"" by the black keys blues/jazz?",No
+170,238,2,"Is the genre of the song titled ""i wish it would rain"" by gladys knight & the pips pop/rock?",No
+171,240,1,"Is the song titled ""in my dreams"" by josh turner released in 2003?",No
+172,241,1,"Is the song titled ""holy books"" by death from above 1979 released in 2017?",No
+173,241,2,"Is the genre of the song titled ""holy books"" by death from above 1979 blues/jazz?",No
+174,242,1,"Is the song titled ""nashville to kentucky"" by my morning jacket released in 1999?",No
+175,243,2,"Is the genre of the song titled ""run them"" by the gladiators country/folk?",No
+176,244,2,"Is the genre of the song titled ""about a bird"" by fantastic negrito blues/jazz?",No
+177,245,1,"Is the song titled ""seeing is believing"" by donna fargo released in 1980?",No
+178,246,1,"Is the song titled ""within you, without you"" by tedeschi trucks band released in 2017?",No
+179,246,2,"Is the genre of the song titled ""within you, without you"" by tedeschi trucks band blues/jazz?",No
+180,247,1,"Is the song titled ""everytime you go away"" by susan wong released in 2009?",No
+181,247,2,"Is the genre of the song titled ""everytime you go away"" by susan wong blues/jazz?",No
+182,248,1,"Is the song titled ""what love has joined together"" by mary wells released in 1993?",No
+183,248,2,"Is the genre of the song titled ""what love has joined together"" by mary wells pop/rock?",No
+184,250,1,"Is the song titled ""high voltage / it's a long way to the top (if you wanna rock 'n' roll)"" by eagles of death metal released in 2019?",No
+185,250,2,"Is the genre of the song titled ""high voltage / it's a long way to the top (if you wanna rock 'n' roll)"" by eagles of death metal blues/jazz?",No
+186,251,2,"Is the genre of the song titled ""escape"" by pete rock & c.l. smooth blues/jazz?",No
+187,253,2,"Is the genre of the song titled ""killers"" by iron maiden pop/rock?",No
+188,255,2,"Is the genre of the song titled ""one world (not three)"" by pato banton country/folk?",No
+189,256,1,"Is the song titled ""dynasty"" by miia released in 2015?",No
+190,257,1,"Is the song titled ""shopping"" by eek-a-mouse released in 1996?",No
+191,257,2,"Is the genre of the song titled ""shopping"" by eek-a-mouse country/folk?",No
+192,259,1,"Is the song titled ""no plans for tomorrow"" by the emotions released in 1976?",No
+193,259,2,"Is the genre of the song titled ""no plans for tomorrow"" by the emotions blues/jazz?",No
+194,261,1,"Is the song titled ""jah love in we heart"" by toyan released in 1981?",No
+195,261,2,"Is the genre of the song titled ""jah love in we heart"" by toyan country/folk?",No
+196,262,1,"Is the song titled ""how i'd love to love you"" by nat king cole released in 1992?",No
+197,262,2,"Is the genre of the song titled ""how i'd love to love you"" by nat king cole blues/jazz?",No
+198,263,1,"Is the song titled ""violence"" by slightly stoopid released in 1998?",No
+199,264,2,"Is the genre of the song titled ""open mind"" by stone senses country/folk?",No
+200,265,1,"Is the song titled ""hero"" by willie nelson released in 2012?",No
+201,267,2,"Is the genre of the song titled ""sing it again"" by the wood brothers blues/jazz?",No
+202,268,1,"Is the song titled ""slip slidin' away"" by simon & garfunkel released in 1982?",No
+203,270,2,"Is the genre of the song titled ""true love"" by the brian jonestown massacre blues/jazz?",No
+204,271,1,"Is the song titled ""back in my younger days"" by don williams released in 1990?",No
+205,272,1,"Is the song titled ""between the devil and the deep blue sea"" by blossom dearie released in 1997?",No
+206,273,1,"Is the song titled ""96 tears"" by big maybelle released in 2007?",No
+207,275,2,"Is the genre of the song titled ""white christmas"" by dean martin blues/jazz?",No
+208,276,2,"Is the genre of the song titled ""if you stayed over"" by bonobo blues/jazz?",No
+209,277,1,"Is the song titled ""change in the weather"" by buddy guy released in 1993?",No
+210,281,1,"Is the song titled ""another puff"" by jerry reed released in 1995?",No
+211,282,2,"Is the genre of the song titled ""next to you"" by dan siegel blues/jazz?",No
+212,284,1,"Is the song titled ""falling in love with jesus"" by kirk whalum released in 2002?",No
+213,284,2,"Is the genre of the song titled ""falling in love with jesus"" by kirk whalum blues/jazz?",No
+214,285,1,"Is the song titled ""got to be there"" by michael jackson released in 1972?",No
+215,286,1,"Is the song titled ""king"" by tesseract released in 2018?",No
+216,286,2,"Is the genre of the song titled ""king"" by tesseract blues/jazz?",No
+217,287,1,"Is the song titled ""blind feeling"" by gary wright released in 1975?",No
+218,288,2,"Is the genre of the song titled ""veracruz"" by santana blues/jazz?",No
+219,289,2,"Is the genre of the song titled ""stacks o' money"" by eagles of death metal blues/jazz?",No
+220,290,1,"Is the song titled ""missiles"" by the sound released in 1980?",No
+221,291,2,"Is the genre of the song titled ""die by the drop"" by the dead weather blues/jazz?",No
+222,292,0,"Do you know the song ""rolling in the deep"" by go radio?",No
+223,292,1,"Is the song titled ""rolling in the deep"" by go radio released in 2011?",No
+224,296,2,"Is the genre of the song titled ""dread locks"" by lee perry & the upsetters country/folk?",No
+225,297,1,"Is the song titled ""don’t look back into the sun"" by the libertines released in 2007?",No
+226,298,2,"Is the genre of the song titled ""marie"" by yazmin lacey blues/jazz?",No
+227,299,1,"Is the song titled ""the battle of evermore"" by led zeppelin released in 1971?",No
+228,300,1,"Is the song titled ""walking the floor over you"" by ernest tubb released in 1987?",No
+229,301,1,"Is the song titled ""yesterday's mistakes"" by oi va voi released in 2003?",No
+230,301,2,"Is the genre of the song titled ""yesterday's mistakes"" by oi va voi blues/jazz?",No
+231,303,2,"Is the genre of the song titled ""love is everywhere"" by pharoah sanders blues/jazz?",No
+232,306,1,"Is the song titled ""rainbow in the sky"" by ziggy marley released in 2003?",No
+233,306,2,"Is the genre of the song titled ""rainbow in the sky"" by ziggy marley country/folk?",No
+234,308,2,"Is the genre of the song titled ""cold war"" by death from above 1979 blues/jazz?",No
+235,311,1,"Is the song titled ""i feel love (every million miles)"" by the dead weather released in 2015?",No
+236,311,2,"Is the genre of the song titled ""i feel love (every million miles)"" by the dead weather blues/jazz?",No
+237,313,1,"Is the song titled ""a boy's best friend"" by the white stripes released in 2000?",No
+238,313,2,"Is the genre of the song titled ""a boy's best friend"" by the white stripes blues/jazz?",No
+239,315,1,"Is the song titled ""long gone"" by brownie mcghee released in 1951?",No
+240,316,1,"Is the song titled ""national finals rodeo"" by chris ledoux released in 1973?",No
+241,322,1,"Is the song titled ""above and beyond (the call of love)"" by conway twitty released in 1961?",No
+242,324,1,"Is the song titled ""i was doing all right"" by louis armstrong released in 1957?",No
+243,326,1,"Is the song titled ""intolerance"" by tool released in 1993?",No
+244,326,2,"Is the genre of the song titled ""intolerance"" by tool pop/rock?",No
+245,328,2,"Is the genre of the song titled ""reasons"" by chris rea blues/jazz?",No
+246,330,1,"Is the song titled ""gangsta"" by 8ball & mjg released in 2018?",No
+247,332,1,"Is the song titled ""ocean breakup / king of the universe"" by electric light orchestra released in 1973?",No
+248,334,1,"Is the song titled ""stuck in the moment"" by justin bieber released in 2010?",No
+249,335,2,"Is the genre of the song titled ""knocks me off my feet"" by donell jones pop/rock?",No
+250,336,2,"Is the genre of the song titled ""sick of being lonely"" by field mob pop/rock?",No
+251,337,1,"Is the song titled ""beautiful"" by kenny g released in 1986?",No
+252,337,2,"Is the genre of the song titled ""beautiful"" by kenny g blues/jazz?",No
+253,338,1,"Is the song titled ""sickening"" by meshuggah released in 1991?",No
+254,338,2,"Is the genre of the song titled ""sickening"" by meshuggah blues/jazz?",No
+255,341,2,"Is the genre of the song titled ""compared to what"" by roberta flack blues/jazz?",No
+256,343,1,"Is the song titled ""time to say goodbye"" by b.b. king released in 1958?",No
+257,345,1,"Is the song titled ""roads girdle the globe"" by xtc released in 1979?",No
+258,347,2,"Is the genre of the song titled ""clash"" by caravan palace blues/jazz?",No
+259,349,1,"Is the song titled ""disparate youth"" by santigold released in 2012?",No
+260,352,1,"Is the song titled ""whutcha want?"" by nine released in 2019?",No
+261,354,1,"Is the song titled ""thomas"" by a perfect circle released in 2000?",No
+262,355,2,"Is the genre of the song titled ""journey"" by black uhuru country/folk?",No
+263,357,2,"Is the genre of the song titled ""king george"" by roy ayers blues/jazz?",No
+264,358,2,"Is the genre of the song titled ""tongue tied"" by wanda jackson pop/rock?",No
+265,362,1,"Is the song titled ""fire and brimstone"" by link wray released in 1971?",No
+266,363,1,"Is the song titled ""blame the moon"" by beth hart released in 1996?",No
+267,363,2,"Is the genre of the song titled ""blame the moon"" by beth hart blues/jazz?",No
+268,364,1,"Is the song titled ""hail mi idren"" by ini kamoze released in 1984?",No
+269,364,2,"Is the genre of the song titled ""hail mi idren"" by ini kamoze country/folk?",No
+270,365,2,"Is the genre of the song titled ""mansard roof"" by vampire weekend pop/rock?",No
+271,366,1,"Is the song titled ""motivation"" by t.i. released in 2004?",No
+272,366,2,"Is the genre of the song titled ""motivation"" by t.i. pop/rock?",No
+273,367,2,"Is the genre of the song titled ""lunar wilderness"" by between the buried and me blues/jazz?",No
+274,368,1,"Is the song titled ""where's da bud"" by three 6 mafia released in 1997?",No
+275,368,2,"Is the genre of the song titled ""where's da bud"" by three 6 mafia pop/rock?",No
+276,370,1,"Is the song titled ""carry me on"" by arc angels released in 1992?",No
+277,370,2,"Is the genre of the song titled ""carry me on"" by arc angels blues/jazz?",No
+278,372,2,"Is the genre of the song titled ""wake up and live"" by bob marley & the wailers country/folk?",No
+279,373,1,"Is the song titled ""my broken souvenirs"" by pussycat released in 1977?",No
+280,374,1,"Is the song titled ""so a child may follow"" by damian marley released in 2017?",No
+281,374,2,"Is the genre of the song titled ""so a child may follow"" by damian marley country/folk?",No
+282,377,1,"Is the song titled ""hey, good lookin'"" by mose allison released in 1994?",No
+283,379,1,"Is the song titled ""the pros and cons of breathing"" by fall out boy released in 2003?",No
+284,380,1,"Is the song titled ""judgement day"" by raging fyah released in 2015?",No
+285,380,2,"Is the genre of the song titled ""judgement day"" by raging fyah country/folk?",No
+286,381,2,"Is the genre of the song titled ""i can't stop loving you"" by diane schuur blues/jazz?",No
+287,382,1,"Is the song titled ""what a diff'rence a day made"" by aretha franklin released in 1964?",No
+288,382,2,"Is the genre of the song titled ""what a diff'rence a day made"" by aretha franklin blues/jazz?",No
+289,383,2,"Is the genre of the song titled ""gun down"" by bounty killer country/folk?",No
+290,384,2,"Is the genre of the song titled ""5-10-15 hours"" by ruth brown blues/jazz?",No
+291,385,2,"Is the genre of the song titled ""situation crazy"" by pato banton country/folk?",No
+292,388,2,"Is the genre of the song titled ""beyond the realms of death"" by judas priest pop/rock?",No
+293,389,1,"Is the song titled ""two kinds of happiness"" by the strokes released in 2011?",No
+294,390,2,"Is the genre of the song titled ""when the lights gone out"" by ziggy marley & the melody makers country/folk?",No
+295,394,1,"Is the song titled ""she-wolf"" by megadeth released in 1997?",No
+296,396,2,"Is the genre of the song titled ""seasick emotions"" by the wood brothers blues/jazz?",No
+297,397,1,"Is the song titled ""lonely blue boy"" by conway twitty released in 1960?",No
+298,398,1,"Is the song titled ""it might as well be spring"" by dinah washington released in 1995?",No
+299,398,2,"Is the genre of the song titled ""it might as well be spring"" by dinah washington blues/jazz?",No
+300,399,1,"Is the song titled ""heartbreaker"" by crazy p released in 2011?",No
+301,401,1,"Is the song titled ""big all around"" by gregory isaacs released in 1989?",No
+302,401,2,"Is the genre of the song titled ""big all around"" by gregory isaacs country/folk?",No
+303,405,2,"Is the genre of the song titled ""just a lil bit"" by 50 cent pop/rock?",No
+304,406,1,"Is the song titled ""moneytalks"" by ac/dc released in 1990?",No
+305,408,2,"Is the genre of the song titled ""after all"" by al jarreau blues/jazz?",No
+306,410,2,"Is the genre of the song titled ""the one you belong to"" by the sheepdogs blues/jazz?",No
+307,412,1,"Is the song titled ""welcome"" by phil collins released in 2003?",No
+308,414,2,"Is the genre of the song titled ""arhegh danagh"" by tinariwen blues/jazz?",No
+309,417,1,"Is the song titled ""freedom for my people"" by adam gussow released in 1988?",No
+310,418,2,"Is the genre of the song titled ""you stay (feat. meek mill, j balvin, lil baby & jeremih)"" by dj khaled pop/rock?",No
+311,421,1,"Is the song titled ""night hunting time"" by santana released in 1983?",No
+312,421,2,"Is the genre of the song titled ""night hunting time"" by santana blues/jazz?",No
+313,422,1,"Is the song titled ""stay"" by madonna released in 1984?",No
+314,423,1,"Is the song titled ""no more hot dogs"" by hasil adkins released in 2002?",No
+315,423,2,"Is the genre of the song titled ""no more hot dogs"" by hasil adkins blues/jazz?",No
+316,424,1,"Is the song titled ""let you down"" by seether released in 2017?",No
+317,425,1,"Is the song titled ""long time to forget"" by george jones released in 1955?",No
+318,428,1,"Is the song titled ""evil has no boundaries"" by slayer released in 1983?",No
+319,428,2,"Is the genre of the song titled ""evil has no boundaries"" by slayer pop/rock?",No
+320,431,2,"Is the genre of the song titled ""eleanor"" by louis prima blues/jazz?",No
+321,433,1,"Is the song titled ""why i am"" by dave matthews band released in 2009?",No
+322,434,2,"Is the genre of the song titled ""nobody other"" by kadhja bonet blues/jazz?",No
+323,435,1,"Is the song titled ""philly"" by spyro gyra released in 1980?",No
+324,435,2,"Is the genre of the song titled ""philly"" by spyro gyra blues/jazz?",No
+325,437,2,"Is the genre of the song titled ""most i"" by chronixx country/folk?",No
+326,440,2,"Is the genre of the song titled ""waist"" by sonic youth blues/jazz?",No
+327,441,2,"Is the genre of the song titled ""my favorite heart to break"" by the parlor mob blues/jazz?",No
+328,442,2,"Is the genre of the song titled ""rastaman chant"" by bob marley & the wailers country/folk?",No
+329,444,2,"Is the genre of the song titled ""step by step"" by mikey dread country/folk?",No
+330,446,1,"Is the song titled ""red white & blue"" by lynyrd skynyrd released in 2003?",No
+331,448,2,"Is the genre of the song titled ""push and shove"" by the subdudes blues/jazz?",No
+332,450,1,"Is the song titled ""hiding"" by breakestra released in 2005?",No
+333,450,2,"Is the genre of the song titled ""hiding"" by breakestra blues/jazz?",No
+334,453,1,"Is the song titled ""uncle pen"" by bill monroe released in 1999?",No
+335,456,2,"Is the genre of the song titled ""out of the blue"" by george benson blues/jazz?",No
+336,458,1,"Is the song titled ""why"" by jason aldean released in 2005?",No
+337,460,1,"Is the song titled ""oh what it did to me"" by tanya tucker released in 2000?",No
+338,461,1,"Is the song titled ""one slip"" by pink floyd released in 1987?",No
+339,463,1,"Is the song titled ""asteroid"" by passafire released in 2007?",No
+340,463,2,"Is the genre of the song titled ""asteroid"" by passafire country/folk?",No
+341,464,1,"Is the song titled ""jump"" by madonna released in 2005?",No
+342,465,2,"Is the genre of the song titled ""listen to your heartbeat"" by gary moore blues/jazz?",No
+343,466,2,"Is the genre of the song titled ""those damned blue-collar tweekers"" by primus pop/rock?",No
+344,468,1,"Is the song titled ""dooley"" by the gourds released in 2001?",No
+345,474,1,"Is the song titled ""if you ever get lonely"" by love and theft released in 2012?",No
+346,475,1,"Is the song titled ""my arms were always around you"" by peter bradley adams released in 2017?",No
+347,479,1,"Is the song titled ""tooth fang & claw"" by ted nugent released in 2012?",No
+348,479,2,"Is the genre of the song titled ""tooth fang & claw"" by ted nugent blues/jazz?",No
+349,480,2,"Is the genre of the song titled ""lightning"" by dispatch country/folk?",No
+350,482,2,"Is the genre of the song titled ""find the cost of freedom"" by crosby, stills, nash & young blues/jazz?",No
+351,483,1,"Is the song titled ""slow healing heart"" by vern gosdin released in 1984?",No
+352,487,1,"Is the song titled ""withered hand"" by thee oh sees released in 2015?",No
+353,487,2,"Is the genre of the song titled ""withered hand"" by thee oh sees blues/jazz?",No
+354,488,2,"Is the genre of the song titled ""still falling for you"" by boz scaggs country/folk?",No
+355,492,1,"Is the song titled ""proceed"" by the roots released in 2017?",No
+356,493,1,"Is the song titled ""why can't he be you"" by patsy cline released in 1963?",No
+357,494,1,"Is the song titled ""there's a tear in my beer"" by hank williams released in 1992?",No
+358,496,1,"Is the song titled ""harmony"" by slade released in 1985?",No
+359,496,2,"Is the genre of the song titled ""harmony"" by slade blues/jazz?",No
+360,497,1,"Is the song titled ""burning down"" by nazareth released in 1984?",No
+361,497,2,"Is the genre of the song titled ""burning down"" by nazareth blues/jazz?",No
+362,499,2,"Is the genre of the song titled ""forgive, don't forget"" by soja country/folk?",No
+363,500,1,"Is the song titled ""mercy"" by wire released in 1978?",No
+364,501,1,"Is the song titled ""gettin' down on the mountain"" by corb lund released in 2012?",No
+365,502,1,"Is the song titled ""tourniquet"" by tesseract released in 2015?",No
+366,502,2,"Is the genre of the song titled ""tourniquet"" by tesseract blues/jazz?",No
+367,503,1,"Is the song titled ""patricia"" by pérez prado released in 1950?",No
+368,503,2,"Is the genre of the song titled ""patricia"" by pérez prado pop/rock?",No
+369,508,1,"Is the song titled ""holiday (feat. phiness)"" by naughty by nature released in 1999?",No
+370,509,1,"Is the song titled ""don't let it get you down"" by johnnyswim released in 2013?",No
+371,512,1,"Is the song titled ""the whip"" by the ethiopians released in 2004?",No
+372,512,2,"Is the genre of the song titled ""the whip"" by the ethiopians country/folk?",No
+373,516,1,"Is the song titled ""check out your mind"" by the impressions released in 1970?",No
+374,519,1,"Is the song titled ""verbal clap"" by de la soul released in 2004?",No
+375,519,2,"Is the genre of the song titled ""verbal clap"" by de la soul blues/jazz?",No
+376,521,2,"Is the genre of the song titled ""shot clock"" by ella mai pop/rock?",No
+377,522,2,"Is the genre of the song titled ""be all, end all"" by anthrax pop/rock?",No
+378,524,1,"Is the song titled ""keep it dark"" by genesis released in 1981?",No
+379,525,1,"Is the song titled ""i second that emotion"" by jerry garcia released in 1988?",No
+380,525,2,"Is the genre of the song titled ""i second that emotion"" by jerry garcia blues/jazz?",No
+381,526,1,"Is the song titled ""hussle in the house"" by nipsey hussle released in 2019?",No
+382,527,2,"Is the genre of the song titled ""get my party on"" by shaggy country/folk?",No
+383,528,1,"Is the song titled ""way to break my heart (feat. skrillex)"" by ed sheeran released in 2019?",No
+384,529,1,"Is the song titled ""baby the rain must fall"" by kenny wayne shepherd released in 2011?",No
+385,530,1,"Is the song titled ""anna marie"" by jim reeves released in 1991?",No
+386,533,1,"Is the song titled ""the wurlitzer prize"" by kacey musgraves released in 2017?",No
+387,534,1,"Is the song titled ""i got a man (re-recorded)"" by positive k released in 2008?",No
+388,535,1,"Is the song titled ""far away places"" by bing crosby released in 1993?",No
+389,535,2,"Is the genre of the song titled ""far away places"" by bing crosby blues/jazz?",No
+390,537,1,"Is the song titled ""the words i would say"" by sidewalk prophets released in 2009?",No
+391,539,1,"Is the song titled ""heresy"" by pantera released in 1990?",No
+392,539,2,"Is the genre of the song titled ""heresy"" by pantera pop/rock?",No
+393,540,1,"Is the song titled ""herbist"" by cali p released in 2012?",No
+394,541,1,"Is the song titled ""long way to go"" by corey smith released in 2003?",No
+395,543,2,"Is the genre of the song titled ""jumping jack flash"" by peter frampton country/folk?",No
+396,545,1,"Is the song titled ""royal garden blues"" by bix beiderbecke released in 1988?",No
+397,546,1,"Is the song titled ""cha cha cha in blue"" by junior wells released in 1957?",No
+398,548,2,"Is the genre of the song titled ""sideways (feat. citizen cope)"" by santana blues/jazz?",No
+399,549,2,"Is the genre of the song titled ""that's how i escaped my certain fate"" by mission of burma pop/rock?",No
+400,552,2,"Is the genre of the song titled ""please yourself"" by ron gallo blues/jazz?",No
+401,553,1,"Is the song titled ""egg"" by the garden released in 2015?",No
+402,554,2,"Is the genre of the song titled ""deep inside"" by patra country/folk?",No
+403,556,1,"Is the song titled ""affirmation"" by savage garden released in 1999?",No
+404,559,1,"Is the song titled ""i'll always love you"" by tito nieves released in 2005?",No
+405,559,2,"Is the genre of the song titled ""i'll always love you"" by tito nieves blues/jazz?",No
+406,563,2,"Is the genre of the song titled ""mary ann"" by alice cooper blues/jazz?",No
+407,564,2,"Is the genre of the song titled ""high shelf booze"" by eilen jewell country/folk?",No
+408,566,1,"Is the song titled ""christopher columbus"" by burning spear released in 2012?",No
+409,566,2,"Is the genre of the song titled ""christopher columbus"" by burning spear country/folk?",No
+410,569,1,"Is the song titled ""pull up vibes"" by beres hammond released in 2013?",No
+411,569,2,"Is the genre of the song titled ""pull up vibes"" by beres hammond country/folk?",No
+412,577,1,"Is the song titled ""crash and burn"" by savage garden released in 1999?",No
+413,578,1,"Is the song titled ""naked"" by james arthur released in 2017?",No
+414,580,1,"Is the song titled ""vultures"" by phish released in 2011?",No
+415,580,2,"Is the genre of the song titled ""vultures"" by phish blues/jazz?",No
+416,581,1,"Is the song titled ""can't truss it"" by public enemy released in 2015?",No
+417,582,1,"Is the song titled ""the burning spear (live)"" by sonic youth released in 1981?",No
+418,582,2,"Is the genre of the song titled ""the burning spear (live)"" by sonic youth blues/jazz?",No
+419,583,1,"Is the song titled ""i'm waiting"" by bargain music released in 2003?",No
+420,585,2,"Is the genre of the song titled ""jimmy's gang"" by parov stelar blues/jazz?",No
+421,587,1,"Is the song titled ""ain’t got no money"" by justin townes earle released in 2019?",No
+422,589,1,"Is the song titled ""i got one for ya'"" by kid rock released in 1998?",No
+423,593,1,"Is the song titled ""our ages or our hearts"" by roberta flack released in 1969?",No
+424,593,2,"Is the genre of the song titled ""our ages or our hearts"" by roberta flack blues/jazz?",No
+425,595,1,"Is the song titled ""opm medley: when i met you"" by freestyle released in 1950?",No
+426,596,1,"Is the song titled ""looks like we made it"" by barry manilow released in 1974?",No
+427,597,1,"Is the song titled ""holy cow"" by lee dorsey released in 2000?",No
+428,598,1,"Is the song titled ""strange fruit"" by billie holiday released in 1956?",No
+429,599,2,"Is the genre of the song titled ""maniac"" by kid cudi pop/rock?",No
+430,600,1,"Is the song titled ""two steps from the blues"" by bobby ""blue"" bland released in 2001?",No
+431,602,1,"Is the song titled ""deja vu (all over again)"" by john fogerty released in 2004?",No
+432,602,2,"Is the genre of the song titled ""deja vu (all over again)"" by john fogerty blues/jazz?",No
+433,603,1,"Is the song titled ""baby did you hear"" by dinah washington released in 1987?",No
+434,604,1,"Is the song titled ""this one's for the girls"" by martina mcbride released in 2003?",No
+435,605,2,"Is the genre of the song titled ""dig"" by mudvayne pop/rock?",No
+436,606,1,"Is the song titled ""outta my mind"" by des rocs released in 2019?",No
+437,606,2,"Is the genre of the song titled ""outta my mind"" by des rocs blues/jazz?",No
+438,611,2,"Is the genre of the song titled ""new york state of mind (with billy joel)"" by tony bennett blues/jazz?",No
+439,612,2,"Is the genre of the song titled ""crua chan"" by sumo country/folk?",No
+440,617,1,"Is the song titled ""bernadette"" by four tops released in 1999?",No
+441,618,1,"Is the song titled ""lip addiction"" by shag rock released in 2017?",No
+442,618,2,"Is the genre of the song titled ""lip addiction"" by shag rock country/folk?",No
+443,619,2,"Is the genre of the song titled ""true love"" by soja country/folk?",No
+444,621,1,"Is the song titled ""smile"" by brian hughes released in 1999?",No
+445,621,2,"Is the genre of the song titled ""smile"" by brian hughes blues/jazz?",No
+446,622,1,"Is the song titled ""beautiful"" by willie clayton released in 2006?",No
+447,627,1,"Is the song titled ""con man"" by dispatch released in 2011?",No
+448,627,2,"Is the genre of the song titled ""con man"" by dispatch country/folk?",No
+449,628,2,"Is the genre of the song titled ""one kiss (with dua lipa)"" by calvin harris pop/rock?",No
+450,629,1,"Is the song titled ""the blackboard of my heart"" by hank thompson released in 1960?",No
+451,630,1,"Is the song titled ""don’t let me be lonely"" by the band perry released in 2013?",No
+452,630,2,"Is the genre of the song titled ""don’t let me be lonely"" by the band perry country/folk?",No
+453,633,2,"Is the genre of the song titled ""where are you?"" by brenda lee blues/jazz?",No
+454,634,1,"Is the song titled ""you did the crime"" by buddy guy released in 2018?",No
+455,635,1,"Is the song titled ""tabloid junkie"" by michael jackson released in 1995?",No
+456,638,1,"Is the song titled ""show me the way to go home"" by emerson, lake & palmer released in 1977?",No
+457,640,2,"Is the genre of the song titled ""my mic sounds nice"" by salt-n-pepa pop/rock?",No
+458,642,1,"Is the song titled ""good ambition"" by ub40 released in 1998?",No
+459,642,2,"Is the genre of the song titled ""good ambition"" by ub40 country/folk?",No
+460,643,1,"Is the song titled ""blue moon"" by beck released in 2014?",No
+461,644,1,"Is the song titled ""moggio"" by frank zappa released in 1983?",No
+462,644,2,"Is the genre of the song titled ""moggio"" by frank zappa blues/jazz?",No
+463,646,1,"Is the song titled ""razor boy"" by steely dan released in 1973?",No
+464,646,2,"Is the genre of the song titled ""razor boy"" by steely dan blues/jazz?",No
+465,647,1,"Is the song titled ""southern ways"" by lynyrd skynyrd released in 2009?",No
+466,648,2,"Is the genre of the song titled ""purgatory"" by iron maiden pop/rock?",No
+467,650,2,"Is the genre of the song titled ""velvet light"" by jakob ogawa pop/rock?",No
+468,651,1,"Is the song titled ""trap star"" by jeezy released in 2005?",No
+469,651,2,"Is the genre of the song titled ""trap star"" by jeezy pop/rock?",No
+470,652,1,"Is the song titled ""johnny law"" by wayne hancock released in 1997?",No
+471,653,1,"Is the song titled ""crying over you"" by ub40 released in 1998?",No
+472,653,2,"Is the genre of the song titled ""crying over you"" by ub40 country/folk?",No
+473,654,2,"Is the genre of the song titled ""i'm above"" by mad season blues/jazz?",No
+474,657,2,"Is the genre of the song titled ""good morning, captain"" by slint pop/rock?",No
+475,662,1,"Is the song titled ""the next kiss (is the last goodbye)"" by conway twitty released in 1962?",No
+476,663,1,"Is the song titled ""millworker"" by james taylor released in 1979?",No
+477,665,1,"Is the song titled ""1-2-3"" by gloria estefan released in 1984?",No
+478,670,1,"Is the song titled ""easy silence"" by dixie chicks released in 2006?",No
+479,671,2,"Is the genre of the song titled ""a national acrobat"" by black sabbath pop/rock?",No
+480,673,1,"Is the song titled ""still a g thang"" by snoop dogg released in 2017?",No
+481,674,2,"Is the genre of the song titled ""after you've gone"" by judy garland blues/jazz?",No
+482,675,1,"Is the song titled ""take me home country roads"" by honeybrowne released in 2006?",No
+483,676,1,"Is the song titled ""out in the cold"" by tom petty and the heartbreakers released in 1991?",No
+484,678,1,"Is the song titled ""earnings"" by rahn harper released in 2016?",No
+485,680,2,"Is the genre of the song titled ""the buzz feeling"" by ub40 country/folk?",No
+486,689,2,"Is the genre of the song titled ""good times"" by sam cooke pop/rock?",No
+487,690,2,"Is the genre of the song titled ""build your nest"" by earth, wind & fire blues/jazz?",No
+488,695,1,"Is the song titled ""power to the music"" by mötley crüe released in 1994?",No
+489,697,2,"Is the genre of the song titled ""raining blood"" by slayer pop/rock?",No
+490,698,1,"Is the song titled ""chosen ones"" by megadeth released in 1985?",No
+491,698,2,"Is the genre of the song titled ""chosen ones"" by megadeth pop/rock?",No
+492,699,1,"Is the song titled ""young and wild"" by zac brown band released in 2015?",No
+493,700,1,"Is the song titled ""in care of the blues"" by patsy cline released in 1957?",No
+494,703,2,"Is the genre of the song titled ""past my prime"" by greensky bluegrass pop/rock?",No
+495,705,1,"Is the song titled ""love is the queen"" by seeed released in 2003?",No
+496,705,2,"Is the genre of the song titled ""love is the queen"" by seeed country/folk?",No
+497,706,1,"Is the song titled ""georgia warhorse"" by jj grey & mofro released in 2010?",No
+498,707,1,"Is the song titled ""the christian life"" by sanchez released in 1999?",No
+499,707,2,"Is the genre of the song titled ""the christian life"" by sanchez country/folk?",No
+500,709,1,"Is the song titled ""prelude to a kiss"" by billie holiday released in 1991?",No
+501,713,1,"Is the song titled ""chanson"" by art farmer released in 1977?",No
+502,713,2,"Is the genre of the song titled ""chanson"" by art farmer blues/jazz?",No
+503,714,1,"Is the song titled ""i've wasted so much time"" by enjoy released in 2010?",No
+504,715,2,"Is the genre of the song titled ""concrete jungle"" by bob marley & the wailers country/folk?",No
+505,716,1,"Is the song titled ""welcome to tha concrete jungle"" by lil wayne released in 2014?",No
+506,717,2,"Is the genre of the song titled ""pastime paradise"" by ray barretto blues/jazz?",No
+507,720,1,"Is the song titled ""the sinking feeling"" by the the released in 1983?",No
+508,721,2,"Is the genre of the song titled ""of mind"" by tesseract blues/jazz?",No
+509,725,1,"Is the song titled ""window of my eyes"" by boosie badazz released in 2017?",No
+510,728,2,"Is the genre of the song titled ""do it again"" by terrace martin blues/jazz?",No
+511,730,1,"Is the song titled ""wonderful christmas time"" by kelly rowland released in 2017?",No
+512,730,2,"Is the genre of the song titled ""wonderful christmas time"" by kelly rowland hip hop/reggae?",No
+513,732,1,"Is the song titled ""counting the days"" by marah released in 1954?",No
+514,732,2,"Is the genre of the song titled ""counting the days"" by marah country/folk?",No
+515,733,1,"Is the song titled ""stuck in these shoes"" by aaron lewis released in 2016?",No
+516,735,1,"Is the song titled ""never be alone"" by shawn mendes released in 2015?",No
+517,741,1,"Is the song titled ""they still like me"" by lil wayne released in 2014?",No
+518,742,1,"Is the song titled ""please read the letter"" by robert plant released in 2007?",No
+519,742,2,"Is the genre of the song titled ""please read the letter"" by robert plant blues/jazz?",No
+520,743,1,"Is the song titled ""breathe you in"" by dierks bentley released in 2012?",No
+521,746,2,"Is the genre of the song titled ""it's on"" by mary j. blige pop/rock?",No
+522,747,2,"Is the genre of the song titled ""try it"" by black uhuru country/folk?",No
+523,750,2,"Is the genre of the song titled ""soft serve"" by soul coughing pop/rock?",No
+524,752,1,"Is the song titled ""sit awhile"" by the band steele released in 2017?",No
+525,754,2,"Is the genre of the song titled ""everything will be alright"" by j.j. cale blues/jazz?",No
+526,756,2,"Is the genre of the song titled ""congratulations"" by traveling wilburys blues/jazz?",No
+527,759,2,"Is the genre of the song titled ""outta mind"" by night beats blues/jazz?",No
+528,761,1,"Is the song titled ""crash course in brain surgery"" by metallica released in 1998?",No
+529,761,2,"Is the genre of the song titled ""crash course in brain surgery"" by metallica pop/rock?",No
+530,762,1,"Is the song titled ""i'm sitting on top of the world"" by aretha franklin released in 1962?",No
+531,762,2,"Is the genre of the song titled ""i'm sitting on top of the world"" by aretha franklin blues/jazz?",No
+532,763,1,"Is the song titled ""the river of dreams"" by billy joel released in 1993?",No
+533,766,1,"Is the song titled ""it's not love (but it's not bad)"" by merle haggard released in 2007?",No
+534,767,1,"Is the song titled ""what am i living for"" by conway twitty released in 1963?",No
+535,768,1,"Is the song titled ""i'm gonna lock my heart (and throw away the key)"" by billie holiday released in 1980?",No
+536,770,1,"Is the song titled ""lay down"" by priestess released in 2006?",No
+537,771,1,"Is the song titled ""you ain't foolin' me"" by screamin' jay hawkins released in 1991?",No
+538,774,1,"Is the song titled ""blue spirit blues"" by bessie smith released in 1993?",No
+539,775,1,"Is the song titled ""when we was fab"" by george harrison released in 1987?",No
+540,776,1,"Is the song titled ""tiger rag"" by the mills brothers released in 1995?",No
+541,777,1,"Is the song titled ""there's not a problem my squad can't fix"" by busta rhymes released in 2017?",No
+542,781,1,"Is the song titled ""one from the heart"" by nazareth released in 1986?",No
+543,781,2,"Is the genre of the song titled ""one from the heart"" by nazareth blues/jazz?",No
+544,782,2,"Is the genre of the song titled ""out of africa"" by capital letters country/folk?",No
+545,784,1,"Is the song titled ""free to be me"" by francesca battistelli released in 2008?",No
+546,787,1,"Is the song titled ""bridges burned"" by the expendables released in 2004?",No
+547,787,2,"Is the genre of the song titled ""bridges burned"" by the expendables country/folk?",No
+548,788,2,"Is the genre of the song titled ""i made it (cash money heroes)"" by kevin rudolf pop/rock?",No
+549,791,1,"Is the song titled ""violence"" by blink-182 released in 2003?",No
+550,797,1,"Is the song titled ""suite-pee"" by system of a down released in 1998?",No
+551,797,2,"Is the genre of the song titled ""suite-pee"" by system of a down pop/rock?",No
+552,799,1,"Is the song titled ""jack of diamonds"" by scott h. biram released in 2014?",No
+553,800,1,"Is the song titled ""luv (sic) pt4 lastorder remix"" by nujabes released in 2015?",No
+554,800,2,"Is the genre of the song titled ""luv (sic) pt4 lastorder remix"" by nujabes blues/jazz?",No
+555,801,2,"Is the genre of the song titled ""ram dancehall"" by shabba ranks country/folk?",No
+556,802,1,"Is the song titled ""i believe in love"" by matisyahu released in 2012?",No
+557,802,2,"Is the genre of the song titled ""i believe in love"" by matisyahu country/folk?",No
+558,805,1,"Is the song titled ""everything"" by mary j. blige released in 1997?",No
+559,805,2,"Is the genre of the song titled ""everything"" by mary j. blige pop/rock?",No
+560,806,1,"Is the song titled ""adrenaline"" by nate millyunz released in 2013?",No
+561,807,1,"Is the song titled ""feelins'"" by loretta lynn released in 1975?",No
+562,809,1,"Is the song titled ""got soul"" by robert randolph & the family band released in 2016?",No
+563,813,1,"Is the song titled ""a house without love"" by hank williams released in 1966?",No
+564,815,1,"Is the song titled ""mona lisa"" by johnny burnette released in 1961?",No
+565,816,2,"Is the genre of the song titled ""summer days"" by blackfoot country/folk?",No
+566,817,1,"Is the song titled ""sacred trickster"" by sonic youth released in 2009?",No
+567,817,2,"Is the genre of the song titled ""sacred trickster"" by sonic youth blues/jazz?",No
+568,818,1,"Is the song titled ""take these chains from my heart"" by hank williams released in 1978?",No
+569,822,1,"Is the song titled ""glass"" by thompson square released in 2011?",No
+570,823,2,"Is the genre of the song titled ""intro"" by hieroglyphics blues/jazz?",No
+571,825,1,"Is the song titled ""before the bullets fly"" by coco montoya released in 2017?",No
+572,826,1,"Is the song titled ""something more"" by sugarland released in 2004?",No
+573,827,1,"Is the song titled ""turn, turn, turn! / to everything there is a season"" by judy collins released in 1964?",No
+574,834,1,"Is the song titled ""god bless america"" by lee greenwood released in 1992?",No
+575,835,1,"Is the song titled ""champs-elysées"" by zaz released in 2014?",No
+576,835,2,"Is the genre of the song titled ""champs-elysées"" by zaz blues/jazz?",No
+577,836,1,"Is the song titled ""21 days in jail"" by magic sam released in 2001?",No
+578,837,1,"Is the song titled ""it's a hard life"" by queen released in 1984?",No
+579,838,1,"Is the song titled ""it takes two (re-recorded)"" by rob base released in 2010?",No
+580,840,1,"Is the song titled ""someone like you"" by emmylou harris released in 1984?",No
+581,841,1,"Is the song titled ""should i stay"" by indigenous released in 2008?",No
+582,841,2,"Is the genre of the song titled ""should i stay"" by indigenous blues/jazz?",No
+583,848,1,"Is the song titled ""on the run"" by royce da 5'9"" released in 2009?",No
+584,848,2,"Is the genre of the song titled ""on the run"" by royce da 5'9"" hip hop/reggae?",No
+585,851,1,"Is the song titled ""good to be me (feat. kid rock)"" by uncle kracker released in 2009?",No
+586,852,1,"Is the song titled ""still standing"" by michael franti & spearhead released in 2016?",No
+587,852,2,"Is the genre of the song titled ""still standing"" by michael franti & spearhead country/folk?",No
+588,853,1,"Is the song titled ""it came upon a midnight clear"" by ella fitzgerald released in 1967?",No
+589,853,2,"Is the genre of the song titled ""it came upon a midnight clear"" by ella fitzgerald blues/jazz?",No
+590,854,1,"Is the song titled ""first things first"" by crosby, stills & nash released in 1980?",No
+591,855,1,"Is the song titled ""caryatid easy"" by son volt released in 1997?",No
+592,856,1,"Is the song titled ""searchin"" by matisyahu released in 2012?",No
+593,856,2,"Is the genre of the song titled ""searchin"" by matisyahu country/folk?",No
+594,857,2,"Is the genre of the song titled ""heart on"" by eagles of death metal blues/jazz?",No
+595,859,1,"Is the song titled ""every time she whispers"" by michael franks released in 1999?",No
+596,859,2,"Is the genre of the song titled ""every time she whispers"" by michael franks blues/jazz?",No
+597,860,1,"Is the song titled ""this ain't no love song"" by trace adkins released in 2010?",No
+598,861,2,"Is the genre of the song titled ""moon walk"" by the hippy boys country/folk?",No
+599,864,2,"Is the genre of the song titled ""massacre"" by thin lizzy blues/jazz?",No
+600,866,1,"Is the song titled ""fu xi"" by thee oh sees released in 2019?",No
+601,868,1,"Is the song titled ""lollipops and roses"" by jack jones released in 1995?",No
+602,868,2,"Is the genre of the song titled ""lollipops and roses"" by jack jones blues/jazz?",No
+603,869,2,"Is the genre of the song titled ""on your face"" by konshens country/folk?",No
+604,870,2,"Is the genre of the song titled ""someone watching over you"" by the big bopper pop/rock?",No
+605,871,1,"Is the song titled ""blood beach"" by groovie ghoulies released in 1957?",No
+606,873,2,"Is the genre of the song titled ""pink maggit"" by deftones pop/rock?",No
+607,874,1,"Is the song titled ""lady evil"" by black sabbath released in 1980?",No
+608,874,2,"Is the genre of the song titled ""lady evil"" by black sabbath pop/rock?",No
+609,875,1,"Is the song titled ""timber"" by phish released in 1988?",No
+610,875,2,"Is the genre of the song titled ""timber"" by phish blues/jazz?",No
+611,876,2,"Is the genre of the song titled ""buon natale (means merry christmas to you)"" by nat king cole blues/jazz?",No
+612,877,2,"Is the genre of the song titled ""stella by starlight"" by nat king cole blues/jazz?",No
+613,878,1,"Is the song titled ""i want to be with you always"" by willie nelson released in 1977?",No
+614,881,1,"Is the song titled ""erykah’s gun"" by dj harrison released in 2014?",No
+615,884,2,"Is the genre of the song titled ""winter"" by khalid pop/rock?",No
+616,886,2,"Is the genre of the song titled ""bell bottom blues"" by derek & the dominos country/folk?",No
+617,890,2,"Is the genre of the song titled ""help"" by jah shaka country/folk?",No
+618,891,2,"Is the genre of the song titled ""too much"" by drake pop/rock?",No
+619,893,2,"Is the genre of the song titled ""indians"" by anthrax pop/rock?",No
+620,894,1,"Is the song titled ""red like roses"" by jeff williams released in 2013?",No
+621,895,1,"Is the song titled ""somebody to love"" by justin bieber released in 2010?",No
+622,898,1,"Is the song titled ""no swallerin' place"" by june carter cash released in 1952?",No
+623,900,1,"Is the song titled ""non dimenticar"" by connie francis released in 1959?",No
+624,901,2,"Is the genre of the song titled ""thirteen days"" by j.j. cale blues/jazz?",No
+625,902,2,"Is the genre of the song titled ""easy to love"" by taj mahal blues/jazz?",No
+626,904,2,"Is the genre of the song titled ""hurt (dedicated to johnny cash)"" by sevendust pop/rock?",No
+627,906,1,"Is the song titled ""tek him"" by mad cobra released in 2005?",No
+628,906,2,"Is the genre of the song titled ""tek him"" by mad cobra country/folk?",No
+629,909,1,"Is the song titled ""in a sentimental mood"" by sarah vaughan released in 1980?",No
+630,909,2,"Is the genre of the song titled ""in a sentimental mood"" by sarah vaughan blues/jazz?",No
+631,910,1,"Is the song titled ""precious memories"" by tammy wynette released in 1964?",No
+632,912,1,"Is the song titled ""slither"" by metallica released in 1997?",No
+633,912,2,"Is the genre of the song titled ""slither"" by metallica pop/rock?",No
+634,915,2,"Is the genre of the song titled ""you & me"" by j-kwon hip hop/reggae?",No
+635,918,1,"Is the song titled ""hangover heart"" by hank thompson released in 1966?",No
+636,920,1,"Is the song titled ""come hell or high water"" by native construct released in 2015?",No
+637,923,1,"Is the song titled ""breaking skin"" by nonpoint released in 2014?",No
+638,923,2,"Is the genre of the song titled ""breaking skin"" by nonpoint pop/rock?",No
+639,925,1,"Is the song titled ""yesterday when i was young"" by roy clark released in 1996?",No
+640,928,1,"Is the song titled ""here's that rainy day"" by paul desmond released in 2002?",No
+641,929,1,"Is the song titled ""transdermal celebration"" by ween released in 2003?",No
+642,930,1,"Is the song titled ""blue rain"" by glenn miller released in 1991?",No
+643,930,2,"Is the genre of the song titled ""blue rain"" by glenn miller blues/jazz?",No
+644,931,2,"Is the genre of the song titled ""one in a million"" by pete rock blues/jazz?",No
+645,933,1,"Is the song titled ""strap me in"" by the cars released in 1987?",No
+646,936,2,"Is the genre of the song titled ""the great southern trendkill"" by pantera pop/rock?",No
+647,939,2,"Is the genre of the song titled ""missing you"" by brandy pop/rock?",No
+648,940,2,"Is the genre of the song titled ""tropical"" by chuck loeb blues/jazz?",No
+649,942,2,"Is the genre of the song titled ""the general (live)"" by dispatch country/folk?",No
+650,944,1,"Is the song titled ""landslide"" by dixie chicks released in 2002?",No
+651,946,1,"Is the song titled ""hold him joe"" by ziggy marley released in 2009?",No
+652,946,2,"Is the genre of the song titled ""hold him joe"" by ziggy marley country/folk?",No
+653,947,1,"Is the song titled ""valse de bamboula"" by angelo debarre released in 1989?",No
+654,947,2,"Is the genre of the song titled ""valse de bamboula"" by angelo debarre blues/jazz?",No
+655,949,2,"Is the genre of the song titled ""live and give"" by israel vibration country/folk?",No
+656,952,1,"Is the song titled ""that day"" by nonpoint released in 2012?",No
+657,953,1,"Is the song titled ""jealous of the angels"" by donna taggart released in 2013?",No
+658,953,2,"Is the genre of the song titled ""jealous of the angels"" by donna taggart country/folk?",No
+659,957,2,"Is the genre of the song titled ""rocky road"" by alborosie country/folk?",No
+660,959,1,"Is the song titled ""dance"" by super cat released in 1995?",No
+661,959,2,"Is the genre of the song titled ""dance"" by super cat country/folk?",No
+662,960,1,"Is the song titled ""pledge allegiance to the hag"" by eric church released in 2006?",No
+663,961,1,"Is the song titled ""we saw the sea"" by fred astaire released in 2010?",No
+664,961,2,"Is the genre of the song titled ""we saw the sea"" by fred astaire blues/jazz?",No
+665,962,1,"Is the song titled ""amazing"" by aerosmith released in 1993?",No
+666,963,1,"Is the song titled ""bring the sun/toussaint l'ouverture"" by swans released in 2014?",No
+667,963,2,"Is the genre of the song titled ""bring the sun/toussaint l'ouverture"" by swans blues/jazz?",No
+668,966,1,"Is the song titled ""angel"" by amanda perez released in 2002?",No
+669,968,1,"Is the song titled ""diamonds aren't forever"" by bring me the horizon released in 2008?",No
+670,969,2,"Is the genre of the song titled ""headhunter"" by krokus blues/jazz?",No
+671,970,1,"Is the song titled ""far away truths"" by albert hammond, jr. released in 2018?",No
+672,971,2,"Is the genre of the song titled ""captivity"" by jah shaka country/folk?",No
+673,972,1,"Is the song titled ""hip-hop drunkies"" by tha alkaholiks released in 2008?",No
+674,974,1,"Is the song titled ""crowd control"" by phish released in 2004?",No
+675,974,2,"Is the genre of the song titled ""crowd control"" by phish blues/jazz?",No
+676,979,1,"Is the song titled ""dark ages"" by jethro tull released in 1979?",No
+677,979,2,"Is the genre of the song titled ""dark ages"" by jethro tull blues/jazz?",No
+678,980,1,"Is the song titled ""white lines"" by grandmaster melle mel released in 2008?",No
+679,981,1,"Is the song titled ""i'm lonely (but i ain't that lonely yet)"" by the white stripes released in 2005?",No
+680,981,2,"Is the genre of the song titled ""i'm lonely (but i ain't that lonely yet)"" by the white stripes blues/jazz?",No
+681,982,2,"Is the genre of the song titled ""maagata maagata janm gele"" by lata mangeshkar pop/rock?",No
+682,986,1,"Is the song titled ""i heard that lonesome whistle"" by johnny cash released in 1957?",No
+683,988,1,"Is the song titled ""love takes time"" by mariah carey released in 1990?",No
+684,988,2,"Is the genre of the song titled ""love takes time"" by mariah carey pop/rock?",No
+685,989,1,"Is the song titled ""zilch"" by the monkees released in 1967?",No
+686,990,2,"Is the genre of the song titled ""the passion"" by billy bragg country/folk?",No
+687,991,1,"Is the song titled ""sweat (a la la la la long)"" by inner circle released in 2010?",No
+688,991,2,"Is the genre of the song titled ""sweat (a la la la la long)"" by inner circle country/folk?",No
+689,994,1,"Is the song titled ""into happiness"" by phantogram released in 2019?",No
+690,994,2,"Is the genre of the song titled ""into happiness"" by phantogram pop/rock?",No
+691,996,2,"Is the genre of the song titled ""daydream interlude"" by mariah carey pop/rock?",No
+692,998,1,"Is the song titled ""ace of hearts"" by chris rea released in 1984?",No
+693,998,2,"Is the genre of the song titled ""ace of hearts"" by chris rea blues/jazz?",No
+694,999,2,"Is the genre of the song titled ""with love (remember)"" by gary moore blues/jazz?",No
+695,1000,1,"Is the song titled ""not right"" by jonny lang released in 2013?",No
+696,1002,1,"Is the song titled ""foggy river"" by conway twitty released in 1961?",No
+697,1004,1,"Is the song titled ""future breed machine"" by meshuggah released in 1995?",No
+698,1004,2,"Is the genre of the song titled ""future breed machine"" by meshuggah blues/jazz?",No
+699,1005,1,"Is the song titled ""do it all the time"" by i dont know how but they found me released in 2018?",No
+700,1006,2,"Is the genre of the song titled ""chromazone"" by mike stern blues/jazz?",No
+701,1007,2,"Is the genre of the song titled ""bad love"" by eric clapton blues/jazz?",No
+702,1008,2,"Is the genre of the song titled ""driving home for christmas"" by chris rea blues/jazz?",No
+703,1009,2,"Is the genre of the song titled ""die by the sword"" by slayer pop/rock?",No
+704,1010,2,"Is the genre of the song titled ""no regrets"" by phoebe snow blues/jazz?",No
+705,1011,1,"Is the song titled ""let's fall in love for the night"" by finneas released in 2018?",No
+706,1013,2,"Is the genre of the song titled ""countdown to extinction"" by megadeth pop/rock?",No
+707,1015,1,"Is the song titled ""pd world tour (feat. puff daddy)"" by black rob released in 2017?",No
+708,1017,1,"Is the song titled ""semper fi"" by trace adkins released in 2011?",No
+709,1018,1,"Is the song titled ""hold on"" by tom waits released in 1999?",No
+710,1019,1,"Is the song titled ""small paradise"" by john mellencamp released in 1979?",No
+711,1020,2,"Is the genre of the song titled ""natty dread taking over"" by culture country/folk?",No
+712,1021,1,"Is the song titled ""puttin' on the ritz"" by gypsy swing revue released in 2007?",No
+713,1021,2,"Is the genre of the song titled ""puttin' on the ritz"" by gypsy swing revue blues/jazz?",No
+714,1022,2,"Is the genre of the song titled ""brand new funk 2k7 feat. peedi crakk"" by dj jazzy jeff hip hop/reggae?",No
+715,1023,2,"Is the genre of the song titled ""violent love"" by ted nugent blues/jazz?",No
+716,1024,1,"Is the song titled ""angel"" by casey donahew released in 2009?",No
+717,1026,2,"Is the genre of the song titled ""(when your heart's on fire) smoke gets in your eyes"" by vic damone blues/jazz?",No
+718,1028,1,"Is the song titled ""tighter, tighter"" by alive 'n kickin' released in 1970?",No
+719,1030,1,"Is the song titled ""fame and fortune"" by elvis presley released in 1963?",No
+720,1033,1,"Is the song titled ""she's always singing"" by the dear hunter released in 2011?",No
+721,1033,2,"Is the genre of the song titled ""she's always singing"" by the dear hunter blues/jazz?",No
+722,1036,1,"Is the song titled ""hate goes on"" by jelly roll released in 2017?",No
+723,1037,1,"Is the song titled ""sweet little mystery"" by john martyn released in 1980?",No
+724,1044,1,"Is the song titled ""the honeydripper"" by cab calloway released in 1974?",No
+725,1045,1,"Is the song titled ""shit bubba"" by upchurch released in 2016?",No
+726,1046,1,"Is the song titled ""breakaway"" by donna summer released in 1989?",No
+727,1047,1,"Is the song titled ""stormtroopin'"" by ted nugent released in 1975?",No
+728,1047,2,"Is the genre of the song titled ""stormtroopin'"" by ted nugent blues/jazz?",No
+729,1048,1,"Is the song titled ""hood love"" by royce da 5'9"" released in 2009?",No
+730,1051,2,"Is the genre of the song titled ""king's vengeance"" by thin lizzy blues/jazz?",No
+731,1053,2,"Is the genre of the song titled ""flute loop"" by beastie boys pop/rock?",No
+732,1054,1,"Is the song titled ""sick, sick, sick"" by bayside released in 2011?",No
+733,1058,2,"Is the genre of the song titled ""all the places"" by pete rock & c.l. smooth blues/jazz?",No
+734,1059,2,"Is the genre of the song titled ""dream a little dream of me"" by ella fitzgerald blues/jazz?",No
+735,1060,1,"Is the song titled ""thinkin' about love"" by small faces released in 1978?",No
+736,1060,2,"Is the genre of the song titled ""thinkin' about love"" by small faces blues/jazz?",No
+737,1061,2,"Is the genre of the song titled ""walk out"" by ub40 country/folk?",No
+738,1062,1,"Is the song titled ""rhythm of life"" by third world released in 1993?",No
+739,1064,1,"Is the song titled ""lupine dominus"" by thee oh sees released in 2012?",No
+740,1064,2,"Is the genre of the song titled ""lupine dominus"" by thee oh sees blues/jazz?",No
+741,1066,1,"Is the song titled ""in the wee small hours of the morning"" by stacey kent released in 2015?",No
+742,1070,1,"Is the song titled ""crying"" by don mclean released in 1988?",No
+743,1071,1,"Is the song titled ""that's why they make jack daniels"" by ronnie dunn released in 2016?",No
+744,1075,2,"Is the genre of the song titled ""it's all good"" by boney james blues/jazz?",No
+745,1077,1,"Is the song titled ""simmer down"" by bob marley & the wailers released in 1964?",No
+746,1077,2,"Is the genre of the song titled ""simmer down"" by bob marley & the wailers country/folk?",No
+747,1078,2,"Is the genre of the song titled ""i'll stay"" by funkadelic pop/rock?",No
+748,1079,1,"Is the song titled ""betcha can't do it like me"" by d4l released in 2017?",No
+749,1081,1,"Is the song titled ""dream girl"" by kolohe kai released in 2009?",No
+750,1082,1,"Is the song titled ""is there any chance"" by marty robbins released in 1991?",No
+751,1083,2,"Is the genre of the song titled ""from my heart"" by jah cure country/folk?",No
+752,1084,1,"Is the song titled ""wicked young man"" by alice cooper released in 2000?",No
+753,1084,2,"Is the genre of the song titled ""wicked young man"" by alice cooper blues/jazz?",No
+754,1086,1,"Is the song titled ""under suspicion"" by delbert mcclinton released in 1999?",No
+755,1087,1,"Is the song titled ""in the cold, cold night"" by the white stripes released in 2003?",No
+756,1087,2,"Is the genre of the song titled ""in the cold, cold night"" by the white stripes blues/jazz?",No
+757,1089,2,"Is the genre of the song titled ""hopes & dreams"" by wiz khalifa pop/rock?",No
+758,1090,1,"Is the song titled ""vitamin"" by incubus released in 1997?",No
+759,1091,2,"Is the genre of the song titled ""fall into me"" by emerson drive country/folk?",No
+760,1095,1,"Is the song titled ""raise hell"" by (hed) p.e. released in 2005?",No
+761,1098,2,"Is the genre of the song titled ""turnin on the screw"" by queens of the stone age blues/jazz?",No
+762,1101,1,"Is the song titled ""i wouldn't treat a dog (the way you treat me)"" by mike zito released in 2018?",No
+763,1107,1,"Is the song titled ""i'm livin' for you girl"" by the grass roots released in 2004?",No
+764,1108,1,"Is the song titled ""mysterons"" by portishead released in 1994?",No
+765,1108,2,"Is the genre of the song titled ""mysterons"" by portishead pop/rock?",No
+766,1109,2,"Is the genre of the song titled ""mama, keep your big mouth shut"" by the pretty things country/folk?",No
+767,1110,2,"Is the genre of the song titled ""is this love"" by whitesnake blues/jazz?",No
+768,1112,1,"Is the song titled ""the wall"" by johnny cash released in 1965?",No
+769,1113,1,"Is the song titled ""sharp dressed man"" by molly hatchet released in 2008?",No
+770,1113,2,"Is the genre of the song titled ""sharp dressed man"" by molly hatchet blues/jazz?",No
+771,1114,2,"Is the genre of the song titled ""come see about me"" by don covay blues/jazz?",No
+772,1116,1,"Is the song titled ""because he lives (amen)"" by matt maher released in 2015?",No
+773,1117,1,"Is the song titled ""try, try, try"" by the smashing pumpkins released in 2000?",No
+774,1120,2,"Is the genre of the song titled ""standing soldier"" by demarco country/folk?",No
+775,1127,1,"Is the song titled ""dad's gonna kill me"" by richard thompson released in 2009?",No
+776,1129,1,"Is the song titled ""i feel you"" by depeche mode released in 1993?",No
+777,1133,1,"Is the song titled ""planet of my dreams"" by frank zappa released in 1984?",No
+778,1133,2,"Is the genre of the song titled ""planet of my dreams"" by frank zappa blues/jazz?",No
+779,1135,1,"Is the song titled ""lickin'"" by the black crowes released in 2001?",No
+780,1135,2,"Is the genre of the song titled ""lickin'"" by the black crowes blues/jazz?",No
+781,1138,2,"Is the genre of the song titled ""douggie mayu's"" by dispatch country/folk?",No
+782,1139,1,"Is the song titled ""five months, two weeks, two days"" by louis prima released in 1991?",No
+783,1140,2,"Is the genre of the song titled ""if you were the only girl (in the world)"" by dean martin blues/jazz?",No
+784,1141,2,"Is the genre of the song titled ""are you lonely for me, baby"" by al green blues/jazz?",No
+785,1142,1,"Is the song titled ""distopian dream girl"" by built to spill released in 1994?",No
+786,1143,1,"Is the song titled ""believe"" by staind released in 2008?",No
+787,1144,2,"Is the genre of the song titled ""love's silhouette"" by pieces of a dream blues/jazz?",No
+788,1145,1,"Is the song titled ""just for you"" by can't hang released in 2009?",No
+789,1146,1,"Is the song titled ""chopsticks"" by jeff lorber released in 2001?",No
+790,1146,2,"Is the genre of the song titled ""chopsticks"" by jeff lorber blues/jazz?",No
+791,1149,1,"Is the song titled ""where is the love"" by macka b released in 1992?",No
+792,1149,2,"Is the genre of the song titled ""where is the love"" by macka b country/folk?",No
+793,1151,1,"Is the song titled ""blow up your mind"" by the cramps released in 1991?",No
+794,1151,2,"Is the genre of the song titled ""blow up your mind"" by the cramps blues/jazz?",No
+795,1153,1,"Is the song titled ""let's do it (let's fall in love)"" by billie holiday released in 1996?",No
+796,1154,1,"Is the song titled ""no panties (feat. tweet)"" by trina released in 2017?",No
+797,1156,2,"Is the genre of the song titled ""livin' easy (feat. stick figure)"" by kbong country/folk?",No
+798,1157,1,"Is the song titled ""indian summer"" by tommy dorsey released in 1990?",No
+799,1157,2,"Is the genre of the song titled ""indian summer"" by tommy dorsey blues/jazz?",No
+800,1158,1,"Is the song titled ""don't you quit"" by t-pain released in 2012?",No
+801,1160,1,"Is the song titled ""it's all in the game"" by louis armstrong released in 1989?",No
+802,1161,1,"Is the song titled ""action speaks louder than words"" by chocolate milk released in 1975?",No
+803,1162,1,"Is the song titled ""ding ding licky licky bong"" by lucky dube released in 2003?",No
+804,1162,2,"Is the genre of the song titled ""ding ding licky licky bong"" by lucky dube country/folk?",No
+805,1165,1,"Is the song titled ""gotta get my hands on some (money)"" by fatback band released in 1995?",No
+806,1165,2,"Is the genre of the song titled ""gotta get my hands on some (money)"" by fatback band blues/jazz?",No
+807,1166,1,"Is the song titled ""listen to your heart"" by little river band released in 1990?",No
+808,1166,2,"Is the genre of the song titled ""listen to your heart"" by little river band country/folk?",No
+809,1168,1,"Is the song titled ""where the party at? (re-recorded) [remastered]"" by jagged edge released in 2011?",No
+810,1170,1,"Is the song titled ""me or the papes"" by jeru the damaja released in 2018?",No
+811,1171,1,"Is the song titled ""gullyachi shapath"" by asha bhosle released in 1952?",No
+812,1171,2,"Is the genre of the song titled ""gullyachi shapath"" by asha bhosle pop/rock?",No
+813,1174,1,"Is the song titled ""i can't keep from crying sometimes"" by ten years after released in 1967?",No
+814,1174,2,"Is the genre of the song titled ""i can't keep from crying sometimes"" by ten years after blues/jazz?",No
+815,1175,1,"Is the song titled ""reggaemylitis"" by peter tosh released in 1988?",No
+816,1175,2,"Is the genre of the song titled ""reggaemylitis"" by peter tosh country/folk?",No
+817,1176,1,"Is the song titled ""so blue"" by prince released in 1978?",No
+818,1177,2,"Is the genre of the song titled ""sugar never tasted so good"" by the white stripes blues/jazz?",No
+819,1178,1,"Is the song titled ""automatically sunshine"" by the supremes released in 1972?",No
+820,1179,1,"Is the song titled ""way down deep"" by vern gosdin released in 1983?",No
+821,1181,1,"Is the song titled ""lovely hula hands"" by marty robbins released in 1963?",No
+822,1184,2,"Is the genre of the song titled ""a reunion"" by gentle giant blues/jazz?",No
+823,1186,1,"Is the song titled ""the quan"" by foxy brown released in 2008?",No
+824,1188,2,"Is the genre of the song titled ""pretres"" by gane rimatore hip hop/reggae?",No
+825,1189,1,"Is the song titled ""straight from the heart"" by con funk shun released in 1993?",No
+826,1189,2,"Is the genre of the song titled ""straight from the heart"" by con funk shun blues/jazz?",No
+827,1191,1,"Is the song titled ""well-rested"" by miranda lambert released in 2016?",No
+828,1192,1,"Is the song titled ""just right tonight"" by aretha franklin released in 1984?",No
+829,1193,1,"Is the song titled ""the march"" by the dear hunter released in 2016?",No
+830,1193,2,"Is the genre of the song titled ""the march"" by the dear hunter blues/jazz?",No
+831,1195,2,"Is the genre of the song titled ""hear my heart"" by dean martin blues/jazz?",No
+832,1198,1,"Is the song titled ""into the darkness (45 version)"" by crosby, stills & nash released in 1982?",No
+833,1200,2,"Is the genre of the song titled ""of matter"" by tesseract blues/jazz?",No
+834,1202,1,"Is the song titled ""always & forever"" by the green released in 2013?",No
+835,1205,1,"Is the song titled ""it's the most wonderful time of the year"" by andy williams released in 1953?",No
+836,1206,2,"Is the genre of the song titled ""matter of time"" by ub40 country/folk?",No
+837,1208,1,"Is the song titled ""miracle aligner"" by the last shadow puppets released in 2016?",No
+838,1209,1,"Is the song titled ""brain"" by the action released in 2002?",No
+839,1211,2,"Is the genre of the song titled ""hang on little tomato"" by pink martini blues/jazz?",No
+840,1218,1,"Is the song titled ""stupid girl"" by garbage released in 2007?",No
+841,1219,1,"Is the song titled ""she's gone"" by daryl hall & john oates released in 1973?",No
+842,1220,1,"Is the song titled ""we in here (feat. swizz beatz)"" by dmx released in 2019?",No
+843,1221,2,"Is the genre of the song titled ""i'll take romance"" by june christy blues/jazz?",No
+844,1224,2,"Is the genre of the song titled ""your love can't be right"" by pat travers blues/jazz?",No
+845,1225,1,"Is the song titled ""race you down the mountain"" by woody guthrie released in 1958?",No
+846,1225,2,"Is the genre of the song titled ""race you down the mountain"" by woody guthrie blues/jazz?",No
+847,1228,1,"Is the song titled ""silence is the way"" by miles davis released in 2016?",No
+848,1230,1,"Is the song titled ""wearing the inside out"" by pink floyd released in 1994?",No
+849,1232,1,"Is the song titled ""tomorrow never comes"" by zac brown band released in 2015?",No
+850,1235,1,"Is the song titled ""mama nature"" by pato banton released in 2000?",No
+851,1235,2,"Is the genre of the song titled ""mama nature"" by pato banton country/folk?",No
+852,1240,2,"Is the genre of the song titled ""hosanna (feat. avion blackman & jennifer howland)"" by christafari country/folk?",No
+853,1245,2,"Is the genre of the song titled ""birthday gal"" by the replacements country/folk?",No
+854,1246,1,"Is the song titled ""steady as the rain"" by dolly parton released in 1999?",No
+855,1249,1,"Is the song titled ""no diggity"" by blackstreet released in 2011?",No
+856,1251,1,"Is the song titled ""cold, cold heart"" by aretha franklin released in 1964?",No
+857,1252,1,"Is the song titled ""my starter won't start this morning"" by lightnin' hopkins released in 1993?",No
+858,1256,2,"Is the genre of the song titled ""claire's song"" by yellowjackets blues/jazz?",No
+859,1257,2,"Is the genre of the song titled ""snow"" by rosemary clooney blues/jazz?",No
+860,1258,1,"Is the song titled ""killing the blues"" by chris smither released in 2000?",No
+861,1260,1,"Is the song titled ""baby, baby, everynight"" by etta james released in 1987?",No
+862,1261,2,"Is the genre of the song titled ""i.s.s.u.e.s."" by katastro country/folk?",No
+863,1262,1,"Is the song titled ""walk away"" by black sabbath released in 1980?",No
+864,1263,1,"Is the song titled ""caroline"" by status quo released in 2005?",No
+865,1263,2,"Is the genre of the song titled ""caroline"" by status quo blues/jazz?",No
+866,1264,2,"Is the genre of the song titled ""demon cleaner"" by kyuss pop/rock?",No
+867,1266,1,"Is the song titled ""heat wave"" by the who released in 1966?",No
+868,1267,1,"Is the song titled ""i'm wanted"" by cocoa tea released in 1992?",No
+869,1267,2,"Is the genre of the song titled ""i'm wanted"" by cocoa tea country/folk?",No
+870,1268,1,"Is the song titled ""wash me in the water"" by jamie n commons released in 2013?",No
+871,1268,2,"Is the genre of the song titled ""wash me in the water"" by jamie n commons blues/jazz?",No
+872,1271,2,"Is the genre of the song titled ""stand!"" by sly & the family stone pop/rock?",No
+873,1272,2,"Is the genre of the song titled ""someday my prince will come"" by bill evans blues/jazz?",No
+874,1275,1,"Is the song titled ""if i could make a living"" by clay walker released in 1994?",No
+875,1276,2,"Is the genre of the song titled ""hey love"" by shaggy country/folk?",No
+876,1277,1,"Is the song titled ""beer barrel polka ( roll out the barrel )"" by the andrews sisters released in 1987?",No
+877,1277,2,"Is the genre of the song titled ""beer barrel polka ( roll out the barrel )"" by the andrews sisters blues/jazz?",No
+878,1281,1,"Is the song titled ""life on a rock"" by kenny chesney released in 2013?",No
+879,1282,2,"Is the genre of the song titled ""river"" by roberta flack blues/jazz?",No
+880,1284,1,"Is the song titled ""boom boom mancini"" by warren zevon released in 1987?",No
+881,1284,2,"Is the genre of the song titled ""boom boom mancini"" by warren zevon country/folk?",No
+882,1287,2,"Is the genre of the song titled ""punishment"" by biohazard pop/rock?",No
+883,1288,1,"Is the song titled ""i'm to blame"" by mickey gilley released in 1967?",No
+884,1292,1,"Is the song titled ""outcast at last"" by sticky fingers released in 2016?",No
+885,1292,2,"Is the genre of the song titled ""outcast at last"" by sticky fingers country/folk?",No
+886,1293,1,"Is the song titled ""my first love"" by avant released in 2000?",No
+887,1297,1,"Is the song titled ""how did you love"" by shinedown released in 2015?",No
+888,1299,1,"Is the song titled ""believe in me"" by dan fogelberg released in 1984?",No
+889,1302,1,"Is the song titled ""from the bottom of my broken heart"" by britney spears released in 1999?",No
+890,1304,1,"Is the song titled ""i'm alive"" by beres hammond released in 2018?",No
+891,1305,1,"Is the song titled ""pieces of what"" by mgmt released in 2007?",No
+892,1306,1,"Is the song titled ""romancing the stone"" by eddy grant released in 2008?",No
+893,1306,2,"Is the genre of the song titled ""romancing the stone"" by eddy grant country/folk?",No
+894,1307,1,"Is the song titled ""don't take your love from me"" by catherine russell released in 2016?",No
+895,1310,2,"Is the genre of the song titled ""speaking in tongues"" by eagles of death metal blues/jazz?",No
+896,1311,2,"Is the genre of the song titled ""blasphemy (selah)"" by steel pulse country/folk?",No
+897,1312,1,"Is the song titled ""scars"" by i am they released in 2018?",No
+898,1313,2,"Is the genre of the song titled ""pass it on"" by the wailers country/folk?",No
+899,1317,2,"Is the genre of the song titled ""i have to surrender"" by ty herndon country/folk?",No
+900,1319,1,"Is the song titled ""up tight's creek"" by tina brooks released in 1960?",No
+901,1323,2,"Is the genre of the song titled ""venom soup"" by ted nugent blues/jazz?",No
+902,1328,1,"Is the song titled ""the national anthem"" by radiohead released in 2000?",No
+903,1330,2,"Is the genre of the song titled ""lost keys (blame hofman)"" by tool pop/rock?",No
+904,1331,2,"Is the genre of the song titled ""swanee"" by judy garland blues/jazz?",No
+905,1333,1,"Is the song titled ""thanks to you"" by nat king cole released in 1992?",No
+906,1333,2,"Is the genre of the song titled ""thanks to you"" by nat king cole blues/jazz?",No
+907,1335,2,"Is the genre of the song titled ""helplessly hoping"" by crosby, stills, nash & young blues/jazz?",No
+908,1336,2,"Is the genre of the song titled ""autopsy"" by fairport convention pop/rock?",No
+909,1337,1,"Is the song titled ""i think i'm gonna kill myself"" by waylon jennings released in 1977?",No
+910,1338,1,"Is the song titled ""rockin' in the free world"" by krokus released in 2017?",No
+911,1338,2,"Is the genre of the song titled ""rockin' in the free world"" by krokus blues/jazz?",No
+912,1339,1,"Is the song titled ""remember me (feat. steve augeri)"" by journey released in 1998?",No
+913,1340,1,"Is the song titled ""these are the days of our lives"" by queen released in 1991?",No
+914,1341,1,"Is the song titled ""forever"" by drake released in 2009?",No
+915,1341,2,"Is the genre of the song titled ""forever"" by drake pop/rock?",No
+916,1342,2,"Is the genre of the song titled ""nobody's watching"" by jazz cartier hip hop/reggae?",No
+917,1343,1,"Is the song titled ""summer days"" by a r i z o n a released in 2018?",No
+918,1344,1,"Is the song titled ""get outta my car"" by hasil adkins released in 2007?",No
+919,1344,2,"Is the genre of the song titled ""get outta my car"" by hasil adkins blues/jazz?",No
+920,1347,1,"Is the song titled ""i was made for dancin'"" by leif garrett released in 1998?",No
+921,1348,2,"Is the genre of the song titled ""cruising for bruising"" by basia blues/jazz?",No
+922,1358,2,"Is the genre of the song titled ""on the verge"" by nahko and medicine for the people country/folk?",No
+923,1361,1,"Is the song titled ""i am machine"" by three days grace released in 2015?",No
+924,1362,2,"Is the genre of the song titled ""no capitalist"" by kabaka pyramid country/folk?",No
+925,1363,1,"Is the song titled ""no time"" by cody jinks released in 2010?",No
+926,1365,2,"Is the genre of the song titled ""cry to me"" by bob marley & the wailers country/folk?",No
+927,1366,1,"Is the song titled ""noto swing"" by angelo debarre released in 1999?",No
+928,1366,2,"Is the genre of the song titled ""noto swing"" by angelo debarre blues/jazz?",No
+929,1367,1,"Is the song titled ""sporting life"" by brownie mcghee released in 1955?",No
+930,1369,1,"Is the song titled ""eat you alive"" by limp bizkit released in 2003?",No
+931,1371,1,"Is the song titled ""genesis"" by devin townsend released in 2019?",No
+932,1371,2,"Is the genre of the song titled ""genesis"" by devin townsend blues/jazz?",No
+933,1375,1,"Is the song titled ""i miss you"" by blink-182 released in 2003?",No
+934,1376,2,"Is the genre of the song titled ""ecstasy"" by wax tailor blues/jazz?",No
+935,1379,1,"Is the song titled ""solitaire"" by nina simone released in 1959?",No
+936,1380,2,"Is the genre of the song titled ""your eyes were open"" by ub40 country/folk?",No
+937,1381,1,"Is the song titled ""till there was you"" by ray charles released in 2013?",No
+938,1386,2,"Is the genre of the song titled ""turn around"" by iration country/folk?",No
+939,1388,1,"Is the song titled ""gettin' jiggy wit it"" by will smith released in 2019?",No
+940,1389,1,"Is the song titled ""i slept with someone in fall out boy and all i got was this stupid song written about me"" by fall out boy released in 2005?",No
+941,1392,2,"Is the genre of the song titled ""love is for all time"" by the animals blues/jazz?",No
+942,1394,1,"Is the song titled ""united together"" by aretha franklin released in 1980?",No
+943,1394,2,"Is the genre of the song titled ""united together"" by aretha franklin blues/jazz?",No
+944,1395,2,"Is the genre of the song titled ""simple"" by phish blues/jazz?",No
+945,1396,1,"Is the song titled ""talisman"" by the guess who released in 2000?",No
+946,1402,1,"Is the song titled ""cassie"" by flyleaf released in 2006?",No
+947,1403,1,"Is the song titled ""prequel to the sequel"" by between the buried and me released in 2007?",No
+948,1404,2,"Is the genre of the song titled ""bow tie daddy"" by frank zappa blues/jazz?",No
+949,1405,2,"Is the genre of the song titled ""it ain't hard to tell"" by nas pop/rock?",No
+950,1409,1,"Is the song titled ""stronger now in broken places"" by joe bonamassa released in 2018?",No
+951,1411,1,"Is the song titled ""livin' the dream"" by uncle kracker released in 2009?",No
+952,1415,1,"Is the song titled ""the tables are turnin'"" by einstein released in 1990?",No
+953,1415,2,"Is the genre of the song titled ""the tables are turnin'"" by einstein hip hop/reggae?",No
+954,1416,1,"Is the song titled ""i'll still be loving you"" by restless heart released in 1998?",No
+955,1417,1,"Is the song titled ""i'll see him through"" by tammy wynette released in 1964?",No
+956,1418,1,"Is the song titled ""na na na"" by third world released in 2019?",No
+957,1420,2,"Is the genre of the song titled ""breakaway"" by nick lowe country/folk?",No
+958,1422,1,"Is the song titled ""hold it down"" by the california honeydrops released in 2018?",No
+959,1426,1,"Is the song titled ""i made it"" by corleone released in 2014?",No
+960,1430,1,"Is the song titled ""fake id (feat. gretchen wilson)"" by big & rich released in 2011?",No
+961,1433,1,"Is the song titled ""long way from home"" by the vaughan brothers released in 1990?",No
+962,1435,1,"Is the song titled ""damn u"" by prince released in 1992?",No
+963,1436,1,"Is the song titled ""megalomaniac"" by kmfdm released in 1997?",No
+964,1436,2,"Is the genre of the song titled ""megalomaniac"" by kmfdm pop/rock?",No
+965,1437,1,"Is the song titled ""dream small"" by josh wilson released in 2018?",No
+966,1438,2,"Is the genre of the song titled ""dear mother"" by jimmy cliff country/folk?",No
+967,1439,1,"Is the song titled ""dust to dust"" by misfits released in 1999?",No
+968,1439,2,"Is the genre of the song titled ""dust to dust"" by misfits pop/rock?",No
+969,1442,1,"Is the song titled ""aggressive perfector"" by slayer released in 1986?",No
+970,1442,2,"Is the genre of the song titled ""aggressive perfector"" by slayer pop/rock?",No
+971,1446,1,"Is the song titled ""what time is it"" by zac efron released in 2007?",No
+972,1447,2,"Is the genre of the song titled ""invisible"" by dio pop/rock?",No
+973,1451,1,"Is the song titled ""if you ever have forever"" by ub40 released in 2013?",No
+974,1451,2,"Is the genre of the song titled ""if you ever have forever"" by ub40 country/folk?",No
+975,1452,2,"Is the genre of the song titled ""let the music play"" by the drifters pop/rock?",No
+976,1453,2,"Is the genre of the song titled ""feelin' alright"" by joe cocker blues/jazz?",No
+977,1454,1,"Is the song titled ""unfamiliar"" by passafire released in 2007?",No
+978,1454,2,"Is the genre of the song titled ""unfamiliar"" by passafire country/folk?",No
+979,1456,1,"Is the song titled ""first love song"" by luke bryan released in 2007?",No
+980,1457,1,"Is the song titled ""drag you down"" by finger eleven released in 2000?",No
+981,1459,2,"Is the genre of the song titled ""here come the bastards"" by primus pop/rock?",No
+982,1460,2,"Is the genre of the song titled ""big john (ain't you gonna marry me)"" by the shirelles pop/rock?",No
+983,1462,1,"Is the song titled ""puppet on a string"" by elvis presley released in 1965?",No
+984,1464,1,"Is the song titled ""everybody know me"" by boyz n da hood released in 2017?",No
+985,1466,1,"Is the song titled ""ciao, ciao, bambina"" by jerry vale released in 1956?",No
+986,1467,1,"Is the song titled ""brand name"" by mac miller released in 2015?",No
+987,1468,2,"Is the genre of the song titled ""state of the world"" by janet jackson pop/rock?",No
+988,1469,2,"Is the genre of the song titled ""love is all is alright"" by ub40 country/folk?",No
+989,1470,1,"Is the song titled ""wildflowers"" by dolly parton released in 1987?",No
+990,1471,2,"Is the genre of the song titled ""black magic"" by slayer pop/rock?",No
+991,1472,2,"Is the genre of the song titled ""better off dead"" by death from above 1979 blues/jazz?",No
+992,1473,1,"Is the song titled ""fallen soldiers"" by demarco released in 2008?",No
+993,1475,1,"Is the song titled ""the future"" by michael franti & spearhead released in 2008?",No
+994,1475,2,"Is the genre of the song titled ""the future"" by michael franti & spearhead country/folk?",No
+995,1478,1,"Is the song titled ""alone"" by trampled by turtles released in 2012?",No
+996,1481,1,"Is the song titled ""all of me"" by louis armstrong released in 1955?",No
+997,1483,1,"Is the song titled ""narcolepsy"" by third eye blind released in 1997?",No
+998,1484,1,"Is the song titled ""stretch out"" by sister rosetta tharpe released in 1962?",No
+999,1486,1,"Is the song titled ""have you heard"" by the duprees released in 1996?",No
+1000,1489,1,"Is the song titled ""i'm a king bee"" by slim harpo released in 1997?",No
+1001,1490,1,"Is the song titled ""bluebird"" by bonnie raitt released in 1971?",No
+1002,1491,1,"Is the song titled ""hook of crook"" by alex chilton released in 2005?",No
+1003,1491,2,"Is the genre of the song titled ""hook of crook"" by alex chilton blues/jazz?",No
+1004,1492,1,"Is the song titled ""master sold my baby"" by black joe lewis & the honeybears released in 2009?",No
+1005,1494,2,"Is the genre of the song titled ""other side (live)"" by dispatch country/folk?",No
+1006,1496,1,"Is the song titled ""can't help falling in love"" by bob dylan released in 1973?",No
+1007,1498,1,"Is the song titled ""holland"" by the black angels released in 2013?",No
+1008,1498,2,"Is the genre of the song titled ""holland"" by the black angels blues/jazz?",No
+1009,1499,1,"Is the song titled ""boulevard of broken dreams"" by green day released in 2017?",No

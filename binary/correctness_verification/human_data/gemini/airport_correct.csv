@@ -1,0 +1,201 @@
+,question,entity_idx,question_idx,model_answer,model_reasoning,gold_answer,gold_entity,reasoning_erbench,reasoning_manual
+0, Is there an airport located at latitude -34.7833328247 and longitude -72.0508346558?,0,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,torca,0,0
+1, Is it true that there are no airports located at latitude -34.7833328247 and longitude -72.0508346558?,0,1,yes,"The given coordinates are in the middle of the Atlantic Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,torca,0,0
+2, Is there an airport located at latitude 10.5169439316 and longitude -85.5655593872?,1,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,catsa,0,0
+3, Is it true that there are no airports located at latitude 10.5169439316 and longitude -85.5655593872?,1,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,catsa,0,0
+4, Is there an airport located at latitude -10.8478441238 and longitude -76.2469558716?,2,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude value is negative, which is not possible for a location on Earth. The longitude value is also outside the valid range of -180 to 180 degrees. Therefore, it is not possible to determine whether there is an airport at the specified location.
+",yes,vicco,0,0
+5, Is it true that there are no airports located at latitude -10.8478441238 and longitude -76.2469558716?,2,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,vicco,0,0
+6, Is there an airport located at latitude -13.7894001007 and longitude 33.78099823?,3,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, there is no information provided about the existence of an airport at those coordinates. Therefore, it is not possible to answer the question with the information provided.
+",yes,lilongwe international,0,0
+7, Is it true that there are no airports located at latitude -13.7894001007 and longitude 33.78099823?,3,1,yes,"The given coordinates are in the middle of Lake Malawi, which is a large lake in East Africa. There are no airports located in the middle of lakes.
+",no,lilongwe international,0,0
+8, Is there an airport located at latitude 47.4942016602 and longitude 14.4975004196?,4,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,trieben,0,0
+9, Is it true that there are no airports located at latitude 47.4942016602 and longitude 14.4975004196?,4,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any known location on Earth. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,trieben,0,0
+10, Is there an airport located at latitude -17.8083324432 and longitude -67.4433364868?,5,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, there is no information provided about the existence of an airport at those coordinates. Therefore, it is not possible to answer the question with the information provided.
+",yes,intiraymi,0,0
+11, Is it true that there are no airports located at latitude -17.8083324432 and longitude -67.4433364868?,5,1,yes,"The given coordinates are in the middle of the ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,intiraymi,0,0
+12, Is there an airport located at latitude 43.3708833333333 and longitude -78.4144166666667?,6,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,tiger paw aerodrome,0,0
+13, Is it true that there are no airports located at latitude 43.3708833333333 and longitude -78.4144166666667?,6,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,tiger paw aerodrome,0,0
+14, Is there an airport located at latitude 53.4212989807 and longitude -6.270070076?,7,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,dublin,0,0
+15, Is it true that there are no airports located at latitude 53.4212989807 and longitude -6.270070076?,7,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,dublin,0,0
+16, Is there an airport located at latitude 15.4033002853 and longitude 108.706001282?,8,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,chu lai international,0,0
+17, Is it true that there are no airports located at latitude 15.4033002853 and longitude 108.706001282?,8,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,chu lai international,0,0
+18, Is there an airport located at latitude -10.7477779388 and longitude -74.2205581665?,9,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude value is negative, which is not possible for a location on Earth. The longitude value is also outside the valid range of -180 to 180 degrees. Therefore, it is not possible to determine whether there is an airport at the specified location.
+",yes,obenteni,0,0
+19, Is it true that there are no airports located at latitude -10.7477779388 and longitude -74.2205581665?,9,1,yes,"The given coordinates are in the middle of the Atlantic Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,obenteni,0,0
+20, Is there an airport located at latitude 49.8684997559 and longitude 3.0295801163?,10,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with the information provided.
+",yes,peronne-saint-quentin,0,0
+21, Is it true that there are no airports located at latitude 49.8684997559 and longitude 3.0295801163?,10,1,yes,"There are no airports located at latitude 49.8684997559 and longitude 3.0295801163 because these coordinates are in the middle of the English Channel, which is a body of water between England and France.
+",no,peronne-saint-quentin,0,0
+22, Is there an airport located at latitude 60.4891666666667 and longitude -150.801666666667?,11,0,unsure,"There is no airport located at the exact coordinates of latitude 60.4891666666667 and longitude -150.801666666667. However, there are several airports located within a few miles of these coordinates. The closest airport is the Kenai Municipal Airport (ENA), which is located approximately 10 miles to the northeast. Other nearby airports include the Soldotna Airport (SXQ), which is located approximately 15 miles to the southwest, and the Homer Airport (HOM), which is located approximately 20 miles to the southwest.
+",yes,moose run airstrip,0,0
+23, Is it true that there are no airports located at latitude 60.4891666666667 and longitude -150.801666666667?,11,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether or not there are airports at that location.
+",no,moose run airstrip,0,0
+24, Is there an airport located at latitude -31.1441993713 and longitude 136.8170013428?,12,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,woomera airfield,0,0
+25, Is it true that there are no airports located at latitude -31.1441993713 and longitude 136.8170013428?,12,1,yes,"The given coordinates are in the middle of the Spencer Gulf, which is a body of water located between mainland Australia and Yorke Peninsula in South Australia. There are no airports located in the middle of the ocean.
+",no,woomera airfield,0,0
+26, Is there an airport located at latitude 46.1613998413 and longitude -60.0477981567?,13,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,sydney / j.a. douglas mccurdy,0,0
+27, Is it true that there are no airports located at latitude 46.1613998413 and longitude -60.0477981567?,13,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,sydney / j.a. douglas mccurdy,0,0
+28, Is there an airport located at latitude -26.735200882 and longitude 31.7758998871?,14,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,tambuti,0,0
+29, Is it true that there are no airports located at latitude -26.735200882 and longitude 31.7758998871?,14,1,yes,"The given coordinates are in the middle of the Indian Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,tambuti,0,0
+30, Is there an airport located at latitude 31.5404305555556 and longitude -94.1700666666667?,15,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,san augustine county,0,0
+31, Is it true that there are no airports located at latitude 31.5404305555556 and longitude -94.1700666666667?,15,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,san augustine county,0,0
+32, Is there an airport located at latitude -19.7576999664 and longitude 63.361000061?,16,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, there is no information provided about the existence of an airport at that location. Therefore, it is not possible to answer the question with the information provided.
+",yes,sir charles gaetan duval,0,0
+33, Is it true that there are no airports located at latitude -19.7576999664 and longitude 63.361000061?,16,1,yes,"The given coordinates are in the middle of the ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,sir charles gaetan duval,0,0
+34, Is there an airport located at latitude 35.0351944444444 and longitude -85.2035555555556?,17,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,lovell field,0,0
+35, Is it true that there are no airports located at latitude 35.0351944444444 and longitude -85.2035555555556?,17,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude and longitude values are not within the valid ranges for these coordinates. Latitude values range from -90 to 90 degrees, while longitude values range from -180 to 180 degrees. The provided latitude value is greater than 90 degrees, and the provided longitude value is less than -180 degrees. Therefore, it is not possible to determine whether there are airports located at the specified coordinates.
+",no,lovell field,0,0
+36, Is there an airport located at latitude 43.8302972222222 and longitude -96.8397777777778?,18,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,jensen,0,0
+37, Is it true that there are no airports located at latitude 43.8302972222222 and longitude -96.8397777777778?,18,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,jensen,0,0
+38, Is there an airport located at latitude -29.6840991974 and longitude -52.4122009277?,19,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,santa cruz do sul,0,0
+39, Is it true that there are no airports located at latitude -29.6840991974 and longitude -52.4122009277?,19,1,yes,"The given coordinates are in the middle of the Atlantic Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,santa cruz do sul,0,0
+40, Is there an airport located at latitude 7.25 and longitude -61.4333343506?,20,0,unsure,"There is no publicly available information about an airport located at latitude 7.25 and longitude -61.4333343506. However, it is possible that there is a private or military airport at this location that is not publicly listed.
+",yes,tumeremo,0,0
+41, Is it true that there are no airports located at latitude 7.25 and longitude -61.4333343506?,20,1,yes,"There are no airports located at latitude 7.25 and longitude -61.4333343506 because this location is in the middle of the Atlantic Ocean, far from any landmass.
+",no,tumeremo,0,0
+42, Is there an airport located at latitude 41.0491336111111 and longitude -78.4151579166667?,21,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,clearfield-lawrence,0,0
+43, Is it true that there are no airports located at latitude 41.0491336111111 and longitude -78.4151579166667?,21,1,yes,"it is true that there are no airports located at latitude 41.0491336111111 and longitude -78.4151579166667.This is because the given coordinates are in the middle of the Allegheny River, near the town of Kittanning, Pennsylvania, United States. There are no airports in the immediate vicinity of these coordinates.
+",no,clearfield-lawrence,0,0
+44, Is there an airport located at latitude 41.9510555555556 and longitude -86.3680833333333?,22,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,andrews university airpark,0,0
+45, Is it true that there are no airports located at latitude 41.9510555555556 and longitude -86.3680833333333?,22,1,yes,"There are no airports located at latitude 41.9510555555556 and longitude -86.3680833333333 because these coordinates are in the middle of Lake Michigan, which is a large freshwater lake in the Great Lakes region of North America.
+",no,andrews university airpark,0,0
+46, Is there an airport located at latitude 39.5831388888889 and longitude -85.8048055555555?,23,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,shelbyville municipal,0,0
+47, Is it true that there are no airports located at latitude 39.5831388888889 and longitude -85.8048055555555?,23,1,yes,"There are no airports located at latitude 39.5831388888889 and longitude -85.8048055555555 because these coordinates are in the middle of the Atlantic Ocean, far from any land.
+",no,shelbyville municipal,0,0
+48, Is there an airport located at latitude 4.132999897 and longitude 15.1499996185?,24,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,gamboula,0,0
+49, Is it true that there are no airports located at latitude 4.132999897 and longitude 15.1499996185?,24,1,yes,"There are no airports located at latitude 4.132999897 and longitude 15.1499996185 because these coordinates are in the middle of the Atlantic Ocean, far from any landmass.
+",no,gamboula,0,0
+50, Is there an airport located at latitude 58.6678009033 and longitude -69.9558029175?,25,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,tasiujaq,0,0
+51, Is it true that there are no airports located at latitude 58.6678009033 and longitude -69.9558029175?,25,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,tasiujaq,0,0
+52, Is there an airport located at latitude -24.3878002167 and longitude 31.325799942?,26,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with the information provided.
+",yes,ngala,0,0
+53, Is it true that there are no airports located at latitude -24.3878002167 and longitude 31.325799942?,26,1,yes,"The given coordinates are in the middle of the Indian Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,ngala,0,0
+54, Is there an airport located at latitude 33.7172222222222 and longitude -79.8569722222222?,27,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,williamsburg regional,0,0
+55, Is it true that there are no airports located at latitude 33.7172222222222 and longitude -79.8569722222222?,27,1,yes,"There are no airports located at latitude 33.7172222222222 and longitude -79.8569722222222 because these coordinates are in the Atlantic Ocean, off the coast of South Carolina.
+",no,williamsburg regional,0,0
+56, Is there an airport located at latitude 34.7933006287 and longitude 5.7382302284?,28,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,biskra,0,0
+57, Is it true that there are no airports located at latitude 34.7933006287 and longitude 5.7382302284?,28,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,biskra,0,0
+58, Is there an airport located at latitude 51.8950004578 and longitude 0.4491670132?,29,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with the information provided.
+",yes,andrewsfield,0,0
+59, Is it true that there are no airports located at latitude 51.8950004578 and longitude 0.4491670132?,29,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,andrewsfield,0,0
+60, Is there an airport located at latitude 65.9141998291 and longitude -22.4214000702?,30,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,reykjanes,0,0
+61, Is it true that there are no airports located at latitude 65.9141998291 and longitude -22.4214000702?,30,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,reykjanes,0,0
+62, Is there an airport located at latitude -19.268611908 and longitude -56.0311126709?,31,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for sure whether there is an airport at the given coordinates.
+",yes,fazenda livramento,0,0
+63, Is it true that there are no airports located at latitude -19.268611908 and longitude -56.0311126709?,31,1,yes,"The given coordinates are in the middle of the Atlantic Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,fazenda livramento,0,0
+64, Is there an airport located at latitude 35.4889525 and longitude -97.1919747222222?,32,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,steciak strip,0,0
+65, Is it true that there are no airports located at latitude 35.4889525 and longitude -97.1919747222222?,32,1,yes,"it is true that there are no airports located at latitude 35.4889525 and longitude -97.1919747222222.This is because the given coordinates are in the middle of the Pacific Ocean, far from any landmass. Airports are typically built on land, so it is impossible for there to be an airport at these coordinates.
+",no,steciak strip,0,0
+66, Is there an airport located at latitude 9.3503055573 and longitude -65.2806549072?,33,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,apruna,0,0
+67, Is it true that there are no airports located at latitude 9.3503055573 and longitude -65.2806549072?,33,1,yes,"There are no airports located at latitude 9.3503055573 and longitude -65.2806549072 because these coordinates are in the middle of the Caribbean Sea, far from any landmass.
+",no,apruna,0,0
+68, Is there an airport located at latitude 45.5048111111111 and longitude -98.5955388888889?,34,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,barber field,0,0
+69, Is it true that there are no airports located at latitude 45.5048111111111 and longitude -98.5955388888889?,34,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,barber field,0,0
+70, Is there an airport located at latitude 42.4603854166667 and longitude -71.5180118888889?,35,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,minute man air field,0,0
+71, Is it true that there are no airports located at latitude 42.4603854166667 and longitude -71.5180118888889?,35,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,minute man air field,0,0
+72, Is there an airport located at latitude -25.9815006256 and longitude -51.6407012939?,36,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,foz do areia,0,0
+73, Is it true that there are no airports located at latitude -25.9815006256 and longitude -51.6407012939?,36,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,foz do areia,0,0
+74, Is there an airport located at latitude 36.5863437777778 and longitude -115.677370555556?,37,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,creech afb,0,0
+75, Is it true that there are no airports located at latitude 36.5863437777778 and longitude -115.677370555556?,37,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,creech afb,0,0
+76, Is there an airport located at latitude 33.8899166666667 and longitude -118.243805555556?,38,0,unsure,"The provided coordinates do not correspond to any known airport. However, there are many airports in the world, and it is possible that there is an airport at the specified coordinates that is not listed in any public database.
+",yes,compton/woodley,0,0
+77, Is it true that there are no airports located at latitude 33.8899166666667 and longitude -118.243805555556?,38,1,yes,"it is true that there are no airports located at latitude 33.8899166666667 and longitude -118.243805555556.This is because the given coordinates are in the middle of the Pacific Ocean, far from any landmass. Airports are typically built on land, so it is impossible for there to be an airport at these coordinates.
+",no,compton/woodley,0,0
+78, Is there an airport located at latitude 46.7119036111111 and longitude -96.3514547222222?,39,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,janssen,0,0
+79, Is it true that there are no airports located at latitude 46.7119036111111 and longitude -96.3514547222222?,39,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,janssen,0,0
+80, Is there an airport located at latitude 36.8868222222222 and longitude -79.863925?,40,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,woody field,0,0
+81, Is it true that there are no airports located at latitude 36.8868222222222 and longitude -79.863925?,40,1,yes,"There are no airports located at latitude 36.8868222222222 and longitude -79.863925 because these coordinates are in the middle of the Atlantic Ocean, far from any landmass.
+",no,woody field,0,0
+82, Is there an airport located at latitude 42.4327777777778 and longitude -88.7172222222222?,41,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,sd aero,0,0
+83, Is it true that there are no airports located at latitude 42.4327777777778 and longitude -88.7172222222222?,41,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude and longitude values are not within the valid ranges for these coordinates. Latitude values range from -90 to 90 degrees, and longitude values range from -180 to 180 degrees. The provided latitude value is greater than 90 degrees, and the provided longitude value is less than -180 degrees. Therefore, it is not possible to determine whether there are airports located at the specified coordinates.
+",no,sd aero,0,0
+84, Is there an airport located at latitude 38.3104444444444 and longitude -75.1239722222222?,42,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,ocean city municipal,0,0
+85, Is it true that there are no airports located at latitude 38.3104444444444 and longitude -75.1239722222222?,42,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude and longitude values are not within the valid ranges for these coordinates. Latitude values range from -90 to 90 degrees, while longitude values range from -180 to 180 degrees. The provided latitude value is greater than 90 degrees, and the provided longitude value is less than -180 degrees. Therefore, it is not possible to determine whether there are airports located at the specified coordinates.
+",no,ocean city municipal,0,0
+86, Is there an airport located at latitude 36.4860555555556 and longitude -90.0156944444444?,43,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,campbell municipal,0,0
+87, Is it true that there are no airports located at latitude 36.4860555555556 and longitude -90.0156944444444?,43,1,yes,"There are no airports located at latitude 36.4860555555556 and longitude -90.0156944444444 because these coordinates are in the middle of the Mississippi River, near the town of Wickliffe, Kentucky. There is no land at these coordinates, so there cannot be an airport there.
+",no,campbell municipal,0,0
+88, Is there an airport located at latitude 40.9867725 and longitude -75.9947030555556?,44,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,hazleton regional,0,0
+89, Is it true that there are no airports located at latitude 40.9867725 and longitude -75.9947030555556?,44,1,yes,"it is true that there are no airports located at latitude 40.9867725 and longitude -75.9947030555556.This is because the coordinates provided are in the middle of the Atlantic Ocean, far from any landmass. Airports are typically built on land, so it is impossible for there to be an airport at these coordinates.
+",no,hazleton regional,0,0
+90, Is there an airport located at latitude 46.9913083333333 and longitude -102.795222222222?,45,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,kadrmas,0,0
+91, Is it true that there are no airports located at latitude 46.9913083333333 and longitude -102.795222222222?,45,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,kadrmas,0,0
+92, Is there an airport located at latitude 45.1038888888889 and longitude -114.855277777778?,46,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,taylor ranch landing area,0,0
+93, Is it true that there are no airports located at latitude 45.1038888888889 and longitude -114.855277777778?,46,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates do not correspond to any real-world location. Therefore, it is impossible to determine whether there are airports at that location or not.
+",no,taylor ranch landing area,0,0
+94, Is there an airport located at latitude -11.116399765 and longitude 34.6521987915?,47,0,unsure,"The provided coordinates do not correspond to any known airport. However, there may be small, private airports or airstrips that are not listed in public databases. Without more information, it is impossible to say for certain whether there is an airport at the specified coordinates.
+",yes,liuli,0,0
+95, Is it true that there are no airports located at latitude -11.116399765 and longitude 34.6521987915?,47,1,yes,"The given coordinates are in the middle of the Indian Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,liuli,0,0
+96, Is there an airport located at latitude 64.7780833333333 and longitude -141.149611111111?,48,0,unsure,"The question asks about an airport located at a specific latitude and longitude. However, there is no information provided about airports or their locations. Therefore, it is not possible to answer the question with the information provided.
+",yes,eagle,0,0
+97, Is it true that there are no airports located at latitude 64.7780833333333 and longitude -141.149611111111?,48,1,unsure,"The question asks about the existence of airports at a specific latitude and longitude. However, the provided coordinates are not valid. The latitude value is greater than 90 degrees, which is not possible. The longitude value is also greater than 180 degrees, which is not possible. Therefore, it is not possible to determine whether there are airports at the specified coordinates.
+",no,eagle,0,0
+98, Is there an airport located at latitude -21.0734996796 and longitude -63.109500885?,49,0,unsure,"The question asks about the existence of an airport at a specific latitude and longitude. However, the provided coordinates do not correspond to any known airport. Therefore, it is not possible to answer the question with a simple yes or no.
+",yes,sipuati,0,0
+99, Is it true that there are no airports located at latitude -21.0734996796 and longitude -63.109500885?,49,1,yes,"The given coordinates are in the middle of the Atlantic Ocean, far from any landmass. There are no airports located in the middle of the ocean.
+",no,sipuati,0,0

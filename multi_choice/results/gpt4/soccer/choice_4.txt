@@ -1,0 +1,15 @@
+{
+    "num_total_entity": "1499",
+    "num_questions": "4486",
+    "binding_error_rate": 0.0,
+    "qa_acc": 81.23,
+    "prompt_0_qa_acc": 83.22,
+    "prompt_1_qa_acc": 80.21,
+    "prompt_2_qa_acc": 80.25,
+    "rationale_acc": 57.74,
+    "prompt_0_rationale_acc": 60.43,
+    "prompt_1_rationale_acc": 56.42,
+    "prompt_2_rationale_acc": 56.36,
+    "rationale_acc_given_correct_answer": 69.68,
+    "qa_acc_given_correct_rationale": 98.03
+}

@@ -1,0 +1,1834 @@
+,entity_idx,question_idx,question,model_response
+0,0,4,Is the country code of Torca airport CL?,No
+1,1,3,Is the longitude of the Catsa airport -85.5656?,No
+2,1,4,Is the country code of Catsa airport CR?,No
+3,2,4,Is the country code of Vicco airport PE?,No
+4,3,3,Is the longitude of the Lilongwe International airport 33.781?,No
+5,4,0,Do you know the Trieben airport?,No
+6,4,1,Is the ICAO location indicator of the Trieben airport LOGI?,No
+7,5,0,Do you know the Intiraymi airport?,No
+8,5,4,Is the country code of Intiraymi airport BO?,No
+9,6,1,Is the ICAO location indicator of the Tiger Paw Aerodrome airport 35NK?,No
+10,6,4,Is the country code of Tiger Paw Aerodrome airport US?,No
+11,9,3,Is the longitude of the Obenteni airport -74.2206?,No
+12,9,4,Is the country code of Obenteni airport PE?,No
+13,11,4,Is the country code of Moose Run Airstrip airport US?,No
+14,13,2,Is the latitude of the Sydney / J.A. Douglas McCurdy airport 46.1614?,No
+15,13,3,Is the longitude of the Sydney / J.A. Douglas McCurdy airport -60.0478?,No
+16,13,4,Is the country code of Sydney / J.A. Douglas McCurdy airport CA?,No
+17,14,0,Do you know the Tambuti airport?,No
+18,14,4,Is the country code of Tambuti airport SZ?,No
+19,16,3,Is the longitude of the Sir Charles Gaetan Duval airport 63.361?,No
+20,18,1,Is the ICAO location indicator of the Jensen airport SD46?,No
+21,18,4,Is the country code of Jensen airport US?,No
+22,19,3,Is the longitude of the Santa Cruz do Sul airport -52.4122?,No
+23,20,3,Is the longitude of the Tumeremo airport -61.4333?,No
+24,22,1,Is the ICAO location indicator of the Andrews University Airpark airport KC20?,No
+25,24,4,Is the country code of Gamboula airport CF?,No
+26,26,4,Is the country code of Ngala airport ZA?,No
+27,29,4,Is the country code of Andrewsfield airport GB?,No
+28,30,2,Is the latitude of the Reykjanes airport 65.9142?,No
+29,31,0,Do you know the Fazenda Livramento airport?,No
+30,32,0,Do you know the Steciak Strip airport?,No
+31,32,1,Is the ICAO location indicator of the Steciak Strip airport 1OL2?,No
+32,32,4,Is the country code of Steciak Strip airport US?,No
+33,33,4,Is the country code of Apruna airport VE?,No
+34,36,0,Do you know the Foz do Areia airport?,No
+35,36,3,Is the longitude of the Foz do Areia airport -51.6407?,No
+36,38,4,Is the country code of Compton/Woodley airport US?,No
+37,39,1,Is the ICAO location indicator of the Janssen airport 9MN5?,No
+38,39,4,Is the country code of Janssen airport US?,No
+39,41,4,Is the country code of Sd Aero airport US?,No
+40,45,0,Do you know the Kadrmas airport?,No
+41,45,1,Is the ICAO location indicator of the Kadrmas airport ND10?,No
+42,45,3,Is the longitude of the Kadrmas airport -102.7952?,No
+43,45,4,Is the country code of Kadrmas airport US?,No
+44,46,1,Is the ICAO location indicator of the Taylor Ranch Landing Area airport 09ID?,No
+45,47,3,Is the longitude of the Liuli airport 34.6522?,No
+46,47,4,Is the country code of Liuli airport TZ?,No
+47,48,2,Is the latitude of the Eagle airport 64.7781?,No
+48,48,3,Is the longitude of the Eagle airport -141.1496?,No
+49,49,0,Do you know the Sipuati airport?,No
+50,49,4,Is the country code of Sipuati airport BO?,No
+51,50,1,Is the ICAO location indicator of the Lawton airport IA84?,No
+52,50,2,Is the latitude of the Lawton airport 42.4833?,No
+53,53,1,Is the ICAO location indicator of the Cherokee Trail Ranch airport 2CO1?,No
+54,55,0,Do you know the Mbesa airport?,No
+55,55,3,Is the longitude of the Mbesa airport 37.0678?,No
+56,55,4,Is the country code of Mbesa airport TZ?,No
+57,56,2,Is the latitude of the Betou airport 3.05?,No
+58,56,3,Is the longitude of the Betou airport 18.5?,No
+59,56,4,Is the country code of Betou airport CG?,No
+60,57,4,Is the country code of Tebing Tinggi airport ID?,No
+61,58,0,Do you know the Laguna Del Rey airport?,No
+62,58,1,Is the ICAO location indicator of the Laguna Del Rey airport MM82?,No
+63,58,4,Is the country code of Laguna Del Rey airport MX?,No
+64,59,0,Do you know the Kaklic airport?,No
+65,59,4,Is the country code of Kaklic airport TR?,No
+66,60,1,Is the ICAO location indicator of the Marlin airport KT15?,No
+67,60,4,Is the country code of Marlin airport US?,No
+68,61,0,Do you know the Flying 'O' airport?,No
+69,61,1,Is the ICAO location indicator of the Flying 'O' airport 3WI4?,No
+70,61,3,Is the longitude of the Flying 'O' airport -89.4023?,No
+71,62,1,Is the ICAO location indicator of the Grand Marais airport KY98?,No
+72,63,0,Do you know the Fazenda Sao Marcos airport?,No
+73,63,3,Is the longitude of the Fazenda Sao Marcos airport -54.9414?,No
+74,64,0,Do you know the Fazenda Paloma airport?,No
+75,64,3,Is the longitude of the Fazenda Paloma airport -48.8283?,No
+76,65,1,Is the ICAO location indicator of the The Bluffs airport 75AR?,No
+77,65,4,Is the country code of The Bluffs airport US?,No
+78,67,4,Is the country code of Spangdahlem Air Base airport DE?,No
+79,69,1,Is the ICAO location indicator of the Swansea airport YSWA?,No
+80,69,2,Is the latitude of the Swansea airport -42.1017?,No
+81,69,3,Is the longitude of the Swansea airport 148.068?,No
+82,69,4,Is the country code of Swansea airport AU?,No
+83,70,3,Is the longitude of the Gonder airport 37.434?,No
+84,71,1,Is the ICAO location indicator of the Underland Airstrip airport 6MN8?,No
+85,71,2,Is the latitude of the Underland Airstrip airport 44.1527?,No
+86,71,4,Is the country code of Underland Airstrip airport US?,No
+87,72,1,Is the ICAO location indicator of the Hurlbut Field airport NY07?,No
+88,75,0,Do you know the Wershofen/Eifel airport?,No
+89,76,1,Is the ICAO location indicator of the Kipling airport CKD5?,No
+90,76,4,Is the country code of Kipling airport CA?,No
+91,78,4,Is the country code of Coral Harbour airport CA?,No
+92,79,0,Do you know the Grass Roots airport?,No
+93,79,1,Is the ICAO location indicator of the Grass Roots airport 9MI5?,No
+94,79,2,Is the latitude of the Grass Roots airport 43.2378?,No
+95,81,1,Is the ICAO location indicator of the Moga airport FZOH?,No
+96,81,2,Is the latitude of the Moga airport -2.467?,No
+97,81,3,Is the longitude of the Moga airport 26.8?,No
+98,81,4,Is the country code of Moga airport CD?,No
+99,82,1,Is the ICAO location indicator of the Canada airport SLCD?,No
+100,82,2,Is the latitude of the Canada airport -20.0254?,No
+101,82,3,Is the longitude of the Canada airport -63.0891?,No
+102,82,4,Is the country code of Canada airport BO?,No
+103,83,1,Is the ICAO location indicator of the Harrison Piloncillo Ranch airport TE27?,No
+104,83,4,Is the country code of Harrison Piloncillo Ranch airport US?,No
+105,89,1,Is the ICAO location indicator of the Coye Field airport 30NY?,No
+106,91,0,Do you know the Fazenda Pirigara airport?,No
+107,91,1,Is the ICAO location indicator of the Fazenda Pirigara airport SWGE?,No
+108,92,2,Is the latitude of the Bor airport 6.2?,No
+109,92,4,Is the country code of Bor airport SS?,No
+110,93,1,Is the ICAO location indicator of the Kargil airport VI65?,No
+111,94,0,Do you know the Fazenda Sao Joao airport?,No
+112,94,3,Is the longitude of the Fazenda Sao Joao airport -49.3411?,No
+113,95,0,Do you know the Banswara airport?,No
+114,95,1,Is the ICAO location indicator of the Banswara airport VA51?,No
+115,95,4,Is the country code of Banswara airport IN?,No
+116,96,0,Do you know the Herzogenaurach airport?,No
+117,96,3,Is the longitude of the Herzogenaurach airport 10.8781?,No
+118,96,4,Is the country code of Herzogenaurach airport DE?,No
+119,97,1,Is the ICAO location indicator of the Flying M airport CA03?,No
+120,98,1,Is the ICAO location indicator of the High Desert Ranch airport 2NM9?,No
+121,99,0,Do you know the La Nava - Corral De Ayllon airport?,No
+122,99,3,Is the longitude of the La Nava - Corral De Ayllon airport -3.4483?,No
+123,101,1,Is the ICAO location indicator of the Chamberlain Brothers Ranch airport WY66?,No
+124,102,1,Is the ICAO location indicator of the Lolco airport SCCU?,No
+125,102,4,Is the country code of Lolco airport CL?,No
+126,103,1,Is the ICAO location indicator of the Brickey airport AR43?,No
+127,104,2,Is the latitude of the Rumjatar airport 27.3035?,No
+128,105,1,Is the ICAO location indicator of the Costa Rica airport SDXJ?,No
+129,105,2,Is the latitude of the Costa Rica airport -18.4867?,No
+130,105,3,Is the longitude of the Costa Rica airport -53.1533?,No
+131,105,4,Is the country code of Costa Rica airport BR?,No
+132,108,2,Is the latitude of the Nero-Mer airport 4.6434?,No
+133,108,4,Is the country code of Nero-Mer airport CI?,No
+134,110,4,Is the country code of Saint-Flour-Coltines airport FR?,No
+135,111,3,Is the longitude of the Araguatins airport -48.1156?,No
+136,113,4,Is the country code of Collarenebri airport AU?,No
+137,114,4,Is the country code of Bathurst Harbour airport AU?,No
+138,115,4,Is the country code of Aurukun airport AU?,No
+139,117,4,Is the country code of Kotamubagu airport ID?,No
+140,118,1,Is the ICAO location indicator of the Preston airport KU10?,No
+141,118,3,Is the longitude of the Preston airport -111.9126?,No
+142,118,4,Is the country code of Preston airport US?,No
+143,120,1,Is the ICAO location indicator of the Al's Field airport 48VA?,No
+144,121,3,Is the longitude of the Adelaide airport 26.2942?,No
+145,121,4,Is the country code of Adelaide airport ZA?,No
+146,122,4,Is the country code of Deer Lake airport CA?,No
+147,126,1,Is the ICAO location indicator of the Bergseth Field airport WN76?,No
+148,126,4,Is the country code of Bergseth Field airport US?,No
+149,127,0,Do you know the Maquinchao airport?,No
+150,128,4,Is the country code of Lutselk'e airport CA?,No
+151,130,4,Is the country code of Galatea Airfield airport NZ?,No
+152,131,1,Is the ICAO location indicator of the Stol-It Farm airport 1SC3?,No
+153,131,4,Is the country code of Stol-It Farm airport US?,No
+154,134,4,Is the country code of Ovid airport US?,No
+155,135,3,Is the longitude of the Porto Nacional airport -48.3997?,No
+156,138,1,Is the ICAO location indicator of the Berwick airport 3KS7?,No
+157,138,4,Is the country code of Berwick airport US?,No
+158,139,4,Is the country code of Paso De Los Indios airport AR?,No
+159,141,1,Is the ICAO location indicator of the Cool Water airport 4VG2?,No
+160,141,4,Is the country code of Cool Water airport US?,No
+161,142,3,Is the longitude of the Engels Airbase airport 46.2?,No
+162,146,0,Do you know the Fazenda Globo airport?,No
+163,147,3,Is the longitude of the Queenstown airport 26.8822?,No
+164,147,4,Is the country code of Queenstown airport ZA?,No
+165,148,3,Is the longitude of the Kantishna airport -150.9951?,No
+166,150,4,Is the country code of A 511 airport KR?,No
+167,153,3,Is the longitude of the Quixada airport -38.9876?,No
+168,154,0,Do you know the Carnegie Station airport?,No
+169,154,4,Is the country code of Carnegie Station airport AU?,No
+170,156,0,Do you know the Uff-Da airport?,No
+171,156,1,Is the ICAO location indicator of the Uff-Da airport 2WI1?,No
+172,156,3,Is the longitude of the Uff-Da airport -89.2866?,No
+173,156,4,Is the country code of Uff-Da airport US?,No
+174,157,1,Is the ICAO location indicator of the Machado Dusters airport CA05?,No
+175,157,4,Is the country code of Machado Dusters airport US?,No
+176,159,4,Is the country code of Vernon Miller Pvt airport US?,No
+177,161,1,Is the ICAO location indicator of the Dunham Field airport 1XS1?,No
+178,162,1,Is the ICAO location indicator of the Mcgregor Airfield airport 12OH?,No
+179,163,0,Do you know the Usina Coruripe - Filial Limeira do Oeste airport?,No
+180,163,3,Is the longitude of the Usina Coruripe - Filial Limeira do Oeste airport -50.6556?,No
+181,165,1,Is the ICAO location indicator of the Matheson Island airport CJT2?,No
+182,165,4,Is the country code of Matheson Island airport CA?,No
+183,166,0,Do you know the Quepos Managua airport?,No
+184,166,2,Is the latitude of the Quepos Managua airport 9.4432?,No
+185,166,4,Is the country code of Quepos Managua airport CR?,No
+186,168,1,Is the ICAO location indicator of the Provost airport CEH6?,No
+187,168,4,Is the country code of Provost airport CA?,No
+188,171,1,Is the ICAO location indicator of the Antique Airfield airport IA27?,No
+189,171,2,Is the latitude of the Antique Airfield airport 40.9778?,No
+190,171,3,Is the longitude of the Antique Airfield airport -92.5877?,No
+191,171,4,Is the country code of Antique Airfield airport US?,No
+192,172,1,Is the ICAO location indicator of the Marie-Louise airport FSMA?,No
+193,172,3,Is the longitude of the Marie-Louise airport 53.1444?,No
+194,172,4,Is the country code of Marie-Louise airport SC?,No
+195,173,1,Is the ICAO location indicator of the Assuncao do Icana airport SWAK?,No
+196,173,4,Is the country code of Assuncao do Icana airport BR?,No
+197,174,0,Do you know the Hermannsburg airport?,No
+198,174,4,Is the country code of Hermannsburg airport AU?,No
+199,176,4,Is the country code of Shiroles airport CR?,No
+200,178,1,Is the ICAO location indicator of the New Salem Aerodrome airport 74NY?,No
+201,178,4,Is the country code of New Salem Aerodrome airport US?,No
+202,179,3,Is the longitude of the Formosa airport -47.3457?,No
+203,179,4,Is the country code of Formosa airport BR?,No
+204,180,3,Is the longitude of the Coeroeni airport -57.333?,No
+205,182,4,Is the country code of Eulo airport AU?,No
+206,183,0,Do you know the Level Acres Farm airport?,No
+207,184,4,Is the country code of Carmen De Bolivar airport CO?,No
+208,185,1,Is the ICAO location indicator of the Moncton / McEwen airport CCG4?,No
+209,187,1,Is the ICAO location indicator of the Petty Farms airport 2GE7?,No
+210,187,4,Is the country code of Petty Farms airport US?,No
+211,188,0,Do you know the Mangabalito airport?,No
+212,188,4,Is the country code of Mangabalito airport BO?,No
+213,189,3,Is the longitude of the Iturama airport -50.2202?,No
+214,190,2,Is the latitude of the El Sobrante airport -32.2236?,No
+215,190,3,Is the longitude of the El Sobrante airport -70.8?,No
+216,190,4,Is the country code of El Sobrante airport CL?,No
+217,191,1,Is the ICAO location indicator of the Radville airport CKF2?,No
+218,193,1,Is the ICAO location indicator of the Dougherty airport 1OH2?,No
+219,194,1,Is the ICAO location indicator of the Welsh airport K6R1?,No
+220,194,2,Is the latitude of the Welsh airport 30.2419?,No
+221,194,3,Is the longitude of the Welsh airport -92.8307?,No
+222,194,4,Is the country code of Welsh airport US?,No
+223,195,0,Do you know the San Pancracio airport?,No
+224,195,1,Is the ICAO location indicator of the San Pancracio airport SVRL?,No
+225,195,3,Is the longitude of the San Pancracio airport -69.6417?,No
+226,195,4,Is the country code of San Pancracio airport VE?,No
+227,196,1,Is the ICAO location indicator of the Le Maire Memorial airport K2R1?,No
+228,196,2,Is the latitude of the Le Maire Memorial airport 29.8991?,No
+229,196,3,Is the longitude of the Le Maire Memorial airport -91.666?,No
+230,196,4,Is the country code of Le Maire Memorial airport US?,No
+231,197,3,Is the longitude of the Nkhota Kota airport 34.267?,No
+232,199,1,Is the ICAO location indicator of the Flying Bj airport 3NC5?,No
+233,200,0,Do you know the Mungo Lodge airport?,No
+234,200,4,Is the country code of Mungo Lodge airport AU?,No
+235,201,1,Is the ICAO location indicator of the Barnstormers 5 airport 16MI?,No
+236,203,4,Is the country code of Owyhee Reservoir State airport US?,No
+237,205,0,Do you know the Rough River State Park airport?,No
+238,205,1,Is the ICAO location indicator of the Rough River State Park airport K2I3?,No
+239,205,4,Is the country code of Rough River State Park airport US?,No
+240,206,1,Is the ICAO location indicator of the J-3 Cub Field airport 66WI?,No
+241,207,4,Is the country code of Spencer airport US?,No
+242,209,4,Is the country code of Cape Leveque airport AU?,No
+243,212,0,Do you know the Los Cuatro Diablos airport?,No
+244,212,1,Is the ICAO location indicator of the Los Cuatro Diablos airport SCME?,No
+245,212,4,Is the country code of Los Cuatro Diablos airport CL?,No
+246,213,4,Is the country code of Abisu Airfield airport TL?,No
+247,214,1,Is the ICAO location indicator of the Betoambari airport WAWB?,No
+248,214,3,Is the longitude of the Betoambari airport 122.569?,No
+249,214,4,Is the country code of Betoambari airport ID?,No
+250,215,1,Is the ICAO location indicator of the Chelyabinsk Balandino airport USCC?,No
+251,215,3,Is the longitude of the Chelyabinsk Balandino airport 61.5033?,No
+252,216,1,Is the ICAO location indicator of the Wenskoski Field airport 0NY8?,No
+253,216,4,Is the country code of Wenskoski Field airport US?,No
+254,217,4,Is the country code of Reindeer Lake / Lindbergh Lodge Airstrip airport CA?,No
+255,219,4,Is the country code of Morawa airport AU?,No
+256,220,0,Do you know the Mountain Outlaw airport?,No
+257,220,1,Is the ICAO location indicator of the Mountain Outlaw airport TN11?,No
+258,221,0,Do you know the Bridport airport?,No
+259,221,1,Is the ICAO location indicator of the Bridport airport YBDP?,No
+260,221,2,Is the latitude of the Bridport airport -41.0167?,No
+261,221,3,Is the longitude of the Bridport airport 147.417?,No
+262,221,4,Is the country code of Bridport airport AU?,No
+263,223,0,Do you know the Reales Tamarindos airport?,No
+264,223,4,Is the country code of Reales Tamarindos airport EC?,No
+265,224,4,Is the country code of Aberdeen Regional airport US?,No
+266,225,0,Do you know the Fly Away Farm airport?,No
+267,225,1,Is the ICAO location indicator of the Fly Away Farm airport 2MD3?,No
+268,225,4,Is the country code of Fly Away Farm airport US?,No
+269,227,4,Is the country code of Farfan airport CO?,No
+270,228,3,Is the longitude of the Khark Island airport 50.3239?,No
+271,229,1,Is the ICAO location indicator of the Red Roof airport WN11?,No
+272,230,3,Is the longitude of the Manistee County/Blacker airport -86.2469?,No
+273,231,3,Is the longitude of the Dourados airport -54.9266?,No
+274,232,1,Is the ICAO location indicator of the Airlane Enterprises airport K1H1?,No
+275,232,4,Is the country code of Airlane Enterprises airport US?,No
+276,233,0,Do you know the Fazenda Canamari airport?,No
+277,233,3,Is the longitude of the Fazenda Canamari airport -50.3811?,No
+278,236,1,Is the ICAO location indicator of the Kebar airport WASE?,No
+279,236,4,Is the country code of Kebar airport ID?,No
+280,237,0,Do you know the Windjana Grove airport?,No
+281,238,4,Is the country code of Letisko airport SK?,No
+282,240,1,Is the ICAO location indicator of the Amalfi airport SKAM?,No
+283,240,2,Is the latitude of the Amalfi airport 6.9167?,No
+284,240,3,Is the longitude of the Amalfi airport -75.0667?,No
+285,240,4,Is the country code of Amalfi airport CO?,No
+286,241,1,Is the ICAO location indicator of the Bakke airport 61ND?,No
+287,241,4,Is the country code of Bakke airport US?,No
+288,242,4,Is the country code of Mabel Creek Station airport AU?,No
+289,243,4,Is the country code of Ulei airport VU?,No
+290,245,0,Do you know the Hysham airport?,No
+291,245,4,Is the country code of Hysham airport US?,No
+292,246,1,Is the ICAO location indicator of the Gun Barrel City Airpark airport 74XA?,No
+293,247,0,Do you know the Pousada das Aguias airport?,No
+294,247,3,Is the longitude of the Pousada das Aguias airport -52.1292?,No
+295,247,4,Is the country code of Pousada das Aguias airport BR?,No
+296,250,4,Is the country code of Masisea airport PE?,No
+297,252,1,Is the ICAO location indicator of the Flagler Aerial Spraying Inc airport CO00?,No
+298,252,2,Is the latitude of the Flagler Aerial Spraying Inc airport 39.28?,No
+299,253,4,Is the country code of Neuburg airport DE?,No
+300,254,4,Is the country code of Spruce airport US?,No
+301,255,1,Is the ICAO location indicator of the Starbase airport VG09?,No
+302,255,2,Is the latitude of the Starbase airport 37.2278?,No
+303,255,3,Is the longitude of the Starbase airport -75.9833?,No
+304,255,4,Is the country code of Starbase airport US?,No
+305,256,3,Is the longitude of the Kenmare Municipal airport -102.048?,No
+306,256,4,Is the country code of Kenmare Municipal airport US?,No
+307,257,0,Do you know the Shannon River airport?,No
+308,257,1,Is the ICAO location indicator of the Shannon River airport YSHN?,No
+309,257,2,Is the latitude of the Shannon River airport -34.75?,No
+310,257,3,Is the longitude of the Shannon River airport 116.483?,No
+311,257,4,Is the country code of Shannon River airport AU?,No
+312,258,1,Is the ICAO location indicator of the Ploermel Loyat airport LFRP?,No
+313,258,4,Is the country code of Ploermel Loyat airport FR?,No
+314,261,3,Is the longitude of the Kashmor airport 69.5991?,No
+315,262,1,Is the ICAO location indicator of the Love Field airport 97FL?,No
+316,262,3,Is the longitude of the Love Field airport -81.8915?,No
+317,264,1,Is the ICAO location indicator of the Wings-N-Wheels airport FA50?,No
+318,264,4,Is the country code of Wings-N-Wheels airport US?,No
+319,266,1,Is the ICAO location indicator of the Chetek Municipal/Southworth airport KY23?,No
+320,267,1,Is the ICAO location indicator of the O'Brien Airpark East/West airport FD71?,No
+321,268,0,Do you know the Elmsett airport?,No
+322,268,3,Is the longitude of the Elmsett airport 0.9775?,No
+323,268,4,Is the country code of Elmsett airport GB?,No
+324,269,0,Do you know the Yalymboo airport?,No
+325,269,4,Is the country code of Yalymboo airport AU?,No
+326,272,0,Do you know the Fazenda Santa Ilidia airport?,No
+327,272,4,Is the country code of Fazenda Santa Ilidia airport BR?,No
+328,275,0,Do you know the Khorewah airport?,No
+329,275,1,Is the ICAO location indicator of the Khorewah airport OP16?,No
+330,275,4,Is the country code of Khorewah airport PK?,No
+331,276,1,Is the ICAO location indicator of the Humm airport 06IL?,No
+332,276,4,Is the country code of Humm airport US?,No
+333,277,1,Is the ICAO location indicator of the Ring Rock Ranch airport 4NA1?,No
+334,278,0,Do you know the Spring Point airport?,No
+335,279,1,Is the ICAO location indicator of the Goldfield airport NV50?,No
+336,283,4,Is the country code of Toledo Suburban airport US?,No
+337,285,2,Is the latitude of the Tres Chorrillos airport -52.5253?,No
+338,285,4,Is the country code of Tres Chorrillos airport CL?,No
+339,286,3,Is the longitude of the Lagoa Santa airport -43.8964?,No
+340,289,1,Is the ICAO location indicator of the V-Bar airport 4TA2?,No
+341,289,4,Is the country code of V-Bar airport US?,No
+342,290,3,Is the longitude of the Neom Bay airport 35.2938?,No
+343,291,1,Is the ICAO location indicator of the Bald Mountain airport ME14?,No
+344,291,4,Is the country code of Bald Mountain airport US?,No
+345,293,0,Do you know the Fazenda Salamanca airport?,No
+346,293,3,Is the longitude of the Fazenda Salamanca airport -55.5333?,No
+347,293,4,Is the country code of Fazenda Salamanca airport BR?,No
+348,295,1,Is the ICAO location indicator of the Lm-Ets airport 54FD?,No
+349,295,4,Is the country code of Lm-Ets airport US?,No
+350,297,1,Is the ICAO location indicator of the Usinas Braco Norte airport SIXX?,No
+351,297,4,Is the country code of Usinas Braco Norte airport BR?,No
+352,298,0,Do you know the El Capitan airport?,No
+353,298,1,Is the ICAO location indicator of the El Capitan airport SVEK?,No
+354,298,4,Is the country code of El Capitan airport VE?,No
+355,299,0,Do you know the Bills Last Resort Rla airport?,No
+356,299,1,Is the ICAO location indicator of the Bills Last Resort Rla airport IL24?,No
+357,299,3,Is the longitude of the Bills Last Resort Rla airport -89.8831?,No
+358,299,4,Is the country code of Bills Last Resort Rla airport US?,No
+359,300,4,Is the country code of Arens Field airport US?,No
+360,302,0,Do you know the Aiome airport?,No
+361,302,4,Is the country code of Aiome airport PG?,No
+362,303,0,Do you know the Fazenda Barra Grande airport?,No
+363,303,1,Is the ICAO location indicator of the Fazenda Barra Grande airport SSWV?,No
+364,303,3,Is the longitude of the Fazenda Barra Grande airport -50.0411?,No
+365,304,0,Do you know the Trausdorf airport?,No
+366,304,1,Is the ICAO location indicator of the Trausdorf airport LOAT?,No
+367,304,2,Is the latitude of the Trausdorf airport 47.8?,No
+368,304,3,Is the longitude of the Trausdorf airport 16.567?,No
+369,304,4,Is the country code of Trausdorf airport AT?,No
+370,305,1,Is the ICAO location indicator of the Eston airport CJR4?,No
+371,305,3,Is the longitude of the Eston airport -108.763?,No
+372,305,4,Is the country code of Eston airport CA?,No
+373,307,1,Is the ICAO location indicator of the Dinsmore airport CKX5?,No
+374,307,4,Is the country code of Dinsmore airport CA?,No
+375,308,1,Is the ICAO location indicator of the Maple Ridge airport 03ME?,No
+376,308,3,Is the longitude of the Maple Ridge airport -70.6273?,No
+377,308,4,Is the country code of Maple Ridge airport US?,No
+378,309,4,Is the country code of Thunder Creek airport US?,No
+379,311,1,Is the ICAO location indicator of the Gottschalk Field airport 91WI?,No
+380,314,0,Do you know the Fazenda Ribeirao airport?,No
+381,314,1,Is the ICAO location indicator of the Fazenda Ribeirao airport SIFU?,No
+382,314,3,Is the longitude of the Fazenda Ribeirao airport -43.7753?,No
+383,316,1,Is the ICAO location indicator of the Flugplatz airport 30KS?,No
+384,316,4,Is the country code of Flugplatz airport US?,No
+385,317,1,Is the ICAO location indicator of the Richter Aviation airport 12CN?,No
+386,318,0,Do you know the Fazenda Tuiuiu airport?,No
+387,318,1,Is the ICAO location indicator of the Fazenda Tuiuiu airport SWNW?,No
+388,318,3,Is the longitude of the Fazenda Tuiuiu airport -55.455?,No
+389,321,1,Is the ICAO location indicator of the Orr Field airport NE25?,No
+390,323,0,Do you know the Castleforbes airport?,No
+391,324,1,Is the ICAO location indicator of the Lone Oaks Ranch airport 5OR9?,No
+392,326,1,Is the ICAO location indicator of the Sanborn airport 38CN?,No
+393,327,1,Is the ICAO location indicator of the Comstock Field airport 80SD?,No
+394,328,4,Is the country code of Aerosanta Cruz airport CL?,No
+395,329,3,Is the longitude of the Yeltsovka airport 83.0045?,No
+396,332,3,Is the longitude of the Piedra Del Aguila airport -70.01?,No
+397,333,3,Is the longitude of the Mananjary airport 48.3583?,No
+398,333,4,Is the country code of Mananjary airport MG?,No
+399,334,4,Is the country code of Wysocki Field airport US?,No
+400,335,2,Is the latitude of the Liberty County airport 48.5107?,No
+401,335,3,Is the longitude of the Liberty County airport -110.9909?,No
+402,337,1,Is the ICAO location indicator of the High Acres airport 85NY?,No
+403,337,4,Is the country code of High Acres airport US?,No
+404,338,1,Is the ICAO location indicator of the Dusenbury Field airport 13NR?,No
+405,338,4,Is the country code of Dusenbury Field airport US?,No
+406,339,4,Is the country code of Amahai airport ID?,No
+407,340,0,Do you know the Mapulaca airport?,No
+408,342,0,Do you know the Fazenda Santa Helena airport?,No
+409,342,1,Is the ICAO location indicator of the Fazenda Santa Helena airport SIOU?,No
+410,343,1,Is the ICAO location indicator of the Hamilton Strip airport GA49?,No
+411,343,4,Is the country code of Hamilton Strip airport US?,No
+412,344,1,Is the ICAO location indicator of the Wolfe Field airport XA32?,No
+413,345,0,Do you know the Tsholothso airport?,No
+414,345,4,Is the country code of Tsholothso airport ZW?,No
+415,346,2,Is the latitude of the Las Cruces airport 8.3289?,No
+416,346,3,Is the longitude of the Las Cruces airport -68.752?,No
+417,346,4,Is the country code of Las Cruces airport VE?,No
+418,347,0,Do you know the Canadian River Corrientes airport?,No
+419,347,1,Is the ICAO location indicator of the Canadian River Corrientes airport OK10?,No
+420,347,2,Is the latitude of the Canadian River Corrientes airport 35.5394?,No
+421,347,4,Is the country code of Canadian River Corrientes airport US?,No
+422,348,1,Is the ICAO location indicator of the Elk Creek airport 47NY?,No
+423,349,4,Is the country code of G 301 airport KR?,No
+424,350,4,Is the country code of Pangkal Pinang (Depati Amir) airport ID?,No
+425,351,0,Do you know the Hedditch airport?,No
+426,351,1,Is the ICAO location indicator of the Hedditch airport MT72?,No
+427,351,4,Is the country code of Hedditch airport US?,No
+428,352,3,Is the longitude of the Mykolaiv International airport 31.9198?,No
+429,353,4,Is the country code of Cornwall Regional airport CA?,No
+430,354,3,Is the longitude of the Godthaab / Nuuk airport -51.6781?,No
+431,355,3,Is the longitude of the Balladonia airport 123.618?,No
+432,357,3,Is the longitude of the Bird Island airport 55.2053?,No
+433,357,4,Is the country code of Bird Island airport SC?,No
+434,358,0,Do you know the Fazenda Retiro do Marimbondo airport?,No
+435,361,1,Is the ICAO location indicator of the Rollers airport OK48?,No
+436,361,4,Is the country code of Rollers airport US?,No
+437,362,0,Do you know the Fazenda Sao Francisco airport?,No
+438,362,3,Is the longitude of the Fazenda Sao Francisco airport -50.2561?,No
+439,364,1,Is the ICAO location indicator of the Sean D Sheldon Memorial Airfield airport 23MU?,No
+440,365,3,Is the longitude of the Utena airport 25.7169?,No
+441,370,3,Is the longitude of the Lago Musters airport -69.0728?,No
+442,371,1,Is the ICAO location indicator of the Hinton / Entrance airport CEE4?,No
+443,371,4,Is the country code of Hinton / Entrance airport CA?,No
+444,372,1,Is the ICAO location indicator of the Mount Pleasant airport EGYP?,No
+445,372,2,Is the latitude of the Mount Pleasant airport -51.8228?,No
+446,372,3,Is the longitude of the Mount Pleasant airport -58.4472?,No
+447,372,4,Is the country code of Mount Pleasant airport FK?,No
+448,373,4,Is the country code of Los Cuernos Ranch airport US?,No
+449,374,4,Is the country code of Furstenfeldbruck airport DE?,No
+450,376,4,Is the country code of Bednary Airfield airport PL?,No
+451,377,1,Is the ICAO location indicator of the Ridgeview airport 12ME?,No
+452,377,4,Is the country code of Ridgeview airport US?,No
+453,378,1,Is the ICAO location indicator of the Circle L Ranch airport NV27?,No
+454,379,0,Do you know the Newfound Valley airport?,No
+455,379,1,Is the ICAO location indicator of the Newfound Valley airport K2N2?,No
+456,379,4,Is the country code of Newfound Valley airport US?,No
+457,381,0,Do you know the Igualada/Odena airport?,No
+458,381,1,Is the ICAO location indicator of the Igualada/Odena airport LEIG?,No
+459,381,3,Is the longitude of the Igualada/Odena airport 1.6531?,No
+460,381,4,Is the country code of Igualada/Odena airport ES?,No
+461,382,4,Is the country code of Juancho airport VE?,No
+462,385,1,Is the ICAO location indicator of the Kings Port airport FD72?,No
+463,385,4,Is the country code of Kings Port airport US?,No
+464,387,4,Is the country code of Rosalia Municipal airport US?,No
+465,389,0,Do you know the Green Sea airport?,No
+466,389,1,Is the ICAO location indicator of the Green Sea airport KS79?,No
+467,389,3,Is the longitude of the Green Sea airport -79.0206?,No
+468,390,4,Is the country code of Guasimal airport VE?,No
+469,391,4,Is the country code of Polonia International airport ID?,No
+470,392,3,Is the longitude of the Sorocaba airport -47.49?,No
+471,392,4,Is the country code of Sorocaba airport BR?,No
+472,393,0,Do you know the Cocorobo airport?,No
+473,393,1,Is the ICAO location indicator of the Cocorobo airport SNCQ?,No
+474,393,3,Is the longitude of the Cocorobo airport -39.0331?,No
+475,393,4,Is the country code of Cocorobo airport BR?,No
+476,394,1,Is the ICAO location indicator of the Cerdas airport SLCS?,No
+477,394,4,Is the country code of Cerdas airport BO?,No
+478,397,1,Is the ICAO location indicator of the Colle Field airport 34MS?,No
+479,397,4,Is the country code of Colle Field airport US?,No
+480,398,1,Is the ICAO location indicator of the Waldron Airstrip airport 90WA?,No
+481,399,0,Do you know the Fazenda Aurora III airport?,No
+482,399,1,Is the ICAO location indicator of the Fazenda Aurora III airport SNUL?,No
+483,402,0,Do you know the Bacchi Valley Industries airport?,No
+484,402,1,Is the ICAO location indicator of the Bacchi Valley Industries airport 80CA?,No
+485,402,4,Is the country code of Bacchi Valley Industries airport US?,No
+486,404,4,Is the country code of Esperanza airport CL?,No
+487,405,0,Do you know the Boteka airport?,No
+488,405,4,Is the country code of Boteka airport CD?,No
+489,406,0,Do you know the Double D Farms airport?,No
+490,406,1,Is the ICAO location indicator of the Double D Farms airport 7TE1?,No
+491,406,2,Is the latitude of the Double D Farms airport 29.999?,No
+492,407,1,Is the ICAO location indicator of the Chardara airport UA34?,No
+493,407,3,Is the longitude of the Chardara airport 67.971?,No
+494,408,0,Do you know the Kehl-Sundheim airport?,No
+495,409,1,Is the ICAO location indicator of the Windmillcreek airport 85XA?,No
+496,409,4,Is the country code of Windmillcreek airport US?,No
+497,410,1,Is the ICAO location indicator of the King Shaka International airport FALE?,No
+498,411,1,Is the ICAO location indicator of the Franz Ranch airport 33WA?,No
+499,414,0,Do you know the Pyhoselka airport?,No
+500,414,4,Is the country code of Pyhoselka airport FI?,No
+501,415,1,Is the ICAO location indicator of the Albertus airport KFEP?,No
+502,415,3,Is the longitude of the Albertus airport -89.582?,No
+503,415,4,Is the country code of Albertus airport US?,No
+504,417,1,Is the ICAO location indicator of the Lehman airport 28TX?,No
+505,417,4,Is the country code of Lehman airport US?,No
+506,418,1,Is the ICAO location indicator of the Winner Regional airport KICR?,No
+507,419,3,Is the longitude of the King Khaled Air Base airport 42.8035?,No
+508,422,3,Is the longitude of the Tamboril airport -40.3746?,No
+509,422,4,Is the country code of Tamboril airport BR?,No
+510,424,4,Is the country code of South Texas International At Edinburg airport US?,No
+511,425,0,Do you know the Rose Port Inc airport?,No
+512,425,1,Is the ICAO location indicator of the Rose Port Inc airport 9KS4?,No
+513,425,4,Is the country code of Rose Port Inc airport US?,No
+514,426,0,Do you know the Lambrook airport?,No
+515,426,1,Is the ICAO location indicator of the Lambrook airport YLMB?,No
+516,426,2,Is the latitude of the Lambrook airport -31.1?,No
+517,426,3,Is the longitude of the Lambrook airport 149.933?,No
+518,426,4,Is the country code of Lambrook airport AU?,No
+519,429,1,Is the ICAO location indicator of the Oakes Field airport 66IN?,No
+520,429,4,Is the country code of Oakes Field airport US?,No
+521,430,0,Do you know the Fazenda Dom Felipe airport?,No
+522,430,1,Is the ICAO location indicator of the Fazenda Dom Felipe airport SNFH?,No
+523,430,3,Is the longitude of the Fazenda Dom Felipe airport -55.3758?,No
+524,430,4,Is the country code of Fazenda Dom Felipe airport BR?,No
+525,432,3,Is the longitude of the Namangan airport 71.5567?,No
+526,436,1,Is the ICAO location indicator of the St-Esprit airport CES2?,No
+527,436,4,Is the country code of St-Esprit airport CA?,No
+528,437,0,Do you know the Cucuyagua airport?,No
+529,437,4,Is the country code of Cucuyagua airport HN?,No
+530,438,1,Is the ICAO location indicator of the Kerben airport UAFE?,No
+531,438,4,Is the country code of Kerben airport KG?,No
+532,439,4,Is the country code of Brigadeiro Lysias Rodrigues airport BR?,No
+533,441,1,Is the ICAO location indicator of the Sanders airport 85KS?,No
+534,442,4,Is the country code of Gross airport US?,No
+535,443,1,Is the ICAO location indicator of the The Garden airport YGDR?,No
+536,443,3,Is the longitude of the The Garden airport 134.44?,No
+537,443,4,Is the country code of The Garden airport AU?,No
+538,444,0,Do you know the Gunzenhausen-Reutberg airport?,No
+539,446,1,Is the ICAO location indicator of the Diewold airport 58IA?,No
+540,446,4,Is the country code of Diewold airport US?,No
+541,447,1,Is the ICAO location indicator of the Stallion Army Air Field airport K95E?,No
+542,448,0,Do you know the Lone Hawk airport?,No
+543,448,1,Is the ICAO location indicator of the Lone Hawk airport 0MT9?,No
+544,448,4,Is the country code of Lone Hawk airport US?,No
+545,449,1,Is the ICAO location indicator of the Cliffords airport ME69?,No
+546,449,4,Is the country code of Cliffords airport US?,No
+547,450,4,Is the country code of Gods River airport CA?,No
+548,451,0,Do you know the Ranchaero airport?,No
+549,451,1,Is the ICAO location indicator of the Ranchaero airport CL56?,No
+550,451,4,Is the country code of Ranchaero airport US?,No
+551,452,4,Is the country code of Cobden airport AU?,No
+552,453,1,Is the ICAO location indicator of the Paradise Air Haven airport 39OK?,No
+553,453,4,Is the country code of Paradise Air Haven airport US?,No
+554,454,4,Is the country code of Los Brasiles airport NI?,No
+555,456,3,Is the longitude of the Cremona / Migliaro airport 10.0019?,No
+556,457,1,Is the ICAO location indicator of the Havana Regional airport K9I0?,No
+557,457,2,Is the latitude of the Havana Regional airport 40.2227?,No
+558,457,3,Is the longitude of the Havana Regional airport -90.0228?,No
+559,457,4,Is the country code of Havana Regional airport US?,No
+560,459,3,Is the longitude of the Fazenda Rio Vermelho airport -49.4639?,No
+561,461,1,Is the ICAO location indicator of the Flying J Ranch airport 67OK?,No
+562,462,3,Is the longitude of the Cholpon-Ata airport 77.0567?,No
+563,463,4,Is the country code of Beausejour/Av-Ranch Airpark airport CA?,No
+564,464,0,Do you know the Pano Aqil Southeast airport?,No
+565,464,3,Is the longitude of the Pano Aqil Southeast airport 69.1671?,No
+566,465,1,Is the ICAO location indicator of the Bb Airpark airport TE88?,No
+567,467,3,Is the longitude of the Estancia California airport -56.1294?,No
+568,467,4,Is the country code of Estancia California airport BR?,No
+569,468,1,Is the ICAO location indicator of the Griffins Peace River Ranch airport FL00?,No
+570,469,0,Do you know the Fazenda Charqueada Norte airport?,No
+571,469,1,Is the ICAO location indicator of the Fazenda Charqueada Norte airport SWCH?,No
+572,469,4,Is the country code of Fazenda Charqueada Norte airport BR?,No
+573,470,1,Is the ICAO location indicator of the Fall Creek Air Ranch airport 52TS?,No
+574,471,0,Do you know the Fazenda Alianca airport?,No
+575,472,0,Do you know the Faaite airport?,No
+576,472,4,Is the country code of Faaite airport PF?,No
+577,474,1,Is the ICAO location indicator of the Goodman Strip airport 88ND?,No
+578,475,0,Do you know the New Tanegashima airport?,No
+579,477,1,Is the ICAO location indicator of the Acme airport CEG2?,No
+580,477,4,Is the country code of Acme airport CA?,No
+581,478,4,Is the country code of Amata airport AU?,No
+582,479,1,Is the ICAO location indicator of the Faith Ranch airport XA89?,No
+583,480,4,Is the country code of Bradford Regional airport US?,No
+584,481,3,Is the longitude of the Pishin airport 66.9855?,No
+585,482,0,Do you know the Soulac Sur Mer airport?,No
+586,482,4,Is the country code of Soulac Sur Mer airport FR?,No
+587,483,1,Is the ICAO location indicator of the Timberline airport WI47?,No
+588,483,3,Is the longitude of the Timberline airport -89.1501?,No
+589,484,0,Do you know the Renroc airport?,No
+590,484,1,Is the ICAO location indicator of the Renroc airport FVRE?,No
+591,484,3,Is the longitude of the Renroc airport 29.567?,No
+592,484,4,Is the country code of Renroc airport ZW?,No
+593,485,4,Is the country code of Owatonna Degner Regional airport US?,No
+594,486,1,Is the ICAO location indicator of the Gotha-Ost airport EDEG?,No
+595,486,4,Is the country code of Gotha-Ost airport DE?,No
+596,487,4,Is the country code of Eggebeck Air Base airport DE?,No
+597,489,0,Do you know the Fazenda Salto Bello II airport?,No
+598,492,0,Do you know the Rangitata Island airport?,No
+599,493,1,Is the ICAO location indicator of the Hunt airport K9R5?,No
+600,496,3,Is the longitude of the Eurico de Aguiar Salles airport -40.2864?,No
+601,499,0,Do you know the Aserradero El Encino airport?,No
+602,499,1,Is the ICAO location indicator of the Aserradero El Encino airport MHEN?,No
+603,499,4,Is the country code of Aserradero El Encino airport HN?,No
+604,500,0,Do you know the Fazenda Aruana airport?,No
+605,500,3,Is the longitude of the Fazenda Aruana airport -51.5864?,No
+606,501,0,Do you know the Fagotrans airport?,No
+607,501,4,Is the country code of Fagotrans airport VE?,No
+608,505,4,Is the country code of Sultan Iskandarmuda airport ID?,No
+609,507,4,Is the country code of Illesheim Air Base airport DE?,No
+610,508,1,Is the ICAO location indicator of the Mystery Well Ranch airport 25AZ?,No
+611,509,4,Is the country code of Normanton airport AU?,No
+612,510,1,Is the ICAO location indicator of the Canadian River Ranch airport 46XS?,No
+613,510,4,Is the country code of Canadian River Ranch airport US?,No
+614,511,0,Do you know the Mount Bundey airport?,No
+615,511,4,Is the country code of Mount Bundey airport AU?,No
+616,512,0,Do you know the Fazenda Galheiro airport?,No
+617,512,3,Is the longitude of the Fazenda Galheiro airport -54.5997?,No
+618,513,3,Is the longitude of the Trenque Lauquen airport -62.6939?,No
+619,513,4,Is the country code of Trenque Lauquen airport AR?,No
+620,514,0,Do you know the Primorsko airport?,No
+621,516,0,Do you know the Calilegua airport?,No
+622,516,3,Is the longitude of the Calilegua airport -64.7495?,No
+623,517,1,Is the ICAO location indicator of the Alabat Island airport RPLY?,No
+624,517,4,Is the country code of Alabat Island airport PH?,No
+625,518,1,Is the ICAO location indicator of the Walter's Agri-Center airport WI28?,No
+626,520,1,Is the ICAO location indicator of the Almena airport K2C5?,No
+627,520,4,Is the country code of Almena airport US?,No
+628,521,3,Is the longitude of the Juina airport -58.7017?,No
+629,522,1,Is the ICAO location indicator of the Amla airport VA1L?,No
+630,523,1,Is the ICAO location indicator of the Bluff airport K66V?,No
+631,523,4,Is the country code of Bluff airport US?,No
+632,524,4,Is the country code of Banja Luka International airport BA?,No
+633,525,1,Is the ICAO location indicator of the Sylvania Homestead airport YSLV?,No
+634,525,4,Is the country code of Sylvania Homestead airport AU?,No
+635,526,0,Do you know the Errabiddy Homestead airport?,No
+636,526,1,Is the ICAO location indicator of the Errabiddy Homestead airport YERA?,No
+637,526,4,Is the country code of Errabiddy Homestead airport AU?,No
+638,528,1,Is the ICAO location indicator of the Hamrick airport 5OI5?,No
+639,529,4,Is the country code of Chester County G O Carlson airport US?,No
+640,530,1,Is the ICAO location indicator of the Sugar Hill airport DE17?,No
+641,531,4,Is the country code of Dzhankoy airport UA?,No
+642,532,1,Is the ICAO location indicator of the Morgan Field airport 0LS7?,No
+643,534,0,Do you know the Blomberg-Borkhausen airport?,No
+644,535,4,Is the country code of Thessalon Municipal airport CA?,No
+645,536,0,Do you know the Greaton Airfield airport?,No
+646,536,1,Is the ICAO location indicator of the Greaton Airfield airport K98M?,No
+647,536,4,Is the country code of Greaton Airfield airport US?,No
+648,537,0,Do you know the Bob's Field airport?,No
+649,537,1,Is the ICAO location indicator of the Bob's Field airport 36WA?,No
+650,537,4,Is the country code of Bob's Field airport US?,No
+651,539,0,Do you know the A Z Minerals Corporation airport?,No
+652,539,1,Is the ICAO location indicator of the A Z Minerals Corporation airport 03UT?,No
+653,539,4,Is the country code of A Z Minerals Corporation airport US?,No
+654,540,4,Is the country code of North Seal River airport CA?,No
+655,542,1,Is the ICAO location indicator of the Catalano Airfield airport 1NK6?,No
+656,542,4,Is the country code of Catalano Airfield airport US?,No
+657,543,1,Is the ICAO location indicator of the Chanay airport 40KS?,No
+658,543,3,Is the longitude of the Chanay airport -95.4508?,No
+659,543,4,Is the country code of Chanay airport US?,No
+660,544,1,Is the ICAO location indicator of the Hampton Field airport 38II?,No
+661,545,1,Is the ICAO location indicator of the Fiorini Ranch airport 0CN1?,No
+662,545,4,Is the country code of Fiorini Ranch airport US?,No
+663,546,1,Is the ICAO location indicator of the Chipman airport CFU3?,No
+664,546,4,Is the country code of Chipman airport CA?,No
+665,547,1,Is the ICAO location indicator of the Parsons Field airport 4AZ6?,No
+666,550,4,Is the country code of Put In Bay airport US?,No
+667,551,3,Is the longitude of the Vaiden Landing airport -89.878?,No
+668,552,1,Is the ICAO location indicator of the Granville airport 01NK?,No
+669,552,4,Is the country code of Granville airport US?,No
+670,553,3,Is the longitude of the Trelew Aeroclub airport -65.3241?,No
+671,554,4,Is the country code of Delamere Range Facility airport AU?,No
+672,555,1,Is the ICAO location indicator of the Fairview Field airport XA05?,No
+673,555,4,Is the country code of Fairview Field airport US?,No
+674,557,1,Is the ICAO location indicator of the Audley End Airfield airport EG02?,No
+675,557,3,Is the longitude of the Audley End Airfield airport 0.2243?,No
+676,558,1,Is the ICAO location indicator of the Council Municipal airport KU82?,No
+677,561,1,Is the ICAO location indicator of the N & N airport 49KS?,No
+678,563,1,Is the ICAO location indicator of the Pasport airport 5MA3?,No
+679,563,4,Is the country code of Pasport airport US?,No
+680,565,1,Is the ICAO location indicator of the Miller airport IN53?,No
+681,566,1,Is the ICAO location indicator of the Hood Field airport IN25?,No
+682,567,3,Is the longitude of the Njombe airport 34.8?,No
+683,568,0,Do you know the Thangool airport?,No
+684,568,4,Is the country code of Thangool airport AU?,No
+685,569,0,Do you know the Happy Mountain airport?,No
+686,569,1,Is the ICAO location indicator of the Happy Mountain airport NM41?,No
+687,569,4,Is the country code of Happy Mountain airport US?,No
+688,570,1,Is the ICAO location indicator of the Tibbetts airport 4AK9?,No
+689,570,4,Is the country code of Tibbetts airport US?,No
+690,571,0,Do you know the Collie airport?,No
+691,571,4,Is the country code of Collie airport AU?,No
+692,573,0,Do you know the Vigo Park airport?,No
+693,573,1,Is the ICAO location indicator of the Vigo Park airport 1TA2?,No
+694,573,4,Is the country code of Vigo Park airport US?,No
+695,574,0,Do you know the Fazenda Capao Verde airport?,No
+696,574,3,Is the longitude of the Fazenda Capao Verde airport -56.0683?,No
+697,574,4,Is the country code of Fazenda Capao Verde airport BR?,No
+698,575,0,Do you know the Conjuboy airport?,No
+699,575,1,Is the ICAO location indicator of the Conjuboy airport YCJU?,No
+700,575,4,Is the country code of Conjuboy airport AU?,No
+701,578,4,Is the country code of Pemo airport CG?,No
+702,579,0,Do you know the Greytown airport?,No
+703,579,3,Is the longitude of the Greytown airport 30.5867?,No
+704,579,4,Is the country code of Greytown airport ZA?,No
+705,580,4,Is the country code of Santa Rita airport CL?,No
+706,581,4,Is the country code of Manchester Boston Regional airport US?,No
+707,582,1,Is the ICAO location indicator of the Industrial Airpark airport NM83?,No
+708,584,0,Do you know the Horse Feathers airport?,No
+709,584,1,Is the ICAO location indicator of the Horse Feathers airport 53VA?,No
+710,584,2,Is the latitude of the Horse Feathers airport 38.634?,No
+711,584,4,Is the country code of Horse Feathers airport US?,No
+712,585,4,Is the country code of Mockeln airport SE?,No
+713,587,0,Do you know the Rancho Encantado airport?,No
+714,587,1,Is the ICAO location indicator of the Rancho Encantado airport TA58?,No
+715,587,4,Is the country code of Rancho Encantado airport US?,No
+716,590,1,Is the ICAO location indicator of the Lone Pine Aerodrome airport 34KY?,No
+717,590,3,Is the longitude of the Lone Pine Aerodrome airport -86.7856?,No
+718,590,4,Is the country code of Lone Pine Aerodrome airport US?,No
+719,591,1,Is the ICAO location indicator of the Shymkent airport UAII?,No
+720,591,3,Is the longitude of the Shymkent airport 69.4789?,No
+721,592,4,Is the country code of Oceana County airport US?,No
+722,593,3,Is the longitude of the Aeroclube airport -53.6106?,No
+723,593,4,Is the country code of Aeroclube airport BR?,No
+724,595,1,Is the ICAO location indicator of the Lambert Field airport 4OR3?,No
+725,595,3,Is the longitude of the Lambert Field airport -123.0759?,No
+726,600,0,Do you know the Tutuka Power Station airport?,No
+727,600,1,Is the ICAO location indicator of the Tutuka Power Station airport FATT?,No
+728,600,2,Is the latitude of the Tutuka Power Station airport -26.7766?,No
+729,600,3,Is the longitude of the Tutuka Power Station airport 29.3388?,No
+730,600,4,Is the country code of Tutuka Power Station airport ZA?,No
+731,601,0,Do you know the Fazenda Santa Ines airport?,No
+732,601,1,Is the ICAO location indicator of the Fazenda Santa Ines airport SSRC?,No
+733,601,3,Is the longitude of the Fazenda Santa Ines airport -54.3683?,No
+734,602,4,Is the country code of Ouakda airport DZ?,No
+735,603,1,Is the ICAO location indicator of the Mccrea airport TA54?,No
+736,604,1,Is the ICAO location indicator of the Angaur Airstrip airport KANG?,No
+737,605,1,Is the ICAO location indicator of the Rambo Airfield airport 0VA0?,No
+738,606,3,Is the longitude of the Bauru-Arealva airport -49.0683?,No
+739,606,4,Is the country code of Bauru-Arealva airport BR?,No
+740,608,4,Is the country code of Florida Sheriffs Boys Ranch airport US?,No
+741,609,4,Is the country code of Columbia Regional airport US?,No
+742,610,3,Is the longitude of the San Antonio De Barinas airport -70.05?,No
+743,611,0,Do you know the Santo Atanazio airport?,No
+744,611,4,Is the country code of Santo Atanazio airport BR?,No
+745,612,0,Do you know the Spear Valley airport?,No
+746,612,1,Is the ICAO location indicator of the Spear Valley airport 55ID?,No
+747,612,4,Is the country code of Spear Valley airport US?,No
+748,613,4,Is the country code of Oscar Machado Zuluaga airport VE?,No
+749,615,3,Is the longitude of the Domodedovo International airport 37.9063?,No
+750,616,4,Is the country code of Kasese airport CD?,No
+751,619,1,Is the ICAO location indicator of the Verona airport KW19?,No
+752,619,3,Is the longitude of the Verona airport -89.5095?,No
+753,619,4,Is the country code of Verona airport US?,No
+754,620,1,Is the ICAO location indicator of the Lethbridge / J3 Airfield airport CLJ3?,No
+755,620,4,Is the country code of Lethbridge / J3 Airfield airport CA?,No
+756,623,1,Is the ICAO location indicator of the Docken Field airport 37WI?,No
+757,623,3,Is the longitude of the Docken Field airport -89.7535?,No
+758,623,4,Is the country code of Docken Field airport US?,No
+759,626,1,Is the ICAO location indicator of the Hollingshead airport NJ25?,No
+760,626,4,Is the country code of Hollingshead airport US?,No
+761,628,0,Do you know the Snettisham airport?,No
+762,628,1,Is the ICAO location indicator of the Snettisham airport 7AK2?,No
+763,628,3,Is the longitude of the Snettisham airport -133.7295?,No
+764,628,4,Is the country code of Snettisham airport US?,No
+765,630,4,Is the country code of Gowanda airport US?,No
+766,631,3,Is the longitude of the Khairpur airport 69.6749?,No
+767,635,0,Do you know the Belem Novo airport?,No
+768,635,1,Is the ICAO location indicator of the Belem Novo airport SSBN?,No
+769,636,1,Is the ICAO location indicator of the Alison Air Park airport 7TS2?,No
+770,637,0,Do you know the Hedlow airport?,No
+771,637,1,Is the ICAO location indicator of the Hedlow airport YHEW?,No
+772,637,4,Is the country code of Hedlow airport AU?,No
+773,639,1,Is the ICAO location indicator of the Elk Island airport CKZ3?,No
+774,640,0,Do you know the Lizzy Lizard airport?,No
+775,640,1,Is the ICAO location indicator of the Lizzy Lizard airport 8AZ5?,No
+776,640,4,Is the country code of Lizzy Lizard airport US?,No
+777,642,1,Is the ICAO location indicator of the Gods Lake airport CJB6?,No
+778,642,4,Is the country code of Gods Lake airport CA?,No
+779,646,0,Do you know the Wildy Field airport?,No
+780,646,1,Is the ICAO location indicator of the Wildy Field airport 6LL4?,No
+781,646,3,Is the longitude of the Wildy Field airport -89.8918?,No
+782,646,4,Is the country code of Wildy Field airport US?,No
+783,648,3,Is the longitude of the V.C. Bird International airport -61.7927?,No
+784,649,1,Is the ICAO location indicator of the Vance Brand airport KLMO?,No
+785,651,2,Is the latitude of the Angola Airstrip airport 30.9516?,No
+786,651,3,Is the longitude of the Angola Airstrip airport -91.5848?,No
+787,651,4,Is the country code of Angola Airstrip airport US?,No
+788,652,1,Is the ICAO location indicator of the Lanes Landing airport 67SC?,No
+789,653,3,Is the longitude of the Mundrabilla airport 127.854?,No
+790,654,1,Is the ICAO location indicator of the Fazenda Pirassununga airport SWVI?,No
+791,654,3,Is the longitude of the Fazenda Pirassununga airport -48.3111?,No
+792,655,0,Do you know the Pingston Aeroworks airport?,No
+793,655,1,Is the ICAO location indicator of the Pingston Aeroworks airport 54MI?,No
+794,655,4,Is the country code of Pingston Aeroworks airport US?,No
+795,657,0,Do you know the Florac Ste Enimie airport?,No
+796,658,1,Is the ICAO location indicator of the Straffordville airport CNS6?,No
+797,658,4,Is the country code of Straffordville airport CA?,No
+798,659,0,Do you know the Atico airport?,No
+799,660,4,Is the country code of Naone airport VU?,No
+800,662,3,Is the longitude of the Usina Bonfim airport -48.3033?,No
+801,662,4,Is the country code of Usina Bonfim airport BR?,No
+802,663,0,Do you know the Pam's Place airport?,No
+803,663,1,Is the ICAO location indicator of the Pam's Place airport K78I?,No
+804,663,4,Is the country code of Pam's Place airport US?,No
+805,664,1,Is the ICAO location indicator of the Huallaga airport SPBL?,No
+806,665,3,Is the longitude of the Payson Ranch airport -81.567?,No
+807,666,3,Is the longitude of the Sao Simao airport -60.1547?,No
+808,666,4,Is the country code of Sao Simao airport BR?,No
+809,669,0,Do you know the Fazenda Tres Marias do Agua Limpa airport?,No
+810,669,1,Is the ICAO location indicator of the Fazenda Tres Marias do Agua Limpa airport SWOO?,No
+811,670,0,Do you know the Sarita airport?,No
+812,670,1,Is the ICAO location indicator of the Sarita airport 37AZ?,No
+813,670,4,Is the country code of Sarita airport US?,No
+814,672,0,Do you know the Rular airport?,No
+815,672,1,Is the ICAO location indicator of the Rular airport VG07?,No
+816,672,4,Is the country code of Rular airport US?,No
+817,673,4,Is the country code of Aurora Municipal airport US?,No
+818,674,3,Is the longitude of the H M S Bastard Memorial airport 29.499?,No
+819,674,4,Is the country code of H M S Bastard Memorial airport ZA?,No
+820,675,0,Do you know the Pousada Xaraes airport?,No
+821,675,4,Is the country code of Pousada Xaraes airport BR?,No
+822,677,0,Do you know the Bear Cove Farm airport?,No
+823,677,1,Is the ICAO location indicator of the Bear Cove Farm airport 46AK?,No
+824,677,4,Is the country code of Bear Cove Farm airport US?,No
+825,682,1,Is the ICAO location indicator of the Johnson Lake airport 2NE0?,No
+826,686,1,Is the ICAO location indicator of the Bar Flying E airport 2WY8?,No
+827,687,1,Is the ICAO location indicator of the Field Of Dreams airport 15UT?,No
+828,688,1,Is the ICAO location indicator of the Lee Field airport VG64?,No
+829,690,1,Is the ICAO location indicator of the Mococa airport SDKK?,No
+830,690,3,Is the longitude of the Mococa airport -47.0344?,No
+831,692,4,Is the country code of Beacon airport AU?,No
+832,693,4,Is the country code of Lanywa airport MM?,No
+833,694,0,Do you know the Fazenda Vitoria airport?,No
+834,697,4,Is the country code of Cavanaugh Bay airport US?,No
+835,699,4,Is the country code of Lock airport AU?,No
+836,702,1,Is the ICAO location indicator of the Memmi airport 0PN6?,No
+837,702,4,Is the country code of Memmi airport US?,No
+838,704,0,Do you know the Village airport?,No
+839,704,1,Is the ICAO location indicator of the Village airport 0TN2?,No
+840,704,4,Is the country code of Village airport US?,No
+841,705,4,Is the country code of Falcon Lake Strip airport US?,No
+842,710,0,Do you know the Sheghnan airport?,No
+843,710,3,Is the longitude of the Sheghnan airport 71.5?,No
+844,711,1,Is the ICAO location indicator of the Krens Farm airport 14VA?,No
+845,711,4,Is the country code of Krens Farm airport US?,No
+846,713,1,Is the ICAO location indicator of the S Bar Ranch airport ID09?,No
+847,714,1,Is the ICAO location indicator of the High Mesa airport 23CO?,No
+848,715,1,Is the ICAO location indicator of the Belen Regional airport KBRG?,No
+849,715,4,Is the country code of Belen Regional airport US?,No
+850,717,0,Do you know the Fazenda Pupila airport?,No
+851,717,3,Is the longitude of the Fazenda Pupila airport -40.9494?,No
+852,717,4,Is the country code of Fazenda Pupila airport BR?,No
+853,718,3,Is the longitude of the Francisco B. Reyes airport 120.1?,No
+854,721,3,Is the longitude of the Saiq airport 57.65?,No
+855,722,3,Is the longitude of the Gode airport 43.5786?,No
+856,723,1,Is the ICAO location indicator of the Santo Pekoa International airport NVSS?,No
+857,723,4,Is the country code of Santo Pekoa International airport VU?,No
+858,727,1,Is the ICAO location indicator of the Clarendon Municipal airport K4M8?,No
+859,728,3,Is the longitude of the Agua Caliente airport -86.895?,No
+860,728,4,Is the country code of Agua Caliente airport HN?,No
+861,729,0,Do you know the Fazenda W. Egidio III airport?,No
+862,729,3,Is the longitude of the Fazenda W. Egidio III airport -46.4775?,No
+863,730,0,Do you know the Lonorore airport?,No
+864,730,4,Is the country code of Lonorore airport VU?,No
+865,731,0,Do you know the Prospect State airport?,No
+866,733,0,Do you know the Fazenda Progresso airport?,No
+867,733,3,Is the longitude of the Fazenda Progresso airport -52.8514?,No
+868,733,4,Is the country code of Fazenda Progresso airport BR?,No
+869,736,3,Is the longitude of the Novo Hamburgo airport -51.0817?,No
+870,736,4,Is the country code of Novo Hamburgo airport BR?,No
+871,737,3,Is the longitude of the Fazenda Lago Vermelho airport -45.4864?,No
+872,739,1,Is the ICAO location indicator of the Morris airport CD13?,No
+873,742,2,Is the latitude of the Hacketstown Aerodrome airport 52.855?,No
+874,742,3,Is the longitude of the Hacketstown Aerodrome airport -6.5472?,No
+875,742,4,Is the country code of Hacketstown Aerodrome airport IE?,No
+876,744,3,Is the longitude of the Buen Retiro Itenez airport -63.4833?,No
+877,745,0,Do you know the Zorn Acres airport?,No
+878,745,1,Is the ICAO location indicator of the Zorn Acres airport 60OI?,No
+879,745,4,Is the country code of Zorn Acres airport US?,No
+880,747,0,Do you know the Ausk Strip airport?,No
+881,747,1,Is the ICAO location indicator of the Ausk Strip airport 8ND5?,No
+882,747,4,Is the country code of Ausk Strip airport US?,No
+883,749,0,Do you know the Estancia Itapororo airport?,No
+884,749,4,Is the country code of Estancia Itapororo airport BR?,No
+885,750,1,Is the ICAO location indicator of the Estancia Norteagro airport SWQR?,No
+886,750,2,Is the latitude of the Estancia Norteagro airport 2.6758?,No
+887,750,4,Is the country code of Estancia Norteagro airport BR?,No
+888,751,3,Is the longitude of the General Villamil airport -90.953?,No
+889,753,1,Is the ICAO location indicator of the Runway Leasing Inc Nr 1 airport 8WI2?,No
+890,753,4,Is the country code of Runway Leasing Inc Nr 1 airport US?,No
+891,756,0,Do you know the Sanandita airport?,No
+892,756,3,Is the longitude of the Sanandita airport -63.6?,No
+893,756,4,Is the country code of Sanandita airport BO?,No
+894,757,1,Is the ICAO location indicator of the Cox airport NC81?,No
+895,758,3,Is the longitude of the Encarnacion airport -55.91?,No
+896,760,0,Do you know the Jasmine Hill airport?,No
+897,760,1,Is the ICAO location indicator of the Jasmine Hill airport 11LS?,No
+898,760,4,Is the country code of Jasmine Hill airport US?,No
+899,761,2,Is the latitude of the Macon-Charnay airport 46.2951?,No
+900,761,3,Is the longitude of the Macon-Charnay airport 4.7958?,No
+901,762,3,Is the longitude of the Le Valdahon Air Base airport 6.35?,No
+902,763,0,Do you know the Fazenda Bagagem airport?,No
+903,763,3,Is the longitude of the Fazenda Bagagem airport -55.5706?,No
+904,765,0,Do you know the Angads airport?,No
+905,765,4,Is the country code of Angads airport MA?,No
+906,766,3,Is the longitude of the Isla Martin Garcia airport -58.2469?,No
+907,768,3,Is the longitude of the Senador Antonio Farias airport -35.0447?,No
+908,772,4,Is the country code of Damazin airport SD?,No
+909,773,0,Do you know the Voghera-Rivanazzano airport?,No
+910,774,3,Is the longitude of the Vologda airport 39.9444?,No
+911,775,3,Is the longitude of the Tiete airport -47.7244?,No
+912,776,0,Do you know the Skyote airport?,No
+913,776,1,Is the ICAO location indicator of the Skyote airport CD02?,No
+914,776,4,Is the country code of Skyote airport US?,No
+915,777,1,Is the ICAO location indicator of the Jefferson Municipal airport KEFW?,No
+916,781,4,Is the country code of Earlton (Timiskaming Regional) airport CA?,No
+917,782,1,Is the ICAO location indicator of the San Pablo Paeno airport SVOZ?,No
+918,782,3,Is the longitude of the San Pablo Paeno airport -68.5?,No
+919,782,4,Is the country code of San Pablo Paeno airport VE?,No
+920,783,1,Is the ICAO location indicator of the Scherrico Meadows airport WS16?,No
+921,783,4,Is the country code of Scherrico Meadows airport US?,No
+922,785,4,Is the country code of Turnau airport AT?,No
+923,787,1,Is the ICAO location indicator of the Johnson Field airport 6OK3?,No
+924,788,1,Is the ICAO location indicator of the Buchmiller airport 7ND5?,No
+925,788,4,Is the country code of Buchmiller airport US?,No
+926,789,2,Is the latitude of the Miramar airport -38.2271?,No
+927,789,3,Is the longitude of the Miramar airport -57.8697?,No
+928,789,4,Is the country code of Miramar airport AR?,No
+929,791,0,Do you know the Shaniko Cattle airport?,No
+930,792,3,Is the longitude of the Ayers airport -78.6547?,No
+931,792,4,Is the country code of Ayers airport US?,No
+932,793,0,Do you know the Punitz-Gussing airport?,No
+933,793,1,Is the ICAO location indicator of the Punitz-Gussing airport LOGG?,No
+934,793,4,Is the country code of Punitz-Gussing airport AT?,No
+935,794,1,Is the ICAO location indicator of the Fazenda Masutti airport SNIX?,No
+936,795,1,Is the ICAO location indicator of the Reed International airport 1CD1?,No
+937,795,3,Is the longitude of the Reed International airport -104.8667?,No
+938,795,4,Is the country code of Reed International airport US?,No
+939,798,1,Is the ICAO location indicator of the Ontario Municipal airport KONO?,No
+940,798,3,Is the longitude of the Ontario Municipal airport -117.013?,No
+941,798,4,Is the country code of Ontario Municipal airport US?,No
+942,799,3,Is the longitude of the Chipata airport 32.5872?,No
+943,799,4,Is the country code of Chipata airport ZM?,No
+944,801,3,Is the longitude of the Lekhwair airport 55.3734?,No
+945,801,4,Is the country code of Lekhwair airport OM?,No
+946,804,3,Is the longitude of the Mario de Almeida Franco airport -47.9661?,No
+947,805,4,Is the country code of Owasco Airfield airport US?,No
+948,806,3,Is the longitude of the Prenti Downs airport 122.8?,No
+949,807,0,Do you know the Twin Mountain airport?,No
+950,809,3,Is the longitude of the Marrupa airport 37.5521?,No
+951,810,1,Is the ICAO location indicator of the Steinbach airport CJB3?,No
+952,810,4,Is the country code of Steinbach airport CA?,No
+953,813,1,Is the ICAO location indicator of the Mcclellan airport 7GA2?,No
+954,814,2,Is the latitude of the Morro airport 4.3572?,No
+955,814,3,Is the longitude of the Morro airport -59.97?,No
+956,814,4,Is the country code of Morro airport BR?,No
+957,815,1,Is the ICAO location indicator of the Santa Ana airport AGGT?,No
+958,815,2,Is the latitude of the Santa Ana airport -10.848?,No
+959,815,3,Is the longitude of the Santa Ana airport 162.4541?,No
+960,815,4,Is the country code of Santa Ana airport SB?,No
+961,817,1,Is the ICAO location indicator of the Heberlig airport PS02?,No
+962,818,3,Is the longitude of the Antsirabe airport 47.0637?,No
+963,819,3,Is the longitude of the Al Taqaddum Air Base airport 43.5971?,No
+964,820,4,Is the country code of Beni-Dibele airport CD?,No
+965,823,0,Do you know the Altdorf-Wallburg airport?,No
+966,823,4,Is the country code of Altdorf-Wallburg airport DE?,No
+967,824,1,Is the ICAO location indicator of the Jay Schertz Farm airport IS00?,No
+968,825,3,Is the longitude of the Alashankou Bole (Bortala) airport airport 82.3?,No
+969,826,3,Is the longitude of the Tupi Paulista airport -51.5989?,No
+970,827,0,Do you know the Fazenda Jamaica airport?,No
+971,827,3,Is the longitude of the Fazenda Jamaica airport -53.77?,No
+972,827,4,Is the country code of Fazenda Jamaica airport BR?,No
+973,829,1,Is the ICAO location indicator of the Berezniki airport USPT?,No
+974,830,4,Is the country code of Telford Overlook Ferguson Field airport US?,No
+975,831,1,Is the ICAO location indicator of the Fazenda Sao Jose airport SWIG?,No
+976,832,1,Is the ICAO location indicator of the Fagali'i airport NSFI?,No
+977,833,0,Do you know the High Ridge Association airport?,No
+978,833,1,Is the ICAO location indicator of the High Ridge Association airport 97AK?,No
+979,833,2,Is the latitude of the High Ridge Association airport 61.664?,No
+980,835,0,Do you know the Fazenda Pau D`Arco airport?,No
+981,835,3,Is the longitude of the Fazenda Pau D`Arco airport -50.1764?,No
+982,836,1,Is the ICAO location indicator of the Kelly Field airport NZKC?,No
+983,836,2,Is the latitude of the Kelly Field airport -37.2561?,No
+984,836,3,Is the longitude of the Kelly Field airport 175.072?,No
+985,836,4,Is the country code of Kelly Field airport NZ?,No
+986,838,1,Is the ICAO location indicator of the Essex airport CNE9?,No
+987,838,4,Is the country code of Essex airport CA?,No
+988,839,0,Do you know the Selva de Pedra airport?,No
+989,839,4,Is the country code of Selva de Pedra airport BR?,No
+990,840,1,Is the ICAO location indicator of the Twin Lakes airport KS17?,No
+991,841,0,Do you know the Penong airport?,No
+992,841,4,Is the country code of Penong airport AU?,No
+993,843,0,Do you know the Sookerating airport?,No
+994,843,1,Is the ICAO location indicator of the Sookerating airport VE24?,No
+995,843,4,Is the country code of Sookerating airport IN?,No
+996,845,1,Is the ICAO location indicator of the Kornegay Private airport 53XS?,No
+997,845,4,Is the country code of Kornegay Private airport US?,No
+998,846,0,Do you know the Clamecy airport?,No
+999,847,1,Is the ICAO location indicator of the Pastrana Ranch airport TT12?,No
+1000,847,4,Is the country code of Pastrana Ranch airport US?,No
+1001,848,3,Is the longitude of the Bulgan Sum airport 91.5842?,No
+1002,849,4,Is the country code of Blackpool International airport GB?,No
+1003,852,1,Is the ICAO location indicator of the Atwell airport 1NC2?,No
+1004,852,4,Is the country code of Atwell airport US?,No
+1005,853,1,Is the ICAO location indicator of the Cotten Creek airport YCTC?,No
+1006,853,2,Is the latitude of the Cotten Creek airport -22.8?,No
+1007,853,4,Is the country code of Cotten Creek airport AU?,No
+1008,854,1,Is the ICAO location indicator of the Madeira Airpark airport TX91?,No
+1009,854,4,Is the country code of Madeira Airpark airport US?,No
+1010,856,1,Is the ICAO location indicator of the Russell Field airport 0NY1?,No
+1011,857,0,Do you know the Pinnow airport?,No
+1012,857,4,Is the country code of Pinnow airport DE?,No
+1013,858,4,Is the country code of Hato El Burro airport VE?,No
+1014,859,3,Is the longitude of the Rennell/Tingoa airport 160.063?,No
+1015,859,4,Is the country code of Rennell/Tingoa airport SB?,No
+1016,860,4,Is the country code of El Condor airport BO?,No
+1017,861,4,Is the country code of Dr Ferdinand Lumban Tobing airport ID?,No
+1018,862,1,Is the ICAO location indicator of the Flying S Ranch airport OL30?,No
+1019,863,0,Do you know the Fazenda Citricola airport?,No
+1020,863,1,Is the ICAO location indicator of the Fazenda Citricola airport SJAW?,No
+1021,863,3,Is the longitude of the Fazenda Citricola airport -48.4519?,No
+1022,863,4,Is the country code of Fazenda Citricola airport BR?,No
+1023,864,0,Do you know the Fazenda Quatrilho airport?,No
+1024,864,1,Is the ICAO location indicator of the Fazenda Quatrilho airport SNOO?,No
+1025,864,4,Is the country code of Fazenda Quatrilho airport BR?,No
+1026,866,0,Do you know the Mougulu airport?,No
+1027,866,4,Is the country code of Mougulu airport PG?,No
+1028,867,4,Is the country code of Sub Teniente Nestor Arias airport VE?,No
+1029,868,1,Is the ICAO location indicator of the Percival Springs airport K2T2?,No
+1030,868,4,Is the country code of Percival Springs airport US?,No
+1031,870,3,Is the longitude of the Fazenda Sao Joaquim airport -56.4872?,No
+1032,872,3,Is the longitude of the Manitowish Waters airport -89.8822?,No
+1033,874,1,Is the ICAO location indicator of the Wells Farm airport 6MS2?,No
+1034,874,4,Is the country code of Wells Farm airport US?,No
+1035,875,4,Is the country code of Gvardeyskoe Air Base airport UA?,No
+1036,876,1,Is the ICAO location indicator of the Eagle's Landing airport 2TX8?,No
+1037,876,4,Is the country code of Eagle's Landing airport US?,No
+1038,877,4,Is the country code of Carinda airport AU?,No
+1039,880,1,Is the ICAO location indicator of the Mc Kinney Field airport OI57?,No
+1040,881,1,Is the ICAO location indicator of the Breighton Airfield airport EG10?,No
+1041,881,4,Is the country code of Breighton Airfield airport GB?,No
+1042,882,3,Is the longitude of the As Salif airport 42.683?,No
+1043,883,0,Do you know the Cottingham airport?,No
+1044,883,1,Is the ICAO location indicator of the Cottingham airport 1IN6?,No
+1045,883,4,Is the country code of Cottingham airport US?,No
+1046,884,2,Is the latitude of the Las Misiones airport -37.7761?,No
+1047,884,4,Is the country code of Las Misiones airport CL?,No
+1048,886,0,Do you know the Fazenda Santa Marina airport?,No
+1049,886,3,Is the longitude of the Fazenda Santa Marina airport -50.4794?,No
+1050,886,4,Is the country code of Fazenda Santa Marina airport BR?,No
+1051,887,1,Is the ICAO location indicator of the Dunbar Ranch airport 0XS8?,No
+1052,888,0,Do you know the Sitio Enel airport?,No
+1053,888,3,Is the longitude of the Sitio Enel airport -52.3653?,No
+1054,888,4,Is the country code of Sitio Enel airport BR?,No
+1055,889,4,Is the country code of Limon airport HN?,No
+1056,891,1,Is the ICAO location indicator of the Flying K Ranch airport OR00?,No
+1057,892,4,Is the country code of Trinchera Ranch Airstrip airport US?,No
+1058,893,1,Is the ICAO location indicator of the Spring Creek Ranch East airport 01OL?,No
+1059,894,1,Is the ICAO location indicator of the Crivitz Municipal airport K3D1?,No
+1060,895,1,Is the ICAO location indicator of the Harbour Grace airport CHG2?,No
+1061,895,3,Is the longitude of the Harbour Grace airport -53.2539?,No
+1062,895,4,Is the country code of Harbour Grace airport CA?,No
+1063,897,0,Do you know the La Zopilota airport?,No
+1064,897,4,Is the country code of La Zopilota airport CR?,No
+1065,898,1,Is the ICAO location indicator of the Nixon airport CNX8?,No
+1066,898,4,Is the country code of Nixon airport CA?,No
+1067,899,0,Do you know the Nockatunga airport?,No
+1068,899,1,Is the ICAO location indicator of the Nockatunga airport YNOC?,No
+1069,899,3,Is the longitude of the Nockatunga airport 142.712?,No
+1070,899,4,Is the country code of Nockatunga airport AU?,No
+1071,900,0,Do you know the Scobey Border Station airport?,No
+1072,900,1,Is the ICAO location indicator of the Scobey Border Station airport CKK3?,No
+1073,900,4,Is the country code of Scobey Border Station airport CA?,No
+1074,901,2,Is the latitude of the Harding airport -30.5667?,No
+1075,901,4,Is the country code of Harding airport ZA?,No
+1076,902,3,Is the longitude of the Mecosta Morton airport -85.2615?,No
+1077,906,0,Do you know the Warrawagine airport?,No
+1078,906,4,Is the country code of Warrawagine airport AU?,No
+1079,907,4,Is the country code of Sedoktayar airport MM?,No
+1080,908,3,Is the longitude of the Nairobi Wilson airport 36.8148?,No
+1081,910,4,Is the country code of Campo Arenal airport AR?,No
+1082,911,0,Do you know the LTS Pulau Redang airport?,No
+1083,913,1,Is the ICAO location indicator of the Flying N Ranch airport CA04?,No
+1084,916,0,Do you know the Horovice airport?,No
+1085,917,0,Do you know the Perranporth Airfield airport?,No
+1086,917,4,Is the country code of Perranporth Airfield airport GB?,No
+1087,919,1,Is the ICAO location indicator of the Para Field airport K4Y8?,No
+1088,919,4,Is the country code of Para Field airport US?,No
+1089,922,1,Is the ICAO location indicator of the Smith Prairie airport K2U0?,No
+1090,922,4,Is the country code of Smith Prairie airport US?,No
+1091,923,1,Is the ICAO location indicator of the Warren / Woodlands airport CKX2?,No
+1092,923,4,Is the country code of Warren / Woodlands airport CA?,No
+1093,925,1,Is the ICAO location indicator of the Rosetown airport CJX4?,No
+1094,925,4,Is the country code of Rosetown airport CA?,No
+1095,927,1,Is the ICAO location indicator of the Fazenda Parnaiba airport SNYF?,No
+1096,927,3,Is the longitude of the Fazenda Parnaiba airport -46.1219?,No
+1097,931,1,Is the ICAO location indicator of the Big Oaks Ranch airport 6FD2?,No
+1098,932,1,Is the ICAO location indicator of the Shulls airport 2PA8?,No
+1099,934,3,Is the longitude of the Savvatiya Air Base airport 46.87?,No
+1100,934,4,Is the country code of Savvatiya Air Base airport RU?,No
+1101,935,1,Is the ICAO location indicator of the Lebanon State airport KS30?,No
+1102,935,2,Is the latitude of the Lebanon State airport 44.5311?,No
+1103,935,3,Is the longitude of the Lebanon State airport -122.9297?,No
+1104,935,4,Is the country code of Lebanon State airport US?,No
+1105,936,0,Do you know the Bayovar airport?,No
+1106,937,3,Is the longitude of the Ten. Cel. Aviador Cesar Bombonato airport -48.2253?,No
+1107,940,4,Is the country code of Baimuru airport PG?,No
+1108,942,3,Is the longitude of the Mundo Novo airport -40.4194?,No
+1109,943,4,Is the country code of Crystal airport US?,No
+1110,944,2,Is the latitude of the Rio Exploradores airport -46.3536?,No
+1111,944,4,Is the country code of Rio Exploradores airport CL?,No
+1112,945,2,Is the latitude of the Golden airport 51.2992?,No
+1113,945,4,Is the country code of Golden airport CA?,No
+1114,946,0,Do you know the Lost Acres airport?,No
+1115,946,1,Is the ICAO location indicator of the Lost Acres airport 8PN0?,No
+1116,946,4,Is the country code of Lost Acres airport US?,No
+1117,947,1,Is the ICAO location indicator of the Godman Army Air Field airport KFTK?,No
+1118,948,4,Is the country code of Gamal Abdel Nasser airport LY?,No
+1119,949,2,Is the latitude of the Ladouanie airport 4.3761?,No
+1120,949,3,Is the longitude of the Ladouanie airport -55.4071?,No
+1121,949,4,Is the country code of Ladouanie airport SR?,No
+1122,950,1,Is the ICAO location indicator of the Major Gilbert Field airport K4R5?,No
+1123,952,0,Do you know the Hacienda Carutal airport?,No
+1124,952,4,Is the country code of Hacienda Carutal airport VE?,No
+1125,953,4,Is the country code of Doshan Tappeh Air Base airport IR?,No
+1126,954,1,Is the ICAO location indicator of the Nurmsi airport EENI?,No
+1127,954,3,Is the longitude of the Nurmsi airport 25.73?,No
+1128,954,4,Is the country code of Nurmsi airport EE?,No
+1129,955,1,Is the ICAO location indicator of the Quince Air Base airport SPIL?,No
+1130,955,4,Is the country code of Quince Air Base airport PE?,No
+1131,956,3,Is the longitude of the Guajara-Mirim airport -65.2848?,No
+1132,958,1,Is the ICAO location indicator of the Cottam airport CRB2?,No
+1133,958,4,Is the country code of Cottam airport CA?,No
+1134,960,1,Is the ICAO location indicator of the Lawles airport 60OK?,No
+1135,960,4,Is the country code of Lawles airport US?,No
+1136,961,3,Is the longitude of the Monte Alegre de Goias airport -46.8714?,No
+1137,964,0,Do you know the Lifupa airport?,No
+1138,964,3,Is the longitude of the Lifupa airport 33.15?,No
+1139,964,4,Is the country code of Lifupa airport MW?,No
+1140,965,0,Do you know the Leutkirch-Unterzeil airport?,No
+1141,967,1,Is the ICAO location indicator of the Kurtamysh airport USUK?,No
+1142,967,3,Is the longitude of the Kurtamysh airport 64.467?,No
+1143,968,3,Is the longitude of the Borazjan airport 51.2?,No
+1144,969,1,Is the ICAO location indicator of the Mandeville Aerodrome airport NZVL?,No
+1145,969,2,Is the latitude of the Mandeville Aerodrome airport -45.9903?,No
+1146,969,4,Is the country code of Mandeville Aerodrome airport NZ?,No
+1147,970,3,Is the longitude of the Fazenda Serrito airport -54.9886?,No
+1148,972,4,Is the country code of Tanjore Air Force Base airport IN?,No
+1149,973,3,Is the longitude of the Arapiraca airport -36.6292?,No
+1150,973,4,Is the country code of Arapiraca airport BR?,No
+1151,974,0,Do you know the Aguas Claras airport?,No
+1152,974,4,Is the country code of Aguas Claras airport CO?,No
+1153,976,1,Is the ICAO location indicator of the Cotopaxi International airport SELT?,No
+1154,977,4,Is the country code of Oldenburg-Hatten airport DE?,No
+1155,978,0,Do you know the East Six airport?,No
+1156,978,4,Is the country code of East Six airport ZM?,No
+1157,980,4,Is the country code of Aguas Frias airport BR?,No
+1158,981,1,Is the ICAO location indicator of the Rock Ridge airport 2OK3?,No
+1159,982,3,Is the longitude of the Fazenda Nova airport -48.5822?,No
+1160,983,1,Is the ICAO location indicator of the Sandy Creek airport 73TX?,No
+1161,984,1,Is the ICAO location indicator of the Fly8Ma Pilot Lodge airport 57AK?,No
+1162,984,4,Is the country code of Fly8Ma Pilot Lodge airport US?,No
+1163,985,1,Is the ICAO location indicator of the Big Island airport ID29?,No
+1164,985,2,Is the latitude of the Big Island airport 46.6974?,No
+1165,985,3,Is the longitude of the Big Island airport -115.9838?,No
+1166,986,3,Is the longitude of the Tentena airport 120.7667?,No
+1167,986,4,Is the country code of Tentena airport ID?,No
+1168,987,1,Is the ICAO location indicator of the Bakers Field airport MI88?,No
+1169,987,2,Is the latitude of the Bakers Field airport 42.7322?,No
+1170,987,3,Is the longitude of the Bakers Field airport -85.9053?,No
+1171,987,4,Is the country code of Bakers Field airport US?,No
+1172,989,0,Do you know the Fazenda Sao Marco airport?,No
+1173,989,3,Is the longitude of the Fazenda Sao Marco airport -60.4839?,No
+1174,991,1,Is the ICAO location indicator of the Eastview airport WV67?,No
+1175,991,4,Is the country code of Eastview airport US?,No
+1176,992,4,Is the country code of Hollow Top airport US?,No
+1177,993,0,Do you know the Fazenda Vista Verde airport?,No
+1178,993,1,Is the ICAO location indicator of the Fazenda Vista Verde airport SWUR?,No
+1179,993,3,Is the longitude of the Fazenda Vista Verde airport -44.3894?,No
+1180,994,2,Is the latitude of the Roxana Farms airport 10.3082?,No
+1181,994,4,Is the country code of Roxana Farms airport CR?,No
+1182,996,0,Do you know the Fazenda Mata Assombrada airport?,No
+1183,996,4,Is the country code of Fazenda Mata Assombrada airport BR?,No
+1184,998,1,Is the ICAO location indicator of the Dew Drop airport 05TS?,No
+1185,998,4,Is the country code of Dew Drop airport US?,No
+1186,1001,4,Is the country code of Luzamba airport AO?,No
+1187,1002,1,Is the ICAO location indicator of the Charles Field airport NC22?,No
+1188,1004,1,Is the ICAO location indicator of the Key Way airport 19WA?,No
+1189,1004,4,Is the country code of Key Way airport US?,No
+1190,1006,0,Do you know the Wilding Farm airport?,No
+1191,1006,1,Is the ICAO location indicator of the Wilding Farm airport 6WA5?,No
+1192,1006,4,Is the country code of Wilding Farm airport US?,No
+1193,1007,0,Do you know the Espinho airport?,No
+1194,1007,4,Is the country code of Espinho airport PT?,No
+1195,1009,1,Is the ICAO location indicator of the Catlett Farms airport 9AR1?,No
+1196,1010,0,Do you know the HUDDERSFIELD (Crosland Moor) airport?,No
+1197,1010,4,Is the country code of HUDDERSFIELD (Crosland Moor) airport GB?,No
+1198,1011,1,Is the ICAO location indicator of the Deweze airport 5KS3?,No
+1199,1011,4,Is the country code of Deweze airport US?,No
+1200,1012,1,Is the ICAO location indicator of the Aire Parque airport 42MO?,No
+1201,1012,3,Is the longitude of the Aire Parque airport -90.389?,No
+1202,1012,4,Is the country code of Aire Parque airport US?,No
+1203,1013,1,Is the ICAO location indicator of the Cooch Behar airport VECO?,No
+1204,1013,4,Is the country code of Cooch Behar airport IN?,No
+1205,1014,1,Is the ICAO location indicator of the Hsh Airstrip airport 5OK9?,No
+1206,1014,4,Is the country code of Hsh Airstrip airport US?,No
+1207,1015,1,Is the ICAO location indicator of the Hidden Springs Ranch airport 94TS?,No
+1208,1015,4,Is the country code of Hidden Springs Ranch airport US?,No
+1209,1016,3,Is the longitude of the Uniao da Vitoria airport -51.0678?,No
+1210,1017,1,Is the ICAO location indicator of the Northern Lite airport 00WI?,No
+1211,1017,3,Is the longitude of the Northern Lite airport -89.0501?,No
+1212,1018,1,Is the ICAO location indicator of the Perry Ranch airport 4TA8?,No
+1213,1020,1,Is the ICAO location indicator of the Burntwood Ranch airport FL43?,No
+1214,1020,4,Is the country code of Burntwood Ranch airport US?,No
+1215,1021,1,Is the ICAO location indicator of the Clayton Lake Strip airport ME19?,No
+1216,1023,4,Is the country code of Dupage airport US?,No
+1217,1024,4,Is the country code of Mile 422 (Alaska Highway) airport CA?,No
+1218,1025,0,Do you know the Eaglesham (South) airport?,No
+1219,1025,1,Is the ICAO location indicator of the Eaglesham (South) airport CGL4?,No
+1220,1025,4,Is the country code of Eaglesham (South) airport CA?,No
+1221,1026,0,Do you know the Greenbluff Meadows airport?,No
+1222,1026,1,Is the ICAO location indicator of the Greenbluff Meadows airport 67WA?,No
+1223,1026,4,Is the country code of Greenbluff Meadows airport US?,No
+1224,1028,4,Is the country code of Ja Field airport US?,No
+1225,1030,1,Is the ICAO location indicator of the Russell airport NY51?,No
+1226,1030,4,Is the country code of Russell airport US?,No
+1227,1031,4,Is the country code of Kalvacha airport BG?,No
+1228,1033,1,Is the ICAO location indicator of the E T Field airport NC71?,No
+1229,1033,4,Is the country code of E T Field airport US?,No
+1230,1034,4,Is the country code of Muskoka airport CA?,No
+1231,1036,0,Do you know the Becks Grove airport?,No
+1232,1036,1,Is the ICAO location indicator of the Becks Grove airport KK16?,No
+1233,1036,4,Is the country code of Becks Grove airport US?,No
+1234,1038,1,Is the ICAO location indicator of the Wolverton's Field airport 30MI?,No
+1235,1038,4,Is the country code of Wolverton's Field airport US?,No
+1236,1039,0,Do you know the Perry County airport?,No
+1237,1040,0,Do you know the Threshing Bee airport?,No
+1238,1040,1,Is the ICAO location indicator of the Threshing Bee airport 5KS1?,No
+1239,1040,4,Is the country code of Threshing Bee airport US?,No
+1240,1041,1,Is the ICAO location indicator of the Warner-Thunder Hill airport 23LA?,No
+1241,1042,2,Is the latitude of the Portimao airport 37.1493?,No
+1242,1042,3,Is the longitude of the Portimao airport -8.584?,No
+1243,1042,4,Is the country code of Portimao airport PT?,No
+1244,1043,1,Is the ICAO location indicator of the Comanche Hills Ranch airport 71XS?,No
+1245,1043,4,Is the country code of Comanche Hills Ranch airport US?,No
+1246,1044,1,Is the ICAO location indicator of the Willow Conocophillips airport 42AK?,No
+1247,1045,4,Is the country code of Along airport IN?,No
+1248,1046,1,Is the ICAO location indicator of the Hilltop airport 2OA6?,No
+1249,1047,1,Is the ICAO location indicator of the Weaver airport MT54?,No
+1250,1047,4,Is the country code of Weaver airport US?,No
+1251,1049,0,Do you know the Guiscriff Scaer airport?,No
+1252,1049,1,Is the ICAO location indicator of the Guiscriff Scaer airport LFES?,No
+1253,1049,4,Is the country code of Guiscriff Scaer airport FR?,No
+1254,1050,4,Is the country code of Norwood Memorial airport US?,No
+1255,1051,1,Is the ICAO location indicator of the Gold Creek airport 2MT9?,No
+1256,1051,4,Is the country code of Gold Creek airport US?,No
+1257,1052,4,Is the country code of Costa Marques airport BR?,No
+1258,1053,1,Is the ICAO location indicator of the Melton Field airport 4TN0?,No
+1259,1054,1,Is the ICAO location indicator of the Perth/Scone airport EGPT?,No
+1260,1054,2,Is the latitude of the Perth/Scone airport 56.4392?,No
+1261,1054,4,Is the country code of Perth/Scone airport GB?,No
+1262,1055,1,Is the ICAO location indicator of the Richmond airport FARM?,No
+1263,1055,2,Is the latitude of the Richmond airport -31.4235?,No
+1264,1055,3,Is the longitude of the Richmond airport 23.9782?,No
+1265,1055,4,Is the country code of Richmond airport ZA?,No
+1266,1056,1,Is the ICAO location indicator of the Bison Municipal airport K6V5?,No
+1267,1057,1,Is the ICAO location indicator of the Arboga airport ESQO?,No
+1268,1057,4,Is the country code of Arboga airport SE?,No
+1269,1059,0,Do you know the Jakes Bar airport?,No
+1270,1059,1,Is the ICAO location indicator of the Jakes Bar airport KAK0?,No
+1271,1059,4,Is the country code of Jakes Bar airport US?,No
+1272,1060,1,Is the ICAO location indicator of the New Market airport K8W2?,No
+1273,1060,4,Is the country code of New Market airport US?,No
+1274,1062,0,Do you know the Neversweat airport?,No
+1275,1062,1,Is the ICAO location indicator of the Neversweat airport 1OK0?,No
+1276,1062,4,Is the country code of Neversweat airport US?,No
+1277,1064,1,Is the ICAO location indicator of the Stacey's airport WA42?,No
+1278,1065,0,Do you know the Xiguan airport?,No
+1279,1066,0,Do you know the Mushie airport?,No
+1280,1066,1,Is the ICAO location indicator of the Mushie airport FZBJ?,No
+1281,1066,2,Is the latitude of the Mushie airport -3.0?,No
+1282,1066,4,Is the country code of Mushie airport CD?,No
+1283,1067,1,Is the ICAO location indicator of the Schneider Haven Airstrip airport NC75?,No
+1284,1067,4,Is the country code of Schneider Haven Airstrip airport US?,No
+1285,1068,1,Is the ICAO location indicator of the Naquin Field airport 78LA?,No
+1286,1069,1,Is the ICAO location indicator of the Youvan airport 7KS3?,No
+1287,1069,4,Is the country code of Youvan airport US?,No
+1288,1070,4,Is the country code of Chippewa Valley Regional airport US?,No
+1289,1072,1,Is the ICAO location indicator of the Fazenda Constancia airport SDFC?,No
+1290,1072,3,Is the longitude of the Fazenda Constancia airport -49.1881?,No
+1291,1072,4,Is the country code of Fazenda Constancia airport BR?,No
+1292,1074,0,Do you know the Fazenda Liberdade airport?,No
+1293,1074,1,Is the ICAO location indicator of the Fazenda Liberdade airport SWLI?,No
+1294,1074,4,Is the country code of Fazenda Liberdade airport BR?,No
+1295,1075,1,Is the ICAO location indicator of the Weidner airport 4IS9?,No
+1296,1075,4,Is the country code of Weidner airport US?,No
+1297,1077,4,Is the country code of Oshawa airport CA?,No
+1298,1079,4,Is the country code of Yolo County airport US?,No
+1299,1080,1,Is the ICAO location indicator of the Rapaco II airport MHRA?,No
+1300,1080,4,Is the country code of Rapaco II airport HN?,No
+1301,1082,0,Do you know the Fazenda Ramalhete airport?,No
+1302,1082,1,Is the ICAO location indicator of the Fazenda Ramalhete airport SWVU?,No
+1303,1082,4,Is the country code of Fazenda Ramalhete airport BR?,No
+1304,1085,0,Do you know the Mexico Farms airport?,No
+1305,1085,1,Is the ICAO location indicator of the Mexico Farms airport K1W3?,No
+1306,1085,2,Is the latitude of the Mexico Farms airport 39.606?,No
+1307,1085,4,Is the country code of Mexico Farms airport US?,No
+1308,1086,1,Is the ICAO location indicator of the Cleve airport YCEE?,No
+1309,1086,2,Is the latitude of the Cleve airport -33.7097?,No
+1310,1086,4,Is the country code of Cleve airport AU?,No
+1311,1088,1,Is the ICAO location indicator of the Al Khadim airport HL59?,No
+1312,1088,4,Is the country code of Al Khadim airport LY?,No
+1313,1090,1,Is the ICAO location indicator of the Drennan airport 3XA0?,No
+1314,1090,4,Is the country code of Drennan airport US?,No
+1315,1091,1,Is the ICAO location indicator of the Argyle airport K1C3?,No
+1316,1091,4,Is the country code of Argyle airport US?,No
+1317,1093,4,Is the country code of Boende airport CD?,No
+1318,1095,0,Do you know the Tipella airport?,No
+1319,1095,1,Is the ICAO location indicator of the Tipella airport CBB7?,No
+1320,1095,4,Is the country code of Tipella airport CA?,No
+1321,1096,1,Is the ICAO location indicator of the St. Andre-Avellin airport CAA2?,No
+1322,1096,4,Is the country code of St. Andre-Avellin airport CA?,No
+1323,1097,4,Is the country code of Pormpuraaw airport AU?,No
+1324,1098,0,Do you know the Koffee Bay airport?,No
+1325,1098,4,Is the country code of Koffee Bay airport ZA?,No
+1326,1099,1,Is the ICAO location indicator of the Souris Glenwood Industrial Air Park airport CJX5?,No
+1327,1099,3,Is the longitude of the Souris Glenwood Industrial Air Park airport -100.2?,No
+1328,1099,4,Is the country code of Souris Glenwood Industrial Air Park airport CA?,No
+1329,1100,1,Is the ICAO location indicator of the Prade Ranch airport 57TE?,No
+1330,1101,1,Is the ICAO location indicator of the Linda's Roost airport 2ID2?,No
+1331,1101,4,Is the country code of Linda's Roost airport US?,No
+1332,1102,4,Is the country code of Roberts Farm airport US?,No
+1333,1103,1,Is the ICAO location indicator of the Robinson Field airport 8IN2?,No
+1334,1104,3,Is the longitude of the Vilankulo airport 35.3133?,No
+1335,1106,3,Is the longitude of the Fazenda Tucano airport -57.5594?,No
+1336,1108,0,Do you know the Harlequin Lake airport?,No
+1337,1108,1,Is the ICAO location indicator of the Harlequin Lake airport KA67?,No
+1338,1108,4,Is the country code of Harlequin Lake airport US?,No
+1339,1109,0,Do you know the Rusty Crankshaft airport?,No
+1340,1109,1,Is the ICAO location indicator of the Rusty Crankshaft airport 2NE3?,No
+1341,1109,4,Is the country code of Rusty Crankshaft airport US?,No
+1342,1110,1,Is the ICAO location indicator of the Triple B Ranch airport 42XS?,No
+1343,1112,0,Do you know the Koongarra airport?,No
+1344,1112,2,Is the latitude of the Koongarra airport -36.0?,No
+1345,1113,2,Is the latitude of the Beaufort Mcas (Merritt Field) airport 32.4806?,No
+1346,1115,1,Is the ICAO location indicator of the Shear airport 63NY?,No
+1347,1115,4,Is the country code of Shear airport US?,No
+1348,1119,0,Do you know the Wellclose airport?,No
+1349,1119,1,Is the ICAO location indicator of the Wellclose airport YWEC?,No
+1350,1119,2,Is the latitude of the Wellclose airport -25.85?,No
+1351,1119,3,Is the longitude of the Wellclose airport 145.1?,No
+1352,1119,4,Is the country code of Wellclose airport AU?,No
+1353,1120,0,Do you know the Posto de Protecao Ambiental Nossa Senhora do Carmo airport?,No
+1354,1120,4,Is the country code of Posto de Protecao Ambiental Nossa Senhora do Carmo airport BR?,No
+1355,1122,0,Do you know the Trump Mtn airport?,No
+1356,1122,1,Is the ICAO location indicator of the Trump Mtn airport 49NK?,No
+1357,1122,4,Is the country code of Trump Mtn airport US?,No
+1358,1123,4,Is the country code of Schumacher Strip airport US?,No
+1359,1124,0,Do you know the Fazenda Dinora airport?,No
+1360,1124,1,Is the ICAO location indicator of the Fazenda Dinora airport SIFE?,No
+1361,1124,3,Is the longitude of the Fazenda Dinora airport -50.6008?,No
+1362,1124,4,Is the country code of Fazenda Dinora airport BR?,No
+1363,1126,4,Is the country code of El Ceibo airport CR?,No
+1364,1127,3,Is the longitude of the Mwalimu Julius K. Nyerere International airport 39.2026?,No
+1365,1128,1,Is the ICAO location indicator of the Gray airport 07IN?,No
+1366,1129,0,Do you know the Filabusi airport?,No
+1367,1130,1,Is the ICAO location indicator of the Peterson airport ND86?,No
+1368,1131,4,Is the country code of Estancia Machado airport BR?,No
+1369,1132,3,Is the longitude of the Andradina airport -51.382?,No
+1370,1133,0,Do you know the Rosevale Resort airport?,No
+1371,1133,3,Is the longitude of the Rosevale Resort airport 145.9?,No
+1372,1133,4,Is the country code of Rosevale Resort airport AU?,No
+1373,1134,0,Do you know the Palmas del Espino airport?,No
+1374,1134,4,Is the country code of Palmas del Espino airport PE?,No
+1375,1135,1,Is the ICAO location indicator of the Alpine-Casparis Municipal airport KE38?,No
+1376,1135,4,Is the country code of Alpine-Casparis Municipal airport US?,No
+1377,1136,1,Is the ICAO location indicator of the Adams airport 90PA?,No
+1378,1138,4,Is the country code of Los Garzones airport CO?,No
+1379,1140,0,Do you know the Pelaneng airport?,No
+1380,1140,4,Is the country code of Pelaneng airport LS?,No
+1381,1141,0,Do you know the Nutwood Downs airport?,No
+1382,1141,1,Is the ICAO location indicator of the Nutwood Downs airport YNUT?,No
+1383,1141,2,Is the latitude of the Nutwood Downs airport -15.8167?,No
+1384,1141,3,Is the longitude of the Nutwood Downs airport 134.15?,No
+1385,1141,4,Is the country code of Nutwood Downs airport AU?,No
+1386,1142,1,Is the ICAO location indicator of the Stefanik airport PA36?,No
+1387,1143,1,Is the ICAO location indicator of the Lake Ridge Aero Park airport 8NC8?,No
+1388,1145,0,Do you know the Fazenda Ouro Verde airport?,No
+1389,1146,0,Do you know the Fazenda Jatobasso airport?,No
+1390,1146,3,Is the longitude of the Fazenda Jatobasso airport -55.5333?,No
+1391,1147,0,Do you know the Mafeteng airport?,No
+1392,1149,1,Is the ICAO location indicator of the Johnson airport NA12?,No
+1393,1150,0,Do you know the Fazenda Taruma airport?,No
+1394,1150,1,Is the ICAO location indicator of the Fazenda Taruma airport SWIL?,No
+1395,1151,0,Do you know the Chepica airport?,No
+1396,1152,3,Is the longitude of the Fazenda Agua Fria airport -50.9258?,No
+1397,1154,1,Is the ICAO location indicator of the Pinelli airport 67MI?,No
+1398,1154,4,Is the country code of Pinelli airport US?,No
+1399,1156,4,Is the country code of Kingston Norman Rogers airport CA?,No
+1400,1157,1,Is the ICAO location indicator of the Peterson Field airport 7AL2?,No
+1401,1158,1,Is the ICAO location indicator of the Tommy's Field airport 4TN5?,No
+1402,1161,4,Is the country code of Ak-10 Airstrip airport US?,No
+1403,1162,1,Is the ICAO location indicator of the Meadstown Airstrip airport NC28?,No
+1404,1162,4,Is the country code of Meadstown Airstrip airport US?,No
+1405,1165,2,Is the latitude of the Orange Municipal airport 42.57?,No
+1406,1166,1,Is the ICAO location indicator of the Lefroy airport CPQ4?,No
+1407,1166,4,Is the country code of Lefroy airport CA?,No
+1408,1169,1,Is the ICAO location indicator of the Grand View International airport WN23?,No
+1409,1169,4,Is the country code of Grand View International airport US?,No
+1410,1170,3,Is the longitude of the Catanduva airport -48.9887?,No
+1411,1176,4,Is the country code of Warburton airport AU?,No
+1412,1177,1,Is the ICAO location indicator of the Sochi International airport URSS?,No
+1413,1177,3,Is the longitude of the Sochi International airport 39.9566?,No
+1414,1180,1,Is the ICAO location indicator of the Melanes airport BIMN?,No
+1415,1180,2,Is the latitude of the Melanes airport 65.517?,No
+1416,1180,4,Is the country code of Melanes airport IS?,No
+1417,1183,0,Do you know the Fazenda Flamboyant airport?,No
+1418,1183,3,Is the longitude of the Fazenda Flamboyant airport -51.5756?,No
+1419,1184,2,Is the latitude of the Franco Bianco airport -52.7367?,No
+1420,1184,4,Is the country code of Franco Bianco airport CL?,No
+1421,1187,4,Is the country code of Talje airport SE?,No
+1422,1189,2,Is the latitude of the Page airport 46.0165?,No
+1423,1190,3,Is the longitude of the Desroches airport 53.6558?,No
+1424,1191,0,Do you know the Apurito airport?,No
+1425,1191,4,Is the country code of Apurito airport VE?,No
+1426,1195,0,Do you know the B&B Farm airport?,No
+1427,1195,1,Is the ICAO location indicator of the B&B Farm airport MA89?,No
+1428,1195,4,Is the country code of B&B Farm airport US?,No
+1429,1197,1,Is the ICAO location indicator of the De Lesseps Lake airport CKF9?,No
+1430,1197,3,Is the longitude of the De Lesseps Lake airport -90.6836?,No
+1431,1197,4,Is the country code of De Lesseps Lake airport CA?,No
+1432,1198,4,Is the country code of Moba airport CD?,No
+1433,1199,4,Is the country code of Tinfields airport ZW?,No
+1434,1201,1,Is the ICAO location indicator of the Briar Patch airport 9GA1?,No
+1435,1201,4,Is the country code of Briar Patch airport US?,No
+1436,1202,0,Do you know the Sixatigni airport?,No
+1437,1202,4,Is the country code of Sixatigni airport HN?,No
+1438,1204,3,Is the longitude of the Gray St Adrien airport 5.6228?,No
+1439,1204,4,Is the country code of Gray St Adrien airport FR?,No
+1440,1205,1,Is the ICAO location indicator of the Lee Creek airport 56IL?,No
+1441,1207,1,Is the ICAO location indicator of the Tri-County Air Service airport XS58?,No
+1442,1208,0,Do you know the Cibeureum airport?,No
+1443,1208,4,Is the country code of Cibeureum airport ID?,No
+1444,1210,1,Is the ICAO location indicator of the Tedderfield Air Park airport FATA?,No
+1445,1210,4,Is the country code of Tedderfield Air Park airport ZA?,No
+1446,1212,2,Is the latitude of the Cleveland Regional Jetport airport 35.2123?,No
+1447,1213,0,Do you know the Edwaki airport?,No
+1448,1213,4,Is the country code of Edwaki airport PG?,No
+1449,1215,3,Is the longitude of the Aero Agricola Cristalina airport -47.7083?,No
+1450,1216,0,Do you know the Roseberth airport?,No
+1451,1216,1,Is the ICAO location indicator of the Roseberth airport YRSB?,No
+1452,1216,4,Is the country code of Roseberth airport AU?,No
+1453,1217,1,Is the ICAO location indicator of the B-8 Farms airport IA58?,No
+1454,1217,4,Is the country code of B-8 Farms airport US?,No
+1455,1220,0,Do you know the Fazenda Gaia airport?,No
+1456,1220,3,Is the longitude of the Fazenda Gaia airport -48.7553?,No
+1457,1220,4,Is the country code of Fazenda Gaia airport BR?,No
+1458,1221,3,Is the longitude of the Kelafo East airport 44.35?,No
+1459,1222,0,Do you know the New Poverty Flats airport?,No
+1460,1222,1,Is the ICAO location indicator of the New Poverty Flats airport NH61?,No
+1461,1222,4,Is the country code of New Poverty Flats airport US?,No
+1462,1223,0,Do you know the Ashiya airport?,No
+1463,1223,4,Is the country code of Ashiya airport JP?,No
+1464,1224,1,Is the ICAO location indicator of the Bartsch airport 92PN?,No
+1465,1224,4,Is the country code of Bartsch airport US?,No
+1466,1225,1,Is the ICAO location indicator of the Griffin airport 0IL2?,No
+1467,1225,4,Is the country code of Griffin airport US?,No
+1468,1228,1,Is the ICAO location indicator of the Earl Barnickel airport IL88?,No
+1469,1229,0,Do you know the Sky Hollow airport?,No
+1470,1229,1,Is the ICAO location indicator of the Sky Hollow airport WS91?,No
+1471,1229,3,Is the longitude of the Sky Hollow airport -90.6637?,No
+1472,1229,4,Is the country code of Sky Hollow airport US?,No
+1473,1230,1,Is the ICAO location indicator of the Hoy Airstrip airport 76CO?,No
+1474,1230,4,Is the country code of Hoy Airstrip airport US?,No
+1475,1231,1,Is the ICAO location indicator of the Nanur airport HL83?,No
+1476,1231,4,Is the country code of Nanur airport LY?,No
+1477,1232,1,Is the ICAO location indicator of the Galler's airport 75MN?,No
+1478,1232,4,Is the country code of Galler's airport US?,No
+1479,1233,1,Is the ICAO location indicator of the Chatsworth airport YCWO?,No
+1480,1233,3,Is the longitude of the Chatsworth airport 142.717?,No
+1481,1233,4,Is the country code of Chatsworth airport AU?,No
+1482,1234,1,Is the ICAO location indicator of the Cleveland Municipal airport K6R3?,No
+1483,1234,2,Is the latitude of the Cleveland Municipal airport 30.3564?,No
+1484,1237,4,Is the country code of Lamen Bay airport VU?,No
+1485,1238,0,Do you know the Iron Mountain Pumping Plant airport?,No
+1486,1238,1,Is the ICAO location indicator of the Iron Mountain Pumping Plant airport 72CL?,No
+1487,1238,4,Is the country code of Iron Mountain Pumping Plant airport US?,No
+1488,1239,0,Do you know the Mobil Bistcho airport?,No
+1489,1239,1,Is the ICAO location indicator of the Mobil Bistcho airport CFV3?,No
+1490,1239,4,Is the country code of Mobil Bistcho airport CA?,No
+1491,1242,1,Is the ICAO location indicator of the Nea Anchialos airport LGBL?,No
+1492,1243,3,Is the longitude of the Gelendzhik airport 38.0125?,No
+1493,1244,1,Is the ICAO location indicator of the Clear Creek Int airport 79ID?,No
+1494,1245,0,Do you know the Clonagh airport?,No
+1495,1245,1,Is the ICAO location indicator of the Clonagh airport YCGH?,No
+1496,1245,2,Is the latitude of the Clonagh airport -20.1333?,No
+1497,1245,3,Is the longitude of the Clonagh airport 140.683?,No
+1498,1245,4,Is the country code of Clonagh airport AU?,No
+1499,1246,1,Is the ICAO location indicator of the Leavitt airport NH38?,No
+1500,1247,0,Do you know the Samsun Carsamba airport?,No
+1501,1248,1,Is the ICAO location indicator of the Edward Getzelman airport 7IL7?,No
+1502,1249,1,Is the ICAO location indicator of the EMAL - Pimenta Bueno airport SJPA?,No
+1503,1249,3,Is the longitude of the EMAL - Pimenta Bueno airport -60.6297?,No
+1504,1250,1,Is the ICAO location indicator of the Doaktown airport CDU6?,No
+1505,1250,4,Is the country code of Doaktown airport CA?,No
+1506,1252,2,Is the latitude of the Santa Rosa airport -27.9067?,No
+1507,1252,3,Is the longitude of the Santa Rosa airport -54.5204?,No
+1508,1252,4,Is the country code of Santa Rosa airport BR?,No
+1509,1253,0,Do you know the Ipeke airport?,No
+1510,1253,4,Is the country code of Ipeke airport CD?,No
+1511,1255,0,Do you know the Maloquinha airport?,No
+1512,1255,4,Is the country code of Maloquinha airport BR?,No
+1513,1258,1,Is the ICAO location indicator of the Green Lake Ranch airport 69TX?,No
+1514,1258,4,Is the country code of Green Lake Ranch airport US?,No
+1515,1259,1,Is the ICAO location indicator of the Iberlin Strip airport WY23?,No
+1516,1259,4,Is the country code of Iberlin Strip airport US?,No
+1517,1260,1,Is the ICAO location indicator of the Cap Justiniano Montenegro airport MP00?,No
+1518,1260,4,Is the country code of Cap Justiniano Montenegro airport PA?,No
+1519,1261,2,Is the latitude of the Wentworth airport -22.1?,No
+1520,1261,3,Is the longitude of the Wentworth airport 147.7?,No
+1521,1261,4,Is the country code of Wentworth airport AU?,No
+1522,1262,0,Do you know the Batman airport?,No
+1523,1262,1,Is the ICAO location indicator of the Batman airport LTCJ?,No
+1524,1262,3,Is the longitude of the Batman airport 41.1166?,No
+1525,1262,4,Is the country code of Batman airport TR?,No
+1526,1264,1,Is the ICAO location indicator of the Flying D Ranch airport TX94?,No
+1527,1265,0,Do you know the Border Village airport?,No
+1528,1265,4,Is the country code of Border Village airport AU?,No
+1529,1266,1,Is the ICAO location indicator of the El Ronco airport MSRC?,No
+1530,1266,4,Is the country code of El Ronco airport SV?,No
+1531,1267,3,Is the longitude of the Penza airport 45.0211?,No
+1532,1269,0,Do you know the Indian Mountain Lrrs airport?,No
+1533,1269,2,Is the latitude of the Indian Mountain Lrrs airport 65.9928?,No
+1534,1269,4,Is the country code of Indian Mountain Lrrs airport US?,No
+1535,1271,0,Do you know the R J C Farms Inc airport?,No
+1536,1271,1,Is the ICAO location indicator of the R J C Farms Inc airport SN55?,No
+1537,1271,4,Is the country code of R J C Farms Inc airport US?,No
+1538,1272,3,Is the longitude of the Kitimat airport -128.581?,No
+1539,1273,0,Do you know the Prati Vecchi D'Aguscello airport?,No
+1540,1273,3,Is the longitude of the Prati Vecchi D'Aguscello airport 11.6692?,No
+1541,1274,3,Is the longitude of the Wausau Downtown airport -89.627?,No
+1542,1275,1,Is the ICAO location indicator of the Willie's airport 23WN?,No
+1543,1276,0,Do you know the Fazenda Vista Alegre airport?,No
+1544,1276,1,Is the ICAO location indicator of the Fazenda Vista Alegre airport SWVE?,No
+1545,1276,4,Is the country code of Fazenda Vista Alegre airport BR?,No
+1546,1277,1,Is the ICAO location indicator of the Air Estates Inc airport LL09?,No
+1547,1277,4,Is the country code of Air Estates Inc airport US?,No
+1548,1279,3,Is the longitude of the Fazenda Cedro airport -55.7475?,No
+1549,1280,0,Do you know the Bull Farm airport?,No
+1550,1280,1,Is the ICAO location indicator of the Bull Farm airport VG33?,No
+1551,1280,4,Is the country code of Bull Farm airport US?,No
+1552,1281,0,Do you know the En Gedi Ranch airport?,No
+1553,1281,1,Is the ICAO location indicator of the En Gedi Ranch airport XA96?,No
+1554,1281,3,Is the longitude of the En Gedi Ranch airport -100.3239?,No
+1555,1281,4,Is the country code of En Gedi Ranch airport US?,No
+1556,1283,0,Do you know the Ocean Ridge airport?,No
+1557,1283,1,Is the ICAO location indicator of the Ocean Ridge airport KE55?,No
+1558,1284,3,Is the longitude of the Darwaz airport 70.8825?,No
+1559,1285,4,Is the country code of Knox Landing airport US?,No
+1560,1286,0,Do you know the Sweetbriar airport?,No
+1561,1286,1,Is the ICAO location indicator of the Sweetbriar airport 83OK?,No
+1562,1287,0,Do you know the Fazenda Cacadinha airport?,No
+1563,1289,0,"Do you know the Costello Island, Inc airport?",No
+1564,1289,1,"Is the ICAO location indicator of the Costello Island, Inc airport 4TA3?",No
+1565,1289,4,"Is the country code of Costello Island, Inc airport US?",No
+1566,1291,0,Do you know the Peaceful Cove airport?,No
+1567,1291,1,Is the ICAO location indicator of the Peaceful Cove airport 14ID?,No
+1568,1291,4,Is the country code of Peaceful Cove airport US?,No
+1569,1292,1,Is the ICAO location indicator of the Melin Farms airport 3WI6?,No
+1570,1292,4,Is the country code of Melin Farms airport US?,No
+1571,1293,4,Is the country code of Isle airport US?,No
+1572,1295,3,Is the longitude of the Fazenda Santa Maria airport -55.7283?,No
+1573,1296,1,Is the ICAO location indicator of the Terry Field airport 74KY?,No
+1574,1297,1,Is the ICAO location indicator of the Stockwell Field airport MU03?,No
+1575,1297,4,Is the country code of Stockwell Field airport US?,No
+1576,1298,4,Is the country code of Sale airport AU?,No
+1577,1301,3,Is the longitude of the Bom Jesus airport -57.3464?,No
+1578,1302,1,Is the ICAO location indicator of the Raymond Field airport MI58?,No
+1579,1303,1,Is the ICAO location indicator of the Midland airport 50IL?,No
+1580,1306,4,Is the country code of Altamira airport NI?,No
+1581,1307,0,Do you know the Wellesbourne Mountford airport?,No
+1582,1307,4,Is the country code of Wellesbourne Mountford airport GB?,No
+1583,1309,1,Is the ICAO location indicator of the Buie Field airport 9NR8?,No
+1584,1310,0,Do you know the Fazenda Sant`anna do Apa airport?,No
+1585,1311,4,Is the country code of Vinasutil airport CL?,No
+1586,1312,1,Is the ICAO location indicator of the Campbell Field airport 44IN?,No
+1587,1313,1,Is the ICAO location indicator of the Loma De Cometa airport 66TX?,No
+1588,1313,4,Is the country code of Loma De Cometa airport US?,No
+1589,1314,0,Do you know the Arrabury airport?,No
+1590,1314,1,Is the ICAO location indicator of the Arrabury airport YARY?,No
+1591,1314,3,Is the longitude of the Arrabury airport 141.05?,No
+1592,1314,4,Is the country code of Arrabury airport AU?,No
+1593,1317,1,Is the ICAO location indicator of the Tommy's Airpark airport 9LL5?,No
+1594,1318,4,Is the country code of Hato Mikitole airport VE?,No
+1595,1320,1,Is the ICAO location indicator of the Paducah airport 2TS5?,No
+1596,1320,3,Is the longitude of the Paducah airport -100.3436?,No
+1597,1321,3,Is the longitude of the Karpogory airport 44.455?,No
+1598,1322,1,Is the ICAO location indicator of the Merrys Pymatuning airport PA01?,No
+1599,1324,1,Is the ICAO location indicator of the Flugplatz airport K7MI?,No
+1600,1324,4,Is the country code of Flugplatz airport US?,No
+1601,1328,1,Is the ICAO location indicator of the Jim & Peg airport 61IS?,No
+1602,1329,1,Is the ICAO location indicator of the Mc Connell Field airport 04NE?,No
+1603,1330,2,Is the latitude of the Nimes-Arles-Camargue airport 43.7574?,No
+1604,1331,4,Is the country code of San Antonio De Los Banos airport CU?,No
+1605,1332,4,Is the country code of Digby / Annapolis Regional airport CA?,No
+1606,1333,1,Is the ICAO location indicator of the Dodji airport GO66?,No
+1607,1334,3,Is the longitude of the Oldham County airport -102.3988?,No
+1608,1334,4,Is the country code of Oldham County airport US?,No
+1609,1335,1,Is the ICAO location indicator of the Dawson Private Strip airport 40TS?,No
+1610,1335,4,Is the country code of Dawson Private Strip airport US?,No
+1611,1336,0,Do you know the Sanguesa airport?,No
+1612,1336,4,Is the country code of Sanguesa airport ES?,No
+1613,1338,1,Is the ICAO location indicator of the G Bray airport 34IL?,No
+1614,1338,4,Is the country code of G Bray airport US?,No
+1615,1340,1,Is the ICAO location indicator of the Clum airport 8OI5?,No
+1616,1340,4,Is the country code of Clum airport US?,No
+1617,1343,0,Do you know the Posorja airport?,No
+1618,1343,4,Is the country code of Posorja airport EC?,No
+1619,1344,3,Is the longitude of the Fazenda Cruzeiro airport -48.1172?,No
+1620,1345,1,Is the ICAO location indicator of the Elk Point airport CEJ6?,No
+1621,1345,4,Is the country code of Elk Point airport CA?,No
+1622,1346,1,Is the ICAO location indicator of the Aero Acres airport FD88?,No
+1623,1347,1,Is the ICAO location indicator of the Bluebird airport 03OL?,No
+1624,1347,2,Is the latitude of the Bluebird airport 35.0123?,No
+1625,1347,4,Is the country code of Bluebird airport US?,No
+1626,1350,0,Do you know the Derim airport?,No
+1627,1350,4,Is the country code of Derim airport PG?,No
+1628,1351,1,Is the ICAO location indicator of the Berlin Regional airport KBML?,No
+1629,1351,3,Is the longitude of the Berlin Regional airport -71.1759?,No
+1630,1351,4,Is the country code of Berlin Regional airport US?,No
+1631,1352,3,Is the longitude of the Lubudi airport 26.0?,No
+1632,1352,4,Is the country code of Lubudi airport CD?,No
+1633,1353,4,Is the country code of Ugnu-Kuparuk airport US?,No
+1634,1354,1,Is the ICAO location indicator of the Sanda airport BISA?,No
+1635,1354,2,Is the latitude of the Sanda airport 65.1344?,No
+1636,1354,4,Is the country code of Sanda airport IS?,No
+1637,1355,1,Is the ICAO location indicator of the Wapum airport SJNE?,No
+1638,1355,2,Is the latitude of the Wapum airport 1.99?,No
+1639,1355,3,Is the longitude of the Wapum airport -59.9572?,No
+1640,1355,4,Is the country code of Wapum airport BR?,No
+1641,1356,1,Is the ICAO location indicator of the R S  Auto airport 6IA7?,No
+1642,1356,4,Is the country code of R S  Auto airport US?,No
+1643,1357,0,Do you know the Oltipesi airport?,No
+1644,1357,1,Is the ICAO location indicator of the Oltipesi airport HTOL?,No.
+1645,1357,4,Is the country code of Oltipesi airport TZ?,No
+1646,1358,1,Is the ICAO location indicator of the Orr airport 24NE?,No
+1647,1359,0,Do you know the Fazenda Sao Jose do Piquiri airport?,No
+1648,1359,3,Is the longitude of the Fazenda Sao Jose do Piquiri airport -55.5592?,No
+1649,1361,2,Is the latitude of the Talagi airport 64.6003?,No
+1650,1361,3,Is the longitude of the Talagi airport 40.7167?,No
+1651,1361,4,Is the country code of Talagi airport RU?,No
+1652,1362,4,Is the country code of Cacique Aramare airport VE?,No
+1653,1364,0,Do you know the Coyote Crossing airport?,No
+1654,1364,1,Is the ICAO location indicator of the Coyote Crossing airport TA26?,No
+1655,1366,1,Is the ICAO location indicator of the Blackwater Airfield airport 8FD3?,No
+1656,1366,4,Is the country code of Blackwater Airfield airport US?,No
+1657,1367,1,Is the ICAO location indicator of the Sabot airport 1VA0?,No
+1658,1367,4,Is the country code of Sabot airport US?,No
+1659,1368,1,Is the ICAO location indicator of the Bucks airport K00N?,No
+1660,1368,4,Is the country code of Bucks airport US?,No
+1661,1370,0,Do you know the Fazenda Cachoeira Preta airport?,No
+1662,1371,3,Is the longitude of the Narsarsuaq airport -45.426?,No
+1663,1372,3,Is the longitude of the Kisumu airport 34.7289?,No
+1664,1373,1,Is the ICAO location indicator of the Ridge airport IA01?,No
+1665,1373,4,Is the country code of Ridge airport US?,No
+1666,1374,1,Is the ICAO location indicator of the Atley airport YATY?,No
+1667,1374,4,Is the country code of Atley airport AU?,No
+1668,1375,3,Is the longitude of the Tongliao airport 122.2?,No
+1669,1376,4,Is the country code of Desvio Potrerillos airport HN?,No
+1670,1377,1,Is the ICAO location indicator of the Pia airport YPIX?,No
+1671,1377,4,Is the country code of Pia airport AU?,No
+1672,1379,3,Is the longitude of the Fazenda Cocal airport -52.6078?,No
+1673,1380,0,Do you know the Stanwix Heights airport?,No
+1674,1380,1,Is the ICAO location indicator of the Stanwix Heights airport 5NY4?,No
+1675,1380,4,Is the country code of Stanwix Heights airport US?,No
+1676,1381,2,Is the latitude of the Rudi Kappel airport 3.783?,No
+1677,1381,3,Is the longitude of the Rudi Kappel airport -56.15?,No
+1678,1381,4,Is the country code of Rudi Kappel airport SR?,No
+1679,1383,0,Do you know the Waka Waka airport?,No
+1680,1383,1,Is the ICAO location indicator of the Waka Waka airport FLWW?,No
+1681,1383,3,Is the longitude of the Waka Waka airport 32.257?,No
+1682,1383,4,Is the country code of Waka Waka airport ZM?,No
+1683,1384,3,Is the longitude of the Bacau airport 26.9103?,No
+1684,1384,4,Is the country code of Bacau airport RO?,No
+1685,1385,0,Do you know the Fazenda Santa Claudina airport?,No
+1686,1386,0,Do you know the Seafood Warehouse Park airport?,No
+1687,1386,1,Is the ICAO location indicator of the Seafood Warehouse Park airport XS77?,No
+1688,1386,3,Is the longitude of the Seafood Warehouse Park airport -94.6274?,No
+1689,1386,4,Is the country code of Seafood Warehouse Park airport US?,No
+1690,1387,1,Is the ICAO location indicator of the Stanley airport K2U7?,No
+1691,1387,4,Is the country code of Stanley airport US?,No
+1692,1388,4,Is the country code of Marupa airport BR?,No
+1693,1389,4,Is the country code of Winter Strip airport US?,No
+1694,1390,0,Do you know the Kaiuroo airport?,No
+1695,1390,1,Is the ICAO location indicator of the Kaiuroo airport YKIU?,No
+1696,1390,4,Is the country code of Kaiuroo airport AU?,No
+1697,1391,0,Do you know the Arłamów airport?,No
+1698,1391,1,Is the ICAO location indicator of the Arłamów airport EPAR?,No
+1699,1391,4,Is the country code of Arłamów airport PL?,No
+1700,1393,4,Is the country code of Kildare Aerodrome airport IE?,No
+1701,1394,0,Do you know the Saladillo airport?,No
+1702,1395,4,Is the country code of Horseshoe Landings airport US?,No
+1703,1397,1,Is the ICAO location indicator of the Bristol Airstrip airport 2OA1?,No
+1704,1397,4,Is the country code of Bristol Airstrip airport US?,No
+1705,1398,1,Is the ICAO location indicator of the Kinch Farms airport WN72?,No
+1706,1398,4,Is the country code of Kinch Farms airport US?,No
+1707,1399,1,Is the ICAO location indicator of the Flyers airport 10IA?,No
+1708,1400,1,Is the ICAO location indicator of the Green Mountain airport WA67?,No
+1709,1402,3,Is the longitude of the Marculesti International airport 28.2128?,No
+1710,1402,4,Is the country code of Marculesti International airport MD?,No
+1711,1403,4,Is the country code of Woodbourne airport NZ?,No
+1712,1404,4,Is the country code of Mkwasine airport ZW?,No
+1713,1406,0,Do you know the Hemmingsen airport?,No
+1714,1406,1,Is the ICAO location indicator of the Hemmingsen airport 76MN?,No
+1715,1406,4,Is the country code of Hemmingsen airport US?,No
+1716,1407,3,Is the longitude of the Gwadar International airport 62.3295?,No
+1717,1408,4,Is the country code of Stuart Airstrip airport US?,No
+1718,1409,1,Is the ICAO location indicator of the Hawker airport 12IL?,No
+1719,1409,2,Is the latitude of the Hawker airport 41.2?,No
+1720,1409,4,Is the country code of Hawker airport US?,No
+1721,1410,1,Is the ICAO location indicator of the Pierrefonds airport FMEP?,No
+1722,1410,2,Is the latitude of the Pierrefonds airport -21.3209?,No
+1723,1410,3,Is the longitude of the Pierrefonds airport 55.425?,No
+1724,1410,4,Is the country code of Pierrefonds airport RE?,No
+1725,1414,0,Do you know the Mengen-Hohentengen airport?,No
+1726,1415,1,Is the ICAO location indicator of the Gus Landing airport AA33?,No
+1727,1415,4,Is the country code of Gus Landing airport US?,No
+1728,1416,4,Is the country code of Mungindi airport AU?,No
+1729,1417,0,Do you know the Fazenda Sao Francisco airport?,No
+1730,1417,3,Is the longitude of the Fazenda Sao Francisco airport -50.2303?,No
+1731,1418,3,Is the longitude of the Goose Bay airport -149.8423?,No
+1732,1418,4,Is the country code of Goose Bay airport US?,No
+1733,1421,4,Is the country code of Cap FAP David Abenzur Rengifo International airport PE?,No
+1734,1422,1,Is the ICAO location indicator of the Brush Creek airport 8IN7?,No
+1735,1422,4,Is the country code of Brush Creek airport US?,No
+1736,1423,1,Is the ICAO location indicator of the Blackstone airport YBSR?,No
+1737,1423,2,Is the latitude of the Blackstone airport -25.9867?,No
+1738,1423,3,Is the longitude of the Blackstone airport 128.288?,No
+1739,1423,4,Is the country code of Blackstone airport AU?,No
+1740,1426,0,Do you know the Msauli airport?,No
+1741,1426,4,Is the country code of Msauli airport ZA?,No
+1742,1427,0,Do you know the Gariep Dam airport?,No
+1743,1428,4,Is the country code of Kalannie airport AU?,No
+1744,1429,2,Is the latitude of the Worcester Glider airport -33.6631?,No
+1745,1429,3,Is the longitude of the Worcester Glider airport 19.4153?,No
+1746,1429,4,Is the country code of Worcester Glider airport ZA?,No
+1747,1430,1,Is the ICAO location indicator of the Cherokee Municipal airport K4O5?,No
+1748,1431,0,Do you know the Mc Cormick County airport?,No
+1749,1431,1,Is the ICAO location indicator of the Mc Cormick County airport KS19?,No
+1750,1432,1,Is the ICAO location indicator of the Rancho Blanco airport TE32?,No
+1751,1432,4,Is the country code of Rancho Blanco airport US?,No
+1752,1433,3,Is the longitude of the Botelho airport -47.7203?,No
+1753,1433,4,Is the country code of Botelho airport BR?,No
+1754,1434,4,Is the country code of Imanpa airport AU?,No
+1755,1435,1,Is the ICAO location indicator of the H R Weisser airport 92IN?,No
+1756,1435,4,Is the country code of H R Weisser airport US?,No
+1757,1437,0,Do you know the Sylvanmir Farms airport?,No
+1758,1437,1,Is the ICAO location indicator of the Sylvanmir Farms airport 6FL4?,No
+1759,1437,4,Is the country code of Sylvanmir Farms airport US?,No
+1760,1440,0,Do you know the Pukaki airport?,No
+1761,1440,3,Is the longitude of the Pukaki airport 170.118?,No
+1762,1441,0,Do you know the Rainy Pass Lodge airport?,No
+1763,1441,4,Is the country code of Rainy Pass Lodge airport US?,No
+1764,1442,2,Is the latitude of the Norseman airport -32.21?,No
+1765,1442,4,Is the country code of Norseman airport AU?,No
+1766,1443,0,Do you know the Van Pak airport?,No
+1767,1443,1,Is the ICAO location indicator of the Van Pak airport K0P1?,No
+1768,1443,4,Is the country code of Van Pak airport US?,No
+1769,1444,4,Is the country code of Peasley Field airport US?,No
+1770,1446,1,Is the ICAO location indicator of the Hamilton Hill airport PS47?,No
+1771,1446,4,Is the country code of Hamilton Hill airport US?,No
+1772,1450,4,Is the country code of Yauri airport PE?,No
+1773,1452,4,Is the country code of Anuradhapura airport LK?,No
+1774,1453,0,Do you know the El Desengano airport?,No
+1775,1453,4,Is the country code of El Desengano airport BO?,No
+1776,1455,4,Is the country code of Geelong airport AU?,No
+1777,1458,4,Is the country code of Rohnerville airport US?,No
+1778,1459,3,Is the longitude of the Zaliv Kresta airport -179.1077?,No
+1779,1459,4,Is the country code of Zaliv Kresta airport RU?,No
+1780,1460,0,Do you know the Fazenda Santa Olinda airport?,No
+1781,1460,3,Is the longitude of the Fazenda Santa Olinda airport -55.0433?,No
+1782,1464,0,Do you know the Stanchester airport?,No
+1783,1464,1,Is the ICAO location indicator of the Stanchester airport 27FA?,No
+1784,1464,2,Is the latitude of the Stanchester airport 27.8062?,No
+1785,1464,3,Is the longitude of the Stanchester airport -82.1414?,No
+1786,1464,4,Is the country code of Stanchester airport US?,No
+1787,1465,1,Is the ICAO location indicator of the Moyer airport 3PA9?,No
+1788,1466,1,Is the ICAO location indicator of the Benton airport PA40?,No
+1789,1468,4,Is the country code of Apala airport HN?,No
+1790,1469,1,Is the ICAO location indicator of the Counter Terrorism Advanced Training Center airport FA02?,No
+1791,1469,4,Is the country code of Counter Terrorism Advanced Training Center airport US?,No
+1792,1470,1,Is the ICAO location indicator of the Carman (South) airport CJS7?,No
+1793,1470,4,Is the country code of Carman (South) airport CA?,No
+1794,1471,4,Is the country code of Chiloquin State airport US?,No
+1795,1472,1,Is the ICAO location indicator of the Maple airport MN69?,No
+1796,1472,4,Is the country code of Maple airport US?,No
+1797,1473,0,Do you know the La Caminera airport?,No
+1798,1473,1,Is the ICAO location indicator of the La Caminera airport LENE?,No
+1799,1473,4,Is the country code of La Caminera airport ES?,No
+1800,1476,3,Is the longitude of the Brindisi / Casale airport 17.947?,No
+1801,1477,2,Is the latitude of the Jalaluddin airport 0.6371?,No
+1802,1477,3,Is the longitude of the Jalaluddin airport 122.85?,No
+1803,1477,4,Is the country code of Jalaluddin airport ID?,No
+1804,1478,1,Is the ICAO location indicator of the Doongan airport YDGN?,No
+1805,1478,4,Is the country code of Doongan airport AU?,No
+1806,1479,0,Do you know the Pilot Pointe Estates airport?,No
+1807,1479,1,Is the ICAO location indicator of the Pilot Pointe Estates airport SN52?,No
+1808,1482,1,Is the ICAO location indicator of the Rafael Cabrera airport MUNG?,No
+1809,1482,4,Is the country code of Rafael Cabrera airport CU?,No
+1810,1483,1,Is the ICAO location indicator of the Live Oak County airport K8T6?,No
+1811,1484,0,Do you know the Realeza airport?,No
+1812,1484,4,Is the country code of Realeza airport BR?,No
+1813,1485,4,Is the country code of West Burke Aerodrome airport US?,No
+1814,1486,1,Is the ICAO location indicator of the Everitt airport 2TX6?,No
+1815,1486,4,Is the country code of Everitt airport US?,No
+1816,1488,4,Is the country code of Kroh airport MY?,No
+1817,1489,1,Is the ICAO location indicator of the Jordan Private airport SC57?,No
+1818,1489,3,Is the longitude of the Jordan Private airport -79.5342?,No
+1819,1489,4,Is the country code of Jordan Private airport US?,No
+1820,1490,4,Is the country code of Munster Osnabruck airport DE?,No
+1821,1491,0,Do you know the Laguna San Rafael airport?,No
+1822,1491,4,Is the country code of Laguna San Rafael airport CL?,No
+1823,1493,0,Do you know the Mundrabilla Motel airport?,No
+1824,1493,3,Is the longitude of the Mundrabilla Motel airport 128.23?,No
+1825,1493,4,Is the country code of Mundrabilla Motel airport AU?,No
+1826,1494,1,Is the ICAO location indicator of the Huber airport 39MI?,No
+1827,1494,4,Is the country code of Huber airport US?,No
+1828,1495,4,Is the country code of Christiana airport ZA?,No
+1829,1496,4,Is the country code of Redcliffe airport AU?,No
+1830,1497,1,Is the ICAO location indicator of the Theriot Field airport 0LS0?,No
+1831,1498,0,Do you know the Fazenda Dona Nenem airport?,No
+1832,1498,3,Is the longitude of the Fazenda Dona Nenem airport -46.2739?,No

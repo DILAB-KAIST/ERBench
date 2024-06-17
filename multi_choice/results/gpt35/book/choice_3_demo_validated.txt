@@ -1,0 +1,16 @@
+{
+    "num_total_entity": "1500",
+    "num_valid_entity": "989",
+    "num_questions": "2967",
+    "binding_error_rate": 0.0,
+    "qa_acc": 57.36,
+    "prompt_0_qa_acc": 60.67,
+    "prompt_1_qa_acc": 57.84,
+    "prompt_2_qa_acc": 53.59,
+    "rationale_acc": 21.5,
+    "prompt_0_rationale_acc": 20.42,
+    "prompt_1_rationale_acc": 21.94,
+    "prompt_2_rationale_acc": 22.14,
+    "rationale_acc_given_correct_answer": 37.31,
+    "qa_acc_given_correct_rationale": 99.53
+}

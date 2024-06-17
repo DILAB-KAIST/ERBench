@@ -1,0 +1,111 @@
+,entity_idx,question_idx,question,model_response
+0,2,4,Is the country code of Vicco airport PE?,No
+1,33,4,Is the country code of Apruna airport VE?,No
+2,54,4,Is the country code of Yotvata Airfield airport IL?,No
+3,57,4,Is the country code of Tebing Tinggi airport ID?,No
+4,82,4,Is the country code of Canada airport BO?,No
+5,91,1,Is the ICAO location indicator of the Fazenda Pirigara airport SWGE?,No
+6,105,4,Is the country code of Costa Rica airport BR?,No
+7,118,4,Is the country code of Preston airport US?,No
+8,128,4,Is the country code of Lutselk'e airport CA?,No
+9,149,4,Is the country code of Varberg Getteron airfield airport SE?,No
+10,150,4,Is the country code of A 511 airport KR?,No
+11,176,4,Is the country code of Shiroles airport CR?,No
+12,179,4,Is the country code of Formosa airport BR?,No
+13,186,4,Is the country code of CFB Bagotville airport CA?,No
+14,188,4,Is the country code of Mangabalito airport BO?,No
+15,190,4,Is the country code of El Sobrante airport CL?,No
+16,194,4,Is the country code of Welsh airport US?,No
+17,195,4,Is the country code of San Pancracio airport VE?,No
+18,196,4,Is the country code of Le Maire Memorial airport US?,No
+19,214,4,Is the country code of Betoambari airport ID?,No
+20,227,4,Is the country code of Farfan airport CO?,No
+21,236,4,Is the country code of Kebar airport ID?,No
+22,240,4,Is the country code of Amalfi airport CO?,No
+23,241,4,Is the country code of Bakke airport US?,No
+24,244,4,Is the country code of Monte Cristi airport DO?,No
+25,256,4,Is the country code of Kenmare Municipal airport US?,No
+26,269,1,Is the ICAO location indicator of the Yalymboo airport YYOO?,No
+27,305,4,Is the country code of Eston airport CA?,No
+28,322,4,Is the country code of Nema airport MR?,No
+29,346,4,Is the country code of Las Cruces airport VE?,No
+30,350,4,Is the country code of Pangkal Pinang (Depati Amir) airport ID?,No
+31,352,1,Is the ICAO location indicator of the Mykolaiv International airport UKON?,No
+32,353,4,Is the country code of Cornwall Regional airport CA?,No
+33,356,1,Is the ICAO location indicator of the Montreal / Les Cedres airport CSS3?,No
+34,361,4,Is the country code of Rollers airport US?,No
+35,389,4,Is the country code of Green Sea airport US?,No
+36,405,4,Is the country code of Boteka airport CD?,No
+37,407,1,Is the ICAO location indicator of the Chardara airport UA34?,No
+38,427,4,Is the country code of Moosonee airport CA?,No
+39,467,4,Is the country code of Estancia California airport BR?,No
+40,499,4,Is the country code of Aserradero El Encino airport HN?,No
+41,504,1,Is the ICAO location indicator of the Kerman airport OIKK?,No
+42,531,1,Is the ICAO location indicator of the Dzhankoy airport UKFY?,No
+43,535,4,Is the country code of Thessalon Municipal airport CA?,No
+44,546,4,Is the country code of Chipman airport CA?,No
+45,548,4,Is the country code of Bird River (Lac Du Bonnet) airport CA?,No
+46,573,4,Is the country code of Vigo Park airport US?,No
+47,578,1,Is the ICAO location indicator of the Pemo airport FCPO?,No
+48,598,4,Is the country code of E. T. Joshua airport VC?,No
+49,611,1,Is the ICAO location indicator of the Santo Atanazio airport SWAZ?,No
+50,613,4,Is the country code of Oscar Machado Zuluaga airport VE?,No
+51,619,4,Is the country code of Verona airport US?,No
+52,628,4,Is the country code of Snettisham airport US?,No
+53,635,1,Is the ICAO location indicator of the Belem Novo airport SSBN?,No
+54,651,4,Is the country code of Angola Airstrip airport US?,No
+55,670,4,Is the country code of Sarita airport US?,No
+56,674,4,Is the country code of H M S Bastard Memorial airport ZA?,No
+57,723,4,Is the country code of Santo Pekoa International airport VU?,No
+58,728,4,Is the country code of Agua Caliente airport HN?,No
+59,765,4,Is the country code of Angads airport MA?,No
+60,782,4,Is the country code of San Pablo Paeno airport VE?,No
+61,798,4,Is the country code of Ontario Municipal airport US?,No
+62,814,4,Is the country code of Morro airport BR?,No
+63,815,4,Is the country code of Santa Ana airport SB?,No
+64,822,1,Is the ICAO location indicator of the Rivne International airport UKLR?,No
+65,831,1,Is the ICAO location indicator of the Fazenda Sao Jose airport SWIG?,No
+66,836,4,Is the country code of Kelly Field airport NZ?,No
+67,838,4,Is the country code of Essex airport CA?,No
+68,854,4,Is the country code of Madeira Airpark airport US?,No
+69,864,1,Is the ICAO location indicator of the Fazenda Quatrilho airport SNOO?,No
+70,883,4,Is the country code of Cottingham airport US?,No
+71,889,4,Is the country code of Limon airport HN?,No
+72,894,4,Is the country code of Crivitz Municipal airport US?,No
+73,895,4,Is the country code of Harbour Grace airport CA?,No
+74,907,1,Is the ICAO location indicator of the Sedoktayar airport VYSO?,No
+75,935,4,Is the country code of Lebanon State airport US?,No
+76,948,4,Is the country code of Gamal Abdel Nasser airport LY?,No
+77,949,4,Is the country code of Ladouanie airport SR?,No
+78,961,1,Is the ICAO location indicator of the Monte Alegre de Goias airport SWML?,No
+79,986,4,Is the country code of Tentena airport ID?,No
+80,1024,4,Is the country code of Mile 422 (Alaska Highway) airport CA?,No
+81,1042,2,Is the latitude of the Portimao airport 37.1493?,No
+82,1054,1,Is the ICAO location indicator of the Perth/Scone airport EGPT?,No
+83,1096,4,Is the country code of St. Andre-Avellin airport CA?,No
+84,1184,4,Is the country code of Franco Bianco airport CL?,No
+85,1191,4,Is the country code of Apurito airport VE?,No
+86,1208,4,Is the country code of Cibeureum airport ID?,No
+87,1231,4,Is the country code of Nanur airport LY?,No
+88,1252,4,Is the country code of Santa Rosa airport BR?,No
+89,1260,4,Is the country code of Cap Justiniano Montenegro airport PA?,No
+90,1266,4,Is the country code of El Ronco airport SV?,No
+91,1293,4,Is the country code of Isle airport US?,No
+92,1297,4,Is the country code of Stockwell Field airport US?,No
+93,1299,4,Is the country code of Maya-Maya airport CG?,No
+94,1318,4,Is the country code of Hato Mikitole airport VE?,No
+95,1326,1,Is the ICAO location indicator of the Luxeuil-Saint-Sauveur (BA 116) Air Base airport LFSX?,No
+96,1332,4,Is the country code of Digby / Annapolis Regional airport CA?,No
+97,1351,4,Is the country code of Berlin Regional airport US?,No
+98,1357,4,Is the country code of Oltipesi airport TZ?,No
+99,1361,4,Is the country code of Talagi airport RU?,No
+100,1376,4,Is the country code of Desvio Potrerillos airport HN?,No
+101,1381,4,Is the country code of Rudi Kappel airport SR?,No
+102,1406,4,Is the country code of Hemmingsen airport US?,No
+103,1409,4,Is the country code of Hawker airport US?,No
+104,1410,4,Is the country code of Pierrefonds airport RE?,No
+105,1418,4,Is the country code of Goose Bay airport US?,No
+106,1443,4,Is the country code of Van Pak airport US?,No
+107,1450,1,Is the ICAO location indicator of the Yauri airport SPIY?,No
+108,1489,4,Is the country code of Jordan Private airport US?,No
+109,1495,4,Is the country code of Christiana airport ZA?,No

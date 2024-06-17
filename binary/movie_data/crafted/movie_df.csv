@@ -1,0 +1,1501 @@
+,index,common_entity,entity3,entity2,entity1
+0,0,Avatar,2009.0,James Cameron,CCH Pounder
+1,1,Pirates of the Caribbean: At World's End,2007.0,Gore Verbinski,Johnny Depp
+2,2,Spectre,2015.0,Sam Mendes,Christoph Waltz
+3,3,The Dark Knight Rises,2012.0,Christopher Nolan,Tom Hardy
+4,5,John Carter,2012.0,Andrew Stanton,Daryl Sabara
+5,6,Spider-Man 3,2007.0,Sam Raimi,J.K. Simmons
+6,7,Tangled,2010.0,Nathan Greno,Brad Garrett
+7,8,Avengers: Age of Ultron,2015.0,Joss Whedon,Chris Hemsworth
+8,9,Harry Potter and the Half-Blood Prince,2009.0,David Yates,Alan Rickman
+9,10,Batman v Superman: Dawn of Justice,2016.0,Zack Snyder,Henry Cavill
+10,11,Superman Returns,2006.0,Bryan Singer,Kevin Spacey
+11,12,Quantum of Solace,2008.0,Marc Forster,Giancarlo Giannini
+12,13,Pirates of the Caribbean: Dead Man's Chest,2006.0,Gore Verbinski,Johnny Depp
+13,14,The Lone Ranger,2013.0,Gore Verbinski,Johnny Depp
+14,15,Man of Steel,2013.0,Zack Snyder,Henry Cavill
+15,16,The Chronicles of Narnia: Prince Caspian,2008.0,Andrew Adamson,Peter Dinklage
+16,17,The Avengers,2012.0,Joss Whedon,Chris Hemsworth
+17,18,Pirates of the Caribbean: On Stranger Tides,2011.0,Rob Marshall,Johnny Depp
+18,19,Men in Black 3,2012.0,Barry Sonnenfeld,Will Smith
+19,20,The Hobbit: The Battle of the Five Armies,2014.0,Peter Jackson,Aidan Turner
+20,21,The Amazing Spider-Man,2012.0,Marc Webb,Emma Stone
+21,22,Robin Hood,2010.0,Ridley Scott,Mark Addy
+22,23,The Hobbit: The Desolation of Smaug,2013.0,Peter Jackson,Aidan Turner
+23,24,The Golden Compass,2007.0,Chris Weitz,Christopher Lee
+24,25,King Kong,2005.0,Peter Jackson,Naomi Watts
+25,26,Titanic,1997.0,James Cameron,Leonardo DiCaprio
+26,27,Captain America: Civil War,2016.0,Anthony Russo,Robert Downey Jr.
+27,28,Battleship,2012.0,Peter Berg,Liam Neeson
+28,29,Jurassic World,2015.0,Colin Trevorrow,Bryce Dallas Howard
+29,30,Skyfall,2012.0,Sam Mendes,Albert Finney
+30,31,Spider-Man 2,2004.0,Sam Raimi,J.K. Simmons
+31,32,Iron Man 3,2013.0,Shane Black,Robert Downey Jr.
+32,33,Alice in Wonderland,2010.0,Tim Burton,Johnny Depp
+33,34,X-Men: The Last Stand,2006.0,Brett Ratner,Hugh Jackman
+34,35,Monsters University,2013.0,Dan Scanlon,Steve Buscemi
+35,36,Transformers: Revenge of the Fallen,2009.0,Michael Bay,Glenn Morshower
+36,37,Transformers: Age of Extinction,2014.0,Michael Bay,Bingbing Li
+37,38,Oz the Great and Powerful,2013.0,Sam Raimi,Tim Holmes
+38,39,The Amazing Spider-Man 2,2014.0,Marc Webb,Emma Stone
+39,40,TRON: Legacy,2010.0,Joseph Kosinski,Jeff Bridges
+40,41,Cars 2,2011.0,John Lasseter,Joe Mantegna
+41,42,Green Lantern,2011.0,Martin Campbell,Ryan Reynolds
+42,43,Toy Story 3,2010.0,Lee Unkrich,Tom Hanks
+43,44,Terminator Salvation,2009.0,McG,Christian Bale
+44,45,Furious 7,2015.0,James Wan,Jason Statham
+45,46,World War Z,2013.0,Marc Forster,Peter Capaldi
+46,47,X-Men: Days of Future Past,2014.0,Bryan Singer,Jennifer Lawrence
+47,48,Star Trek Into Darkness,2013.0,J.J. Abrams,Benedict Cumberbatch
+48,49,Jack the Giant Slayer,2013.0,Bryan Singer,Eddie Marsan
+49,50,The Great Gatsby,2013.0,Baz Luhrmann,Leonardo DiCaprio
+50,51,Prince of Persia: The Sands of Time,2010.0,Mike Newell,Jake Gyllenhaal
+51,52,Pacific Rim,2013.0,Guillermo del Toro,Charlie Hunnam
+52,53,Transformers: Dark of the Moon,2011.0,Michael Bay,Glenn Morshower
+53,54,Indiana Jones and the Kingdom of the Crystal Skull,2008.0,Steven Spielberg,Harrison Ford
+54,55,The Good Dinosaur,2015.0,Peter Sohn,A.J. Buckley
+55,56,Brave,2012.0,Mark Andrews,Kelly Macdonald
+56,57,Star Trek Beyond,2016.0,Justin Lin,Sofia Boutella
+57,58,WALL·E,2008.0,Andrew Stanton,John Ratzenberger
+58,59,Rush Hour 3,2007.0,Brett Ratner,Tzi Ma
+59,60,2012,2009.0,Roland Emmerich,Oliver Platt
+60,61,A Christmas Carol,2009.0,Robert Zemeckis,Robin Wright
+61,62,Jupiter Ascending,2015.0,Lana Wachowski,Channing Tatum
+62,63,The Legend of Tarzan,2016.0,David Yates,Christoph Waltz
+63,64,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005.0,Andrew Adamson,Jim Broadbent
+64,65,X-Men: Apocalypse,2016.0,Bryan Singer,Jennifer Lawrence
+65,66,The Dark Knight,2008.0,Christopher Nolan,Christian Bale
+66,67,Up,2009.0,Pete Docter,John Ratzenberger
+67,68,Monsters vs. Aliens,2009.0,Rob Letterman,Amy Poehler
+68,69,Iron Man,2008.0,Jon Favreau,Robert Downey Jr.
+69,70,Hugo,2011.0,Martin Scorsese,Chloë Grace Moretz
+70,71,Wild Wild West,1999.0,Barry Sonnenfeld,Will Smith
+71,72,The Mummy: Tomb of the Dragon Emperor,2008.0,Rob Cohen,Jet Li
+72,73,Suicide Squad,2016.0,David Ayer,Will Smith
+73,74,Evan Almighty,2007.0,Tom Shadyac,Jimmy Bennett
+74,75,Edge of Tomorrow,2014.0,Doug Liman,Tom Cruise
+75,76,Waterworld,1995.0,Kevin Reynolds,Jeanne Tripplehorn
+76,77,G.I. Joe: The Rise of Cobra,2009.0,Stephen Sommers,Joseph Gordon-Levitt
+77,78,Inside Out,2015.0,Pete Docter,Amy Poehler
+78,79,The Jungle Book,2016.0,Jon Favreau,Scarlett Johansson
+79,80,Iron Man 2,2010.0,Jon Favreau,Robert Downey Jr.
+80,81,Snow White and the Huntsman,2012.0,Rupert Sanders,Chris Hemsworth
+81,82,Maleficent,2014.0,Robert Stromberg,Angelina Jolie Pitt
+82,83,Dawn of the Planet of the Apes,2014.0,Matt Reeves,Gary Oldman
+83,84,The Lovers,2015.0,Roland Joffé,Tamsin Egerton
+84,85,47 Ronin,2013.0,Carl Rinsch,Keanu Reeves
+85,86,Captain America: The Winter Soldier,2014.0,Anthony Russo,Scarlett Johansson
+86,87,Shrek Forever After,2010.0,Mike Mitchell,Jon Hamm
+87,88,Tomorrowland,2015.0,Brad Bird,Judy Greer
+88,89,Big Hero 6,2014.0,Don Hall,Damon Wayans Jr.
+89,90,Wreck-It Ralph,2012.0,Rich Moore,Jack McBrayer
+90,91,The Polar Express,2004.0,Robert Zemeckis,Tom Hanks
+91,92,Independence Day: Resurgence,2016.0,Roland Emmerich,Vivica A. Fox
+92,93,How to Train Your Dragon,2010.0,Dean DeBlois,Gerard Butler
+93,94,Terminator 3: Rise of the Machines,2003.0,Jonathan Mostow,Nick Stahl
+94,95,Guardians of the Galaxy,2014.0,James Gunn,Bradley Cooper
+95,96,Interstellar,2014.0,Christopher Nolan,Matthew McConaughey
+96,97,Inception,2010.0,Christopher Nolan,Leonardo DiCaprio
+97,98,Godzilla Resurgence,2016.0,Hideaki Anno,Mark Chinnery
+98,99,The Hobbit: An Unexpected Journey,2012.0,Peter Jackson,Aidan Turner
+99,100,The Fast and the Furious,2001.0,Rob Cohen,Paul Walker
+100,101,The Curious Case of Benjamin Button,2008.0,David Fincher,Brad Pitt
+101,102,X-Men: First Class,2011.0,Matthew Vaughn,Jennifer Lawrence
+102,103,The Hunger Games: Mockingjay - Part 2,2015.0,Francis Lawrence,Jennifer Lawrence
+103,104,The Sorcerer's Apprentice,2010.0,Jon Turteltaub,Nicolas Cage
+104,105,Poseidon,2006.0,Wolfgang Petersen,Jimmy Bennett
+105,106,Alice Through the Looking Glass,2016.0,James Bobin,Johnny Depp
+106,107,Shrek the Third,2007.0,Chris Miller,Justin Timberlake
+107,108,Warcraft,2016.0,Duncan Jones,Dominic Cooper
+108,109,Terminator Genisys,2015.0,Alan Taylor,J.K. Simmons
+109,110,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010.0,Michael Apted,Bruce Spence
+110,111,Pearl Harbor,2001.0,Michael Bay,Jennifer Garner
+111,112,Transformers,2007.0,Michael Bay,Zack Ward
+112,113,Alexander,2004.0,Oliver Stone,Anthony Hopkins
+113,114,Harry Potter and the Order of the Phoenix,2007.0,David Yates,Robert Pattinson
+114,115,Harry Potter and the Goblet of Fire,2005.0,Mike Newell,Robert Pattinson
+115,116,Hancock,2008.0,Peter Berg,Will Smith
+116,117,I Am Legend,2007.0,Francis Lawrence,Will Smith
+117,118,Charlie and the Chocolate Factory,2005.0,Tim Burton,Johnny Depp
+118,119,Ratatouille,2007.0,Brad Bird,Janeane Garofalo
+119,120,Batman Begins,2005.0,Christopher Nolan,Christian Bale
+120,121,Madagascar: Escape 2 Africa,2008.0,Eric Darnell,Bernie Mac
+121,122,Night at the Museum: Battle of the Smithsonian,2009.0,Shawn Levy,Robin Williams
+122,123,X-Men Origins: Wolverine,2009.0,Gavin Hood,Hugh Jackman
+123,124,The Matrix Revolutions,2003.0,Lana Wachowski,Essie Davis
+124,125,Frozen,2013.0,Chris Buck,Josh Gad
+125,126,The Matrix Reloaded,2003.0,Lana Wachowski,Steve Bastoni
+126,127,Thor: The Dark World,2013.0,Alan Taylor,Chris Hemsworth
+127,128,Mad Max: Fury Road,2015.0,George Miller,Tom Hardy
+128,129,Angels & Demons,2009.0,Ron Howard,Tom Hanks
+129,130,Thor,2011.0,Kenneth Branagh,Chris Hemsworth
+130,131,Bolt,2008.0,Byron Howard,Chloë Grace Moretz
+131,132,G-Force,2009.0,Hoyt Yeatman,Kelli Garner
+132,133,Wrath of the Titans,2012.0,Jonathan Liebesman,Liam Neeson
+133,134,Dark Shadows,2012.0,Tim Burton,Johnny Depp
+134,135,Mission: Impossible - Rogue Nation,2015.0,Christopher McQuarrie,Tom Cruise
+135,136,The Wolfman,2010.0,Joe Johnston,Anthony Hopkins
+136,137,The Legend of Tarzan,2016.0,David Yates,Christoph Waltz
+137,138,Bee Movie,2007.0,Steve Hickner,Matthew Broderick
+138,139,Kung Fu Panda 2,2011.0,Jennifer Yuh Nelson,Angelina Jolie Pitt
+139,140,The Last Airbender,2010.0,M. Night Shyamalan,Seychelle Gabriel
+140,141,Mission: Impossible III,2006.0,J.J. Abrams,Philip Seymour Hoffman
+141,142,White House Down,2013.0,Roland Emmerich,Channing Tatum
+142,143,Mars Needs Moms,2011.0,Simon Wells,Elisabeth Harnois
+143,144,Flushed Away,2006.0,David Bowers,Hugh Jackman
+144,145,Pan,2015.0,Joe Wright,Hugh Jackman
+145,146,Mr. Peabody & Sherman,2014.0,Rob Minkoff,Ty Burrell
+146,147,Troy,2004.0,Wolfgang Petersen,Brad Pitt
+147,148,Madagascar 3: Europe's Most Wanted,2012.0,Eric Darnell,Jada Pinkett Smith
+148,149,Die Another Day,2002.0,Lee Tamahori,Toby Stephens
+149,150,Ghostbusters,2016.0,Paul Feig,Ed Begley Jr.
+150,151,Armageddon,1998.0,Michael Bay,Bruce Willis
+151,152,Men in Black II,2002.0,Barry Sonnenfeld,Will Smith
+152,153,Beowulf,2007.0,Robert Zemeckis,Robin Wright
+153,154,Kung Fu Panda 3,2016.0,Alessandro Carloni,J.K. Simmons
+154,155,Mission: Impossible - Ghost Protocol,2011.0,Brad Bird,Tom Cruise
+155,156,Rise of the Guardians,2012.0,Peter Ramsey,Hugh Jackman
+156,157,Fun with Dick and Jane,2005.0,Dean Parisot,John Michael Higgins
+157,158,The Last Samurai,2003.0,Edward Zwick,Tom Cruise
+158,159,Exodus: Gods and Kings,2014.0,Ridley Scott,Christian Bale
+159,160,Star Trek,2009.0,J.J. Abrams,Chris Hemsworth
+160,161,Spider-Man,2002.0,Sam Raimi,J.K. Simmons
+161,162,How to Train Your Dragon 2,2014.0,Dean DeBlois,Gerard Butler
+162,163,Gods of Egypt,2016.0,Alex Proyas,Gerard Butler
+163,164,Stealth,2005.0,Rob Cohen,Sam Shepard
+164,165,Watchmen,2009.0,Zack Snyder,Matt Frewer
+165,166,Lethal Weapon 4,1998.0,Richard Donner,Jet Li
+166,167,Hulk,2003.0,Ang Lee,Kevin Rankin
+167,168,G.I. Joe: Retaliation,2013.0,Jon M. Chu,Channing Tatum
+168,169,Sahara,2005.0,Breck Eisner,Matthew McConaughey
+169,170,Final Fantasy: The Spirits Within,2001.0,Hironobu Sakaguchi,Steve Buscemi
+170,171,Captain America: The First Avenger,2011.0,Joe Johnston,Chris Evans
+171,172,The World Is Not Enough,1999.0,Michael Apted,Colin Salmon
+172,173,Master and Commander: The Far Side of the World,2003.0,Peter Weir,James D'Arcy
+173,174,The Twilight Saga: Breaking Dawn - Part 2,2012.0,Bill Condon,Robert Pattinson
+174,175,Happy Feet 2,2011.0,George Miller,Robin Williams
+175,176,The Incredible Hulk,2008.0,Louis Leterrier,Ty Burrell
+176,178,The BFG,2016.0,Steven Spielberg,Mark Rylance
+177,179,The Revenant,2015.0,Alejandro G. Iñárritu,Leonardo DiCaprio
+178,180,Turbo,2013.0,David Soren,Ryan Reynolds
+179,181,Rango,2011.0,Gore Verbinski,Johnny Depp
+180,182,Penguins of Madagascar,2014.0,Eric Darnell,Benedict Cumberbatch
+181,183,The Bourne Ultimatum,2007.0,Paul Greengrass,Matt Damon
+182,184,Kung Fu Panda,2008.0,Mark Osborne,Angelina Jolie Pitt
+183,185,Ant-Man,2015.0,Peyton Reed,Judy Greer
+184,186,The Hunger Games: Catching Fire,2013.0,Francis Lawrence,Jennifer Lawrence
+185,187,The Twilight Saga: Breaking Dawn - Part 2,2012.0,Bill Condon,Robert Pattinson
+186,188,Home,2015.0,Tim Johnson,Jim Parsons
+187,189,War of the Worlds,2005.0,Steven Spielberg,Tom Cruise
+188,190,Bad Boys II,2003.0,Michael Bay,Will Smith
+189,191,Puss in Boots,2011.0,Chris Miller,Salma Hayek
+190,192,Salt,2010.0,Phillip Noyce,Angelina Jolie Pitt
+191,193,Noah,2014.0,Darren Aronofsky,Anthony Hopkins
+192,194,The Adventures of Tintin,2011.0,Steven Spielberg,Toby Jones
+193,195,Harry Potter and the Prisoner of Azkaban,2004.0,Alfonso Cuarón,Daniel Radcliffe
+194,196,Australia,2008.0,Baz Luhrmann,Essie Davis
+195,197,After Earth,2013.0,M. Night Shyamalan,Will Smith
+196,198,Dinosaur,2000.0,Eric Leighton,Alfre Woodard
+197,199,Harry Potter and the Deathly Hallows: Part II,2011.0,Matt Birch,Rupert Grint
+198,200,Night at the Museum: Secret of the Tomb,2014.0,Shawn Levy,Robin Williams
+199,201,Megamind,2010.0,Tom McGrath,J.K. Simmons
+200,202,Harry Potter and the Sorcerer's Stone,2001.0,Chris Columbus,Daniel Radcliffe
+201,203,R.I.P.D.,2013.0,Robert Schwentke,Ryan Reynolds
+202,204,Godzilla Resurgence,2016.0,Hideaki Anno,Mark Chinnery
+203,205,Pirates of the Caribbean: The Curse of the Black Pearl,2003.0,Gore Verbinski,Johnny Depp
+204,206,Harry Potter and the Deathly Hallows: Part I,2010.0,Matt Birch,Rupert Grint
+205,207,The Hunger Games: Mockingjay - Part 1,2014.0,Francis Lawrence,Jennifer Lawrence
+206,208,The Da Vinci Code,2006.0,Ron Howard,Tom Hanks
+207,209,Rio 2,2014.0,Carlos Saldanha,Miguel Ferrer
+208,210,X-Men 2,2003.0,Bryan Singer,Hugh Jackman
+209,211,Fast Five,2011.0,Justin Lin,Paul Walker
+210,212,Sherlock Holmes: A Game of Shadows,2011.0,Guy Ritchie,Robert Downey Jr.
+211,213,Clash of the Titans,2010.0,Louis Leterrier,Liam Neeson
+212,214,Total Recall,1990.0,Paul Verhoeven,Ronny Cox
+213,215,The 13th Warrior,1999.0,John McTiernan,Tony Curran
+214,216,The Bourne Legacy,2012.0,Tony Gilroy,Jeremy Renner
+215,217,Batman & Robin,1997.0,Joel Schumacher,Michael Gough
+216,218,How the Grinch Stole Christmas,2000.0,Ron Howard,Clint Howard
+217,219,The Day After Tomorrow,2004.0,Roland Emmerich,Jake Gyllenhaal
+218,220,Mission: Impossible II,2000.0,John Woo,Tom Cruise
+219,221,The Perfect Storm,2000.0,Wolfgang Petersen,Karen Allen
+220,222,Fantastic 4: Rise of the Silver Surfer,2007.0,Tim Story,Chris Evans
+221,223,Life of Pi,2012.0,Ang Lee,Suraj Sharma
+222,224,Ghost Rider,2007.0,Mark Steven Johnson,Nicolas Cage
+223,225,Jason Bourne,2016.0,Paul Greengrass,Matt Damon
+224,226,Charlie's Angels: Full Throttle,2003.0,McG,Demi Moore
+225,227,Prometheus,2012.0,Ridley Scott,Michael Fassbender
+226,228,Stuart Little 2,2002.0,Rob Minkoff,Nathan Lane
+227,229,Elysium,2013.0,Neill Blomkamp,Matt Damon
+228,230,The Chronicles of Riddick,2004.0,David Twohy,Vin Diesel
+229,231,RoboCop,2014.0,José Padilha,Gary Oldman
+230,232,Speed Racer,2008.0,Lana Wachowski,Scott Porter
+231,233,How Do You Know,2010.0,James L. Brooks,Shelley Conn
+232,234,Knight and Day,2010.0,James Mangold,Tom Cruise
+233,235,Oblivion,2013.0,Joseph Kosinski,Morgan Freeman
+234,236,Star Wars: Episode III - Revenge of the Sith,2005.0,George Lucas,Natalie Portman
+235,237,Star Wars: Episode II - Attack of the Clones,2002.0,George Lucas,Natalie Portman
+236,238,"Monsters, Inc.",2001.0,Pete Docter,Steve Buscemi
+237,239,The Wolverine,2013.0,James Mangold,Hugh Jackman
+238,240,Star Wars: Episode I - The Phantom Menace,1999.0,George Lucas,Natalie Portman
+239,241,The Croods,2013.0,Kirk De Micco,Ryan Reynolds
+240,242,Asterix at the Olympic Games,2008.0,Frédéric Forestier,Alain Delon
+241,243,Windtalkers,2002.0,John Woo,Nicolas Cage
+242,244,The Huntsman: Winter's War,2016.0,Cedric Nicolas-Troyan,Chris Hemsworth
+243,245,Teenage Mutant Ninja Turtles,2014.0,Jonathan Liebesman,Noel Fisher
+244,246,Gravity,2013.0,Alfonso Cuarón,Phaldut Sharma
+245,247,Dante's Peak,1997.0,Roger Donaldson,Jamie Renée Smith
+246,248,Teenage Mutant Ninja Turtles: Out of the Shadows,2016.0,Dave Green,Stephen Amell
+247,249,Fantastic Four,2015.0,Josh Trank,Tim Blake Nelson
+248,250,Night at the Museum,2006.0,Shawn Levy,Robin Williams
+249,251,San Andreas,2015.0,Brad Peyton,Dwayne Johnson
+250,252,Tomorrow Never Dies,1997.0,Roger Spottiswoode,Vincent Schiavelli
+251,253,The Patriot,2000.0,Roland Emmerich,Heath Ledger
+252,254,Ocean's Twelve,2004.0,Steven Soderbergh,Brad Pitt
+253,255,Mr. & Mrs. Smith,2005.0,Doug Liman,Brad Pitt
+254,256,Insurgent,2015.0,Robert Schwentke,Kate Winslet
+255,257,The Aviator,2004.0,Martin Scorsese,Leonardo DiCaprio
+256,258,Gulliver's Travels,2010.0,Rob Letterman,James Corden
+257,259,The Green Hornet,2011.0,Michel Gondry,Christoph Waltz
+258,261,300: Rise of an Empire,2014.0,Noam Murro,Eva Green
+259,262,The Smurfs,2011.0,Raja Gosnell,Mahadeo Shivraj
+260,263,Home on the Range,2004.0,Will Finn,Steve Buscemi
+261,264,Allegiant,2016.0,Robert Schwentke,Naomi Watts
+262,265,Real Steel,2011.0,Shawn Levy,Hugh Jackman
+263,266,The Smurfs 2,2013.0,Raja Gosnell,Jacob Tremblay
+264,267,Speed 2: Cruise Control,1997.0,Jan de Bont,Jason Patric
+265,268,Ender's Game,2013.0,Gavin Hood,Harrison Ford
+266,269,Live Free or Die Hard,2007.0,Len Wiseman,Bruce Willis
+267,270,The Lord of the Rings: The Fellowship of the Ring,2001.0,Peter Jackson,Christopher Lee
+268,271,Around the World in 80 Days,2004.0,Frank Coraci,Jim Broadbent
+269,272,Ali,2001.0,Michael Mann,Will Smith
+270,273,The Cat in the Hat,2003.0,Bo Welch,Sean Hayes
+271,274,"I, Robot",2004.0,Alex Proyas,Will Smith
+272,275,Kingdom of Heaven,2005.0,Ridley Scott,Liam Neeson
+273,276,Stuart Little,1999.0,Rob Minkoff,Chazz Palminteri
+274,277,The Princess and the Frog,2009.0,Ron Clements,Oprah Winfrey
+275,278,The Martian,2015.0,Ridley Scott,Matt Damon
+276,280,The Island,2005.0,Michael Bay,Scarlett Johansson
+277,281,Town & Country,2001.0,Peter Chelsom,Del Zamora
+278,282,Gone in Sixty Seconds,2000.0,Dominic Sena,Nicolas Cage
+279,283,Gladiator,2000.0,Ridley Scott,Djimon Hounsou
+280,284,Minority Report,2002.0,Steven Spielberg,Tom Cruise
+281,285,Harry Potter and the Chamber of Secrets,2002.0,Chris Columbus,Daniel Radcliffe
+282,286,Casino Royale,2006.0,Martin Campbell,Eva Green
+283,287,Planet of the Apes,2001.0,Tim Burton,Cary-Hiroyuki Tagawa
+284,288,Terminator 2: Judgment Day,1991.0,James Cameron,Joe Morton
+285,289,Public Enemies,2009.0,Michael Mann,Johnny Depp
+286,290,American Gangster,2007.0,Ridley Scott,Denzel Washington
+287,291,True Lies,1994.0,James Cameron,Jamie Lee Curtis
+288,292,The Taking of Pelham 1 2 3,2009.0,Tony Scott,Denzel Washington
+289,293,Little Fockers,2010.0,Paul Weitz,Robert De Niro
+290,294,The Other Guys,2010.0,Adam McKay,Dwayne Johnson
+291,295,Eraser,1996.0,Chuck Russell,Vanessa Williams
+292,296,Django Unchained,2012.0,Quentin Tarantino,Leonardo DiCaprio
+293,297,The Hunchback of Notre Dame,1996.0,Gary Trousdale,Demi Moore
+294,298,The Emperor's New Groove,2000.0,Mark Dindal,Eartha Kitt
+295,299,The Expendables 2,2012.0,Simon West,Jason Statham
+296,300,National Treasure,2004.0,Jon Turteltaub,Nicolas Cage
+297,301,Eragon,2006.0,Stefen Fangmeier,Djimon Hounsou
+298,302,Where the Wild Things Are,2009.0,Spike Jonze,Catherine O'Hara
+299,303,Pan,2015.0,Joe Wright,Hugh Jackman
+300,304,Epic,2013.0,Chris Wedge,Josh Hutcherson
+301,305,The Tourist,2010.0,Florian Henckel von Donnersmarck,Johnny Depp
+302,306,End of Days,1999.0,Peter Hyams,CCH Pounder
+303,307,Blood Diamond,2006.0,Edward Zwick,Leonardo DiCaprio
+304,308,The Wolf of Wall Street,2013.0,Martin Scorsese,Leonardo DiCaprio
+305,309,Batman Forever,1995.0,Joel Schumacher,Michael Gough
+306,310,Starship Troopers,1997.0,Paul Verhoeven,Jake Busey
+307,311,Cloud Atlas,2012.0,Tom Tykwer,Tom Hanks
+308,312,Legend of the Guardians: The Owls of Ga'Hoole,2010.0,Zack Snyder,Abbie Cornish
+309,313,Catwoman,2004.0,Pitof,Frances Conroy
+310,314,Hercules,2014.0,Brett Ratner,Dwayne Johnson
+311,315,Treasure Planet,2002.0,Ron Clements,Joseph Gordon-Levitt
+312,316,Land of the Lost,2009.0,Brad Silberling,Will Ferrell
+313,317,The Expendables 3,2014.0,Patrick Hughes,Jason Statham
+314,318,Point Break,2015.0,Ericson Core,Ray Winstone
+315,319,Son of the Mask,2005.0,Lawrence Guterman,Jamie Kennedy
+316,320,In the Heart of the Sea,2015.0,Ron Howard,Chris Hemsworth
+317,321,The Adventures of Pluto Nash,2002.0,Ron Underwood,Rosario Dawson
+318,322,Green Zone,2010.0,Paul Greengrass,Matt Damon
+319,323,The Peanuts Movie,2015.0,Steve Martino,Francesca Capaldi
+320,324,The Spanish Prisoner,1997.0,David Mamet,Ben Gazzara
+321,325,The Mummy Returns,2001.0,Stephen Sommers,Dwayne Johnson
+322,326,Gangs of New York,2002.0,Martin Scorsese,Leonardo DiCaprio
+323,327,The Flowers of War,2011.0,Yimou Zhang,Christian Bale
+324,328,Surf's Up,2007.0,Ash Brannon,Jeff Bridges
+325,329,The Stepford Wives,2004.0,Frank Oz,Jon Lovitz
+326,330,Black Hawk Down,2001.0,Ridley Scott,Ioan Gruffudd
+327,331,The Campaign,2012.0,Jay Roach,Will Ferrell
+328,332,The Fifth Element,1997.0,Luc Besson,Milla Jovovich
+329,333,Sex and the City 2,2010.0,Michael Patrick King,Chris Noth
+330,334,The Road to El Dorado,2000.0,Bibo Bergeron,Frank Welker
+331,335,Ice Age: Continental Drift,2012.0,Steve Martino,Peter Dinklage
+332,336,Cinderella,2015.0,Kenneth Branagh,Hayley Atwell
+333,337,The Lovely Bones,2009.0,Peter Jackson,Michael Imperioli
+334,338,Finding Nemo,2003.0,Andrew Stanton,Alexander Gould
+335,339,The Lord of the Rings: The Return of the King,2003.0,Peter Jackson,Orlando Bloom
+336,340,The Lord of the Rings: The Two Towers,2002.0,Peter Jackson,Christopher Lee
+337,341,Seventh Son,2014.0,Sergey Bodrov,Jeff Bridges
+338,342,Lara Croft: Tomb Raider,2001.0,Simon West,Angelina Jolie Pitt
+339,343,Transcendence,2014.0,Wally Pfister,Johnny Depp
+340,344,Jurassic Park III,2001.0,Joe Johnston,Michael Jeter
+341,345,Rise of the Planet of the Apes,2011.0,Rupert Wyatt,James Franco
+342,346,The Spiderwick Chronicles,2008.0,Mark Waters,Martin Short
+343,347,A Good Day to Die Hard,2013.0,John Moore,Bruce Willis
+344,348,The Alamo,2004.0,John Lee Hancock,Dennis Quaid
+345,349,The Incredibles,2004.0,Brad Bird,Holly Hunter
+346,350,Cutthroat Island,1995.0,Renny Harlin,Christopher Masterson
+347,351,Percy Jackson & the Olympians: The Lightning Thief,2010.0,Chris Columbus,Logan Lerman
+348,352,Men in Black,1997.0,Barry Sonnenfeld,Will Smith
+349,353,Toy Story 2,1999.0,John Lasseter,Tom Hanks
+350,354,Unstoppable,2010.0,Tony Scott,Denzel Washington
+351,355,Rush Hour 2,2001.0,Brett Ratner,Mei Melançon
+352,356,What Lies Beneath,2000.0,Robert Zemeckis,Harrison Ford
+353,357,Cloudy with a Chance of Meatballs,2009.0,Phil Lord,Will Forte
+354,358,Ice Age: Dawn of the Dinosaurs,2009.0,Carlos Saldanha,Denis Leary
+355,359,The Secret Life of Walter Mitty,2013.0,Ben Stiller,Adam Scott
+356,360,Charlie's Angels,2000.0,McG,Bill Murray
+357,361,The Departed,2006.0,Martin Scorsese,Leonardo DiCaprio
+358,362,Mulan,1998.0,Tony Bancroft,Ming-Na Wen
+359,363,Tropic Thunder,2008.0,Ben Stiller,Robert Downey Jr.
+360,364,The Girl with the Dragon Tattoo,2011.0,David Fincher,Robin Wright
+361,365,Die Hard with a Vengeance,1995.0,John McTiernan,Bruce Willis
+362,366,Sherlock Holmes,2009.0,Guy Ritchie,Robert Downey Jr.
+363,367,Ben-Hur,2016.0,Timur Bekmambetov,Morgan Freeman
+364,368,Atlantis: The Lost Empire,2001.0,Gary Trousdale,Leonard Nimoy
+365,369,Alvin and the Chipmunks: The Road Chip,2015.0,Walt Becker,Bella Thorne
+366,370,Valkyrie,2008.0,Bryan Singer,Tom Cruise
+367,371,You Don't Mess with the Zohan,2008.0,Dennis Dugan,Adam Sandler
+368,372,Pixels,2015.0,Chris Columbus,Peter Dinklage
+369,373,A.I. Artificial Intelligence,2001.0,Steven Spielberg,Haley Joel Osment
+370,374,The Haunted Mansion,2003.0,Rob Minkoff,Marsha Thomason
+371,375,Contact,1997.0,Robert Zemeckis,Matthew McConaughey
+372,376,Hollow Man,2000.0,Paul Verhoeven,Greg Grunberg
+373,377,The Interpreter,2005.0,Sydney Pollack,Curtiss Cook
+374,378,Percy Jackson: Sea of Monsters,2013.0,Thor Freudenthal,Logan Lerman
+375,379,Lara Croft Tomb Raider: The Cradle of Life,2003.0,Jan de Bont,Gerard Butler
+376,380,Now You See Me 2,2016.0,Jon M. Chu,Daniel Radcliffe
+377,381,The Saint,1997.0,Phillip Noyce,Alun Armstrong
+378,382,Spy Game,2001.0,Tony Scott,Brad Pitt
+379,383,Mission to Mars,2000.0,Brian De Palma,Don Cheadle
+380,384,Rio,2011.0,Carlos Saldanha,Anne Hathaway
+381,385,Bicentennial Man,1999.0,Chris Columbus,Robin Williams
+382,386,Volcano,1997.0,Mick Jackson,Don Cheadle
+383,387,The Devil's Own,1997.0,Alan J. Pakula,Harrison Ford
+384,388,K-19: The Widowmaker,2002.0,Kathryn Bigelow,Liam Neeson
+385,389,Fantastic Four,2015.0,Josh Trank,Tim Blake Nelson
+386,390,Conan the Barbarian,1982.0,John Milius,William Smith
+387,391,Cinderella Man,2005.0,Ron Howard,Paddy Considine
+388,392,The Nutcracker in 3D,2010.0,Andrey Konchalovskiy,Shirley Henderson
+389,393,Seabiscuit,2003.0,Gary Ross,Jeff Bridges
+390,394,Twister,1996.0,Jan de Bont,Philip Seymour Hoffman
+391,395,The Fast and the Furious,2001.0,Rob Cohen,Paul Walker
+392,396,Cast Away,2000.0,Robert Zemeckis,Tom Hanks
+393,397,Happy Feet,2006.0,George Miller,Robin Williams
+394,398,The Bourne Supremacy,2004.0,Paul Greengrass,Matt Damon
+395,399,Air Force One,1997.0,Wolfgang Petersen,Harrison Ford
+396,400,Ocean's Eleven,2001.0,Steven Soderbergh,Brad Pitt
+397,401,The Three Musketeers,2011.0,Paul W.S. Anderson,Milla Jovovich
+398,402,Hotel Transylvania,2012.0,Genndy Tartakovsky,Steve Buscemi
+399,403,Enchanted,2007.0,Kevin Lima,Jeff Bennett
+400,405,Safe House,2012.0,Daniel Espinosa,Denzel Washington
+401,406,102 Dalmatians,2000.0,Kevin Lima,Ioan Gruffudd
+402,407,Tower Heist,2011.0,Brett Ratner,Matthew Broderick
+403,408,The Holiday,2006.0,Nancy Meyers,Kate Winslet
+404,409,Enemy of the State,1998.0,Tony Scott,Will Smith
+405,410,It's Complicated,2009.0,Nancy Meyers,Meryl Streep
+406,411,Ocean's Thirteen,2007.0,Steven Soderbergh,Al Pacino
+407,412,Open Season,2006.0,Roger Allers,Jon Favreau
+408,413,Divergent,2014.0,Neil Burger,Kate Winslet
+409,414,Enemy at the Gates,2001.0,Jean-Jacques Annaud,Bob Hoskins
+410,415,The Rundown,2003.0,Peter Berg,Dwayne Johnson
+411,416,Last Action Hero,1993.0,John McTiernan,F. Murray Abraham
+412,417,Memoirs of a Geisha,2005.0,Rob Marshall,Li Gong
+413,418,The Fast and the Furious: Tokyo Drift,2006.0,Justin Lin,Amber Stevens West
+414,419,Arthur Christmas,2011.0,Sarah Smith,Jim Broadbent
+415,420,Meet Joe Black,1998.0,Martin Brest,Anthony Hopkins
+416,421,Collateral Damage,2002.0,Andrew Davis,Raymond Cruz
+417,422,All That Jazz,1979.0,Bob Fosse,Roy Scheider
+418,423,Mirror Mirror,2012.0,Tarsem Singh,Julia Roberts
+419,424,Scott Pilgrim vs. the World,2010.0,Edgar Wright,Anna Kendrick
+420,425,The Core,2003.0,Jon Amiel,Glenn Morshower
+421,426,Nutty Professor II: The Klumps,2000.0,Peter Segal,Larry Miller
+422,427,Scooby-Doo,2002.0,Raja Gosnell,Sarah Michelle Gellar
+423,428,Dredd,2012.0,Pete Travis,Wood Harris
+424,429,Click,2006.0,Frank Coraci,Adam Sandler
+425,430,Creepshow,1982.0,George A. Romero,Ted Danson
+426,431,Cats & Dogs: The Revenge of Kitty Galore,2010.0,Brad Peyton,Jack McBrayer
+427,432,Jumper,2008.0,Doug Liman,Kristen Stewart
+428,433,Hellboy II: The Golden Army,2008.0,Guillermo del Toro,Seth MacFarlane
+429,434,Zodiac,2007.0,David Fincher,Robert Downey Jr.
+430,435,The 6th Day,2000.0,Roger Spottiswoode,Robert Duvall
+431,436,Bruce Almighty,2003.0,Tom Shadyac,Morgan Freeman
+432,437,The Expendables,2010.0,Sylvester Stallone,Jason Statham
+433,438,Mission: Impossible,1996.0,Brian De Palma,Tom Cruise
+434,439,The Hunger Games,2012.0,Gary Ross,Jennifer Lawrence
+435,440,The Hangover Part II,2011.0,Todd Phillips,Bradley Cooper
+436,441,Batman Returns,1992.0,Tim Burton,Michael Gough
+437,442,Over the Hedge,2006.0,Tim Johnson,Bruce Willis
+438,443,Lilo & Stitch,2002.0,Dean DeBlois,Tia Carrere
+439,444,Charlotte's Web,2006.0,Gary Winick,Steve Buscemi
+440,445,Deep Impact,1998.0,Mimi Leder,Morgan Freeman
+441,446,RED 2,2013.0,Dean Parisot,Bruce Willis
+442,447,The Longest Yard,2005.0,Peter Segal,Adam Sandler
+443,448,Alvin and the Chipmunks: Chipwrecked,2011.0,Mike Mitchell,Amy Poehler
+444,449,Grown Ups 2,2013.0,Dennis Dugan,Steve Buscemi
+445,450,Get Smart,2008.0,Peter Segal,Bill Murray
+446,451,Something's Gotta Give,2003.0,Nancy Meyers,Keanu Reeves
+447,452,Shutter Island,2010.0,Martin Scorsese,Leonardo DiCaprio
+448,453,Four Christmases,2008.0,Seth Gordon,Jon Favreau
+449,454,Robots,2005.0,Chris Wedge,Jim Broadbent
+450,455,Face/Off,1997.0,John Woo,Nicolas Cage
+451,456,Bedtime Stories,2008.0,Adam Shankman,Adam Sandler
+452,457,Road to Perdition,2002.0,Sam Mendes,Tom Hanks
+453,458,Just Go with It,2011.0,Dennis Dugan,Adam Sandler
+454,460,Con Air,1997.0,Simon West,Steve Buscemi
+455,461,Eagle Eye,2008.0,D.J. Caruso,Rosario Dawson
+456,462,Cold Mountain,2003.0,Anthony Minghella,Philip Seymour Hoffman
+457,463,The Book of Eli,2010.0,Albert Hughes,Denzel Washington
+458,464,Flubber,1997.0,Les Mayfield,Robin Williams
+459,465,The Haunting,1999.0,Jan de Bont,Liam Neeson
+460,466,Space Jam,1996.0,Joe Pytka,Bill Murray
+461,467,The Pink Panther,2006.0,Shawn Levy,Roger Rees
+462,468,The Day the Earth Stood Still,2008.0,Scott Derrickson,Keanu Reeves
+463,469,Conspiracy Theory,1997.0,Richard Donner,Julia Roberts
+464,470,Fury,2014.0,David Ayer,Brad Pitt
+465,471,Six Days Seven Nights,1998.0,Ivan Reitman,Harrison Ford
+466,472,Yogi Bear,2010.0,Eric Brevig,Justin Timberlake
+467,473,Spirit: Stallion of the Cimarron,2002.0,Kelly Asbury,Matt Damon
+468,474,Zookeeper,2011.0,Frank Coraci,Rosario Dawson
+469,475,Lost in Space,1998.0,Stephen Hopkins,Gary Oldman
+470,476,The Manchurian Candidate,2004.0,Jonathan Demme,Denzel Washington
+471,477,Déjà Vu,1997.0,Henry Jaglom,Vanessa Redgrave
+472,478,Hotel Transylvania 2,2015.0,Genndy Tartakovsky,Steve Buscemi
+473,480,Fantasia 2000,1999.0,James Algar,Quincy Jones
+474,481,The Time Machine,2002.0,Simon Wells,Mark Addy
+475,482,Mighty Joe Young,1998.0,Ron Underwood,Charlize Theron
+476,483,Swordfish,2001.0,Dominic Sena,Hugh Jackman
+477,484,The Legend of Zorro,2005.0,Martin Campbell,Michael Emerson
+478,485,What Dreams May Come,1998.0,Vincent Ward,Robin Williams
+479,486,Little Nicky,2000.0,Steven Brill,Adam Sandler
+480,487,The Brothers Grimm,2005.0,Terry Gilliam,Matt Damon
+481,488,Mars Attacks!,1996.0,Tim Burton,Natalie Portman
+482,489,Evolution,2015.0,Lucile Hadzihalilovic,Nissim Renard
+483,490,The Edge,1997.0,Lee Tamahori,Anthony Hopkins
+484,491,Surrogates,2009.0,Jonathan Mostow,Bruce Willis
+485,492,Thirteen Days,2000.0,Roger Donaldson,Bruce Greenwood
+486,493,Daylight,1996.0,Rob Cohen,Sylvester Stallone
+487,494,Walking with Dinosaurs 3D,2013.0,Barry Cook,Charlie Rowe
+488,495,Battlefield Earth,2000.0,Roger Christian,Richard Tyson
+489,496,Looney Tunes: Back in Action,2003.0,Joe Dante,Brendan Fraser
+490,497,Nine,2009.0,Rob Marshall,Fergie
+491,498,Timeline,2003.0,Richard Donner,Paul Walker
+492,499,The Postman,1997.0,Kevin Costner,Olivia Williams
+493,500,Babe: Pig in the City,1998.0,George Miller,Adam Goldberg
+494,501,The Last Witch Hunter,2015.0,Breck Eisner,Vin Diesel
+495,502,Red Planet,2000.0,Antony Hoffman,Bob Neill
+496,503,Arthur and the Invisibles,2006.0,Luc Besson,Mia Farrow
+497,504,Oceans,2009.0,Jacques Perrin,Pedro Armendáriz Jr.
+498,505,A Sound of Thunder,2005.0,Peter Hyams,David Oyelowo
+499,506,Pompeii,2014.0,Paul W.S. Anderson,Sasha Roiz
+500,507,Top Cat Begins,2015.0,Andrés Couturier,Sariann Monaco
+501,508,A Beautiful Mind,2001.0,Ron Howard,Adam Goldberg
+502,509,The Lion King,1994.0,Roger Allers,Matthew Broderick
+503,510,Journey 2: The Mysterious Island,2012.0,Brad Peyton,Josh Hutcherson
+504,511,Cloudy with a Chance of Meatballs 2,2013.0,Cody Cameron,Will Forte
+505,512,Red Dragon,2002.0,Brett Ratner,Philip Seymour Hoffman
+506,513,Hidalgo,2004.0,Joe Johnston,J.K. Simmons
+507,514,Jack and Jill,2011.0,Dennis Dugan,Al Pacino
+508,515,2 Fast 2 Furious,2003.0,John Singleton,Paul Walker
+509,516,The Little Prince,2015.0,Mark Osborne,Jeff Bridges
+510,517,The Invasion,2007.0,Oliver Hirschbiegel,Roger Rees
+511,518,The Adventures of Rocky & Bullwinkle,2000.0,Des McAnuff,Robert De Niro
+512,519,The Secret Life of Pets,2016.0,Yarrow Cheney,Steve Coogan
+513,520,The League of Extraordinary Gentlemen,2003.0,Stephen Norrington,Jason Flemyng
+514,521,Despicable Me 2,2013.0,Pierre Coffin,Steve Carell
+515,522,Independence Day,1996.0,Roland Emmerich,Will Smith
+516,523,The Lost World: Jurassic Park,1997.0,Steven Spielberg,Ariana Richards
+517,524,Madagascar,2005.0,Eric Darnell,Jada Pinkett Smith
+518,525,Children of Men,2006.0,Alfonso Cuarón,Charlie Hunnam
+519,526,X-Men,2000.0,Bryan Singer,Hugh Jackman
+520,527,Wanted,2008.0,Timur Bekmambetov,Angelina Jolie Pitt
+521,528,The Rock,1996.0,Michael Bay,Nicolas Cage
+522,529,Ice Age: The Meltdown,2006.0,Carlos Saldanha,Denis Leary
+523,530,50 First Dates,2004.0,Peter Segal,Adam Sandler
+524,531,Hairspray,2007.0,Adam Shankman,Jerry Stiller
+525,532,Exorcist: The Beginning,2004.0,Renny Harlin,James D'Arcy
+526,533,Inspector Gadget,1999.0,David Kellogg,Matthew Broderick
+527,534,Now You See Me,2013.0,Louis Leterrier,Morgan Freeman
+528,535,Grown Ups,2010.0,Dennis Dugan,Steve Buscemi
+529,536,The Terminal,2004.0,Steven Spielberg,Tom Hanks
+530,538,Hotel for Dogs,2009.0,Thor Freudenthal,Don Cheadle
+531,539,Vertical Limit,2000.0,Martin Campbell,Nicholas Lea
+532,540,Charlie Wilson's War,2007.0,Mike Nichols,Philip Seymour Hoffman
+533,541,Shark Tale,2004.0,Bibo Bergeron,Robert De Niro
+534,542,Dreamgirls,2006.0,Bill Condon,Loretta Devine
+535,544,Be Cool,2005.0,F. Gary Gray,Dwayne Johnson
+536,545,Munich,2005.0,Steven Spielberg,Ayelet Zurer
+537,546,Tears of the Sun,2003.0,Antoine Fuqua,Bruce Willis
+538,547,Killers,2010.0,Robert Luketic,Tom Selleck
+539,548,The Man from U.N.C.L.E.,2015.0,Guy Ritchie,Henry Cavill
+540,549,Spanglish,2004.0,James L. Brooks,Adam Sandler
+541,550,Monster House,2006.0,Gil Kenan,Steve Buscemi
+542,551,Bandits,2001.0,Barry Levinson,Bruce Willis
+543,552,First Knight,1995.0,Jerry Zucker,Julia Ormond
+544,553,Anna and the King,1999.0,Andy Tennant,Bai Ling
+545,554,Immortals,2011.0,Tarsem Singh,Henry Cavill
+546,555,Hostage,2005.0,Florent-Emilio Siri,Jimmy Bennett
+547,556,Titan A.E.,2000.0,Don Bluth,Matt Damon
+548,557,Hollywood Homicide,2003.0,Ron Shelton,Harrison Ford
+549,558,Soldier,1998.0,Paul W.S. Anderson,Connie Nielsen
+550,559,Carriers,2009.0,David Pastor,Christopher Meloni
+551,560,Monkeybone,2001.0,Henry Selick,Brendan Fraser
+552,561,Flight of the Phoenix,2004.0,John Moore,Dennis Quaid
+553,562,Unbreakable,2000.0,M. Night Shyamalan,Robin Wright
+554,563,Minions,2015.0,Kyle Balda,Steve Carell
+555,564,Sucker Punch,2011.0,Zack Snyder,Jon Hamm
+556,565,Snake Eyes,1998.0,Brian De Palma,Nicolas Cage
+557,566,Sphere,1998.0,Barry Levinson,Peter Coyote
+558,567,The Angry Birds Movie,2016.0,Clay Kaytis,Peter Dinklage
+559,568,Fool's Gold,2008.0,Andy Tennant,Matthew McConaughey
+560,569,Funny People,2009.0,Judd Apatow,Adam Sandler
+561,570,The Kingdom,2007.0,Peter Berg,Jennifer Garner
+562,571,Talladega Nights: The Ballad of Ricky Bobby,2006.0,Adam McKay,Will Ferrell
+563,572,Dr. Dolittle 2,2001.0,Steve Carr,Raven-Symoné
+564,573,Braveheart,1995.0,Mel Gibson,Mhairi Calvey
+565,574,Jarhead,2005.0,Sam Mendes,Jake Gyllenhaal
+566,575,The Simpsons Movie,2007.0,David Silverman,Albert Brooks
+567,576,The Majestic,2001.0,Frank Darabont,Martin Landau
+568,577,Driven,2001.0,Renny Harlin,Sylvester Stallone
+569,578,Two Brothers,2004.0,Jean-Jacques Annaud,David Gant
+570,579,The Village,2004.0,M. Night Shyamalan,Bryce Dallas Howard
+571,580,Doctor Dolittle,1998.0,Betty Thomas,Oliver Platt
+572,581,Signs,2002.0,M. Night Shyamalan,Rory Culkin
+573,582,Shrek 2,2004.0,Andrew Adamson,Rupert Everett
+574,583,Cars,2006.0,John Lasseter,John Ratzenberger
+575,584,Runaway Bride,1999.0,Garry Marshall,Julia Roberts
+576,585,xXx,2002.0,Rob Cohen,Vin Diesel
+577,586,The SpongeBob Movie: Sponge Out of Water,2015.0,Paul Tibbitt,Tim Conway
+578,587,Ransom,1996.0,Ron Howard,Lili Taylor
+579,588,Inglourious Basterds,2009.0,Quentin Tarantino,Michael Fassbender
+580,589,Hook,1991.0,Steven Spielberg,Robin Williams
+581,590,Hercules,2014.0,Brett Ratner,Dwayne Johnson
+582,591,Die Hard 2,1990.0,Renny Harlin,Bruce Willis
+583,592,S.W.A.T.,2003.0,Clark Johnson,Jeremy Renner
+584,594,Vanilla Sky,2001.0,Cameron Crowe,Tom Cruise
+585,595,Lady in the Water,2006.0,M. Night Shyamalan,Bryce Dallas Howard
+586,596,AVP: Alien vs. Predator,2004.0,Paul W.S. Anderson,Sanaa Lathan
+587,597,Alvin and the Chipmunks: The Squeakquel,2009.0,Betty Thomas,Amy Poehler
+588,598,We Were Soldiers,2002.0,Randall Wallace,Jon Hamm
+589,599,Olympus Has Fallen,2013.0,Antoine Fuqua,Gerard Butler
+590,600,Star Trek: Insurrection,1998.0,Jonathan Frakes,LeVar Burton
+591,601,Battle Los Angeles,2011.0,Jonathan Liebesman,Noel Fisher
+592,602,Big Fish,2003.0,Tim Burton,Steve Buscemi
+593,603,Wolf,1994.0,Mike Nichols,David Hyde Pierce
+594,604,War Horse,2011.0,Steven Spielberg,Jeremy Irvine
+595,605,The Monuments Men,2014.0,George Clooney,Bill Murray
+596,606,The Abyss,1989.0,James Cameron,Michael Biehn
+597,607,Wall Street: Money Never Sleeps,2010.0,Oliver Stone,Frank Langella
+598,608,Dracula Untold,2014.0,Gary Shore,Dominic Cooper
+599,609,The Siege,1998.0,Edward Zwick,Denzel Washington
+600,610,Stardust,2007.0,Matthew Vaughn,Henry Cavill
+601,611,Seven Years in Tibet,1997.0,Jean-Jacques Annaud,Brad Pitt
+602,612,The Dilemma,2011.0,Ron Howard,Channing Tatum
+603,613,Bad Company,2002.0,Joel Schumacher,Anthony Hopkins
+604,614,Doom,2005.0,Andrzej Bartkowiak,Dwayne Johnson
+605,615,I Spy,2002.0,Betty Thomas,Gary Cole
+606,616,Underworld: Awakening,2012.0,Måns Mårlind,Theo James
+607,617,Rock of Ages,2012.0,Adam Shankman,James Martin Kelly
+608,618,Hart's War,2002.0,Gregory Hoblit,Bruce Willis
+609,619,Killer Elite,2011.0,Gary McKendry,Jason Statham
+610,620,Rollerball,2002.0,John McTiernan,LL Cool J
+611,621,Ballistic: Ecks vs. Sever,2002.0,Wych Kaosayananda,Talisa Soto
+612,622,Hard Rain,1998.0,Mikael Salomon,Morgan Freeman
+613,623,Osmosis Jones,2001.0,Bobby Farrelly,Ron Howard
+614,624,Legends of Oz: Dorothy's Return,2013.0,Will Finn,Lea Michele
+615,625,Blackhat,2015.0,Michael Mann,Chris Hemsworth
+616,626,Sky Captain and the World of Tomorrow,2004.0,Kerry Conran,Angelina Jolie Pitt
+617,627,Basic Instinct 2,2006.0,Michael Caton-Jones,Charlotte Rampling
+618,628,Escape Plan,2013.0,Mikael Håfström,Sylvester Stallone
+619,629,The Legend of Hercules,2014.0,Renny Harlin,Roxanne McKee
+620,630,The Sum of All Fears,2002.0,Phil Alden Robinson,Morgan Freeman
+621,631,The Twilight Saga: Eclipse,2010.0,David Slade,Robert Pattinson
+622,632,The Score,2001.0,Frank Oz,Robert De Niro
+623,633,Despicable Me,2010.0,Pierre Coffin,Steve Carell
+624,634,Money Train,1995.0,Joseph Ruben,Vincent Pastore
+625,635,Ted 2,2015.0,Seth MacFarlane,Liam Neeson
+626,636,Agora,2009.0,Alejandro Amenábar,Max Minghella
+627,637,Mystery Men,1999.0,Kinka Usher,Janeane Garofalo
+628,638,Hall Pass,2011.0,Bobby Farrelly,Jenna Fischer
+629,639,The Insider,1999.0,Michael Mann,Al Pacino
+630,640,The Finest Hours,2016.0,Craig Gillespie,Michael Raymond-James
+631,641,Body of Lies,2008.0,Ridley Scott,Leonardo DiCaprio
+632,642,Dinner for Schmucks,2010.0,Jay Roach,Steve Carell
+633,643,Abraham Lincoln: Vampire Hunter,2012.0,Timur Bekmambetov,Rufus Sewell
+634,644,Entrapment,1999.0,Jon Amiel,Will Patton
+635,646,The X Files,1998.0,Rob Bowman,Martin Landau
+636,647,The Last Legion,2007.0,Doug Lefler,Colin Firth
+637,648,Saving Private Ryan,1998.0,Steven Spielberg,Tom Hanks
+638,649,Need for Speed,2014.0,Scott Waugh,Rami Malek
+639,650,What Women Want,2000.0,Nancy Meyers,Judy Greer
+640,651,Ice Age,2002.0,Chris Wedge,Goran Visnjic
+641,652,Dreamcatcher,2003.0,Lawrence Kasdan,Morgan Freeman
+642,653,Lincoln,2012.0,Steven Spielberg,Joseph Gordon-Levitt
+643,654,The Matrix,1999.0,Lana Wachowski,Keanu Reeves
+644,655,Apollo 13,1995.0,Ron Howard,Tom Hanks
+645,656,Total Recall,1990.0,Paul Verhoeven,Ronny Cox
+646,657,The Santa Clause 2,2002.0,Michael Lembeck,Judge Reinhold
+647,658,Les Misérables,2012.0,Tom Hooper,Hugh Jackman
+648,659,You've Got Mail,1998.0,Nora Ephron,Tom Hanks
+649,660,Step Brothers,2008.0,Adam McKay,Will Ferrell
+650,661,The Mask of Zorro,1998.0,Martin Campbell,Anthony Hopkins
+651,662,Due Date,2010.0,Todd Phillips,Robert Downey Jr.
+652,663,Unbroken,2014.0,Angelina Jolie Pitt,Finn Wittrock
+653,664,Space Cowboys,2000.0,Clint Eastwood,Clint Eastwood
+654,665,Cliffhanger,1993.0,Renny Harlin,Sylvester Stallone
+655,666,Broken Arrow,1996.0,John Woo,Delroy Lindo
+656,667,The Kid,2000.0,Jon Turteltaub,Bruce Willis
+657,668,World Trade Center,2006.0,Oliver Stone,Nicolas Cage
+658,669,Mona Lisa Smile,2003.0,Mike Newell,Julia Roberts
+659,670,The Dictator,2012.0,Larry Charles,Sayed Badreya
+660,671,Eyes Wide Shut,1999.0,Stanley Kubrick,Tom Cruise
+661,672,Annie,2014.0,Will Gluck,Quvenzhané Wallis
+662,673,Focus,2015.0,Glenn Ficarra,Will Smith
+663,674,This Means War,2012.0,McG,Tom Hardy
+664,675,Blade: Trinity,2004.0,David S. Goyer,Ryan Reynolds
+665,676,Red Dawn,1984.0,John Milius,Lea Thompson
+666,677,Primary Colors,1998.0,Mike Nichols,Maura Tierney
+667,678,Resident Evil: Retribution,2012.0,Paul W.S. Anderson,Milla Jovovich
+668,679,Death Race,2008.0,Paul W.S. Anderson,Jason Statham
+669,680,The Long Kiss Goodnight,1996.0,Renny Harlin,Melina Kanakaredes
+670,681,Proof of Life,2000.0,Taylor Hackford,Pamela Reed
+671,682,Zathura: A Space Adventure,2005.0,Jon Favreau,Kristen Stewart
+672,683,Fight Club,1999.0,David Fincher,Brad Pitt
+673,684,We Are Marshall,2006.0,McG,Matthew McConaughey
+674,686,Hudson Hawk,1991.0,Michael Lehmann,Bruce Willis
+675,687,Lucky Numbers,2000.0,Nora Ephron,Michael Rapaport
+676,688,"I, Frankenstein",2014.0,Stuart Beattie,Caitlin Stasey
+677,689,Oliver Twist,2005.0,Roman Polanski,Ian McNeice
+678,690,Elektra,2005.0,Rob Bowman,Jennifer Garner
+679,691,Sin City: A Dame to Kill For,2014.0,Frank Miller,Joseph Gordon-Levitt
+680,692,Random Hearts,1999.0,Sydney Pollack,Harrison Ford
+681,693,Everest,2015.0,Baltasar Kormákur,Michael Kelly
+682,694,Perfume: The Story of a Murderer,2006.0,Tom Tykwer,Michael Smiley
+683,695,Austin Powers in Goldmember,2002.0,Jay Roach,Verne Troyer
+684,696,Astro Boy,2009.0,David Bowers,Nicolas Cage
+685,697,Jurassic Park,1993.0,Steven Spielberg,Wayne Knight
+686,698,Wyatt Earp,1994.0,Lawrence Kasdan,Dennis Quaid
+687,699,Clear and Present Danger,1994.0,Phillip Noyce,Harrison Ford
+688,700,Dragon Blade,2015.0,Daniel Lee,Si Won Choi
+689,701,Littleman,2006.0,Keenen Ivory Wayans,Chazz Palminteri
+690,702,U-571,2000.0,Jonathan Mostow,Matthew McConaughey
+691,703,The American President,1995.0,Rob Reiner,Shawna Waldron
+692,704,The Love Guru,2008.0,Marco Schnabel,Justin Timberlake
+693,705,3000 Miles to Graceland,2001.0,Demian Lichtenstein,Jon Lovitz
+694,706,The Hateful Eight,2015.0,Quentin Tarantino,Craig Stark
+695,707,Blades of Glory,2007.0,Josh Gordon,Will Ferrell
+696,708,Hop,2011.0,Tim Hill,Gary Cole
+697,709,300,2006.0,Zack Snyder,Gerard Butler
+698,710,Meet the Fockers,2004.0,Jay Roach,Robert De Niro
+699,711,Marley & Me,2008.0,David Frankel,Eric Dane
+700,712,The Green Mile,1999.0,Frank Darabont,Tom Hanks
+701,713,Wild Hogs,2007.0,Walt Becker,Jill Hennessy
+702,714,Chicken Little,2005.0,Mark Dindal,Catherine O'Hara
+703,715,Gone Girl,2014.0,David Fincher,Patrick Fugit
+704,716,The Bourne Identity,2002.0,Doug Liman,Matt Damon
+705,717,GoldenEye,1995.0,Martin Campbell,Izabella Scorupco
+706,718,The General's Daughter,1999.0,Simon West,Daniel von Bargen
+707,719,The Truman Show,1998.0,Peter Weir,Natascha McElhone
+708,720,The Prince of Egypt,1998.0,Brenda Chapman,Martin Short
+709,721,Daddy Day Care,2003.0,Steve Carr,Anjelica Huston
+710,722,2 Guns,2013.0,Baltasar Kormákur,Denzel Washington
+711,723,Cats & Dogs,2001.0,Lawrence Guterman,Carol Ann Susi
+712,724,The Italian Job,2003.0,F. Gary Gray,Jason Statham
+713,725,Two Weeks Notice,2002.0,Marc Lawrence,Dorian Missick
+714,726,Antz,1998.0,Eric Darnell,Sylvester Stallone
+715,727,Couples Retreat,2009.0,Peter Billingsley,Jon Favreau
+716,728,Days of Thunder,1990.0,Tony Scott,Tom Cruise
+717,729,Cheaper by the Dozen 2,2005.0,Adam Shankman,Taylor Lautner
+718,730,The Scorch Trials,2015.0,Wes Ball,Ki Hong Lee
+719,731,Eat Pray Love,2010.0,Ryan Murphy,James Franco
+720,732,The Family Man,2000.0,Brett Ratner,Nicolas Cage
+721,733,RED,2010.0,Robert Schwentke,Bruce Willis
+722,734,Any Given Sunday,1999.0,Oliver Stone,Al Pacino
+723,735,The Horse Whisperer,1998.0,Robert Redford,Scarlett Johansson
+724,736,Collateral,2004.0,Michael Mann,Tom Cruise
+725,737,The Scorpion King,2002.0,Chuck Russell,Dwayne Johnson
+726,738,Ladder 49,2004.0,Jay Russell,Billy Burke
+727,739,Jack Reacher,2012.0,Christopher McQuarrie,Tom Cruise
+728,740,Deep Blue Sea,1999.0,Renny Harlin,LL Cool J
+729,741,This Is It,2009.0,Kenny Ortega,Misha Gabriel Hamilton
+730,742,Contagion,2011.0,Steven Soderbergh,Matt Damon
+731,743,Kangaroo Jack,2003.0,David McNally,Estella Warren
+732,744,Coraline,2009.0,Henry Selick,Jennifer Saunders
+733,745,The Happening,2008.0,M. Night Shyamalan,Zooey Deschanel
+734,746,Man on Fire,2004.0,Tony Scott,Denzel Washington
+735,747,The Shaggy Dog,2006.0,Brian Robbins,Robert Downey Jr.
+736,748,Starsky & Hutch,2004.0,Todd Phillips,Snoop Dogg
+737,749,Jingle All the Way,1996.0,Brian Levant,Jim Belushi
+738,750,Hellboy,2004.0,Guillermo del Toro,James Babson
+739,751,A Civil Action,1998.0,Steven Zaillian,Robert Duvall
+740,752,ParaNorman,2012.0,Chris Butler,Anna Kendrick
+741,753,The Jackal,1997.0,Michael Caton-Jones,J.K. Simmons
+742,754,Paycheck,2003.0,John Woo,Ivana Milicevic
+743,755,Up Close & Personal,1996.0,Jon Avnet,Joe Mantegna
+744,756,The Tale of Despereaux,2008.0,Sam Fell,Emma Watson
+745,758,The Tuxedo,2002.0,Kevin Donovan,Romany Malco
+746,759,Under Siege 2: Dark Territory,1995.0,Geoff Murphy,Peter Greene
+747,760,Jack Ryan: Shadow Recruit,2014.0,Kenneth Branagh,Colm Feore
+748,761,Joy,2015.0,David O. Russell,Jennifer Lawrence
+749,762,London Has Fallen,2016.0,Babak Najafi,Gerard Butler
+750,763,Alien: Resurrection,1997.0,Jean-Pierre Jeunet,Gary Dourdan
+751,764,Shooter,2007.0,Antoine Fuqua,Tate Donovan
+752,765,The Boxtrolls,2014.0,Graham Annable,Isaac Hempstead Wright
+753,766,Practical Magic,1998.0,Griffin Dunne,Goran Visnjic
+754,767,The Lego Movie,2014.0,Phil Lord,Morgan Freeman
+755,768,Miss Congeniality 2: Armed and Fabulous,2005.0,John Pasquin,Eileen Brennan
+756,769,Reign of Fire,2002.0,Rob Bowman,Christian Bale
+757,770,Gangster Squad,2013.0,Ruben Fleischer,Ryan Gosling
+758,771,Year One,2009.0,Harold Ramis,Olivia Wilde
+759,772,Invictus,2009.0,Clint Eastwood,Matt Damon
+760,773,State of Play,2009.0,Kevin Macdonald,Robin Wright
+761,774,Duplicity,2009.0,Tony Gilroy,Julia Roberts
+762,775,My Favorite Martian,1999.0,Donald Petrie,Steven Anthony Lawrence
+763,776,The Sentinel,2006.0,Clark Johnson,Blair Brown
+764,777,Planet 51,2009.0,Jorge Blanco,Dwayne Johnson
+765,778,Star Trek: Nemesis,2002.0,Stuart Baird,Tom Hardy
+766,779,Intolerable Cruelty,2003.0,Joel Coen,Cedric the Entertainer
+767,780,Trouble with the Curve,2012.0,Robert Lorenz,Clint Eastwood
+768,781,Edge of Darkness,2010.0,Martin Campbell,Bojana Novakovic
+769,782,The Relic,1997.0,Peter Hyams,John Kapelos
+770,783,Analyze That,2002.0,Harold Ramis,Robert De Niro
+771,784,Righteous Kill,2008.0,Jon Avnet,Robert De Niro
+772,785,Mercury Rising,1998.0,Harold Becker,Bruce Willis
+773,786,The Soloist,2009.0,Joe Wright,Robert Downey Jr.
+774,787,The Legend of Bagger Vance,2000.0,Robert Redford,Matt Damon
+775,788,Almost Famous,2000.0,Cameron Crowe,Philip Seymour Hoffman
+776,789,Garfield 2,2006.0,Tim Hill,Bill Murray
+777,790,xXx: State of the Union,2005.0,Lee Tamahori,Sunny Mabrey
+778,791,Priest,2011.0,Scott Stewart,Josh Wingate
+779,792,Sinbad: Legend of the Seven Seas,2003.0,Patrick Gilmore,Brad Pitt
+780,793,Event Horizon,1997.0,Paul W.S. Anderson,Sean Pertwee
+781,794,The Avengers,2012.0,Joss Whedon,Chris Hemsworth
+782,795,Dragonfly,2002.0,Tom Shadyac,Joe Morton
+783,796,The Black Dahlia,2006.0,Brian De Palma,Scarlett Johansson
+784,797,Flyboys,2006.0,Tony Bill,James Franco
+785,798,The Last Castle,2001.0,Rod Lurie,Clifton Collins Jr.
+786,799,Supernova,2000.0,Walter Hill,Robert Forster
+787,800,Winter's Tale,2014.0,Akiva Goldsman,Matt Bomer
+788,801,The Mortal Instruments: City of Bones,2013.0,Harald Zwart,Aidan Turner
+789,802,Meet Dave,2008.0,Brian Robbins,Marc Blucas
+790,803,Dark Water,2005.0,Walter Salles,Dougray Scott
+791,804,Edtv,1999.0,Ron Howard,Matthew McConaughey
+792,805,Inkheart,2008.0,Iain Softley,Brendan Fraser
+793,806,The Spirit,2008.0,Frank Miller,Scarlett Johansson
+794,807,Mortdecai,2015.0,David Koepp,Johnny Depp
+795,808,In the Name of the King: A Dungeon Siege Tale,2007.0,Uwe Boll,Jason Statham
+796,809,Beyond Borders,2003.0,Martin Campbell,Angelina Jolie Pitt
+797,810,Xi you ji zhi: Sun Wukong san da Baigu Jing,2016.0,Pou-Soi Cheang,Li Gong
+798,811,The Great Raid,2005.0,John Dahl,James Franco
+799,812,Deadpool,2016.0,Tim Miller,Ryan Reynolds
+800,813,Holy Man,1998.0,Stephen Herek,Kelly Preston
+801,814,American Sniper,2014.0,Clint Eastwood,Bradley Cooper
+802,815,Goosebumps,2015.0,Rob Letterman,Odeya Rush
+803,817,Just Like Heaven,2005.0,Mark Waters,Jon Heder
+804,818,The Flintstones in Viva Rock Vegas,2000.0,Brian Levant,Taylor Negron
+805,819,Rambo III,1988.0,Peter MacDonald,Sylvester Stallone
+806,820,Leatherheads,2008.0,George Clooney,Robert Baker
+807,821,The Ridiculous 6,2015.0,Frank Coraci,Taylor Lautner
+808,822,Did You Hear About the Morgans?,2009.0,Marc Lawrence,Michael Kelly
+809,823,The Internship,2013.0,Shawn Levy,Josh Gad
+810,824,Resident Evil: Afterlife,2010.0,Paul W.S. Anderson,Milla Jovovich
+811,825,Red Tails,2012.0,Anthony Hemingway,David Oyelowo
+812,827,The Devil's Advocate,1997.0,Taylor Hackford,Keanu Reeves
+813,828,That's My Boy,2012.0,Sean Anders,Adam Sandler
+814,829,DragonHeart,1996.0,Rob Cohen,Dennis Quaid
+815,830,After the Sunset,2004.0,Brett Ratner,Salma Hayek
+816,831,Ghost Rider: Spirit of Vengeance,2011.0,Mark Neveldine,Nicolas Cage
+817,832,Captain Corelli's Mandolin,2001.0,John Madden,Christian Bale
+818,834,The Pacifier,2005.0,Adam Shankman,Vin Diesel
+819,835,Walking Tall,2004.0,Kevin Bray,Dwayne Johnson
+820,836,Forrest Gump,1994.0,Robert Zemeckis,Tom Hanks
+821,837,Alvin and the Chipmunks,2007.0,Tim Hill,Jesse McCartney
+822,838,Meet the Parents,2000.0,Jay Roach,Robert De Niro
+823,839,Pocahontas,1995.0,Mike Gabriel,Christian Bale
+824,840,Superman,1978.0,Richard Donner,Marlon Brando
+825,841,The Nutty Professor,1996.0,Tom Shadyac,Jada Pinkett Smith
+826,842,Hitch,2005.0,Andy Tennant,Will Smith
+827,843,George of the Jungle,1997.0,Sam Weisman,Brendan Fraser
+828,844,American Wedding,2003.0,Jesse Dylan,Alyson Hannigan
+829,845,Captain Phillips,2013.0,Paul Greengrass,Tom Hanks
+830,846,Date Night,2010.0,Shawn Levy,Mila Kunis
+831,847,Casper,1995.0,Brad Silberling,Eric Idle
+832,848,The Equalizer,2014.0,Antoine Fuqua,Denzel Washington
+833,849,Maid in Manhattan,2002.0,Wayne Wang,Bob Hoskins
+834,850,Crimson Tide,1995.0,Tony Scott,Denzel Washington
+835,851,The Pursuit of Happyness,2006.0,Gabriele Muccino,Will Smith
+836,852,Flightplan,2005.0,Robert Schwentke,Erika Christensen
+837,853,Disclosure,1994.0,Barry Levinson,Demi Moore
+838,854,City of Angels,1998.0,Brad Silberling,Nicolas Cage
+839,855,Kill Bill: Vol. 1,2003.0,Quentin Tarantino,David Carradine
+840,856,Bowfinger,1999.0,Frank Oz,Robert Downey Jr.
+841,858,Kill Bill: Vol. 2,2004.0,Quentin Tarantino,Vivica A. Fox
+842,859,Tango & Cash,1989.0,Andrey Konchalovskiy,Sylvester Stallone
+843,860,Death Becomes Her,1992.0,Robert Zemeckis,Bruce Willis
+844,861,Shanghai Noon,2000.0,Tom Dey,Xander Berkeley
+845,862,Executive Decision,1996.0,Stuart Baird,Oliver Platt
+846,863,Mr. Popper's Penguins,2011.0,Mark Waters,Madeline Carroll
+847,864,The Forbidden Kingdom,2008.0,Rob Minkoff,Jet Li
+848,865,Free Birds,2013.0,Jimmy Hayward,Amy Poehler
+849,866,Alien 3,1992.0,David Fincher,Charles S. Dutton
+850,867,Evita,1996.0,Alan Parker,Andrea Corr
+851,868,Ronin,1998.0,John Frankenheimer,Robert De Niro
+852,869,The Ghost and the Darkness,1996.0,Stephen Hopkins,Tom Wilkinson
+853,870,Paddington,2014.0,Paul King,Julie Walters
+854,871,The Watch,2012.0,Akiva Schaffer,Will Forte
+855,872,The Hunted,2003.0,William Friedkin,Connie Nielsen
+856,873,Instinct,1999.0,Jon Turteltaub,Anthony Hopkins
+857,874,Stuck on You,2003.0,Bobby Farrelly,Matt Damon
+858,875,Semi-Pro,2008.0,Kent Alterman,Will Ferrell
+859,876,The Pirates! Band of Misfits,2012.0,Peter Lord,Salma Hayek
+860,877,Changeling,2008.0,Clint Eastwood,Angelina Jolie Pitt
+861,878,Chain Reaction,1996.0,Andrew Davis,Keanu Reeves
+862,879,The Fan,1996.0,Tony Scott,Robert De Niro
+863,880,The Phantom of the Opera,2004.0,Joel Schumacher,Gerard Butler
+864,881,Elizabeth: The Golden Age,2007.0,Shekhar Kapur,Eddie Redmayne
+865,882,Æon Flux,2005.0,Karyn Kusama,Charlize Theron
+866,883,Gods and Generals,2003.0,Ron Maxwell,Billy Campbell
+867,884,Turbulence,1997.0,Robert Butler,Hector Elizondo
+868,885,Imagine That,2009.0,Karey Kirkpatrick,Stephen Root
+869,886,Muppets Most Wanted,2014.0,James Bobin,Ty Burrell
+870,887,Thunderbirds,2004.0,Jonathan Frakes,Sophia Myles
+871,888,Burlesque,2010.0,Steve Antin,Eric Dane
+872,889,A Very Long Engagement,2004.0,Jean-Pierre Jeunet,Denis Lavant
+873,890,Lolita,1962.0,Stanley Kubrick,James Mason
+874,891,Eye See You,2002.0,Jim Gillespie,Sylvester Stallone
+875,892,Blade II,2002.0,Guillermo del Toro,Norman Reedus
+876,893,Seven Pounds,2008.0,Gabriele Muccino,Will Smith
+877,894,Bullet to the Head,2012.0,Walter Hill,Sylvester Stallone
+878,895,The Godfather: Part III,1990.0,Francis Ford Coppola,Al Pacino
+879,896,Elizabethtown,2005.0,Cameron Crowe,Orlando Bloom
+880,897,"You, Me and Dupree",2006.0,Anthony Russo,Todd Stashwick
+881,898,Superman II,1980.0,Richard Lester,Margot Kidder
+882,899,Gigli,2003.0,Martin Brest,Todd Giebenhain
+883,900,All the King's Men,2006.0,Steven Zaillian,Kate Winslet
+884,901,Shaft,2000.0,John Singleton,Christian Bale
+885,902,Anastasia,1997.0,Don Bluth,Kirsten Dunst
+886,903,Moulin Rouge!,2001.0,Baz Luhrmann,Jim Broadbent
+887,904,Domestic Disturbance,2001.0,Harold Becker,Steve Buscemi
+888,905,Black Mass,2015.0,Scott Cooper,Johnny Depp
+889,906,Flags of Our Fathers,2006.0,Clint Eastwood,Paul Walker
+890,907,Law Abiding Citizen,2009.0,F. Gary Gray,Gerard Butler
+891,908,Grindhouse,2007.0,Robert Rodriguez,Quentin Tarantino
+892,909,Beloved,1998.0,Jonathan Demme,Oprah Winfrey
+893,910,Lucky You,2007.0,Curtis Hanson,Robert Downey Jr.
+894,911,Catch Me If You Can,2002.0,Steven Spielberg,Leonardo DiCaprio
+895,912,Zero Dark Thirty,2012.0,Kathryn Bigelow,Jennifer Ehle
+896,913,The Break-Up,2006.0,Peyton Reed,Jon Favreau
+897,914,Mamma Mia!,2008.0,Phyllida Lloyd,Colin Firth
+898,915,Valentine's Day,2010.0,Garry Marshall,Bradley Cooper
+899,916,The Dukes of Hazzard,2005.0,Jay Chandrasekhar,Alice Greczyn
+900,917,The Thin Red Line,1998.0,Terrence Malick,Nick Stahl
+901,918,The Change-Up,2011.0,David Dobkin,Ryan Reynolds
+902,919,Man on the Moon,1999.0,Milos Forman,Matt Price
+903,920,Casino,1995.0,Martin Scorsese,Robert De Niro
+904,921,From Paris with Love,2010.0,Pierre Morel,Kasia Smutniak
+905,922,Bulletproof Monk,2003.0,Paul Hunter,Jaime King
+906,923,"Me, Myself & Irene",2000.0,Bobby Farrelly,Robert Forster
+907,924,Barnyard,2006.0,Steve Oedekerk,Rob Paulsen
+908,925,Deck the Halls,2006.0,John Whitesell,Matthew Broderick
+909,926,The Twilight Saga: New Moon,2009.0,Chris Weitz,Robert Pattinson
+910,927,Shrek,2001.0,Andrew Adamson,Kathleen Freeman
+911,928,The Adjustment Bureau,2011.0,George Nolfi,Matt Damon
+912,929,Robin Hood: Prince of Thieves,1991.0,Kevin Reynolds,Alan Rickman
+913,930,Jerry Maguire,1996.0,Cameron Crowe,Tom Cruise
+914,931,Ted,2012.0,Seth MacFarlane,Mila Kunis
+915,932,As Good as It Gets,1997.0,James L. Brooks,Lupe Ontiveros
+916,933,Patch Adams,1998.0,Tom Shadyac,Robin Williams
+917,934,Anchorman 2: The Legend Continues,2013.0,Adam McKay,Harrison Ford
+918,935,Mr. Deeds,2002.0,Steven Brill,Steve Buscemi
+919,936,Super 8,2011.0,J.J. Abrams,Joel Courtney
+920,937,Erin Brockovich,2000.0,Steven Soderbergh,Julia Roberts
+921,938,How to Lose a Guy in 10 Days,2003.0,Donald Petrie,Matthew McConaughey
+922,939,22 Jump Street,2014.0,Phil Lord,Channing Tatum
+923,940,Interview with the Vampire: The Vampire Chronicles,1994.0,Neil Jordan,Brad Pitt
+924,941,Yes Man,2008.0,Peyton Reed,Bradley Cooper
+925,942,Central Intelligence,2016.0,Rawson Marshall Thurber,Dwayne Johnson
+926,943,Stepmom,1998.0,Chris Columbus,Julia Roberts
+927,944,Daddy's Home,2015.0,Sean Anders,Will Ferrell
+928,945,Into the Woods,2014.0,Rob Marshall,Johnny Depp
+929,946,Inside Man,2006.0,Spike Lee,Denzel Washington
+930,947,Payback,1999.0,Brian Helgeland,Bill Duke
+931,948,Congo,1995.0,Frank Marshall,Dylan Walsh
+932,949,We Bought a Zoo,2011.0,Cameron Crowe,Scarlett Johansson
+933,950,Knowing,2009.0,Alex Proyas,Nicolas Cage
+934,951,Failure to Launch,2006.0,Tom Dey,Bradley Cooper
+935,952,The Ring Two,2005.0,Hideo Nakata,Naomi Watts
+936,953,"Crazy, Stupid, Love.",2011.0,Glenn Ficarra,Ryan Gosling
+937,954,Garfield,2004.0,Peter Hewitt,Bill Murray
+938,955,Christmas with the Kranks,2004.0,Joe Roth,Jamie Lee Curtis
+939,956,Moneyball,2011.0,Bennett Miller,Philip Seymour Hoffman
+940,957,Outbreak,1995.0,Wolfgang Petersen,Kevin Spacey
+941,958,Non-Stop,2014.0,Jaume Collet-Serra,Liam Neeson
+942,959,Race to Witch Mountain,2009.0,Andy Fickman,Dwayne Johnson
+943,960,V for Vendetta,2005.0,James McTeigue,Natalie Portman
+944,961,Shanghai Knights,2003.0,David Dobkin,Fann Wong
+945,963,Curious George,2006.0,Matthew O'Callaghan,Will Ferrell
+946,964,Herbie Fully Loaded,2005.0,Angela Robinson,Scoot McNairy
+947,965,Don't Say a Word,2001.0,Gary Fleder,Oliver Platt
+948,966,Hansel & Gretel: Witch Hunters,2013.0,Tommy Wirkola,Jeremy Renner
+949,967,Unfaithful,2002.0,Adrian Lyne,Olivier Martinez
+950,968,I Am Number Four,2011.0,D.J. Caruso,Alex Pettyfer
+951,969,Syriana,2005.0,Stephen Gaghan,Matt Damon
+952,970,13 Hours,2016.0,Michael Bay,Toby Stephens
+953,971,The Book of Life,2014.0,Jorge R. Gutiérrez,Channing Tatum
+954,972,Firewall,2006.0,Richard Loncraine,Jimmy Bennett
+955,973,Absolute Power,1997.0,Clint Eastwood,Clint Eastwood
+956,974,G.I. Jane,1997.0,Ridley Scott,Viggo Mortensen
+957,975,The Game,1997.0,David Fincher,Deborah Kara Unger
+958,976,Silent Hill,2006.0,Christophe Gans,Radha Mitchell
+959,977,The Replacements,2000.0,Howard Deutch,Keanu Reeves
+960,978,American Reunion,2012.0,Jon Hurwitz,Alyson Hannigan
+961,979,The Negotiator,1998.0,F. Gary Gray,Kevin Spacey
+962,980,Into the Storm,2014.0,Steven Quale,Matt Walsh
+963,981,Beverly Hills Cop III,1994.0,John Landis,Louis Lombardi
+964,982,Gremlins 2: The New Batch,1990.0,Joe Dante,Christopher Lee
+965,983,The Judge,2014.0,David Dobkin,Robert Downey Jr.
+966,984,The Peacemaker,1997.0,Mimi Leder,Armin Mueller-Stahl
+967,985,Resident Evil: Apocalypse,2004.0,Alexander Witt,Milla Jovovich
+968,986,Bridget Jones: The Edge of Reason,2004.0,Beeban Kidron,Colin Firth
+969,987,Out of Time,2003.0,Carl Franklin,Denzel Washington
+970,988,On Deadly Ground,1994.0,Steven Seagal,Mike Starr
+971,989,The Adventures of Sharkboy and Lavagirl 3-D,2005.0,Robert Rodriguez,Taylor Lautner
+972,990,The Beach,2000.0,Danny Boyle,Leonardo DiCaprio
+973,991,Raising Helen,2004.0,Garry Marshall,Amber Valletta
+974,992,Ninja Assassin,2009.0,James McTeigue,Shô Kosugi
+975,993,For Love of the Game,1999.0,Sam Raimi,J.K. Simmons
+976,995,Striptease,1996.0,Andrew Bergman,Demi Moore
+977,996,Marmaduke,2010.0,Tom Dey,Emma Stone
+978,997,Hereafter,2010.0,Clint Eastwood,Matt Damon
+979,998,Murder by Numbers,2002.0,Barbet Schroeder,Ryan Gosling
+980,999,Assassins,1995.0,Richard Donner,Muse Watson
+981,1000,Hannibal Rising,2007.0,Peter Webber,Li Gong
+982,1001,The Story of Us,1999.0,Rob Reiner,Bruce Willis
+983,1002,The Host,2013.0,Andrew Niccol,J.D. Evermore
+984,1003,Basic,2003.0,John McTiernan,Connie Nielsen
+985,1004,Blood Work,2002.0,Clint Eastwood,Clint Eastwood
+986,1005,The International,2009.0,Tom Tykwer,Naomi Watts
+987,1006,Escape from L.A.,1996.0,John Carpenter,Steve Buscemi
+988,1008,The Iron Giant,1999.0,Brad Bird,Vin Diesel
+989,1009,The Life Aquatic with Steve Zissou,2004.0,Wes Anderson,Bill Murray
+990,1010,Free State of Jones,2016.0,Gary Ross,Matthew McConaughey
+991,1011,The Life of David Gale,2003.0,Alan Parker,Kevin Spacey
+992,1012,Man of the House,2005.0,Stephen Herek,Christina Milian
+993,1013,Run All Night,2015.0,Jaume Collet-Serra,Liam Neeson
+994,1014,Eastern Promises,2007.0,David Cronenberg,Viggo Mortensen
+995,1015,Into the Blue,2005.0,John Stockwell,Paul Walker
+996,1016,The Messenger: The Story of Joan of Arc,1999.0,Luc Besson,Paul Brooke
+997,1017,Your Highness,2011.0,David Gordon Green,Natalie Portman
+998,1018,Dream House,2011.0,Jim Sheridan,Naomi Watts
+999,1019,Mad City,1997.0,Costa-Gavras,Mia Kirshner
+1000,1020,Baby's Day Out,1994.0,Patrick Read Johnson,Joe Mantegna
+1001,1021,The Scarlet Letter,1995.0,Roland Joffé,Gary Oldman
+1002,1022,Fair Game,2010.0,Doug Liman,Naomi Watts
+1003,1024,Domino,2005.0,Tony Scott,Ian Ziering
+1004,1025,Jade,1995.0,William Friedkin,Michael Biehn
+1005,1026,Gamer,2009.0,Mark Neveldine,Gerard Butler
+1006,1027,Beautiful Creatures,2013.0,Richard LaGravenese,Alden Ehrenreich
+1007,1028,Death to Smoochy,2002.0,Danny DeVito,Robin Williams
+1008,1029,Zoolander 2,2016.0,Ben Stiller,Milla Jovovich
+1009,1030,The Big Bounce,2004.0,George Armitage,Morgan Freeman
+1010,1031,What Planet Are You From?,2000.0,Mike Nichols,Judy Greer
+1011,1032,Drive Angry,2011.0,Patrick Lussier,Nicolas Cage
+1012,1033,Street Fighter: The Legend of Chun-Li,2009.0,Andrzej Bartkowiak,Chris Klein
+1013,1034,The One,2001.0,James Wong,Jason Statham
+1014,1036,The Adventures of Ford Fairlane,1990.0,Renny Harlin,Lauren Holly
+1015,1037,Pirate Radio,2009.0,Richard Curtis,Philip Seymour Hoffman
+1016,1038,Traffic,2000.0,Steven Soderbergh,Michael O'Neill
+1017,1039,Indiana Jones and the Last Crusade,1989.0,Steven Spielberg,Harrison Ford
+1018,1040,Anna Karenina,2012.0,Joe Wright,Kelly Macdonald
+1019,1041,Chappie,2015.0,Neill Blomkamp,Hugh Jackman
+1020,1042,The Bone Collector,1999.0,Phillip Noyce,Denzel Washington
+1021,1043,Panic Room,2002.0,David Fincher,Kristen Stewart
+1022,1044,The Tooth Fairy,2006.0,Chuck Bowman,P.J. Soles
+1023,1045,Three Kings,1999.0,David O. Russell,Judy Greer
+1024,1046,Child 44,2015.0,Daniel Espinosa,Tom Hardy
+1025,1047,Rat Race,2001.0,Jerry Zucker,Corinna Harney
+1026,1048,K-PAX,2001.0,Iain Softley,Kevin Spacey
+1027,1049,Kate & Leopold,2001.0,James Mangold,Hugh Jackman
+1028,1050,Bedazzled,2000.0,Harold Ramis,Brendan Fraser
+1029,1051,The Cotton Club,1984.0,Francis Ford Coppola,Nicolas Cage
+1030,1052,3:10 to Yuma,2007.0,James Mangold,Christian Bale
+1031,1053,Taken 3,2014.0,Olivier Megaton,Liam Neeson
+1032,1054,Out of Sight,1998.0,Steven Soderbergh,Don Cheadle
+1033,1055,The Cable Guy,1996.0,Ben Stiller,Matthew Broderick
+1034,1056,Earth,1998.0,Deepa Mehta,Nandita Das
+1035,1057,Dick Tracy,1990.0,Warren Beatty,Charlie Korsmo
+1036,1058,The Thomas Crown Affair,1999.0,John McTiernan,Mark Margolis
+1037,1059,Riding in Cars with Boys,2001.0,Penny Marshall,Rosie Perez
+1038,1060,First Blood,1982.0,Ted Kotcheff,Sylvester Stallone
+1039,1061,Solaris,1972.0,Andrei Tarkovsky,Donatas Banionis
+1040,1062,Happily N'Ever After,2006.0,Paul Bolger,Sarah Michelle Gellar
+1041,1063,Mary Reilly,1996.0,Stephen Frears,Julia Roberts
+1042,1064,My Best Friend's Wedding,1997.0,P.J. Hogan,Julia Roberts
+1043,1065,America's Sweethearts,2001.0,Joe Roth,Julia Roberts
+1044,1066,Insomnia,2002.0,Christopher Nolan,Al Pacino
+1045,1067,Star Trek: First Contact,1996.0,Jonathan Frakes,LeVar Burton
+1046,1068,Jonah Hex,2010.0,Jimmy Hayward,Michael Fassbender
+1047,1069,Courage Under Fire,1996.0,Edward Zwick,Denzel Washington
+1048,1070,Liar Liar,1997.0,Tom Shadyac,Maura Tierney
+1049,1071,The Infiltrator,2016.0,Brad Furman,Joseph Gilgun
+1050,1072,Inchon,1981.0,Terence Young,Laurence Olivier
+1051,1073,The Flintstones,1994.0,Brian Levant,Jonathan Winters
+1052,1074,Taken 2,2012.0,Olivier Megaton,Liam Neeson
+1053,1075,Scary Movie 3,2003.0,David Zucker,Regina Hall
+1054,1076,Miss Congeniality,2000.0,Donald Petrie,Candice Bergen
+1055,1077,Journey to the Center of the Earth,2008.0,Eric Brevig,Josh Hutcherson
+1056,1078,The Princess Diaries 2: Royal Engagement,2004.0,Garry Marshall,Anne Hathaway
+1057,1079,The Pelican Brief,1993.0,Alan J. Pakula,Denzel Washington
+1058,1080,The Client,1994.0,Joel Schumacher,Bradley Whitford
+1059,1081,The Bucket List,2007.0,Rob Reiner,Morgan Freeman
+1060,1082,Patriot Games,1992.0,Phillip Noyce,Harrison Ford
+1061,1083,Monster-in-Law,2005.0,Robert Luketic,Adam Scott
+1062,1084,Prisoners,2013.0,Denis Villeneuve,Hugh Jackman
+1063,1085,Training Day,2001.0,Antoine Fuqua,Denzel Washington
+1064,1086,Galaxy Quest,1999.0,Dean Parisot,Alan Rickman
+1065,1087,Scary Movie 2,2001.0,Keenen Ivory Wayans,Natasha Lyonne
+1066,1088,The Muppets,2011.0,James Bobin,Bill Cobbs
+1067,1089,Blade,1998.0,Stephen Norrington,Sanaa Lathan
+1068,1090,Coach Carter,2005.0,Thomas Carter,Channing Tatum
+1069,1091,Changing Lanes,2002.0,Roger Michell,Sydney Pollack
+1070,1092,Anaconda,1997.0,Luis Llosa,Frank Welker
+1071,1093,Coyote Ugly,2000.0,David McNally,Adam Garcia
+1072,1094,Love Actually,2003.0,Richard Curtis,Colin Firth
+1073,1095,A Bug's Life,1998.0,John Lasseter,Kevin Spacey
+1074,1096,From Hell,2001.0,Albert Hughes,Johnny Depp
+1075,1097,The Specialist,1994.0,Luis Llosa,Sylvester Stallone
+1076,1098,Tin Cup,1996.0,Ron Shelton,Don Johnson
+1077,1099,"Yours, Mine and Ours",1968.0,Melville Shavelson,Lucille Ball
+1078,1100,Kicking & Screaming,2005.0,Jesse Dylan,Josh Hutcherson
+1079,1101,The Hitchhiker's Guide to the Galaxy,2005.0,Garth Jennings,Zooey Deschanel
+1080,1102,Fat Albert,2004.0,Joel Zwick,Dania Ramirez
+1081,1103,Resident Evil: Extinction,2007.0,Russell Mulcahy,Milla Jovovich
+1082,1104,Blended,2014.0,Frank Coraci,Bella Thorne
+1083,1105,Last Holiday,2006.0,Wayne Wang,LL Cool J
+1084,1106,The River Wild,1994.0,Curtis Hanson,Meryl Streep
+1085,1107,The Indian in the Cupboard,1995.0,Frank Oz,Steve Coogan
+1086,1108,Savages,2012.0,Oliver Stone,Demián Bichir
+1087,1109,Cellular,2004.0,David R. Ellis,Richard Burgi
+1088,1110,Johnny English,2003.0,Peter Howitt,Kevin McNally
+1089,1111,The Ant Bully,2006.0,John A. Davis,Nicolas Cage
+1090,1112,Dune,1984.0,David Lynch,Virginia Madsen
+1091,1113,Across the Universe,2007.0,Julie Taymor,Jim Sturgess
+1092,1114,Revolutionary Road,2008.0,Sam Mendes,Leonardo DiCaprio
+1093,1115,16 Blocks,2006.0,Richard Donner,Bruce Willis
+1094,1116,Babylon A.D.,2008.0,Mathieu Kassovitz,Vin Diesel
+1095,1117,The Glimmer Man,1996.0,John Gray,Alexa PenaVega
+1096,1118,Multiplicity,1996.0,Harold Ramis,John de Lancie
+1097,1119,Aliens in the Attic,2009.0,John Schultz,Malese Jow
+1098,1120,The Pledge,2001.0,Sean Penn,Costas Mandylor
+1099,1121,The Producers,2005.0,Susan Stroman,Jon Lovitz
+1100,1122,Dredd,2012.0,Pete Travis,Wood Harris
+1101,1123,The Phantom,1996.0,Simon Wincer,Cary-Hiroyuki Tagawa
+1102,1124,All the Pretty Horses,2000.0,Billy Bob Thornton,Matt Damon
+1103,1125,Nixon,1995.0,Oliver Stone,Anthony Hopkins
+1104,1126,The Ghost Writer,2010.0,Roman Polanski,Jim Belushi
+1105,1127,Deep Rising,1998.0,Stephen Sommers,Djimon Hounsou
+1106,1128,Miracle at St. Anna,2008.0,Spike Lee,Joseph Gordon-Levitt
+1107,1129,Curse of the Golden Flower,2006.0,Yimou Zhang,Li Gong
+1108,1130,Bangkok Dangerous,2008.0,Danny Pang,Nicolas Cage
+1109,1131,Big Trouble,2002.0,Barry Sonnenfeld,Zooey Deschanel
+1110,1132,Love in the Time of Cholera,2007.0,Mike Newell,Marcela Mar
+1111,1134,Shadow Conspiracy,1997.0,George P. Cosmatos,Sam Waterston
+1112,1135,Johnny English Reborn,2011.0,Oliver Parker,Daniel Kaluuya
+1113,1136,Foodfight!,2012.0,Lawrence Kasanoff,Jerry Stiller
+1114,1137,Argo,2012.0,Ben Affleck,Clea DuVall
+1115,1138,The Fugitive,1993.0,Andrew Davis,Harrison Ford
+1116,1139,The Bounty Hunter,2010.0,Andy Tennant,Gerard Butler
+1117,1140,Sleepers,1996.0,Barry Levinson,Robert De Niro
+1118,1141,Rambo: First Blood Part II,1985.0,George P. Cosmatos,Sylvester Stallone
+1119,1142,The Juror,1996.0,Brian Gibson,Joseph Gordon-Levitt
+1120,1143,Pinocchio,1940.0,Norman Ferguson,Mel Blanc
+1121,1144,Heaven's Gate,1980.0,Michael Cimino,Jeff Bridges
+1122,1145,Underworld: Evolution,2006.0,Len Wiseman,Sophia Myles
+1123,1146,Victor Frankenstein,2015.0,Paul McGuigan,Daniel Radcliffe
+1124,1147,Finding Forrester,2000.0,Gus Van Sant,F. Murray Abraham
+1125,1148,28 Days,2000.0,Betty Thomas,Steve Buscemi
+1126,1149,Unleashed,2005.0,Louis Leterrier,Morgan Freeman
+1127,1150,The Sweetest Thing,2002.0,Roger Kumble,Judith Chapman
+1128,1151,The Firm,1993.0,Sydney Pollack,Tom Cruise
+1129,1152,Charlie St. Cloud,2010.0,Burr Steers,Augustus Prew
+1130,1153,The Mechanic,2011.0,Simon West,Jason Statham
+1131,1154,21 Jump Street,2012.0,Phil Lord,Channing Tatum
+1132,1155,Notting Hill,1999.0,Roger Michell,Julia Roberts
+1133,1156,Chicken Run,2000.0,Peter Lord,Imelda Staunton
+1134,1157,Along Came Polly,2004.0,John Hamburg,Philip Seymour Hoffman
+1135,1158,Boomerang,1992.0,Reginald Hudlin,John Witherspoon
+1136,1159,The Heat,2013.0,Paul Feig,Michael Rapaport
+1137,1160,Cleopatra,1963.0,Joseph L. Mankiewicz,Martin Landau
+1138,1161,Here Comes the Boom,2012.0,Frank Coraci,Salma Hayek
+1139,1162,High Crimes,2002.0,Carl Franklin,Morgan Freeman
+1140,1163,The Mirror Has Two Faces,1996.0,Barbra Streisand,Jeff Bridges
+1141,1164,The Mothman Prophecies,2002.0,Mark Pellington,Debra Messing
+1142,1165,Brüno,2009.0,Larry Charles,Bono
+1143,1166,Licence to Kill,1989.0,John Glen,Robert Davi
+1144,1167,Red Riding Hood,2011.0,Catherine Hardwicke,Gary Oldman
+1145,1168,15 Minutes,2001.0,John Herzfeld,Robert De Niro
+1146,1169,Super Mario Bros.,1993.0,Annabel Jankel,Bob Hoskins
+1147,1170,Lord of War,2005.0,Andrew Niccol,Nicolas Cage
+1148,1171,Hero,2002.0,Yimou Zhang,Jet Li
+1149,1172,One for the Money,2012.0,Julie Anne Robinson,Fisher Stevens
+1150,1173,The Interview,2014.0,Evan Goldberg,James Franco
+1151,1174,The Warrior's Way,2010.0,Sngmoo Lee,Tony Cox
+1152,1176,Micmacs,2009.0,Jean-Pierre Jeunet,Omar Sy
+1153,1177,8 Mile,2002.0,Curtis Hanson,Mekhi Phifer
+1154,1178,Animal Kingdom: Let's go Ape,2015.0,Jamel Debbouze,Jamel Debbouze
+1155,1179,A Knight's Tale,2001.0,Brian Helgeland,Heath Ledger
+1156,1180,The Medallion,2003.0,Gordon Chan,Julian Sands
+1157,1181,The Sixth Sense,1999.0,M. Night Shyamalan,Bruce Willis
+1158,1182,Man on a Ledge,2012.0,Asger Leth,Robert Clohessy
+1159,1183,The Big Year,2011.0,David Frankel,Joel McHale
+1160,1184,The Karate Kid,1984.0,John G. Avildsen,Martin Kove
+1161,1185,American Hustle,2013.0,David O. Russell,Jennifer Lawrence
+1162,1186,The Proposal,2009.0,Anne Fletcher,Ryan Reynolds
+1163,1187,Double Jeopardy,1999.0,Bruce Beresford,Bruce Greenwood
+1164,1188,Back to the Future Part II,1989.0,Robert Zemeckis,Lea Thompson
+1165,1189,Lucy,2014.0,Luc Besson,Scarlett Johansson
+1166,1190,Fifty Shades of Grey,2015.0,Sam Taylor-Johnson,Jennifer Ehle
+1167,1191,Spy Kids 3-D: Game Over,2003.0,Robert Rodriguez,Sylvester Stallone
+1168,1192,A Time to Kill,1996.0,Joel Schumacher,Kevin Spacey
+1169,1193,Cheaper by the Dozen,2003.0,Shawn Levy,Tom Welling
+1170,1194,Lone Survivor,2013.0,Peter Berg,Jerry Ferrara
+1171,1195,A League of Their Own,1992.0,Penny Marshall,Tom Hanks
+1172,1196,The Conjuring 2,2016.0,James Wan,Javier Botet
+1173,1197,The Social Network,2010.0,David Fincher,Andrew Garfield
+1174,1198,He's Just Not That Into You,2009.0,Ken Kwapis,Carmen Perez
+1175,1199,Scary Movie 4,2006.0,David Zucker,Beau Mirchoff
+1176,1200,Scream 3,2000.0,Wes Craven,Kelly Rutherford
+1177,1201,Back to the Future Part III,1990.0,Robert Zemeckis,Lea Thompson
+1178,1202,Get Hard,2015.0,Etan Cohen,Will Ferrell
+1179,1203,Bram Stoker's Dracula,1992.0,Francis Ford Coppola,Keanu Reeves
+1180,1204,Julie & Julia,2009.0,Nora Ephron,Meryl Streep
+1181,1205,42,2013.0,Brian Helgeland,Harrison Ford
+1182,1206,The Talented Mr. Ripley,1999.0,Anthony Minghella,Philip Seymour Hoffman
+1183,1207,Dumb and Dumber To,2014.0,Bobby Farrelly,Bill Murray
+1184,1208,Eight Below,2006.0,Frank Marshall,Paul Walker
+1185,1209,The Intern,2015.0,Nancy Meyers,Robert De Niro
+1186,1210,Ride Along 2,2016.0,Tim Story,Olivia Munn
+1187,1211,The Last of the Mohicans,1992.0,Michael Mann,Wes Studi
+1188,1212,Ray,2004.0,Taylor Hackford,Bokeem Woodbine
+1189,1213,Sin City,2005.0,Frank Miller,Rosario Dawson
+1190,1214,Vantage Point,2008.0,Pete Travis,Dennis Quaid
+1191,1215,"I Love You, Man",2009.0,John Hamburg,J.K. Simmons
+1192,1216,Shallow Hal,2001.0,Bobby Farrelly,Jason Alexander
+1193,1217,JFK,1991.0,Oliver Stone,Sally Kirkland
+1194,1218,Big Momma's House 2,2006.0,John Whitesell,Chloë Grace Moretz
+1195,1219,The Mexican,2001.0,Gore Verbinski,J.K. Simmons
+1196,1220,Unbroken,2014.0,Angelina Jolie Pitt,Finn Wittrock
+1197,1221,17 Again,2009.0,Burr Steers,Matthew Perry
+1198,1222,The Other Woman,2014.0,Nick Cassavetes,Don Johnson
+1199,1223,The Final Destination,2009.0,David R. Ellis,Krista Allen
+1200,1224,Bridge of Spies,2015.0,Steven Spielberg,Tom Hanks
+1201,1225,Behind Enemy Lines,2001.0,John Moore,Joaquim de Almeida
+1202,1226,Get Him to the Greek,2010.0,Nicholas Stoller,Pink
+1203,1227,Shall We Dance,2004.0,Peter Chelsom,Lisa Ann Walter
+1204,1228,Small Soldiers,1998.0,Joe Dante,Kirsten Dunst
+1205,1229,Spawn,1997.0,Mark A.Z. Dippé,Michael Jai White
+1206,1230,The Count of Monte Cristo,2002.0,Kevin Reynolds,Henry Cavill
+1207,1231,The Lincoln Lawyer,2011.0,Brad Furman,Matthew McConaughey
+1208,1232,Unknown,2011.0,Jaume Collet-Serra,Liam Neeson
+1209,1233,The Prestige,2006.0,Christopher Nolan,Christian Bale
+1210,1234,Horrible Bosses 2,2014.0,Sean Anders,Kevin Spacey
+1211,1235,Escape from Planet Earth,2013.0,Cal Brunker,Brendan Fraser
+1212,1236,Apocalypto,2006.0,Mel Gibson,Rudy Youngblood
+1213,1237,The Living Daylights,1987.0,John Glen,Joe Don Baker
+1214,1238,Predators,2010.0,Nimród Antal,Topher Grace
+1215,1239,Legal Eagles,1986.0,Ivan Reitman,Brian Dennehy
+1216,1240,Secret Window,2004.0,David Koepp,Johnny Depp
+1217,1241,The Lake House,2006.0,Alejandro Agresti,Keanu Reeves
+1218,1242,The Skeleton Key,2005.0,Iain Softley,Gena Rowlands
+1219,1243,The Odd Life of Timothy Green,2012.0,Peter Hedges,Jennifer Garner
+1220,1244,Made of Honor,2008.0,Paul Weiland,Busy Philipps
+1221,1245,Jersey Boys,2014.0,Clint Eastwood,Johnny Cannizzaro
+1222,1246,The Rainmaker,1997.0,Francis Ford Coppola,Matt Damon
+1223,1247,Gothika,2003.0,Mathieu Kassovitz,Robert Downey Jr.
+1224,1248,Amistad,1997.0,Steven Spielberg,Anthony Hopkins
+1225,1249,Medicine Man,1992.0,John McTiernan,Lorraine Bracco
+1226,1250,Aliens vs. Predator: Requiem,2007.0,Colin Strause,Sam Trammell
+1227,1251,Ri¢hie Ri¢h,1994.0,Donald Petrie,Macaulay Culkin
+1228,1252,Autumn in New York,2000.0,Joan Chen,J.K. Simmons
+1229,1253,Music and Lyrics,2007.0,Marc Lawrence,Brad Garrett
+1230,1254,Paul,2011.0,Greg Mottola,Bobby Lee
+1231,1255,The Guilt Trip,2012.0,Anne Fletcher,Miriam Margolyes
+1232,1256,Scream 4,2011.0,Wes Craven,Alison Brie
+1233,1257,8MM,1999.0,Joel Schumacher,Nicolas Cage
+1234,1258,The Doors,1991.0,Oliver Stone,Michael Wincott
+1235,1259,Sex Tape,2014.0,Jake Kasdan,James Wilcox
+1236,1260,Hanging Up,2000.0,Diane Keaton,Adam Arkin
+1237,1261,Final Destination 5,2011.0,Steven Quale,Emma Bell
+1238,1262,Mickey Blue Eyes,1999.0,Kelly Makin,Jeanne Tripplehorn
+1239,1263,Pay It Forward,2000.0,Mimi Leder,Kevin Spacey
+1240,1264,Fever Pitch,2005.0,Bobby Farrelly,Jimmy Fallon
+1241,1266,Drillbit Taylor,2008.0,Steven Brill,Lisa Ann Walter
+1242,1267,A Million Ways to Die in the West,2014.0,Seth MacFarlane,Liam Neeson
+1243,1268,The Shadow,1994.0,Russell Mulcahy,Jonathan Winters
+1244,1269,Extremely Loud & Incredibly Close,2011.0,Stephen Daldry,Tom Hanks
+1245,1270,Morning Glory,2010.0,Roger Michell,Noah Bean
+1246,1271,Get Rich or Die Tryin',2005.0,Jim Sheridan,50 Cent
+1247,1272,The Art of War,2000.0,Christian Duguay,Michael Biehn
+1248,1273,Rent,2005.0,Chris Columbus,Rosario Dawson
+1249,1274,Bless the Child,2000.0,Chuck Russell,Rufus Sewell
+1250,1275,The Out-of-Towners,1999.0,Sam Weisman,Oliver Hudson
+1251,1276,The Island of Dr. Moreau,1996.0,John Frankenheimer,Marlon Brando
+1252,1277,The Musketeer,2001.0,Peter Hyams,Catherine Deneuve
+1253,1278,The Other Boleyn Girl,2008.0,Justin Chadwick,Natalie Portman
+1254,1279,Sweet November,2001.0,Pat O'Connor,Keanu Reeves
+1255,1280,The Reaping,2007.0,Stephen Hopkins,Stephen Rea
+1256,1281,Mean Streets,1973.0,Martin Scorsese,Robert De Niro
+1257,1282,Renaissance Man,1994.0,Penny Marshall,Ed Begley Jr.
+1258,1283,Colombiana,2011.0,Olivier Megaton,Jordi Mollà
+1259,1284,The Magic Sword: Quest for Camelot,1998.0,Frederik Du Chau,Gary Oldman
+1260,1285,City by the Sea,2002.0,Michael Caton-Jones,Robert De Niro
+1261,1286,At First Sight,1999.0,Irwin Winkler,Mira Sorvino
+1262,1287,Torque,2004.0,Joseph Kahn,Dane Cook
+1263,1288,City Hall,1996.0,Harold Becker,Al Pacino
+1264,1289,Showgirls,1995.0,Paul Verhoeven,Bobbie Phillips
+1265,1290,Marie Antoinette,2006.0,Sofia Coppola,Kirsten Dunst
+1266,1291,Kiss of Death,1995.0,Barbet Schroeder,Nicolas Cage
+1267,1292,Get Carter,2000.0,Stephen Kay,Sylvester Stallone
+1268,1293,The Impossible,2012.0,J.A. Bayona,Naomi Watts
+1269,1294,Ishtar,1987.0,Elaine May,Carol Kane
+1270,1295,Fantastic Mr. Fox,2009.0,Wes Anderson,Bill Murray
+1271,1296,Life or Something Like It,2002.0,Stephen Herek,Angelina Jolie Pitt
+1272,1297,Memoirs of an Invisible Man,1992.0,John Carpenter,Richard Epcar
+1273,1298,Amélie,2001.0,Jean-Pierre Jeunet,Mathieu Kassovitz
+1274,1299,New York Minute,2004.0,Dennie Gordon,Mary-Kate Olsen
+1275,1300,Alfie,2004.0,Charles Shyer,Omar Epps
+1276,1301,Big Miracle,2012.0,Ken Kwapis,Ted Danson
+1277,1302,The Deep End of the Ocean,1999.0,Ulu Grosbard,Alexa PenaVega
+1278,1303,Feardotcom,2002.0,William Malone,Natascha McElhone
+1279,1304,Cirque du Freak: The Vampire's Assistant,2009.0,Paul Weitz,Josh Hutcherson
+1280,1305,Victor Frankenstein,2015.0,Paul McGuigan,Daniel Radcliffe
+1281,1306,Duplex,2003.0,Danny DeVito,Justin Theroux
+1282,1307,Soul Men,2008.0,Malcolm D. Lee,Bernie Mac
+1283,1308,Raise the Titanic,1980.0,Jerry Jameson,M. Emmet Walsh
+1284,1309,Universal Soldier: The Return,1999.0,Mic Rodgers,Michael Jai White
+1285,1310,Pandorum,2009.0,Christian Alvart,Norman Reedus
+1286,1311,Impostor,2001.0,Gary Fleder,Gary Dourdan
+1287,1312,Extreme Ops,2002.0,Christian Duguay,Rufus Sewell
+1288,1313,Just Visiting,2001.0,Jean-Marie Poiré,Bridgette Wilson-Sampras
+1289,1314,Sunshine,2007.0,Danny Boyle,Chris Evans
+1290,1315,A Thousand Words,2012.0,Brian Robbins,John Gatins
+1291,1316,Delgo,2008.0,Marc F. Adler,Eric Idle
+1292,1317,The Gunman,2015.0,Pierre Morel,Ray Winstone
+1293,1318,Alex Rider: Operation Stormbreaker,2006.0,Geoffrey Sax,Alex Pettyfer
+1294,1319,Disturbia,2007.0,D.J. Caruso,Sarah Roemer
+1295,1320,Hackers,1995.0,Iain Softley,Angelina Jolie Pitt
+1296,1321,The Hunting Party,2007.0,Richard Shepard,James Brolin
+1297,1322,The Hudsucker Proxy,1994.0,Joel Coen,Jennifer Jason Leigh
+1298,1323,The Warlords,2007.0,Peter Ho-Sun Chan,Jet Li
+1299,1324,Nomad: The Warrior,2005.0,Sergey Bodrov,Jay Hernandez
+1300,1325,Snowpiercer,2013.0,Joon-ho Bong,Chris Evans
+1301,1326,A Monster in Paris,2011.0,Bibo Bergeron,Adam Goldberg
+1302,1327,The Last Shot,2004.0,Jeff Nathanson,Matthew Broderick
+1303,1328,The Crow,1994.0,Alex Proyas,Michael Wincott
+1304,1329,Baahubali: The Beginning,2015.0,S.S. Rajamouli,Tamannaah Bhatia
+1305,1330,The Time Traveler's Wife,2009.0,Robert Schwentke,Arliss Howard
+1306,1331,Because I Said So,2007.0,Michael Lehmann,Colin Ferguson
+1307,1332,The Fast and the Furious,2001.0,Rob Cohen,Paul Walker
+1308,1333,Frankenweenie,2012.0,Tim Burton,Martin Landau
+1309,1334,Serenity,2005.0,Joss Whedon,Adam Baldwin
+1310,1335,Against the Ropes,2004.0,Charles S. Dutton,Omar Epps
+1311,1336,Superman III,1983.0,Richard Lester,Margot Kidder
+1312,1337,Grudge Match,2013.0,Peter Segal,Robert De Niro
+1313,1338,Red Cliff,2008.0,John Woo,Takeshi Kaneshiro
+1314,1339,Sweet Home Alabama,2002.0,Andy Tennant,Ethan Embry
+1315,1340,The Ugly Truth,2009.0,Robert Luketic,Gerard Butler
+1316,1341,Sgt. Bilko,1996.0,Jonathan Lynn,Austin Pendleton
+1317,1342,Spy Kids 2: Island of Lost Dreams,2002.0,Robert Rodriguez,Steve Buscemi
+1318,1343,Star Trek: Generations,1994.0,David Carson,LeVar Burton
+1319,1344,The Grandmaster,2013.0,Kar-Wai Wong,Tony Chiu Wai Leung
+1320,1345,Water for Elephants,2011.0,Francis Lawrence,Robert Pattinson
+1321,1347,Dragon Nest: Warriors' Dawn,2014.0,Yuefeng Song,Blythe Auffarth
+1322,1348,The Hurricane,1999.0,Norman Jewison,Denzel Washington
+1323,1349,Enough,2002.0,Michael Apted,Bill Cobbs
+1324,1350,Heartbreakers,2001.0,David Mirkin,Sarah Silverman
+1325,1351,Paul Blart: Mall Cop 2,2015.0,Andy Fickman,D.B. Woodside
+1326,1352,Angel Eyes,2001.0,Luis Mandoki,Sonia Braga
+1327,1353,Joe Somebody,2001.0,John Pasquin,Jim Belushi
+1328,1354,The Ninth Gate,1999.0,Roman Polanski,Johnny Depp
+1329,1355,Extreme Measures,1996.0,Michael Apted,J.K. Simmons
+1330,1356,Rock Star,2001.0,Stephen Herek,Beth Grant
+1331,1357,Precious,2009.0,Lee Daniels,Mo'Nique
+1332,1358,White Squall,1996.0,Ridley Scott,Jeff Bridges
+1333,1359,The Thing,1982.0,John Carpenter,Wilford Brimley
+1334,1360,Riddick,2013.0,David Twohy,Vin Diesel
+1335,1361,Switchback,1997.0,Jeb Stuart,Gregory Scott Cummins
+1336,1362,Texas Rangers,2001.0,Steve Miner,Tom Skerritt
+1337,1363,City of Ember,2008.0,Gil Kenan,Bill Murray
+1338,1364,The Master,2012.0,Paul Thomas Anderson,Mike Howard
+1339,1365,Virgin Territory,2007.0,David Leland,Hayden Christensen
+1340,1366,The Express,2008.0,Gary Fleder,Dennis Quaid
+1341,1367,The 5th Wave,2016.0,J Blakeson,Chloë Grace Moretz
+1342,1368,Creed,2015.0,Ryan Coogler,Sylvester Stallone
+1343,1369,The Town,2010.0,Ben Affleck,Jeremy Renner
+1344,1370,What to Expect When You're Expecting,2012.0,Kirk Jones,Anna Kendrick
+1345,1371,Burn After Reading,2008.0,Ethan Coen,J.K. Simmons
+1346,1372,Nim's Island,2008.0,Jennifer Flackett,Gerard Butler
+1347,1373,Rush,2013.0,Ron Howard,Chris Hemsworth
+1348,1374,Magnolia,1999.0,Paul Thomas Anderson,Patton Oswalt
+1349,1375,Cop Out,2010.0,Kevin Smith,Bruce Willis
+1350,1376,How to Be Single,2016.0,Christian Ditter,Alison Brie
+1351,1377,Dolphin Tale,2011.0,Charles Martin Smith,Morgan Freeman
+1352,1378,Twilight,2008.0,Catherine Hardwicke,Kristen Stewart
+1353,1379,John Q,2002.0,Nick Cassavetes,Denzel Washington
+1354,1380,Blue Streak,1999.0,Les Mayfield,Peter Greene
+1355,1381,We're the Millers,2013.0,Rawson Marshall Thurber,Laura-Leigh
+1356,1382,Obitaemyy ostrov,2009.0,Fedor Bondarchuk,Yuliya Snigir
+1357,1383,Breakdown,1997.0,Jonathan Mostow,Kathleen Quinlan
+1358,1384,Never Say Never Again,1983.0,Irvin Kershner,Bernie Casey
+1359,1385,Hot Tub Time Machine,2010.0,Steve Pink,Charlie McDermott
+1360,1386,Dolphin Tale 2,2014.0,Charles Martin Smith,Morgan Freeman
+1361,1387,Reindeer Games,2000.0,John Frankenheimer,Charlize Theron
+1362,1388,A Man Apart,2003.0,F. Gary Gray,Vin Diesel
+1363,1389,Aloha,2015.0,Cameron Crowe,Emma Stone
+1364,1390,Ghosts of Mississippi,1996.0,Rob Reiner,Alexa PenaVega
+1365,1391,Snow Falling on Cedars,1999.0,Scott Hicks,Rick Yune
+1366,1392,The Rite,2011.0,Mikael Håfström,Anthony Hopkins
+1367,1393,Gattaca,1997.0,Andrew Niccol,Blair Underwood
+1368,1394,Isn't She Great,2000.0,Andrew Bergman,Stockard Channing
+1369,1395,Space Chimps,2008.0,Kirk De Micco,Cheryl Hines
+1370,1396,Head of State,2003.0,Chris Rock,Bernie Mac
+1371,1397,The Hangover,2009.0,Todd Phillips,Bradley Cooper
+1372,1398,Ip Man 3,2015.0,Wilson Yip,Mike Tyson
+1373,1399,Austin Powers: The Spy Who Shagged Me,1999.0,Jay Roach,Muse Watson
+1374,1400,Batman,1989.0,Tim Burton,Michael Gough
+1375,1401,There Be Dragons,2011.0,Roland Joffé,Jordi Mollà
+1376,1402,Lethal Weapon 3,1992.0,Richard Donner,Rene Russo
+1377,1403,The Blind Side,2009.0,John Lee Hancock,Catherine Dyer
+1378,1405,Spy Kids,2001.0,Robert Rodriguez,Alexa PenaVega
+1379,1406,Horrible Bosses,2011.0,Seth Gordon,Kevin Spacey
+1380,1407,True Grit,2010.0,Ethan Coen,Matt Damon
+1381,1408,The Devil Wears Prada,2006.0,David Frankel,Meryl Streep
+1382,1409,Star Trek: The Motion Picture,1979.0,Robert Wise,Leonard Nimoy
+1383,1410,Identity Thief,2013.0,Seth Gordon,Jon Favreau
+1384,1411,Cape Fear,1991.0,Martin Scorsese,Robert De Niro
+1385,1412,21,2008.0,Robert Luketic,Kevin Spacey
+1386,1413,Trainwreck,2015.0,Judd Apatow,Amy Schumer
+1387,1414,Guess Who,2005.0,Kevin Rodney Sullivan,Bernie Mac
+1388,1415,The English Patient,1996.0,Anthony Minghella,Colin Firth
+1389,1416,L.A. Confidential,1997.0,Curtis Hanson,Kevin Spacey
+1390,1417,Sky High,2005.0,Mike Mitchell,Michael Angarano
+1391,1418,In & Out,1997.0,Frank Oz,Tom Selleck
+1392,1419,Species,1995.0,Roger Donaldson,Natasha Henstridge
+1393,1420,A Nightmare on Elm Street,1984.0,Wes Craven,Johnny Depp
+1394,1421,The Cell,2000.0,Tarsem Singh,Dylan Baker
+1395,1422,The Man in the Iron Mask,1998.0,Randall Wallace,Leonardo DiCaprio
+1396,1423,Secretariat,2010.0,Randall Wallace,Scott Glenn
+1397,1424,TMNT,2007.0,Kevin Munroe,Chris Evans
+1398,1425,Radio,2003.0,Michael Tollin,Alfre Woodard
+1399,1426,Friends with Benefits,2011.0,Will Gluck,Mila Kunis
+1400,1427,Neighbors 2: Sorority Rising,2016.0,Nicholas Stoller,Chloë Grace Moretz
+1401,1428,Saving Mr. Banks,2013.0,John Lee Hancock,Tom Hanks
+1402,1429,Malcolm X,1992.0,Spike Lee,Denzel Washington
+1403,1430,This Is 40,2012.0,Judd Apatow,Charlyne Yi
+1404,1431,Old Dogs,2009.0,Walt Becker,Robin Williams
+1405,1432,Underworld: Rise of the Lycans,2009.0,Patrick Tatopoulos,Craig Parker
+1406,1433,License to Wed,2007.0,Ken Kwapis,Robin Williams
+1407,1434,The Benchwarmers,2006.0,Dennis Dugan,Jon Lovitz
+1408,1435,Must Love Dogs,2005.0,Gary David Goldberg,Stockard Channing
+1409,1436,Donnie Brasco,1997.0,Mike Newell,Johnny Depp
+1410,1437,Resident Evil,2002.0,Paul W.S. Anderson,Milla Jovovich
+1411,1438,Poltergeist,1982.0,Tobe Hooper,Heather O'Rourke
+1412,1439,The Ladykillers,2004.0,Ethan Coen,J.K. Simmons
+1413,1440,Max Payne,2008.0,John Moore,Mila Kunis
+1414,1441,In Time,2011.0,Andrew Niccol,Matt Bomer
+1415,1442,The Back-up Plan,2010.0,Alan Poul,Danneel Ackles
+1416,1443,Something Borrowed,2011.0,Luke Greenfield,Ashley Williams
+1417,1445,Black Knight,2001.0,Gil Junger,Tom Wilkinson
+1418,1446,The Bad News Bears,1976.0,Michael Ritchie,Tatum O'Neal
+1419,1447,Street Fighter,1994.0,Steven E. de Souza,Ming-Na Wen
+1420,1448,The Pianist,2002.0,Roman Polanski,Emilia Fox
+1421,1449,From Hell,2001.0,Albert Hughes,Johnny Depp
+1422,1450,The Nativity Story,2006.0,Catherine Hardwicke,Keisha Castle-Hughes
+1423,1451,House of Wax,2005.0,Jaume Collet-Serra,Robert Ri'chard
+1424,1452,Closer,2004.0,Mike Nichols,Natalie Portman
+1425,1453,J. Edgar,2011.0,Clint Eastwood,Leonardo DiCaprio
+1426,1454,Mirrors,2008.0,Alexandre Aja,Jason Flemyng
+1427,1455,Queen of the Damned,2002.0,Michael Rymer,Aaliyah
+1428,1456,Predator 2,1990.0,Stephen Hopkins,Adam Baldwin
+1429,1457,Untraceable,2008.0,Gregory Hoblit,Billy Burke
+1430,1458,Blast from the Past,1999.0,Hugh Wilson,Brendan Fraser
+1431,1459,Flash Gordon,1980.0,Mike Hodges,Brian Blessed
+1432,1460,Jersey Girl,2004.0,Kevin Smith,Stephen Root
+1433,1461,Alex Cross,2012.0,Rob Cohen,Cicely Tyson
+1434,1462,Midnight in the Garden of Good and Evil,1997.0,Clint Eastwood,Kevin Spacey
+1435,1463,Heist,2015.0,Scott Mann,Robert De Niro
+1436,1464,Nanny McPhee Returns,2010.0,Susanna White,Daniel Mays
+1437,1465,Hoffa,1992.0,Danny DeVito,Frank Whaley
+1438,1466,The X Files: I Want to Believe,2008.0,Chris Carter,Mitch Pileggi
+1439,1467,Ella Enchanted,2004.0,Tommy O'Haver,Anne Hathaway
+1440,1468,Concussion,2015.0,Peter Landesman,Will Smith
+1441,1469,Abduction,2011.0,John Singleton,Ken Arnold
+1442,1470,Valiant,2005.0,Gary Chapman,Jim Broadbent
+1443,1471,Wonder Boys,2000.0,Curtis Hanson,Robert Downey Jr.
+1444,1472,Superhero Movie,2008.0,Craig Mazin,Drake Bell
+1445,1473,Broken City,2013.0,Allen Hughes,Alona Tal
+1446,1474,Cursed,2005.0,Wes Craven,Shannon Elizabeth
+1447,1475,Premium Rush,2012.0,David Koepp,Joseph Gordon-Levitt
+1448,1476,Hot Pursuit,2015.0,Anne Fletcher,Jim Gaffigan
+1449,1477,The Four Feathers,2002.0,Shekhar Kapur,Djimon Hounsou
+1450,1478,Parker,2013.0,Taylor Hackford,Jason Statham
+1451,1479,Wimbledon,2004.0,Richard Loncraine,Kirsten Dunst
+1452,1480,Furry Vengeance,2010.0,Roger Kumble,Brendan Fraser
+1453,1481,Bait,2012.0,Kimble Rendall,Alex Russell
+1454,1482,Krull,1983.0,Peter Yates,Liam Neeson
+1455,1483,Lions for Lambs,2007.0,Robert Redford,Meryl Streep
+1456,1484,Flight of the Intruder,1991.0,John Milius,Rosanna Arquette
+1457,1485,Walk Hard: The Dewey Cox Story,2007.0,Jake Kasdan,Tim Meadows
+1458,1486,The Shipping News,2001.0,Lasse Hallström,Kevin Spacey
+1459,1487,American Outlaws,2001.0,Les Mayfield,Gregory Smith
+1460,1488,The Young Victoria,2009.0,Jean-Marc Vallée,Michiel Huisman
+1461,1489,Whiteout,2009.0,Dominic Sena,Tom Skerritt
+1462,1490,The Tree of Life,2011.0,Terrence Malick,Brad Pitt
+1463,1491,Knock Off,1998.0,Hark Tsui,Paul Sorvino
+1464,1492,Sabotage,2014.0,David Ayer,Mireille Enos
+1465,1493,The Order,2003.0,Brian Helgeland,Heath Ledger
+1466,1494,Punisher: War Zone,2008.0,Lexi Alexander,Julie Benz
+1467,1495,Zoom,2006.0,Peter Hewitt,Kevin Zegers
+1468,1496,The Walk,2015.0,Robert Zemeckis,Joseph Gordon-Levitt
+1469,1497,Warriors of Virtue,1997.0,Ronny Yu,Marley Shelton
+1470,1498,A Good Year,2006.0,Ridley Scott,Archie Panjabi
+1471,1500,Radio Flyer,1992.0,Richard Donner,Adam Baldwin
+1472,1501,"Blood In, Blood Out",1993.0,Taylor Hackford,Delroy Lindo
+1473,1502,Smilla's Sense of Snow,1997.0,Bille August,Jim Broadbent
+1474,1503,Femme Fatale,2002.0,Brian De Palma,Peter Coyote
+1475,1504,Lion of the Desert,1980.0,Moustapha Akkad,Oliver Reed
+1476,1505,The Horseman on the Roof,1995.0,Jean-Paul Rappeneau,Olivier Martinez
+1477,1506,Ride with the Devil,1999.0,Ang Lee,Jeremy W. Auman
+1478,1507,Biutiful,2010.0,Alejandro G. Iñárritu,Maricel Álvarez
+1479,1508,The Lovers,2015.0,Roland Joffé,Tamsin Egerton
+1480,1509,Bandidas,2006.0,Joachim Rønning,Salma Hayek
+1481,1510,Black Water Transit,2009.0,Tony Kaye,Bill Cobbs
+1482,1511,The Maze Runner,2014.0,Wes Ball,Ki Hong Lee
+1483,1512,Unfinished Business,2015.0,Ken Scott,Tom Wilkinson
+1484,1513,The Age of Innocence,1993.0,Martin Scorsese,Richard E. Grant
+1485,1514,The Fountain,2006.0,Darren Aronofsky,Hugh Jackman
+1486,1515,Chill Factor,1999.0,Hugh Johnson,David Paymer
+1487,1516,Stolen,2012.0,Simon West,Nicolas Cage
+1488,1517,Ponyo,2008.0,Hayao Miyazaki,Rumi Hiiragi
+1489,1518,The Longest Ride,2015.0,George Tillman Jr.,Tiago Riani
+1490,1519,The Astronaut's Wife,1999.0,Rand Ravich,Johnny Depp
+1491,1520,I Dreamed of Africa,2000.0,Hugh Hudson,Liam Aiken
+1492,1521,Playing for Keeps,2012.0,Gabriele Muccino,Gerard Butler
+1493,1522,Mandela: Long Walk to Freedom,2013.0,Justin Chadwick,Terry Pheto
+1494,1523,Reds,1981.0,Warren Beatty,Paul Sorvino
+1495,1524,A Few Good Men,1992.0,Rob Reiner,Tom Cruise
+1496,1525,Exit Wounds,2001.0,Andrzej Bartkowiak,Michael Jai White
+1497,1526,Big Momma's House,2000.0,Raja Gosnell,Nia Long
+1498,1527,Thunder and the House of Magic,2013.0,Jeremy Degruson,Kyle Hebert
+1499,1528,The Darkest Hour,2011.0,Chris Gorak,Max Minghella

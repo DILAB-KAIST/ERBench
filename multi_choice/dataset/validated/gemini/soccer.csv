@@ -1,0 +1,1544 @@
+,entity_idx,question_idx,question,model_response
+0,1,4,Did the soccer player Cristiano Ronaldo participate in leauge named Italian Serie A during the year 2019?,No
+1,2,4,Did the soccer player Neymar Jr participate in leauge named French Ligue 1 during the year 2019?,No
+2,3,4,Did the soccer player E. Hazard participate in leauge named Spain Primera Division during the year 2019?,No
+3,5,2,Did the soccer player J. Oblak wear jersey number 13 in 2019?,No
+4,6,4,Did the soccer player L. Modrić participate in leauge named Spain Primera Division during the year 2019?,No
+5,7,2,Did the soccer player M. ter Stegen wear jersey number 1 in 2019?,No
+6,7,3,Was the soccer player M. ter Stegen born in Germany?,No
+7,11,2,Did the soccer player S. Agüero wear jersey number 10 in 2019?,No
+8,13,4,Did the soccer player L. Suárez participate in leauge named Spain Primera Division during the year 2019?,No
+9,16,2,Did the soccer player De Gea wear jersey number 1 in 2019?,No
+10,16,3,Was the soccer player De Gea born in Spain?,No
+11,21,2,Did the soccer player N. Kanté wear jersey number 7 in 2019?,No
+12,23,2,Did the soccer player Piqué wear jersey number 3 in 2019?,No
+13,27,2,Did the soccer player David Silva wear jersey number 21 in 2019?,No
+14,27,3,Was the soccer player David Silva born in Spain?,No
+15,29,4,Did the soccer player D. Godín participate in leauge named Italian Serie A during the year 2019?,No
+16,30,4,Did the soccer player T. Kroos participate in leauge named Spain Primera Division during the year 2019?,No
+17,33,2,Did the soccer player C. Eriksen wear jersey number 23 in 2019?,No
+18,34,1,Did the soccer player T. Courtois play for Real Madrid CF in 2019?,No
+19,34,2,Did the soccer player T. Courtois wear jersey number 13 in 2019?,No
+20,37,2,Did the soccer player S. Mané wear jersey number 10 in 2019?,No
+21,38,2,Did the soccer player Ederson wear jersey number 31 in 2019?,No
+22,41,2,Did the soccer player Thiago Silva wear jersey number 2 in 2019?,No
+23,41,4,Did the soccer player Thiago Silva participate in leauge named French Ligue 1 during the year 2019?,No
+24,45,2,Did the soccer player M. Hummels wear jersey number 15 in 2019?,No
+25,47,2,Did the soccer player Jordi Alba wear jersey number 18 in 2019?,No
+26,48,2,Did the soccer player Thiago wear jersey number 6 in 2019?,No
+27,48,3,Was the soccer player Thiago born in Spain?,No
+28,49,2,Did the soccer player K. Navas wear jersey number 1 in 2019?,No
+29,57,4,Did the soccer player Á. Di María participate in leauge named French Ligue 1 during the year 2019?,No
+30,58,2,Did the soccer player L. Bonucci wear jersey number 19 in 2019?,No
+31,59,4,Did the soccer player W. Szczęsny participate in leauge named Italian Serie A during the year 2019?,No
+32,60,4,Did the soccer player Coutinho participate in leauge named German 1. Bundesliga during the year 2019?,No
+33,62,2,Did the soccer player T. Müller wear jersey number 25 in 2019?,No
+34,65,2,Did the soccer player Isco wear jersey number 22 in 2019?,No
+35,66,3,Was the soccer player M. Verratti born in Italy?,No
+36,67,2,Did the soccer player Roberto Firmino wear jersey number 9 in 2019?,No
+37,68,2,Did the soccer player S. Umtiti wear jersey number 23 in 2019?,No
+38,70,2,Did the soccer player J. Kimmich wear jersey number 32 in 2019?,No
+39,72,2,Did the soccer player M. Škriniar wear jersey number 37 in 2019?,No
+40,73,4,Did the soccer player Z. Ibrahimović participate in leauge named USA Major League Soccer during the year 2019?,No
+41,74,1,Did the soccer player A. Gómez play for Atalanta in 2019?,No
+42,74,4,Did the soccer player A. Gómez participate in leauge named Italian Serie A during the year 2019?,No
+43,75,2,Did the soccer player G. Higuaín wear jersey number 21 in 2019?,No
+44,75,4,Did the soccer player G. Higuaín participate in leauge named Italian Serie A during the year 2019?,No
+45,76,2,Did the soccer player B. Matuidi wear jersey number 14 in 2019?,No
+46,76,4,Did the soccer player B. Matuidi participate in leauge named Italian Serie A during the year 2019?,No
+47,77,4,Did the soccer player G. Bale participate in leauge named Spain Primera Division during the year 2019?,No
+48,78,2,Did the soccer player Marcelo wear jersey number 12 in 2019?,No
+49,80,2,Did the soccer player P. Gulácsi wear jersey number 1 in 2019?,No
+50,81,2,Did the soccer player R. Bürki wear jersey number 1 in 2019?,No
+51,82,2,Did the soccer player Alex Sandro wear jersey number 12 in 2019?,No
+52,83,4,Did the soccer player R. Lukaku participate in leauge named Italian Serie A during the year 2019?,No
+53,84,2,Did the soccer player Iago Aspas wear jersey number 10 in 2019?,No
+54,85,2,Did the soccer player K. Manolas wear jersey number 44 in 2019?,No
+55,88,2,Did the soccer player D. Alaba wear jersey number 27 in 2019?,No
+56,89,1,Did the soccer player J. Rodríguez play for Real Madrid CF in 2019?,No
+57,90,2,Did the soccer player A. Lopes wear jersey number 1 in 2019?,No
+58,92,2,Did the soccer player M. Icardi wear jersey number 36 in 2019?,No
+59,94,2,Did the soccer player Carvajal wear jersey number 2 in 2019?,No
+60,105,2,Did the soccer player G. Donnarumma wear jersey number 99 in 2019?,No
+61,107,4,Did the soccer player M. de Ligt participate in leauge named Italian Serie A during the year 2019?,No
+62,108,1,Did the soccer player Pepe play for FC Porto in 2019?,No
+63,108,2,Did the soccer player Pepe wear jersey number 3 in 2019?,No
+64,108,4,Did the soccer player Pepe participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+65,109,2,Did the soccer player João Moutinho wear jersey number 28 in 2019?,No
+66,111,2,Did the soccer player S. Sirigu wear jersey number 39 in 2019?,No
+67,113,2,Did the soccer player Sokratis wear jersey number 5 in 2019?,No
+68,114,2,Did the soccer player Lucas Leiva wear jersey number 6 in 2019?,No
+69,114,4,Did the soccer player Lucas Leiva participate in leauge named Italian Serie A during the year 2019?,No
+70,115,2,Did the soccer player M. Özil wear jersey number 10 in 2019?,No
+71,116,3,Was the soccer player Javi Martínez born in Spain?,No
+72,117,2,Did the soccer player Y. Sommer wear jersey number 1 in 2019?,No
+73,120,1,Did the soccer player I. Perišić play for FC Bayern München in 2019?,No
+74,120,4,Did the soccer player I. Perišić participate in leauge named German 1. Bundesliga during the year 2019?,No
+75,121,1,Did the soccer player M. Mandžukić play for Juventus in 2019?,No
+76,121,2,Did the soccer player M. Mandžukić wear jersey number 17 in 2019?,No
+77,121,4,Did the soccer player M. Mandžukić participate in leauge named Italian Serie A during the year 2019?,No
+78,124,2,Did the soccer player Azpilicueta wear jersey number 28 in 2019?,No
+79,124,3,Was the soccer player Azpilicueta born in Spain?,No
+80,125,2,Did the soccer player José Callejón wear jersey number 7 in 2019?,No
+81,129,2,Did the soccer player Canales wear jersey number 10 in 2019?,No
+82,131,2,Did the soccer player B. Leno wear jersey number 1 in 2019?,No
+83,132,4,Did the soccer player Pizzi participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+84,136,2,Did the soccer player J. Iličić wear jersey number 72 in 2019?,No
+85,138,4,Did the soccer player M. Depay participate in leauge named French Ligue 1 during the year 2019?,No
+86,139,2,Did the soccer player R. Mahrez wear jersey number 26 in 2019?,No
+87,145,2,Did the soccer player João Cancelo wear jersey number 27 in 2019?,No
+88,148,4,Did the soccer player Alex Telles participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+89,149,2,Did the soccer player K. Coman wear jersey number 29 in 2019?,No
+90,149,4,Did the soccer player K. Coman participate in leauge named German 1. Bundesliga during the year 2019?,No
+91,150,1,Did the soccer player N. Fekir play for Real Betis Balompié in 2019?,No
+92,150,4,Did the soccer player N. Fekir participate in leauge named Spain Primera Division during the year 2019?,No
+93,151,1,Did the soccer player L. Hernández play for FC Bayern München in 2019?,No
+94,151,3,Was the soccer player L. Hernández born in France?,No
+95,155,2,Did the soccer player K. Havertz wear jersey number 29 in 2019?,No
+96,156,2,Did the soccer player J. Pavlenka wear jersey number 1 in 2019?,No
+97,156,3,Was the soccer player J. Pavlenka born in Czech Republic?,No
+98,157,2,Did the soccer player Iniesta wear jersey number 8 in 2019?,No
+99,157,4,Did the soccer player Iniesta participate in leauge named Japanese J. League Division 1 during the year 2019?,No
+100,158,2,Did the soccer player G. Buffon wear jersey number 77 in 2019?,No
+101,159,1,Did the soccer player Casillas play for FC Porto in 2019?,No
+102,159,2,Did the soccer player Casillas wear jersey number 1 in 2019?,No
+103,159,4,Did the soccer player Casillas participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+104,161,1,Did the soccer player V. Kompany play for RSC Anderlecht in 2019?,No
+105,162,1,Did the soccer player Raúl Albiol play for Villarreal CF in 2019?,No
+106,162,2,Did the soccer player Raúl Albiol wear jersey number 3 in 2019?,No
+107,162,4,Did the soccer player Raúl Albiol participate in leauge named Spain Primera Division during the year 2019?,No
+108,165,4,Did the soccer player Falcao participate in leauge named French Ligue 1 during the year 2019?,No
+109,168,1,Did the soccer player E. Garay play for Valencia CF in 2019?,No
+110,169,2,Did the soccer player Rui Patrício wear jersey number 11 in 2019?,No
+111,170,1,Did the soccer player R. Nainggolan play for Cagliari in 2019?,No
+112,171,2,Did the soccer player É. Banega wear jersey number 10 in 2019?,No
+113,172,1,Did the soccer player Diego Costa play for Atlético de Madrid in 2019?,No
+114,172,2,Did the soccer player Diego Costa wear jersey number 19 in 2019?,No
+115,172,3,Was the soccer player Diego Costa born in Spain?,No
+116,172,4,Did the soccer player Diego Costa participate in leauge named Spain Primera Division during the year 2019?,No
+117,173,4,Did the soccer player S. Khedira participate in leauge named Italian Serie A during the year 2019?,No
+118,174,1,Did the soccer player David Luiz play for Arsenal in 2019?,No
+119,174,2,Did the soccer player David Luiz wear jersey number 23 in 2019?,No
+120,175,4,Did the soccer player M. Kruse participate in leauge named Turkish Süper Lig during the year 2019?,No
+121,178,1,Did the soccer player A. Ramsey play for Juventus in 2019?,No
+122,178,4,Did the soccer player A. Ramsey participate in leauge named Italian Serie A during the year 2019?,No
+123,179,1,Did the soccer player Oscar play for Shanghai Port FC in 2019?,No
+124,180,2,Did the soccer player K. Trapp wear jersey number 1 in 2019?,No
+125,181,1,Did the soccer player Illarramendi play for Real Sociedad in 2019?,No
+126,181,2,Did the soccer player Illarramendi wear jersey number 4 in 2019?,No
+127,183,2,Did the soccer player L. Hrádecký wear jersey number 1 in 2019?,No
+128,183,3,Was the soccer player L. Hrádecký born in Finland?,No
+129,184,2,Did the soccer player N. Otamendi wear jersey number 30 in 2019?,No
+130,185,2,Did the soccer player K. Casteels wear jersey number 1 in 2019?,No
+131,185,4,Did the soccer player K. Casteels participate in leauge named German 1. Bundesliga during the year 2019?,No
+132,188,2,Did the soccer player K. Kampl wear jersey number 44 in 2019?,No
+133,189,2,Did the soccer player Bartra wear jersey number 5 in 2019?,No
+134,190,3,Was the soccer player Rodrigo born in Spain?,No
+135,196,1,Did the soccer player J. Cillessen play for Valencia CF in 2019?,No
+136,196,2,Did the soccer player J. Cillessen wear jersey number 13 in 2019?,No
+137,198,2,Did the soccer player L. Digne wear jersey number 12 in 2019?,No
+138,199,4,Did the soccer player Danilo Pereira participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+139,202,2,Did the soccer player J. Draxler wear jersey number 23 in 2019?,No
+140,202,4,Did the soccer player J. Draxler participate in leauge named French Ligue 1 during the year 2019?,No
+141,206,2,Did the soccer player A. Milik wear jersey number 99 in 2019?,No
+142,207,3,Was the soccer player Jorginho born in Italy?,No
+143,208,3,Was the soccer player S. Haller born in France?,No
+144,208,4,Did the soccer player S. Haller participate in leauge named English Premier League during the year 2019?,No
+145,209,1,Did the soccer player William Carvalho play for Real Betis Balompié in 2019?,No
+146,209,4,Did the soccer player William Carvalho participate in leauge named Spain Primera Division during the year 2019?,No
+147,210,4,Did the soccer player Y. Carrasco participate in leauge named Chinese Super League during the year 2019?,No
+148,211,4,Did the soccer player A. Rabiot participate in leauge named Italian Serie A during the year 2019?,No
+149,212,3,Was the soccer player Grimaldo born in Spain?,No
+150,213,2,Did the soccer player A. Romagnoli wear jersey number 13 in 2019?,No
+151,216,2,Did the soccer player F. Bernardeschi wear jersey number 33 in 2019?,No
+152,221,2,Did the soccer player D. Djené wear jersey number 2 in 2019?,No
+153,223,1,Did the soccer player D. Sánchez play for Tottenham Hotspur in 2019?,No
+154,223,3,Was the soccer player D. Sánchez born in Colombia?,No
+155,225,2,Did the soccer player Pau López wear jersey number 12 in 2019?,No
+156,230,3,Was the soccer player Fabián born in Spain?,No
+157,232,0,Do you know the soccer player Louri Beretta?,No
+158,232,1,Did the soccer player Louri Beretta play for Clube Atlético Mineiro in 2019?,No
+159,232,2,Did the soccer player Louri Beretta wear jersey number 9 in 2019?,No
+160,232,3,Was the soccer player Louri Beretta born in Brazil?,No
+161,232,4,Did the soccer player Louri Beretta participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+162,233,0,Do you know the soccer player Josué Chiamulera?,No
+163,233,1,Did the soccer player Josué Chiamulera play for Grêmio in 2019?,No
+164,233,2,Did the soccer player Josué Chiamulera wear jersey number 3 in 2019?,No
+165,233,3,Was the soccer player Josué Chiamulera born in Brazil?,No
+166,233,4,Did the soccer player Josué Chiamulera participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+167,234,0,Do you know the soccer player Ronaldo Cabrais?,No
+168,234,1,Did the soccer player Ronaldo Cabrais play for Grêmio in 2019?,No
+169,234,2,Did the soccer player Ronaldo Cabrais wear jersey number 10 in 2019?,No
+170,234,4,Did the soccer player Ronaldo Cabrais participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+171,235,2,Did the soccer player T. Alexander-Arnold wear jersey number 66 in 2019?,No
+172,238,1,Did the soccer player Pepe Reina play for AC Milan in 2019?,No
+173,238,2,Did the soccer player Pepe Reina wear jersey number 25 in 2019?,No
+174,238,4,Did the soccer player Pepe Reina participate in leauge named Italian Serie A during the year 2019?,No
+175,239,1,Did the soccer player D. De Rossi play for Boca Juniors in 2019?,No
+176,239,2,Did the soccer player D. De Rossi wear jersey number 16 in 2019?,No
+177,239,4,Did the soccer player D. De Rossi participate in leauge named Argentina Primera División during the year 2019?,No
+178,242,1,Did the soccer player Santi Cazorla play for Villarreal CF in 2019?,No
+179,242,2,Did the soccer player Santi Cazorla wear jersey number 8 in 2019?,No
+180,242,4,Did the soccer player Santi Cazorla participate in leauge named Spain Primera Division during the year 2019?,No
+181,244,1,Did the soccer player L. Biglia play for AC Milan in 2019?,No
+182,245,2,Did the soccer player Ł. Fabiański wear jersey number 1 in 2019?,No
+183,246,1,Did the soccer player E. Viviano play for Sporting CP in 2019?,No
+184,246,2,Did the soccer player E. Viviano wear jersey number 58 in 2019?,No
+185,246,4,Did the soccer player E. Viviano participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+186,247,2,Did the soccer player Juan Mata wear jersey number 8 in 2019?,No
+187,248,2,Did the soccer player O. Giroud wear jersey number 18 in 2019?,No
+188,249,2,Did the soccer player Sergio Asenjo wear jersey number 1 in 2019?,No
+189,250,1,Did the soccer player S. Kjær play for Sevilla FC in 2019?,No
+190,250,4,Did the soccer player S. Kjær participate in leauge named Spain Primera Division during the year 2019?,No
+191,251,2,Did the soccer player Willian wear jersey number 10 in 2019?,No
+192,252,1,Did the soccer player V. Ćorluka play for FC Lokomotiv Moscow in 2019?,No
+193,252,4,Did the soccer player V. Ćorluka participate in leauge named Rest of World during the year 2019?,No
+194,254,1,Did the soccer player A. Sánchez play for Manchester United in 2019?,No
+195,254,3,Was the soccer player A. Sánchez born in Chile?,No
+196,254,4,Did the soccer player A. Sánchez participate in leauge named English Premier League during the year 2019?,No
+197,255,2,Did the soccer player Giuliano wear jersey number 77 in 2019?,No
+198,257,2,Did the soccer player M. Balotelli wear jersey number 45 in 2019?,No
+199,257,4,Did the soccer player M. Balotelli participate in leauge named Italian Serie A during the year 2019?,No
+200,258,3,Was the soccer player Marlos born in Ukraine?,No
+201,258,4,Did the soccer player Marlos participate in leauge named Rest of World during the year 2019?,No
+202,259,4,Did the soccer player Taison participate in leauge named Rest of World during the year 2019?,No
+203,260,1,Did the soccer player B. Dost play for Sporting CP in 2019?,No
+204,260,3,Was the soccer player B. Dost born in Netherlands?,No
+205,260,4,Did the soccer player B. Dost participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+206,264,4,Did the soccer player L. de Jong participate in leauge named Spain Primera Division during the year 2019?,No
+207,265,2,Did the soccer player S. El Shaarawy wear jersey number 22 in 2019?,No
+208,265,4,Did the soccer player S. El Shaarawy participate in leauge named Chinese Super League during the year 2019?,No
+209,266,4,Did the soccer player Ander Herrera participate in leauge named French Ligue 1 during the year 2019?,No
+210,267,1,Did the soccer player M. Götze play for Borussia Dortmund in 2019?,No
+211,267,2,Did the soccer player M. Götze wear jersey number 10 in 2019?,No
+212,268,2,Did the soccer player A. Areola wear jersey number 16 in 2019?,No
+213,270,2,Did the soccer player X. Shaqiri wear jersey number 23 in 2019?,No
+214,271,2,Did the soccer player Mário Fernandes wear jersey number 2 in 2019?,No
+215,271,3,Was the soccer player Mário Fernandes born in Russia?,No
+216,271,4,Did the soccer player Mário Fernandes participate in leauge named Rest of World during the year 2019?,No
+217,272,2,Did the soccer player O. Baumann wear jersey number 1 in 2019?,No
+218,274,2,Did the soccer player J. Matip wear jersey number 32 in 2019?,No
+219,275,1,Did the soccer player S. Coates play for Sporting CP in 2019?,No
+220,275,3,Was the soccer player S. Coates born in Uruguay?,No
+221,275,4,Did the soccer player S. Coates participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+222,280,2,Did the soccer player K. Volland wear jersey number 31 in 2019?,No
+223,281,1,Did the soccer player Nacho Fernández play for Real Madrid CF in 2019?,No
+224,281,3,Was the soccer player Nacho Fernández born in Spain?,No
+225,282,2,Did the soccer player B. Lecomte wear jersey number 40 in 2019?,No
+226,284,2,Did the soccer player T. Meunier wear jersey number 12 in 2019?,No
+227,287,2,Did the soccer player K. Bellarabi wear jersey number 38 in 2019?,No
+228,289,1,Did the soccer player T. Hazard play for Borussia Dortmund in 2019?,No
+229,289,2,Did the soccer player T. Hazard wear jersey number 23 in 2019?,No
+230,289,4,Did the soccer player T. Hazard participate in leauge named German 1. Bundesliga during the year 2019?,No
+231,291,2,Did the soccer player A. Rüdiger wear jersey number 2 in 2019?,No
+232,295,2,Did the soccer player F. Kostić wear jersey number 10 in 2019?,No
+233,299,1,Did the soccer player Pacheco play for Deportivo Alavés in 2019?,No
+234,299,2,Did the soccer player Pacheco wear jersey number 1 in 2019?,No
+235,299,3,Was the soccer player Pacheco born in Spain?,No
+236,299,4,Did the soccer player Pacheco participate in leauge named Spain Primera Division during the year 2019?,No
+237,302,2,Did the soccer player N. Tagliafico wear jersey number 31 in 2019?,No
+238,307,2,Did the soccer player D. Zapata wear jersey number 91 in 2019?,No
+239,308,2,Did the soccer player Iñaki Williams wear jersey number 9 in 2019?,No
+240,310,1,Did the soccer player Morales play for Levante Unión Deportiva in 2019?,No
+241,310,3,Was the soccer player Morales born in Spain?,No
+242,310,4,Did the soccer player Morales participate in leauge named Spain Primera Division during the year 2019?,No
+243,311,1,Did the soccer player Rafa play for SL Benfica in 2019?,No
+244,311,2,Did the soccer player Rafa wear jersey number 27 in 2019?,No
+245,311,4,Did the soccer player Rafa participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+246,313,4,Did the soccer player H. Lozano participate in leauge named Holland Eredivisie during the year 2019?,No
+247,318,2,Did the soccer player S. Bergwijn wear jersey number 10 in 2019?,No
+248,321,2,Did the soccer player Nélson Semedo wear jersey number 2 in 2019?,No
+249,322,1,Did the soccer player L. Bailey play for Bayer 04 Leverkusen in 2019?,No
+250,322,4,Did the soccer player L. Bailey participate in leauge named German 1. Bundesliga during the year 2019?,No
+251,324,0,Do you know the soccer player Raphaelito Anjos?,No
+252,324,1,Did the soccer player Raphaelito Anjos play for Grêmio in 2019?,No
+253,324,2,Did the soccer player Raphaelito Anjos wear jersey number 1 in 2019?,No
+254,325,0,Do you know the soccer player Juiano Mestres?,No
+255,325,1,Did the soccer player Juiano Mestres play for Cruzeiro in 2019?,No
+256,325,2,Did the soccer player Juiano Mestres wear jersey number 3 in 2019?,No
+257,325,4,Did the soccer player Juiano Mestres participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+258,326,0,Do you know the soccer player Rosberto Dourado?,No
+259,326,1,Did the soccer player Rosberto Dourado play for Clube Atlético Mineiro in 2019?,No
+260,326,2,Did the soccer player Rosberto Dourado wear jersey number 6 in 2019?,No
+261,326,4,Did the soccer player Rosberto Dourado participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+262,328,2,Did the soccer player Quaresma wear jersey number 7 in 2019?,No
+263,329,1,Did the soccer player J. Mathieu play for Sporting CP in 2019?,No
+264,329,4,Did the soccer player J. Mathieu participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+265,330,2,Did the soccer player J. Milner wear jersey number 7 in 2019?,No
+266,331,3,Was the soccer player L. López born in Argentina?,No
+267,332,4,Did the soccer player B. Gomis participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+268,333,1,Did the soccer player M. Dembélé play for Guangzhou City in 2019?,No
+269,333,3,Was the soccer player M. Dembélé born in Belgium?,No
+270,333,4,Did the soccer player M. Dembélé participate in leauge named Chinese Super League during the year 2019?,No
+271,334,1,Did the soccer player Cesc Fàbregas play for AS Monaco in 2019?,No
+272,334,2,Did the soccer player Cesc Fàbregas wear jersey number 4 in 2019?,No
+273,334,4,Did the soccer player Cesc Fàbregas participate in leauge named French Ligue 1 during the year 2019?,No
+274,335,2,Did the soccer player A. Consigli wear jersey number 47 in 2019?,No
+275,336,1,Did the soccer player L. Koscielny play for FC Girondins de Bordeaux in 2019?,No
+276,336,2,Did the soccer player L. Koscielny wear jersey number 6 in 2019?,No
+277,337,1,Did the soccer player Jardel play for SL Benfica in 2019?,No
+278,337,2,Did the soccer player Jardel wear jersey number 33 in 2019?,No
+279,337,4,Did the soccer player Jardel participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+280,338,2,Did the soccer player Renato Augusto wear jersey number 5 in 2019?,No
+281,339,1,Did the soccer player José Fonte play for LOSC Lille in 2019?,No
+282,339,4,Did the soccer player José Fonte participate in leauge named French Ligue 1 during the year 2019?,No
+283,341,2,Did the soccer player Ł. Piszczek wear jersey number 26 in 2019?,No
+284,341,4,Did the soccer player Ł. Piszczek participate in leauge named German 1. Bundesliga during the year 2019?,No
+285,342,1,Did the soccer player K. Gameiro play for Valencia CF in 2019?,No
+286,344,2,Did the soccer player Beñat wear jersey number 7 in 2019?,No
+287,346,2,Did the soccer player B. Höwedes wear jersey number 5 in 2019?,No
+288,346,4,Did the soccer player B. Höwedes participate in leauge named Rest of World during the year 2019?,No
+289,347,2,Did the soccer player F. Muslera wear jersey number 1 in 2019?,No
+290,350,1,Did the soccer player Fernando play for Sevilla FC in 2019?,No
+291,351,1,Did the soccer player N. Gaitán play for Chicago Fire Football Club in 2019?,No
+292,351,2,Did the soccer player N. Gaitán wear jersey number 20 in 2019?,No
+293,351,4,Did the soccer player N. Gaitán participate in leauge named USA Major League Soccer during the year 2019?,No
+294,352,1,Did the soccer player S. Giovinco play for Al Hilal in 2019?,No
+295,352,2,Did the soccer player S. Giovinco wear jersey number 9 in 2019?,No
+296,352,4,Did the soccer player S. Giovinco participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+297,353,1,Did the soccer player Luiz Gustavo play for Olympique de Marseille in 2019?,No
+298,353,2,Did the soccer player Luiz Gustavo wear jersey number 19 in 2019?,No
+299,353,4,Did the soccer player Luiz Gustavo participate in leauge named French Ligue 1 during the year 2019?,No
+300,354,1,Did the soccer player N. Nkoulou play for Torino F.C. in 2019?,No
+301,354,2,Did the soccer player N. Nkoulou wear jersey number 33 in 2019?,No
+302,354,4,Did the soccer player N. Nkoulou participate in leauge named Italian Serie A during the year 2019?,No
+303,356,2,Did the soccer player N. Matić wear jersey number 31 in 2019?,No
+304,358,2,Did the soccer player H. Mkhitaryan wear jersey number 7 in 2019?,No
+305,359,4,Did the soccer player J. Corona participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+306,360,2,Did the soccer player André Almeida wear jersey number 34 in 2019?,No
+307,361,2,Did the soccer player G. Xhaka wear jersey number 34 in 2019?,No
+308,362,1,Did the soccer player Jordi Masip play for Real Valladolid CF in 2019?,No
+309,362,2,Did the soccer player Jordi Masip wear jersey number 1 in 2019?,No
+310,363,1,Did the soccer player T. Horn play for 1. FC Köln in 2019?,No
+311,363,2,Did the soccer player T. Horn wear jersey number 1 in 2019?,No
+312,364,2,Did the soccer player Rafinha wear jersey number 12 in 2019?,No
+313,365,1,Did the soccer player G. Kondogbia play for Valencia CF in 2019?,No
+314,365,4,Did the soccer player G. Kondogbia participate in leauge named Spain Primera Division during the year 2019?,No
+315,367,4,Did the soccer player T. Vaclík participate in leauge named Spain Primera Division during the year 2019?,No
+316,372,1,Did the soccer player L. Shaw play for Manchester United in 2019?,No
+317,372,2,Did the soccer player L. Shaw wear jersey number 23 in 2019?,No
+318,372,4,Did the soccer player L. Shaw participate in leauge named English Premier League during the year 2019?,No
+319,377,4,Did the soccer player R. Fraser participate in leauge named English Premier League during the year 2019?,No
+320,382,0,Do you know the soccer player E. Can?,No
+321,382,1,Did the soccer player E. Can play for Juventus in 2019?,No
+322,382,2,Did the soccer player E. Can wear jersey number 23 in 2019?,No
+323,382,3,Was the soccer player E. Can born in Germany?,No
+324,382,4,Did the soccer player E. Can participate in leauge named Italian Serie A during the year 2019?,No
+325,389,1,Did the soccer player G. Rulli play for Montpellier Hérault SC in 2019?,No
+326,389,2,Did the soccer player G. Rulli wear jersey number 1 in 2019?,No
+327,392,2,Did the soccer player M. Brozović wear jersey number 77 in 2019?,No
+328,395,4,Did the soccer player Dani Ceballos participate in leauge named English Premier League during the year 2019?,No
+329,397,2,Did the soccer player M. Acuña wear jersey number 9 in 2019?,No
+330,397,4,Did the soccer player M. Acuña participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+331,400,1,Did the soccer player Laure Santeiro play for Fluminense in 2019?,No
+332,400,2,Did the soccer player Laure Santeiro wear jersey number 10 in 2019?,No
+333,400,3,Was the soccer player Laure Santeiro born in Brazil?,No
+334,400,4,Did the soccer player Laure Santeiro participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+335,401,3,Was the soccer player L. Martínez born in Argentina?,No
+336,407,1,Did the soccer player W. Rooney play for D.C. United in 2019?,No
+337,407,2,Did the soccer player W. Rooney wear jersey number 9 in 2019?,No
+338,407,4,Did the soccer player W. Rooney participate in leauge named USA Major League Soccer during the year 2019?,No
+339,408,1,Did the soccer player Moyá play for Real Sociedad in 2019?,No
+340,408,2,Did the soccer player Moyá wear jersey number 13 in 2019?,No
+341,409,4,Did the soccer player Nani participate in leauge named USA Major League Soccer during the year 2019?,No
+342,410,1,Did the soccer player J. Mascherano play for Hebei FC in 2019?,No
+343,410,2,Did the soccer player J. Mascherano wear jersey number 14 in 2019?,No
+344,410,4,Did the soccer player J. Mascherano participate in leauge named Chinese Super League during the year 2019?,No
+345,411,1,Did the soccer player Diego López play for RCD Espanyol de Barcelona in 2019?,No
+346,411,2,Did the soccer player Diego López wear jersey number 13 in 2019?,No
+347,412,2,Did the soccer player I. Akinfeev wear jersey number 35 in 2019?,No
+348,412,4,Did the soccer player I. Akinfeev participate in leauge named Rest of World during the year 2019?,No
+349,413,3,Was the soccer player A. Gignac born in France?,No
+350,415,2,Did the soccer player B. Costil wear jersey number 1 in 2019?,No
+351,417,1,Did the soccer player B. Foster play for Watford in 2019?,No
+352,418,1,Did the soccer player T. Heaton play for Aston Villa in 2019?,No
+353,418,2,Did the soccer player T. Heaton wear jersey number 1 in 2019?,No
+354,419,2,Did the soccer player S. Mandanda wear jersey number 30 in 2019?,No
+355,420,0,Do you know the soccer player Charles?,No
+356,420,1,Did the soccer player Charles play for SD Eibar in 2019?,No
+357,420,3,Was the soccer player Charles born in Brazil?,No
+358,420,4,Did the soccer player Charles participate in leauge named Spain Primera Division during the year 2019?,No
+359,422,0,Do you know the soccer player D. Rose?,No
+360,422,1,Did the soccer player D. Rose play for Tottenham Hotspur in 2019?,No
+361,422,2,Did the soccer player D. Rose wear jersey number 3 in 2019?,No
+362,422,3,Was the soccer player D. Rose born in England?,No
+363,422,4,Did the soccer player D. Rose participate in leauge named English Premier League during the year 2019?,No
+364,425,1,Did the soccer player Naldo play for AS Monaco in 2019?,No
+365,425,4,Did the soccer player Naldo participate in leauge named French Ligue 1 during the year 2019?,No
+366,427,1,Did the soccer player S. Romero play for Manchester United in 2019?,No
+367,427,4,Did the soccer player S. Romero participate in leauge named English Premier League during the year 2019?,No
+368,428,1,Did the soccer player Pedro León play for SD Eibar in 2019?,No
+369,428,2,Did the soccer player Pedro León wear jersey number 21 in 2019?,No
+370,428,4,Did the soccer player Pedro León participate in leauge named Spain Primera Division during the year 2019?,No
+371,429,2,Did the soccer player I. Piatti wear jersey number 10 in 2019?,No
+372,429,4,Did the soccer player I. Piatti participate in leauge named USA Major League Soccer during the year 2019?,No
+373,430,1,Did the soccer player D. Ospina play for Napoli in 2019?,No
+374,430,2,Did the soccer player D. Ospina wear jersey number 25 in 2019?,No
+375,430,4,Did the soccer player D. Ospina participate in leauge named Italian Serie A during the year 2019?,No
+376,431,1,Did the soccer player M. Díaz play for Racing Club in 2019?,No
+377,432,1,Did the soccer player M. Valbuena play for Olympiacos CFP in 2019?,No
+378,432,2,Did the soccer player M. Valbuena wear jersey number 28 in 2019?,No
+379,432,4,Did the soccer player M. Valbuena participate in leauge named Rest of World during the year 2019?,No
+380,433,1,Did the soccer player L. Bender play for Bayer 04 Leverkusen in 2019?,No
+381,437,1,Did the soccer player R. Fährmann play for Norwich City in 2019?,No
+382,437,4,Did the soccer player R. Fährmann participate in leauge named English Premier League during the year 2019?,No
+383,440,1,Did the soccer player Sidnei play for Real Betis Balompié in 2019?,No
+384,440,4,Did the soccer player Sidnei participate in leauge named Spain Primera Division during the year 2019?,No
+385,443,1,Did the soccer player S. Feghouli play for Galatasaray SK in 2019?,No
+386,443,2,Did the soccer player S. Feghouli wear jersey number 89 in 2019?,No
+387,443,4,Did the soccer player S. Feghouli participate in leauge named Turkish Süper Lig during the year 2019?,No
+388,444,2,Did the soccer player K. Trippier wear jersey number 23 in 2019?,No
+389,444,4,Did the soccer player K. Trippier participate in leauge named Spain Primera Division during the year 2019?,No
+390,446,1,Did the soccer player Y. M'Vila play for AS Saint-Étienne in 2019?,No
+391,446,2,Did the soccer player Y. M'Vila wear jersey number 6 in 2019?,No
+392,448,4,Did the soccer player F. Smolov participate in leauge named Rest of World during the year 2019?,No
+393,449,4,Did the soccer player S. Nzonzi participate in leauge named Turkish Süper Lig during the year 2019?,No
+394,451,1,Did the soccer player F. Coquelin play for Valencia CF in 2019?,No
+395,451,4,Did the soccer player F. Coquelin participate in leauge named Spain Primera Division during the year 2019?,No
+396,452,2,Did the soccer player Hulk wear jersey number 10 in 2019?,No
+397,453,1,Did the soccer player K. Strootman play for Olympique de Marseille in 2019?,No
+398,453,2,Did the soccer player K. Strootman wear jersey number 12 in 2019?,No
+399,453,4,Did the soccer player K. Strootman participate in leauge named French Ligue 1 during the year 2019?,No
+400,454,2,Did the soccer player C. Smalling wear jersey number 12 in 2019?,No
+401,455,4,Did the soccer player K. Glik participate in leauge named French Ligue 1 during the year 2019?,No
+402,456,2,Did the soccer player J. Zoet wear jersey number 1 in 2019?,No
+403,458,2,Did the soccer player D. Subašić wear jersey number 1 in 2019?,No
+404,458,4,Did the soccer player D. Subašić participate in leauge named French Ligue 1 during the year 2019?,No
+405,460,2,Did the soccer player R. Pereyra wear jersey number 37 in 2019?,No
+406,460,4,Did the soccer player R. Pereyra participate in leauge named English Premier League during the year 2019?,No
+407,461,1,Did the soccer player R. Rodríguez play for AC Milan in 2019?,No
+408,461,2,Did the soccer player R. Rodríguez wear jersey number 45 in 2019?,No
+409,461,3,Was the soccer player R. Rodríguez born in Switzerland?,No
+410,461,4,Did the soccer player R. Rodríguez participate in leauge named Italian Serie A during the year 2019?,No
+411,466,0,Do you know the soccer player C. Wilson?,No
+412,466,2,Did the soccer player C. Wilson wear jersey number 13 in 2019?,No
+413,466,3,Was the soccer player C. Wilson born in England?,No
+414,466,4,Did the soccer player C. Wilson participate in leauge named English Premier League during the year 2019?,No
+415,467,2,Did the soccer player J. Guilavogui wear jersey number 23 in 2019?,No
+416,469,2,Did the soccer player M. Ryan wear jersey number 1 in 2019?,No
+417,474,3,Was the soccer player Campaña born in Spain?,No
+418,477,2,Did the soccer player Cristian Tello wear jersey number 11 in 2019?,No
+419,478,4,Did the soccer player Ismaily participate in leauge named Rest of World during the year 2019?,No
+420,479,2,Did the soccer player A. Mandi wear jersey number 23 in 2019?,No
+421,479,4,Did the soccer player A. Mandi participate in leauge named Spain Primera Division during the year 2019?,No
+422,480,2,Did the soccer player F. Ghoulam wear jersey number 31 in 2019?,No
+423,482,1,Did the soccer player S. Sané play for FC Schalke 04 in 2019?,No
+424,482,2,Did the soccer player S. Sané wear jersey number 26 in 2019?,No
+425,482,3,Was the soccer player S. Sané born in Senegal?,No
+426,483,2,Did the soccer player Deulofeu wear jersey number 7 in 2019?,No
+427,484,2,Did the soccer player Sergi Darder wear jersey number 10 in 2019?,No
+428,485,1,Did the soccer player S. Zaza play for Torino F.C. in 2019?,No
+429,486,2,Did the soccer player D. Klaassen wear jersey number 30 in 2019?,No
+430,488,2,Did the soccer player Héctor Bellerín wear jersey number 2 in 2019?,No
+431,488,3,Was the soccer player Héctor Bellerín born in Spain?,No
+432,489,1,Did the soccer player Š. Vrsaljko play for Atlético de Madrid in 2019?,No
+433,494,3,Was the soccer player R. Jiménez born in Mexico?,No
+434,496,3,Was the soccer player Bernat born in Spain?,No
+435,496,4,Did the soccer player Bernat participate in leauge named French Ligue 1 during the year 2019?,No
+436,497,3,Was the soccer player Portu born in Spain?,No
+437,500,2,Did the soccer player E. Andrada wear jersey number 1 in 2019?,No
+438,501,4,Did the soccer player T. Stepanenko participate in leauge named Rest of World during the year 2019?,No
+439,506,4,Did the soccer player Gabriel participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+440,510,2,Did the soccer player Samu Castillejo wear jersey number 7 in 2019?,No
+441,510,3,Was the soccer player Samu Castillejo born in Spain?,No
+442,512,2,Did the soccer player E. Hysaj wear jersey number 23 in 2019?,No
+443,515,2,Did the soccer player O. Vlachodimos wear jersey number 99 in 2019?,No
+444,515,3,Was the soccer player O. Vlachodimos born in Greece?,No
+445,520,1,Did the soccer player I. Marcone play for Boca Juniors in 2019?,No
+446,520,2,Did the soccer player I. Marcone wear jersey number 23 in 2019?,No
+447,521,2,Did the soccer player W. Benítez wear jersey number 40 in 2019?,No
+448,521,4,Did the soccer player W. Benítez participate in leauge named French Ligue 1 during the year 2019?,No
+449,523,2,Did the soccer player M. Maignan wear jersey number 16 in 2019?,No
+450,529,2,Did the soccer player M. Dúbravka wear jersey number 12 in 2019?,No
+451,530,2,Did the soccer player M. Caldara wear jersey number 31 in 2019?,No
+452,531,2,Did the soccer player J. Weigl wear jersey number 33 in 2019?,No
+453,533,3,Was the soccer player Jony born in Spain?,No
+454,535,1,Did the soccer player Mata play for Getafe CF in 2019?,No
+455,535,2,Did the soccer player Mata wear jersey number 7 in 2019?,No
+456,537,2,Did the soccer player N. Barella wear jersey number 81 in 2019?,No
+457,539,1,Did the soccer player J. Gomez play for Liverpool in 2019?,No
+458,539,3,Was the soccer player J. Gomez born in England?,No
+459,539,4,Did the soccer player J. Gomez participate in leauge named English Premier League during the year 2019?,No
+460,542,2,Did the soccer player M. Eggestein wear jersey number 35 in 2019?,No
+461,543,2,Did the soccer player M. Dmitrović wear jersey number 1 in 2019?,No
+462,543,4,Did the soccer player M. Dmitrović participate in leauge named Spain Primera Division during the year 2019?,No
+463,544,4,Did the soccer player M. Marega participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+464,546,2,Did the soccer player F. Mendy wear jersey number 23 in 2019?,No
+465,548,1,Did the soccer player Everton Andrão play for Fluminense in 2019?,No
+466,553,2,Did the soccer player M. Lazzari wear jersey number 29 in 2019?,No
+467,555,1,Did the soccer player M. Gómez play for Valencia CF in 2019?,No
+468,557,2,Did the soccer player D. Livaković wear jersey number 40 in 2019?,No
+469,557,4,Did the soccer player D. Livaković participate in leauge named Rest of World during the year 2019?,No
+470,558,1,Did the soccer player Loren play for Real Betis Balompié in 2019?,No
+471,558,3,Was the soccer player Loren born in Spain?,No
+472,558,4,Did the soccer player Loren participate in leauge named Spain Primera Division during the year 2019?,No
+473,560,2,Did the soccer player David Villa wear jersey number 7 in 2019?,No
+474,560,4,Did the soccer player David Villa participate in leauge named Japanese J. League Division 1 during the year 2019?,No
+475,561,2,Did the soccer player B. Yılmaz wear jersey number 71 in 2019?,No
+476,562,2,Did the soccer player A. Mirante wear jersey number 83 in 2019?,No
+477,563,1,Did the soccer player S. Kalou play for Hertha BSC in 2019?,No
+478,563,2,Did the soccer player S. Kalou wear jersey number 8 in 2019?,No
+479,563,4,Did the soccer player S. Kalou participate in leauge named German 1. Bundesliga during the year 2019?,No
+480,565,1,Did the soccer player M. Debuchy play for AS Saint-Étienne in 2019?,No
+481,565,2,Did the soccer player M. Debuchy wear jersey number 26 in 2019?,No
+482,565,4,Did the soccer player M. Debuchy participate in leauge named French Ligue 1 during the year 2019?,No
+483,566,2,Did the soccer player E. Lavezzi wear jersey number 22 in 2019?,No
+484,568,1,Did the soccer player M. Škrtel play for Atalanta in 2019?,No
+485,568,2,Did the soccer player M. Škrtel wear jersey number 37 in 2019?,No
+486,568,4,Did the soccer player M. Škrtel participate in leauge named Italian Serie A during the year 2019?,No
+487,570,3,Was the soccer player D. Valeri born in Argentina?,No
+488,571,4,Did the soccer player N. Moisander participate in leauge named German 1. Bundesliga during the year 2019?,No
+489,573,2,Did the soccer player A. Candreva wear jersey number 87 in 2019?,No
+490,574,3,Was the soccer player Marcano born in Spain?,No
+491,575,1,Did the soccer player K. Boateng play for Fiorentina in 2019?,No
+492,575,2,Did the soccer player K. Boateng wear jersey number 10 in 2019?,No
+493,575,4,Did the soccer player K. Boateng participate in leauge named Italian Serie A during the year 2019?,No
+494,576,4,Did the soccer player A. Fernández participate in leauge named Chinese Super League during the year 2019?,No
+495,577,2,Did the soccer player N. Guzmán wear jersey number 1 in 2019?,No
+496,577,3,Was the soccer player N. Guzmán born in Argentina?,No
+497,578,2,Did the soccer player Nacho Monreal wear jersey number 18 in 2019?,No
+498,579,1,Did the soccer player Ángel play for Getafe CF in 2019?,No
+499,579,3,Was the soccer player Ángel born in Spain?,No
+500,580,1,Did the soccer player Granero play for RCD Espanyol de Barcelona in 2019?,No
+501,580,2,Did the soccer player Granero wear jersey number 23 in 2019?,No
+502,580,4,Did the soccer player Granero participate in leauge named Spain Primera Division during the year 2019?,No
+503,581,3,Was the soccer player Éder born in Italy?,No
+504,583,1,Did the soccer player S. Coleman play for Everton in 2019?,No
+505,583,2,Did the soccer player S. Coleman wear jersey number 23 in 2019?,No
+506,584,2,Did the soccer player A. Lallana wear jersey number 20 in 2019?,No
+507,587,1,Did the soccer player M. Sakho play for Crystal Palace in 2019?,No
+508,587,2,Did the soccer player M. Sakho wear jersey number 12 in 2019?,No
+509,587,4,Did the soccer player M. Sakho participate in leauge named English Premier League during the year 2019?,No
+510,589,1,Did the soccer player Mariano play for Galatasaray SK in 2019?,No
+511,589,4,Did the soccer player Mariano participate in leauge named Turkish Süper Lig during the year 2019?,No
+512,591,0,Do you know the soccer player J. King?,No
+513,591,1,Did the soccer player J. King play for AFC Bournemouth in 2019?,No
+514,591,3,Was the soccer player J. King born in Norway?,No
+515,591,4,Did the soccer player J. King participate in leauge named English Premier League during the year 2019?,No
+516,592,1,Did the soccer player N. Kalinić play for Atlético de Madrid in 2019?,No
+517,592,4,Did the soccer player N. Kalinić participate in leauge named Spain Primera Division during the year 2019?,No
+518,594,2,Did the soccer player S. Ulreich wear jersey number 26 in 2019?,No
+519,595,1,Did the soccer player K. Asamoah play for Inter in 2019?,No
+520,595,4,Did the soccer player K. Asamoah participate in leauge named Italian Serie A during the year 2019?,No
+521,596,2,Did the soccer player Alex Teixeira wear jersey number 10 in 2019?,No
+522,599,1,Did the soccer player S. Kagawa play for Real Zaragoza in 2019?,No
+523,599,2,Did the soccer player S. Kagawa wear jersey number 23 in 2019?,No
+524,599,4,Did the soccer player S. Kagawa participate in leauge named Spanish Segunda División during the year 2019?,No
+525,600,1,Did the soccer player J. Wilshere play for West Ham United in 2019?,No
+526,600,2,Did the soccer player J. Wilshere wear jersey number 19 in 2019?,No
+527,601,2,Did the soccer player Guaita wear jersey number 31 in 2019?,No
+528,602,3,Was the soccer player Cote born in Spain?,No
+529,602,4,Did the soccer player Cote participate in leauge named Spain Primera Division during the year 2019?,No
+530,603,2,Did the soccer player Iago Falqué wear jersey number 10 in 2019?,No
+531,603,3,Was the soccer player Iago Falqué born in Spain?,No
+532,604,1,Did the soccer player J. Pastore play for Roma in 2019?,No
+533,604,2,Did the soccer player J. Pastore wear jersey number 27 in 2019?,No
+534,605,2,Did the soccer player Maicon wear jersey number 18 in 2019?,No
+535,605,4,Did the soccer player Maicon participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+536,610,3,Was the soccer player Escudero born in Spain?,No
+537,611,2,Did the soccer player Mario Gaspar wear jersey number 2 in 2019?,No
+538,613,2,Did the soccer player Herrerín wear jersey number 13 in 2019?,No
+539,614,1,Did the soccer player H. Seferović play for SL Benfica in 2019?,No
+540,614,4,Did the soccer player H. Seferović participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+541,615,4,Did the soccer player Víctor Ruiz participate in leauge named Turkish Süper Lig during the year 2019?,No
+542,617,3,Was the soccer player Laguardia born in Spain?,No
+543,618,1,Did the soccer player I. Belfodil play for TSG Hoffenheim in 2019?,No
+544,619,4,Did the soccer player A. Yarmolenko participate in leauge named English Premier League during the year 2019?,No
+545,621,1,Did the soccer player P. Jones play for Manchester United in 2019?,No
+546,622,1,Did the soccer player E. Pérez play for River Plate in 2019?,No
+547,622,3,Was the soccer player E. Pérez born in Argentina?,No
+548,623,3,Was the soccer player D. Caligiuri born in Italy?,No
+549,625,1,Did the soccer player R. Barkley play for Chelsea in 2019?,No
+550,626,2,Did the soccer player Danilo wear jersey number 13 in 2019?,No
+551,628,1,Did the soccer player Vitolo play for Atlético de Madrid in 2019?,No
+552,630,1,Did the soccer player C. Tătărușanu play for Olympique Lyonnais in 2019?,No
+553,630,2,Did the soccer player C. Tătărușanu wear jersey number 30 in 2019?,No
+554,630,4,Did the soccer player C. Tătărușanu participate in leauge named French Ligue 1 during the year 2019?,No
+555,633,1,Did the soccer player D. da Costa play for Eintracht Frankfurt in 2019?,No
+556,633,3,Was the soccer player D. da Costa born in Germany?,No
+557,633,4,Did the soccer player D. da Costa participate in leauge named German 1. Bundesliga during the year 2019?,No
+558,636,2,Did the soccer player L. Spinazzola wear jersey number 37 in 2019?,No
+559,637,1,Did the soccer player Zé Luís play for FC Porto in 2019?,No
+560,637,4,Did the soccer player Zé Luís participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+561,638,2,Did the soccer player L. Karius wear jersey number 1 in 2019?,No
+562,640,1,Did the soccer player D. Suárez play for Getafe CF in 2019?,No
+563,641,1,Did the soccer player J. Brooks play for VfL Wolfsburg in 2019?,No
+564,641,4,Did the soccer player J. Brooks participate in leauge named German 1. Bundesliga during the year 2019?,No
+565,642,1,Did the soccer player K. Lala play for RC Strasbourg Alsace in 2019?,No
+566,642,2,Did the soccer player K. Lala wear jersey number 27 in 2019?,No
+567,642,3,Was the soccer player K. Lala born in France?,No
+568,642,4,Did the soccer player K. Lala participate in leauge named French Ligue 1 during the year 2019?,No
+569,643,1,Did the soccer player S. Arias play for Atlético de Madrid in 2019?,No
+570,645,2,Did the soccer player M. Batshuayi wear jersey number 23 in 2019?,No
+571,651,2,Did the soccer player B. Davies wear jersey number 33 in 2019?,No
+572,652,2,Did the soccer player Leo Baptistao wear jersey number 10 in 2019?,No
+573,653,1,Did the soccer player D. Cheryshev play for Valencia CF in 2019?,No
+574,653,4,Did the soccer player D. Cheryshev participate in leauge named Spain Primera Division during the year 2019?,No
+575,654,1,Did the soccer player M. Arnold play for VfL Wolfsburg in 2019?,No
+576,654,3,Was the soccer player M. Arnold born in Germany?,No
+577,654,4,Did the soccer player M. Arnold participate in leauge named German 1. Bundesliga during the year 2019?,No
+578,656,1,Did the soccer player C. Bacca play for Villarreal CF in 2019?,No
+579,656,4,Did the soccer player C. Bacca participate in leauge named Spain Primera Division during the year 2019?,No
+580,657,2,Did the soccer player S. Kolašinac wear jersey number 31 in 2019?,No
+581,659,4,Did the soccer player A. Samaris participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+582,660,1,Did the soccer player A. Januzaj play for Real Sociedad in 2019?,No
+583,660,4,Did the soccer player A. Januzaj participate in leauge named Spain Primera Division during the year 2019?,No
+584,661,1,Did the soccer player J. Hector play for 1. FC Köln in 2019?,No
+585,661,2,Did the soccer player J. Hector wear jersey number 14 in 2019?,No
+586,661,3,Was the soccer player J. Hector born in Germany?,No
+587,661,4,Did the soccer player J. Hector participate in leauge named German 1. Bundesliga during the year 2019?,No
+588,662,1,Did the soccer player Fred play for Manchester United in 2019?,No
+589,664,3,Was the soccer player De Tomás born in Spain?,No
+590,664,4,Did the soccer player De Tomás participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+591,665,4,Did the soccer player Otávio participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+592,666,0,Do you know the soccer player Jonny?,No
+593,666,1,Did the soccer player Jonny play for Wolverhampton Wanderers in 2019?,No
+594,666,3,Was the soccer player Jonny born in Spain?,No
+595,669,0,Do you know the soccer player N. Stark?,No
+596,669,3,Was the soccer player N. Stark born in Germany?,No
+597,670,2,Did the soccer player R. Zobnin wear jersey number 47 in 2019?,No
+598,670,4,Did the soccer player R. Zobnin participate in leauge named Rest of World during the year 2019?,No
+599,673,2,Did the soccer player R. Loftus-Cheek wear jersey number 12 in 2019?,No
+600,675,1,Did the soccer player J. Lerma play for AFC Bournemouth in 2019?,No
+601,675,4,Did the soccer player J. Lerma participate in leauge named English Premier League during the year 2019?,No
+602,681,2,Did the soccer player A. Saint-Maximin wear jersey number 10 in 2019?,No
+603,682,4,Did the soccer player S. Lobotka participate in leauge named Spain Primera Division during the year 2019?,No
+604,691,1,Did the soccer player Raúl play for SC Braga in 2019?,No
+605,691,2,Did the soccer player Raúl wear jersey number 34 in 2019?,No
+606,691,3,Was the soccer player Raúl born in Brazil?,No
+607,691,4,Did the soccer player Raúl participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+608,695,3,Was the soccer player R. Aguilar born in France?,No
+609,695,4,Did the soccer player R. Aguilar participate in leauge named French Ligue 1 during the year 2019?,No
+610,696,4,Did the soccer player K. Toko-Ekambi participate in leauge named Spain Primera Division during the year 2019?,No
+611,697,2,Did the soccer player Dyego Sousa wear jersey number 40 in 2019?,No
+612,698,1,Did the soccer player C. Pavón play for LA Galaxy in 2019?,No
+613,698,4,Did the soccer player C. Pavón participate in leauge named USA Major League Soccer during the year 2019?,No
+614,700,4,Did the soccer player A. Golovin participate in leauge named French Ligue 1 during the year 2019?,No
+615,704,1,Did the soccer player Soares play for FC Porto in 2019?,No
+616,705,2,Did the soccer player R. Bentancur wear jersey number 30 in 2019?,No
+617,706,3,Was the soccer player C. Pulisic born in United States?,No
+618,709,2,Did the soccer player L. Pellegrini wear jersey number 7 in 2019?,No
+619,709,3,Was the soccer player L. Pellegrini born in Italy?,No
+620,714,2,Did the soccer player A. Wan-Bissaka wear jersey number 29 in 2019?,No
+621,714,3,Was the soccer player A. Wan-Bissaka born in England?,No
+622,715,2,Did the soccer player B. Chilwell wear jersey number 3 in 2019?,No
+623,716,0,Do you know the soccer player Maikel Catarino?,No
+624,716,1,Did the soccer player Maikel Catarino play for Clube Atlético Mineiro in 2019?,No
+625,716,2,Did the soccer player Maikel Catarino wear jersey number 2 in 2019?,No
+626,716,3,Was the soccer player Maikel Catarino born in Brazil?,No
+627,716,4,Did the soccer player Maikel Catarino participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+628,717,0,Do you know the soccer player Antônio Chiamuloira?,No
+629,717,1,Did the soccer player Antônio Chiamuloira play for Internacional in 2019?,No
+630,717,2,Did the soccer player Antônio Chiamuloira wear jersey number 3 in 2019?,No
+631,717,4,Did the soccer player Antônio Chiamuloira participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+632,718,0,Do you know the soccer player Melvin Parrela?,No
+633,718,3,Was the soccer player Melvin Parrela born in Brazil?,No
+634,718,4,Did the soccer player Melvin Parrela participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+635,719,2,Did the soccer player Gabri Prestão wear jersey number 1 in 2019?,No
+636,720,1,Did the soccer player Luimo Boas Santos play for Santos in 2019?,No
+637,721,2,Did the soccer player F. Kessié wear jersey number 79 in 2019?,No
+638,722,2,Did the soccer player A. Lafont wear jersey number 1 in 2019?,No
+639,726,1,Did the soccer player S. Nakajima play for FC Porto in 2019?,No
+640,726,4,Did the soccer player S. Nakajima participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+641,727,4,Did the soccer player Raphinha participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+642,728,1,Did the soccer player Lucas Paquetá play for AC Milan in 2019?,No
+643,728,2,Did the soccer player Lucas Paquetá wear jersey number 39 in 2019?,No
+644,729,2,Did the soccer player A. Hakimi wear jersey number 5 in 2019?,No
+645,734,2,Did the soccer player I. Konaté wear jersey number 6 in 2019?,No
+646,734,4,Did the soccer player I. Konaté participate in leauge named German 1. Bundesliga during the year 2019?,No
+647,736,2,Did the soccer player Vinícius Jr. wear jersey number 28 in 2019?,No
+648,738,4,Did the soccer player Dani Olmo participate in leauge named Rest of World during the year 2019?,No
+649,739,4,Did the soccer player V. Tsygankov participate in leauge named Rest of World during the year 2019?,No
+650,740,2,Did the soccer player E. Belözoğlu wear jersey number 5 in 2019?,No
+651,741,1,Did the soccer player G. Ochoa play for Club América in 2019?,No
+652,742,2,Did the soccer player C. Tévez wear jersey number 10 in 2019?,No
+653,742,4,Did the soccer player C. Tévez participate in leauge named Argentina Primera División during the year 2019?,No
+654,744,1,Did the soccer player Raffael play for Borussia Mönchengladbach in 2019?,No
+655,747,1,Did the soccer player M. Zárate play for Boca Juniors in 2019?,No
+656,747,4,Did the soccer player M. Zárate participate in leauge named Argentina Primera División during the year 2019?,No
+657,749,1,Did the soccer player G. Hoarau play for BSC Young Boys in 2019?,No
+658,749,2,Did the soccer player G. Hoarau wear jersey number 99 in 2019?,No
+659,749,4,Did the soccer player G. Hoarau participate in leauge named Swiss Super League during the year 2019?,No
+660,750,1,Did the soccer player A. Granqvist play for Helsingborgs IF in 2019?,No
+661,750,4,Did the soccer player A. Granqvist participate in leauge named Swedish Allsvenskan during the year 2019?,No
+662,752,4,Did the soccer player T. Vermaelen participate in leauge named Japanese J. League Division 1 during the year 2019?,No
+663,753,3,Was the soccer player D. Abraham born in Argentina?,No
+664,754,1,Did the soccer player S. Nasri play for RSC Anderlecht in 2019?,No
+665,754,2,Did the soccer player S. Nasri wear jersey number 14 in 2019?,No
+666,754,4,Did the soccer player S. Nasri participate in leauge named Belgian Jupiler Pro League during the year 2019?,No
+667,755,2,Did the soccer player I. Khune wear jersey number 32 in 2019?,No
+668,755,4,Did the soccer player I. Khune participate in leauge named Rest of World during the year 2019?,No
+669,757,3,Was the soccer player R. Bertrand born in England?,No
+670,758,1,Did the soccer player J. dos Santos play for LA Galaxy in 2019?,No
+671,758,3,Was the soccer player J. dos Santos born in Mexico?,No
+672,759,2,Did the soccer player Gervinho wear jersey number 27 in 2019?,No
+673,759,4,Did the soccer player Gervinho participate in leauge named Italian Serie A during the year 2019?,No
+674,760,1,Did the soccer player N. Şahin play for SV Werder Bremen in 2019?,No
+675,760,2,Did the soccer player N. Şahin wear jersey number 17 in 2019?,No
+676,760,4,Did the soccer player N. Şahin participate in leauge named German 1. Bundesliga during the year 2019?,No
+677,761,1,Did the soccer player S. Defour play for Burnley in 2019?,No
+678,761,4,Did the soccer player S. Defour participate in leauge named English Premier League during the year 2019?,No
+679,762,1,Did the soccer player K. Mirallas play for Everton in 2019?,No
+680,762,2,Did the soccer player K. Mirallas wear jersey number 28 in 2019?,No
+681,762,4,Did the soccer player K. Mirallas participate in leauge named English Premier League during the year 2019?,No
+682,764,0,Do you know the soccer player Coke?,No
+683,764,1,Did the soccer player Coke play for Levante Unión Deportiva in 2019?,No
+684,764,2,Did the soccer player Coke wear jersey number 23 in 2019?,No
+685,764,3,Was the soccer player Coke born in Spain?,No
+686,764,4,Did the soccer player Coke participate in leauge named Spain Primera Division during the year 2019?,No
+687,765,1,Did the soccer player V. Moses play for Fenerbahçe SK in 2019?,No
+688,765,4,Did the soccer player V. Moses participate in leauge named Turkish Süper Lig during the year 2019?,No
+689,767,1,Did the soccer player S. Mignolet play for Club Brugge KV in 2019?,No
+690,767,2,Did the soccer player S. Mignolet wear jersey number 88 in 2019?,No
+691,767,4,Did the soccer player S. Mignolet participate in leauge named Belgian Jupiler Pro League during the year 2019?,No
+692,769,1,Did the soccer player F. Caicedo play for Lazio in 2019?,No
+693,769,4,Did the soccer player F. Caicedo participate in leauge named Italian Serie A during the year 2019?,No
+694,771,2,Did the soccer player D. Mbokani wear jersey number 70 in 2019?,No
+695,773,1,Did the soccer player J. Hernández play for West Ham United in 2019?,No
+696,773,4,Did the soccer player J. Hernández participate in leauge named English Premier League during the year 2019?,No
+697,774,1,Did the soccer player P. Diop play for SD Eibar in 2019?,No
+698,774,4,Did the soccer player P. Diop participate in leauge named Spain Primera Division during the year 2019?,No
+699,775,1,Did the soccer player M. Sulejmani play for BSC Young Boys in 2019?,No
+700,775,2,Did the soccer player M. Sulejmani wear jersey number 10 in 2019?,No
+701,776,3,Was the soccer player D. Da Silva born in France?,No
+702,777,1,Did the soccer player Marcelo play for Olympique Lyonnais in 2019?,No
+703,777,2,Did the soccer player Marcelo wear jersey number 6 in 2019?,No
+704,777,4,Did the soccer player Marcelo participate in leauge named French Ligue 1 during the year 2019?,No
+705,778,2,Did the soccer player Guilherme wear jersey number 1 in 2019?,No
+706,778,3,Was the soccer player Guilherme born in Russia?,No
+707,778,4,Did the soccer player Guilherme participate in leauge named Rest of World during the year 2019?,No
+708,779,2,Did the soccer player S. Jovetić wear jersey number 10 in 2019?,No
+709,779,4,Did the soccer player S. Jovetić participate in leauge named French Ligue 1 during the year 2019?,No
+710,782,1,Did the soccer player N. Amrabat play for Al Nassr in 2019?,No
+711,782,4,Did the soccer player N. Amrabat participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+712,784,1,Did the soccer player L. Fejsa play for SL Benfica in 2019?,No
+713,784,4,Did the soccer player L. Fejsa participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+714,785,1,Did the soccer player D. Schwaab play for PSV in 2019?,No
+715,786,1,Did the soccer player O. Karnezis play for Napoli in 2019?,No
+716,786,4,Did the soccer player O. Karnezis participate in leauge named Italian Serie A during the year 2019?,No
+717,788,1,Did the soccer player P. Piatti play for RCD Espanyol de Barcelona in 2019?,No
+718,788,4,Did the soccer player P. Piatti participate in leauge named Spain Primera Division during the year 2019?,No
+719,789,0,Do you know the soccer player S. Wagner?,No
+720,789,4,Did the soccer player S. Wagner participate in leauge named Chinese Super League during the year 2019?,No
+721,790,3,Was the soccer player Bruno born in Spain?,No
+722,791,2,Did the soccer player Adrien Silva wear jersey number 23 in 2019?,No
+723,791,4,Did the soccer player Adrien Silva participate in leauge named English Premier League during the year 2019?,No
+724,792,1,Did the soccer player Mikel San José play for Athletic Club de Bilbao in 2019?,No
+725,793,1,Did the soccer player D. Welbeck play for Watford in 2019?,No
+726,793,2,Did the soccer player D. Welbeck wear jersey number 10 in 2019?,No
+727,794,1,Did the soccer player R. Zieler play for Hannover 96 in 2019?,No
+728,794,2,Did the soccer player R. Zieler wear jersey number 1 in 2019?,No
+729,794,4,Did the soccer player R. Zieler participate in leauge named German 2. Bundesliga during the year 2019?,No
+730,795,0,Do you know the soccer player A. Barnes?,No
+731,795,1,Did the soccer player A. Barnes play for Burnley in 2019?,No
+732,795,2,Did the soccer player A. Barnes wear jersey number 10 in 2019?,No
+733,795,3,Was the soccer player A. Barnes born in England?,No
+734,795,4,Did the soccer player A. Barnes participate in leauge named English Premier League during the year 2019?,No
+735,796,2,Did the soccer player Rafael Tolói wear jersey number 2 in 2019?,No
+736,798,1,Did the soccer player Camacho play for VfL Wolfsburg in 2019?,No
+737,798,2,Did the soccer player Camacho wear jersey number 4 in 2019?,No
+738,798,4,Did the soccer player Camacho participate in leauge named German 1. Bundesliga during the year 2019?,No
+739,803,2,Did the soccer player V. Wanyama wear jersey number 12 in 2019?,No
+740,804,1,Did the soccer player Daniel Carriço play for Sevilla FC in 2019?,No
+741,804,4,Did the soccer player Daniel Carriço participate in leauge named Spain Primera Division during the year 2019?,No
+742,808,2,Did the soccer player Iborra wear jersey number 10 in 2019?,No
+743,810,1,Did the soccer player Rafael play for Olympique Lyonnais in 2019?,No
+744,810,4,Did the soccer player Rafael participate in leauge named French Ligue 1 during the year 2019?,No
+745,813,2,Did the soccer player M. Hitz wear jersey number 35 in 2019?,No
+746,815,1,Did the soccer player N. Clyne play for Liverpool in 2019?,No
+747,815,2,Did the soccer player N. Clyne wear jersey number 2 in 2019?,No
+748,818,1,Did the soccer player P. Groß play for Brighton & Hove Albion in 2019?,No
+749,818,4,Did the soccer player P. Groß participate in leauge named English Premier League during the year 2019?,No
+750,820,2,Did the soccer player D. Ginczek wear jersey number 33 in 2019?,No
+751,822,0,Do you know the soccer player S. Cook?,No
+752,822,3,Was the soccer player S. Cook born in England?,No
+753,822,4,Did the soccer player S. Cook participate in leauge named English Premier League during the year 2019?,No
+754,825,1,Did the soccer player G. Medel play for Beşiktaş JK in 2019?,No
+755,825,4,Did the soccer player G. Medel participate in leauge named Turkish Süper Lig during the year 2019?,No
+756,828,2,Did the soccer player Hugo Mallo wear jersey number 2 in 2019?,No
+757,829,2,Did the soccer player A. Townsend wear jersey number 10 in 2019?,No
+758,832,1,Did the soccer player Joel Robles play for Real Betis Balompié in 2019?,No
+759,832,2,Did the soccer player Joel Robles wear jersey number 1 in 2019?,No
+760,834,2,Did the soccer player G. Krychowiak wear jersey number 7 in 2019?,No
+761,834,4,Did the soccer player G. Krychowiak participate in leauge named Rest of World during the year 2019?,No
+762,836,4,Did the soccer player Sérgio Oliveira participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+763,837,1,Did the soccer player B. Stambouli play for FC Schalke 04 in 2019?,No
+764,837,4,Did the soccer player B. Stambouli participate in leauge named German 1. Bundesliga during the year 2019?,No
+765,838,2,Did the soccer player K. Malcuit wear jersey number 2 in 2019?,No
+766,839,4,Did the soccer player V. Aboubakar participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+767,841,1,Did the soccer player Nolito play for Sevilla FC in 2019?,No
+768,841,2,Did the soccer player Nolito wear jersey number 8 in 2019?,No
+769,841,4,Did the soccer player Nolito participate in leauge named Spain Primera Division during the year 2019?,No
+770,842,1,Did the soccer player M. Sels play for RC Strasbourg Alsace in 2019?,No
+771,842,2,Did the soccer player M. Sels wear jersey number 1 in 2019?,No
+772,842,4,Did the soccer player M. Sels participate in leauge named French Ligue 1 during the year 2019?,No
+773,845,1,Did the soccer player M. Uth play for FC Schalke 04 in 2019?,No
+774,845,2,Did the soccer player M. Uth wear jersey number 7 in 2019?,No
+775,847,1,Did the soccer player Pedro Mendes play for Montpellier Hérault SC in 2019?,No
+776,847,2,Did the soccer player Pedro Mendes wear jersey number 5 in 2019?,No
+777,847,4,Did the soccer player Pedro Mendes participate in leauge named French Ligue 1 during the year 2019?,No
+778,848,2,Did the soccer player A. Marchesín wear jersey number 32 in 2019?,No
+779,848,4,Did the soccer player A. Marchesín participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+780,849,1,Did the soccer player M. Doherty play for Wolverhampton Wanderers in 2019?,No
+781,849,2,Did the soccer player M. Doherty wear jersey number 2 in 2019?,No
+782,849,4,Did the soccer player M. Doherty participate in leauge named English Premier League during the year 2019?,No
+783,851,1,Did the soccer player G. Ramírez play for U.C. Sampdoria in 2019?,No
+784,851,3,Was the soccer player G. Ramírez born in Uruguay?,No
+785,851,4,Did the soccer player G. Ramírez participate in leauge named Italian Serie A during the year 2019?,No
+786,852,2,Did the soccer player J. Veretout wear jersey number 38 in 2019?,No
+787,855,1,Did the soccer player Naldo play for RCD Espanyol de Barcelona in 2019?,No
+788,855,4,Did the soccer player Naldo participate in leauge named Spain Primera Division during the year 2019?,No
+789,857,2,Did the soccer player D. Demme wear jersey number 31 in 2019?,No
+790,858,1,Did the soccer player Fernando play for Beijing Guoan FC in 2019?,No
+791,858,4,Did the soccer player Fernando participate in leauge named Chinese Super League during the year 2019?,No
+792,859,2,Did the soccer player A. Schwolow wear jersey number 1 in 2019?,No
+793,862,1,Did the soccer player Álvaro play for Olympique de Marseille in 2019?,No
+794,862,2,Did the soccer player Álvaro wear jersey number 3 in 2019?,No
+795,862,3,Was the soccer player Álvaro born in Spain?,No
+796,862,4,Did the soccer player Álvaro participate in leauge named French Ligue 1 during the year 2019?,No
+797,863,2,Did the soccer player J. Butland wear jersey number 1 in 2019?,No
+798,867,4,Did the soccer player K. Fortounis participate in leauge named Rest of World during the year 2019?,No
+799,868,3,Was the soccer player S. García born in Uruguay?,No
+800,869,2,Did the soccer player Denis Suárez wear jersey number 6 in 2019?,No
+801,877,1,Did the soccer player R. Olsen play for Roma in 2019?,No
+802,877,2,Did the soccer player R. Olsen wear jersey number 1 in 2019?,No
+803,877,4,Did the soccer player R. Olsen participate in leauge named Italian Serie A during the year 2019?,No
+804,878,1,Did the soccer player G. Pizarro play for Tigres U.A.N.L. in 2019?,No
+805,881,0,Do you know the soccer player C. Hérelle?,No
+806,881,1,Did the soccer player C. Hérelle play for OGC Nice in 2019?,No
+807,881,2,Did the soccer player C. Hérelle wear jersey number 29 in 2019?,No
+808,881,3,Was the soccer player C. Hérelle born in France?,No
+809,881,4,Did the soccer player C. Hérelle participate in leauge named French Ligue 1 during the year 2019?,No
+810,883,1,Did the soccer player H. Sakai play for Olympique de Marseille in 2019?,No
+811,883,4,Did the soccer player H. Sakai participate in leauge named French Ligue 1 during the year 2019?,No
+812,888,2,Did the soccer player J. Hofmann wear jersey number 23 in 2019?,No
+813,891,1,Did the soccer player I. Amadou play for Norwich City in 2019?,No
+814,891,4,Did the soccer player I. Amadou participate in leauge named English Premier League during the year 2019?,No
+815,892,2,Did the soccer player V. Grifo wear jersey number 32 in 2019?,No
+816,893,1,Did the soccer player M. Meyer play for Crystal Palace in 2019?,No
+817,893,4,Did the soccer player M. Meyer participate in leauge named English Premier League during the year 2019?,No
+818,895,1,Did the soccer player José Sá play for Olympiacos CFP in 2019?,No
+819,895,2,Did the soccer player José Sá wear jersey number 1 in 2019?,No
+820,895,4,Did the soccer player José Sá participate in leauge named Rest of World during the year 2019?,No
+821,896,2,Did the soccer player L. Dendoncker wear jersey number 32 in 2019?,No
+822,902,0,Do you know the soccer player F. Tait?,No
+823,902,1,Did the soccer player F. Tait play for Stade Rennais FC in 2019?,No
+824,902,2,Did the soccer player F. Tait wear jersey number 20 in 2019?,No
+825,902,3,Was the soccer player F. Tait born in France?,No
+826,902,4,Did the soccer player F. Tait participate in leauge named French Ligue 1 during the year 2019?,No
+827,903,1,Did the soccer player D. Laxalt play for AC Milan in 2019?,No
+828,903,2,Did the soccer player D. Laxalt wear jersey number 93 in 2019?,No
+829,903,3,Was the soccer player D. Laxalt born in Uruguay?,No
+830,905,2,Did the soccer player A. Selikhov wear jersey number 57 in 2019?,No
+831,905,4,Did the soccer player A. Selikhov participate in leauge named Rest of World during the year 2019?,No
+832,907,2,Did the soccer player A. Miranchuk wear jersey number 59 in 2019?,No
+833,907,4,Did the soccer player A. Miranchuk participate in leauge named Rest of World during the year 2019?,No
+834,908,3,Was the soccer player G. Cano born in Argentina?,No
+835,910,2,Did the soccer player J. Musso wear jersey number 1 in 2019?,No
+836,912,1,Did the soccer player R. Saravia play for FC Porto in 2019?,No
+837,912,4,Did the soccer player R. Saravia participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+838,913,3,Was the soccer player Rúben Vezo born in Portugal?,No
+839,915,3,Was the soccer player Ayoze Pérez born in Spain?,No
+840,917,1,Did the soccer player I. Fernández play for River Plate in 2019?,No
+841,917,3,Was the soccer player I. Fernández born in Argentina?,No
+842,919,1,Did the soccer player Capa play for Athletic Club de Bilbao in 2019?,No
+843,919,4,Did the soccer player Capa participate in leauge named Spain Primera Division during the year 2019?,No
+844,920,1,Did the soccer player Marcelo Goiano play for Demir Grup Sivasspor in 2019?,No
+845,920,2,Did the soccer player Marcelo Goiano wear jersey number 87 in 2019?,No
+846,920,4,Did the soccer player Marcelo Goiano participate in leauge named Turkish Süper Lig during the year 2019?,No
+847,921,1,Did the soccer player J. Seri play for Galatasaray SK in 2019?,No
+848,921,4,Did the soccer player J. Seri participate in leauge named Turkish Süper Lig during the year 2019?,No
+849,922,4,Did the soccer player Bastos participate in leauge named Italian Serie A during the year 2019?,No
+850,925,1,Did the soccer player R. Battaglia play for Sporting CP in 2019?,No
+851,925,4,Did the soccer player R. Battaglia participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+852,926,3,Was the soccer player B. Santamaria born in France?,No
+853,928,2,Did the soccer player M. Diagne wear jersey number 91 in 2019?,No
+854,930,2,Did the soccer player N. Elvedi wear jersey number 30 in 2019?,No
+855,932,2,Did the soccer player G. Arias wear jersey number 1 in 2019?,No
+856,935,1,Did the soccer player J. Andersen play for Olympique Lyonnais in 2019?,No
+857,941,3,Was the soccer player M. Campaña born in Uruguay?,No
+858,942,4,Did the soccer player B. Verbič participate in leauge named Rest of World during the year 2019?,No
+859,944,1,Did the soccer player Daniel Podence play for Olympiacos CFP in 2019?,No
+860,944,2,Did the soccer player Daniel Podence wear jersey number 10 in 2019?,No
+861,944,4,Did the soccer player Daniel Podence participate in leauge named Rest of World during the year 2019?,No
+862,945,2,Did the soccer player L. Tousart wear jersey number 29 in 2019?,No
+863,949,4,Did the soccer player G. Dzhikiya participate in leauge named Rest of World during the year 2019?,No
+864,950,0,Do you know the soccer player Ronaldo Esler?,No
+865,950,1,Did the soccer player Ronaldo Esler play for Clube Atlético Mineiro in 2019?,No
+866,950,2,Did the soccer player Ronaldo Esler wear jersey number 5 in 2019?,No
+867,950,3,Was the soccer player Ronaldo Esler born in Brazil?,No
+868,950,4,Did the soccer player Ronaldo Esler participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+869,951,1,Did the soccer player Claudio Coíntra play for Internacional in 2019?,No
+870,951,2,Did the soccer player Claudio Coíntra wear jersey number 8 in 2019?,No
+871,951,3,Was the soccer player Claudio Coíntra born in Brazil?,No
+872,951,4,Did the soccer player Claudio Coíntra participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+873,952,0,Do you know the soccer player Everticinho?,No
+874,952,2,Did the soccer player Everticinho wear jersey number 2 in 2019?,No
+875,953,0,Do you know the soccer player Sidney Pessinho?,No
+876,953,1,Did the soccer player Sidney Pessinho play for Internacional in 2019?,No
+877,953,2,Did the soccer player Sidney Pessinho wear jersey number 6 in 2019?,No
+878,953,4,Did the soccer player Sidney Pessinho participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+879,954,2,Did the soccer player I. Diop wear jersey number 23 in 2019?,No
+880,955,4,Did the soccer player Y. Yazıcı participate in leauge named French Ligue 1 during the year 2019?,No
+881,958,2,Did the soccer player Bruno Viana wear jersey number 36 in 2019?,No
+882,959,2,Did the soccer player D. Rice wear jersey number 41 in 2019?,No
+883,960,2,Did the soccer player J. Ikoné wear jersey number 10 in 2019?,No
+884,961,2,Did the soccer player F. Neuhaus wear jersey number 32 in 2019?,No
+885,962,2,Did the soccer player I. Sarr wear jersey number 23 in 2019?,No
+886,965,4,Did the soccer player Aarón Martín participate in leauge named German 1. Bundesliga during the year 2019?,No
+887,968,4,Did the soccer player E. Bardhi participate in leauge named Spain Primera Division during the year 2019?,No
+888,969,1,Did the soccer player N. Maksimović play for Getafe CF in 2019?,No
+889,969,4,Did the soccer player N. Maksimović participate in leauge named Spain Primera Division during the year 2019?,No
+890,970,1,Did the soccer player Calero play for RCD Espanyol de Barcelona in 2019?,No
+891,970,3,Was the soccer player Calero born in Spain?,No
+892,970,4,Did the soccer player Calero participate in leauge named Spain Primera Division during the year 2019?,No
+893,971,1,Did the soccer player Ferro play for SL Benfica in 2019?,No
+894,971,2,Did the soccer player Ferro wear jersey number 97 in 2019?,No
+895,971,3,Was the soccer player Ferro born in Portugal?,No
+896,971,4,Did the soccer player Ferro participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+897,972,2,Did the soccer player Júnior Moraes wear jersey number 10 in 2019?,No
+898,972,3,Was the soccer player Júnior Moraes born in Ukraine?,No
+899,972,4,Did the soccer player Júnior Moraes participate in leauge named Rest of World during the year 2019?,No
+900,973,2,Did the soccer player D. Baier wear jersey number 10 in 2019?,No
+901,974,4,Did the soccer player Jô participate in leauge named Japanese J. League Division 1 during the year 2019?,No
+902,975,2,Did the soccer player A. Pyatov wear jersey number 30 in 2019?,No
+903,975,4,Did the soccer player A. Pyatov participate in leauge named Rest of World during the year 2019?,No
+904,976,1,Did the soccer player Iván Ramis play for SD Eibar in 2019?,No
+905,976,2,Did the soccer player Iván Ramis wear jersey number 4 in 2019?,No
+906,976,4,Did the soccer player Iván Ramis participate in leauge named Spain Primera Division during the year 2019?,No
+907,977,2,Did the soccer player Iván Cuéllar wear jersey number 1 in 2019?,No
+908,978,1,Did the soccer player K. Huntelaar play for Ajax in 2019?,No
+909,978,4,Did the soccer player K. Huntelaar participate in leauge named Holland Eredivisie during the year 2019?,No
+910,979,1,Did the soccer player J. Hart play for Burnley in 2019?,No
+911,980,1,Did the soccer player G. Clichy play for İstanbul Başakşehir FK in 2019?,No
+912,980,2,Did the soccer player G. Clichy wear jersey number 3 in 2019?,No
+913,980,4,Did the soccer player G. Clichy participate in leauge named Turkish Süper Lig during the year 2019?,No
+914,981,1,Did the soccer player A. Young play for Manchester United in 2019?,No
+915,982,1,Did the soccer player R. Civelli play for Club Atlético Banfield in 2019?,No
+916,982,2,Did the soccer player R. Civelli wear jersey number 2 in 2019?,No
+917,983,1,Did the soccer player D. Cvitanich play for Racing Club in 2019?,No
+918,983,4,Did the soccer player D. Cvitanich participate in leauge named Argentina Primera División during the year 2019?,No
+919,984,1,Did the soccer player J. Farfán play for FC Lokomotiv Moscow in 2019?,No
+920,984,2,Did the soccer player J. Farfán wear jersey number 8 in 2019?,No
+921,984,4,Did the soccer player J. Farfán participate in leauge named Rest of World during the year 2019?,No
+922,985,1,Did the soccer player Gelson Fernandes play for Eintracht Frankfurt in 2019?,No
+923,985,2,Did the soccer player Gelson Fernandes wear jersey number 5 in 2019?,No
+924,985,4,Did the soccer player Gelson Fernandes participate in leauge named German 1. Bundesliga during the year 2019?,No
+925,986,1,Did the soccer player Javi García play for Real Betis Balompié in 2019?,No
+926,986,2,Did the soccer player Javi García wear jersey number 3 in 2019?,No
+927,986,4,Did the soccer player Javi García participate in leauge named Spain Primera Division during the year 2019?,No
+928,987,1,Did the soccer player V. Ibišević play for Hertha BSC in 2019?,No
+929,987,4,Did the soccer player V. Ibišević participate in leauge named German 1. Bundesliga during the year 2019?,No
+930,988,2,Did the soccer player G. Pellè wear jersey number 9 in 2019?,No
+931,989,1,Did the soccer player B. Wright-Phillips play for New York Red Bulls in 2019?,No
+932,989,2,Did the soccer player B. Wright-Phillips wear jersey number 99 in 2019?,No
+933,989,4,Did the soccer player B. Wright-Phillips participate in leauge named USA Major League Soccer during the year 2019?,No
+934,990,1,Did the soccer player G. Cahill play for Crystal Palace in 2019?,No
+935,990,2,Did the soccer player G. Cahill wear jersey number 24 in 2019?,No
+936,991,1,Did the soccer player T. Walcott play for Everton in 2019?,No
+937,992,1,Did the soccer player Danilo play for Bologna in 2019?,No
+938,992,2,Did the soccer player Danilo wear jersey number 23 in 2019?,No
+939,993,2,Did the soccer player I. Scocco wear jersey number 32 in 2019?,No
+940,994,4,Did the soccer player E. Elia participate in leauge named Turkish Süper Lig during the year 2019?,No
+941,995,1,Did the soccer player L. Schøne play for Genoa in 2019?,No
+942,995,4,Did the soccer player L. Schøne participate in leauge named Italian Serie A during the year 2019?,No
+943,996,0,Do you know the soccer player G. Murray?,No
+944,996,1,Did the soccer player G. Murray play for Brighton & Hove Albion in 2019?,No
+945,996,3,Was the soccer player G. Murray born in England?,No
+946,996,4,Did the soccer player G. Murray participate in leauge named English Premier League during the year 2019?,No
+947,997,1,Did the soccer player Z. Junuzović play for FC Red Bull Salzburg in 2019?,No
+948,998,1,Did the soccer player C. Bravo play for Manchester City in 2019?,No
+949,998,2,Did the soccer player C. Bravo wear jersey number 1 in 2019?,No
+950,998,4,Did the soccer player C. Bravo participate in leauge named English Premier League during the year 2019?,No
+951,1000,1,Did the soccer player P. Wernbloom play for PAOK in 2019?,No
+952,1000,4,Did the soccer player P. Wernbloom participate in leauge named Rest of World during the year 2019?,No
+953,1001,3,Was the soccer player R. Gurtner born in France?,No
+954,1001,4,Did the soccer player R. Gurtner participate in leauge named French Ligue 1 during the year 2019?,No
+955,1002,2,Did the soccer player M. Schneiderlin wear jersey number 18 in 2019?,No
+956,1002,4,Did the soccer player M. Schneiderlin participate in leauge named English Premier League during the year 2019?,No
+957,1003,1,Did the soccer player Miguel Veloso play for Hellas Verona in 2019?,No
+958,1003,2,Did the soccer player Miguel Veloso wear jersey number 67 in 2019?,No
+959,1003,4,Did the soccer player Miguel Veloso participate in leauge named Italian Serie A during the year 2019?,No
+960,1004,1,Did the soccer player M. Layún play for CF Monterrey in 2019?,No
+961,1005,1,Did the soccer player J. Lens play for Beşiktaş JK in 2019?,No
+962,1005,2,Did the soccer player J. Lens wear jersey number 17 in 2019?,No
+963,1005,4,Did the soccer player J. Lens participate in leauge named Turkish Süper Lig during the year 2019?,No
+964,1006,4,Did the soccer player Varela participate in leauge named Rest of World during the year 2019?,No
+965,1007,1,Did the soccer player L. Rémy play for LOSC Lille in 2019?,No
+966,1007,2,Did the soccer player L. Rémy wear jersey number 9 in 2019?,No
+967,1007,4,Did the soccer player L. Rémy participate in leauge named French Ligue 1 during the year 2019?,No
+968,1008,4,Did the soccer player M. Suchý participate in leauge named German 1. Bundesliga during the year 2019?,No
+969,1009,3,Was the soccer player S. De Maio born in France?,No
+970,1010,3,Was the soccer player P. Aguilar born in Paraguay?,No
+971,1012,1,Did the soccer player F. Delph play for Everton in 2019?,No
+972,1013,1,Did the soccer player N. Subotić play for 1. FC Union Berlin in 2019?,No
+973,1013,2,Did the soccer player N. Subotić wear jersey number 3 in 2019?,No
+974,1013,4,Did the soccer player N. Subotić participate in leauge named German 1. Bundesliga during the year 2019?,No
+975,1014,1,Did the soccer player Roberto play for West Ham United in 2019?,No
+976,1014,2,Did the soccer player Roberto wear jersey number 13 in 2019?,No
+977,1014,3,Was the soccer player Roberto born in Spain?,No
+978,1014,4,Did the soccer player Roberto participate in leauge named English Premier League during the year 2019?,No
+979,1015,1,Did the soccer player M. Dossevi play for Toulouse Football Club in 2019?,No
+980,1015,4,Did the soccer player M. Dossevi participate in leauge named French Ligue 1 during the year 2019?,No
+981,1016,3,Was the soccer player A. Ogbonna born in Italy?,No
+982,1018,2,Did the soccer player M. Carcela-González wear jersey number 10 in 2019?,No
+983,1021,4,Did the soccer player Maurício participate in leauge named Rest of World during the year 2019?,No
+984,1024,1,Did the soccer player D. Drinkwater play for Burnley in 2019?,No
+985,1025,4,Did the soccer player Claudemir participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+986,1026,2,Did the soccer player Douglas wear jersey number 1 in 2019?,No
+987,1026,4,Did the soccer player Douglas participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+988,1027,4,Did the soccer player A. Dzagoev participate in leauge named Rest of World during the year 2019?,No
+989,1028,1,Did the soccer player M. Suárez play for River Plate in 2019?,No
+990,1028,3,Was the soccer player M. Suárez born in Argentina?,No
+991,1028,4,Did the soccer player M. Suárez participate in leauge named Argentina Primera División during the year 2019?,No
+992,1029,2,Did the soccer player D. Janmaat wear jersey number 2 in 2019?,No
+993,1030,3,Was the soccer player G. Bou born in Argentina?,No
+994,1030,4,Did the soccer player G. Bou participate in leauge named USA Major League Soccer during the year 2019?,No
+995,1031,1,Did the soccer player A. Dragović play for Bayer 04 Leverkusen in 2019?,No
+996,1032,1,Did the soccer player S. Aziz play for Fenerbahçe SK in 2019?,No
+997,1032,3,Was the soccer player S. Aziz born in Turkey?,No
+998,1034,4,Did the soccer player A. Westwood participate in leauge named English Premier League during the year 2019?,No
+999,1039,2,Did the soccer player T. Rincón wear jersey number 88 in 2019?,No
+1000,1040,3,Was the soccer player C. Wood born in New Zealand?,No
+1001,1041,0,Do you know the soccer player Johnathan?,No
+1002,1041,3,Was the soccer player Johnathan born in Brazil?,No
+1003,1041,4,Did the soccer player Johnathan participate in leauge named Chinese Super League during the year 2019?,No
+1004,1045,3,Was the soccer player L. Rodríguez born in Argentina?,No
+1005,1049,1,Did the soccer player G. Burgstaller play for FC Schalke 04 in 2019?,No
+1006,1050,3,Was the soccer player Rômulo born in Italy?,No
+1007,1051,4,Did the soccer player Y. El Arabi participate in leauge named Rest of World during the year 2019?,No
+1008,1052,1,Did the soccer player Renan Ribeiro play for Sporting CP in 2019?,No
+1009,1052,2,Did the soccer player Renan Ribeiro wear jersey number 1 in 2019?,No
+1010,1052,4,Did the soccer player Renan Ribeiro participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1011,1053,4,Did the soccer player Fransérgio participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1012,1054,1,Did the soccer player O. Özyakup play for Beşiktaş JK in 2019?,No
+1013,1054,2,Did the soccer player O. Özyakup wear jersey number 10 in 2019?,No
+1014,1054,4,Did the soccer player O. Özyakup participate in leauge named Turkish Süper Lig during the year 2019?,No
+1015,1055,3,Was the soccer player J. Martin born in France?,No
+1016,1060,0,Do you know the soccer player Cláudio Ramos?,No
+1017,1060,2,Did the soccer player Cláudio Ramos wear jersey number 1 in 2019?,No
+1018,1060,4,Did the soccer player Cláudio Ramos participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1019,1063,2,Did the soccer player Lucas Pérez wear jersey number 7 in 2019?,No
+1020,1064,1,Did the soccer player André André play for Vitória de Guimarães in 2019?,No
+1021,1064,4,Did the soccer player André André participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1022,1065,1,Did the soccer player R. Funes Mori play for Villarreal CF in 2019?,No
+1023,1066,4,Did the soccer player Wilson Eduardo participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1024,1067,1,Did the soccer player M. van Ginkel play for Chelsea in 2019?,No
+1025,1067,2,Did the soccer player M. van Ginkel wear jersey number 35 in 2019?,No
+1026,1067,4,Did the soccer player M. van Ginkel participate in leauge named English Premier League during the year 2019?,No
+1027,1068,1,Did the soccer player P. Hernández play for Club Atlético Independiente in 2019?,No
+1028,1068,3,Was the soccer player P. Hernández born in Chile?,No
+1029,1068,4,Did the soccer player P. Hernández participate in leauge named Argentina Primera División during the year 2019?,No
+1030,1069,0,Do you know the soccer player Arbilla?,No
+1031,1069,2,Did the soccer player Arbilla wear jersey number 23 in 2019?,No
+1032,1069,3,Was the soccer player Arbilla born in Spain?,No
+1033,1071,2,Did the soccer player M. Bizot wear jersey number 1 in 2019?,No
+1034,1071,3,Was the soccer player M. Bizot born in Netherlands?,No
+1035,1072,1,Did the soccer player M. Esser play for Hannover 96 in 2019?,No
+1036,1072,2,Did the soccer player M. Esser wear jersey number 23 in 2019?,No
+1037,1073,1,Did the soccer player Bruno play for Getafe CF in 2019?,No
+1038,1073,3,Was the soccer player Bruno born in Spain?,No
+1039,1075,2,Did the soccer player J. Forrest wear jersey number 49 in 2019?,No
+1040,1076,1,Did the soccer player D. Sidibé play for Everton in 2019?,No
+1041,1076,4,Did the soccer player D. Sidibé participate in leauge named English Premier League during the year 2019?,No
+1042,1077,2,Did the soccer player R. Saponara wear jersey number 91 in 2019?,No
+1043,1078,2,Did the soccer player L. Tonelli wear jersey number 62 in 2019?,No
+1044,1079,1,Did the soccer player Pablo play for FC Girondins de Bordeaux in 2019?,No
+1045,1079,2,Did the soccer player Pablo wear jersey number 3 in 2019?,No
+1046,1079,4,Did the soccer player Pablo participate in leauge named French Ligue 1 during the year 2019?,No
+1047,1081,4,Did the soccer player E. Bičakčić participate in leauge named German 1. Bundesliga during the year 2019?,No
+1048,1082,1,Did the soccer player C. Piccini play for Valencia CF in 2019?,No
+1049,1082,4,Did the soccer player C. Piccini participate in leauge named Spain Primera Division during the year 2019?,No
+1050,1084,2,Did the soccer player R. Knoche wear jersey number 31 in 2019?,No
+1051,1088,2,Did the soccer player B. Reynet wear jersey number 30 in 2019?,No
+1052,1089,4,Did the soccer player Luís Neto participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1053,1090,1,Did the soccer player K. Stöger play for Fortuna Düsseldorf in 2019?,No
+1054,1091,2,Did the soccer player O. Selnæs wear jersey number 10 in 2019?,No
+1055,1091,4,Did the soccer player O. Selnæs participate in leauge named Chinese Super League during the year 2019?,No
+1056,1093,4,Did the soccer player F. Fajr participate in leauge named Spain Primera Division during the year 2019?,No
+1057,1096,3,Was the soccer player L. Castro born in Argentina?,No
+1058,1096,4,Did the soccer player L. Castro participate in leauge named Italian Serie A during the year 2019?,No
+1059,1098,1,Did the soccer player S. Ristovski play for Sporting CP in 2019?,No
+1060,1098,4,Did the soccer player S. Ristovski participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1061,1099,2,Did the soccer player A. Younes wear jersey number 34 in 2019?,No
+1062,1100,2,Did the soccer player M. De Sciglio wear jersey number 2 in 2019?,No
+1063,1101,4,Did the soccer player W. Hughes participate in leauge named English Premier League during the year 2019?,No
+1064,1103,2,Did the soccer player M. Weiser wear jersey number 23 in 2019?,No
+1065,1106,1,Did the soccer player J. Lukaku play for Lazio in 2019?,No
+1066,1106,2,Did the soccer player J. Lukaku wear jersey number 5 in 2019?,No
+1067,1108,0,Do you know the soccer player Roger?,No
+1068,1108,1,Did the soccer player Roger play for Levante Unión Deportiva in 2019?,No
+1069,1108,3,Was the soccer player Roger born in Spain?,No
+1070,1108,4,Did the soccer player Roger participate in leauge named Spain Primera Division during the year 2019?,No
+1071,1113,1,Did the soccer player Rubén Sobrino play for Valencia CF in 2019?,No
+1072,1116,1,Did the soccer player Emerson play for Chelsea in 2019?,No
+1073,1116,2,Did the soccer player Emerson wear jersey number 33 in 2019?,No
+1074,1116,3,Was the soccer player Emerson born in Italy?,No
+1075,1117,3,Was the soccer player R. Pizarro born in Mexico?,No
+1076,1118,2,Did the soccer player R. Centurión wear jersey number 10 in 2019?,No
+1077,1118,4,Did the soccer player R. Centurión participate in leauge named Mexican Liga MX during the year 2019?,No
+1078,1123,1,Did the soccer player Nacho play for Real Valladolid CF in 2019?,No
+1079,1124,0,Do you know the soccer player P. Max?,No
+1080,1124,2,Did the soccer player P. Max wear jersey number 31 in 2019?,No
+1081,1124,3,Was the soccer player P. Max born in Germany?,No
+1082,1124,4,Did the soccer player P. Max participate in leauge named German 1. Bundesliga during the year 2019?,No
+1083,1125,0,Do you know the soccer player P. Sisto?,No
+1084,1125,1,Did the soccer player P. Sisto play for RC Celta de Vigo in 2019?,No
+1085,1125,3,Was the soccer player P. Sisto born in Denmark?,No
+1086,1125,4,Did the soccer player P. Sisto participate in leauge named Spain Primera Division during the year 2019?,No
+1087,1126,2,Did the soccer player B. Mechele wear jersey number 44 in 2019?,No
+1088,1127,3,Was the soccer player A. Djiku born in France?,No
+1089,1133,2,Did the soccer player N. Bentaleb wear jersey number 10 in 2019?,No
+1090,1134,1,Did the soccer player F. Ferreyra play for RCD Espanyol de Barcelona in 2019?,No
+1091,1134,4,Did the soccer player F. Ferreyra participate in leauge named Spain Primera Division during the year 2019?,No
+1092,1135,2,Did the soccer player P. Højbjerg wear jersey number 23 in 2019?,No
+1093,1137,0,Do you know the soccer player L. Miranda?,No
+1094,1137,1,Did the soccer player L. Miranda play for Club Tijuana in 2019?,No
+1095,1137,2,Did the soccer player L. Miranda wear jersey number 33 in 2019?,No
+1096,1137,3,Was the soccer player L. Miranda born in Argentina?,No
+1097,1137,4,Did the soccer player L. Miranda participate in leauge named Mexican Liga MX during the year 2019?,No
+1098,1138,1,Did the soccer player L. López play for Boca Juniors in 2019?,No
+1099,1138,3,Was the soccer player L. López born in Argentina?,No
+1100,1140,1,Did the soccer player P. Pérez play for Club Atlético Independiente in 2019?,No
+1101,1140,3,Was the soccer player P. Pérez born in Argentina?,No
+1102,1141,2,Did the soccer player A. Petagna wear jersey number 37 in 2019?,No
+1103,1142,2,Did the soccer player M. Sportiello wear jersey number 57 in 2019?,No
+1104,1143,2,Did the soccer player I. Bebou wear jersey number 9 in 2019?,No
+1105,1144,2,Did the soccer player K. Tete wear jersey number 23 in 2019?,No
+1106,1146,1,Did the soccer player Paulinho play for SC Braga in 2019?,No
+1107,1146,3,Was the soccer player Paulinho born in Portugal?,No
+1108,1146,4,Did the soccer player Paulinho participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1109,1147,2,Did the soccer player M. Meza wear jersey number 32 in 2019?,No
+1110,1148,1,Did the soccer player G. Simeone play for Fiorentina in 2019?,No
+1111,1148,2,Did the soccer player G. Simeone wear jersey number 9 in 2019?,No
+1112,1148,4,Did the soccer player G. Simeone participate in leauge named Italian Serie A during the year 2019?,No
+1113,1149,3,Was the soccer player J. Palomino born in Argentina?,No
+1114,1150,2,Did the soccer player Pedro Henrique wear jersey number 2 in 2019?,No
+1115,1150,4,Did the soccer player Pedro Henrique participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1116,1153,3,Was the soccer player D. Brooks born in Wales?,No
+1117,1154,2,Did the soccer player J. Bednarek wear jersey number 35 in 2019?,No
+1118,1155,4,Did the soccer player R. Borré participate in leauge named Argentina Primera División during the year 2019?,No
+1119,1158,1,Did the soccer player O. Duda play for Hertha BSC in 2019?,No
+1120,1158,2,Did the soccer player O. Duda wear jersey number 10 in 2019?,No
+1121,1158,4,Did the soccer player O. Duda participate in leauge named German 1. Bundesliga during the year 2019?,No
+1122,1159,4,Did the soccer player A. Miranchuk participate in leauge named Rest of World during the year 2019?,No
+1123,1162,1,Did the soccer player B. Fernández play for Portland Timbers in 2019?,No
+1124,1162,4,Did the soccer player B. Fernández participate in leauge named USA Major League Soccer during the year 2019?,No
+1125,1163,2,Did the soccer player M. Pašalić wear jersey number 88 in 2019?,No
+1126,1165,2,Did the soccer player P. Bernardoni wear jersey number 30 in 2019?,No
+1127,1166,1,Did the soccer player M. Lopez play for Olympique de Marseille in 2019?,No
+1128,1166,3,Was the soccer player M. Lopez born in France?,No
+1129,1166,4,Did the soccer player M. Lopez participate in leauge named French Ligue 1 during the year 2019?,No
+1130,1167,2,Did the soccer player A. Marušić wear jersey number 77 in 2019?,No
+1131,1169,3,Was the soccer player L. Cook born in England?,No
+1132,1169,4,Did the soccer player L. Cook participate in leauge named English Premier League during the year 2019?,No
+1133,1172,4,Did the soccer player Vallejo participate in leauge named English Premier League during the year 2019?,No
+1134,1173,1,Did the soccer player Alex Berenguer play for Torino F.C. in 2019?,No
+1135,1173,4,Did the soccer player Alex Berenguer participate in leauge named Italian Serie A during the year 2019?,No
+1136,1175,1,Did the soccer player G. Rodríguez play for Club América in 2019?,No
+1137,1175,3,Was the soccer player G. Rodríguez born in Argentina?,No
+1138,1177,4,Did the soccer player Trezeguet participate in leauge named English Premier League during the year 2019?,No
+1139,1182,2,Did the soccer player E. Audero wear jersey number 1 in 2019?,No
+1140,1183,1,Did the soccer player Borja Mayoral play for Levante Unión Deportiva in 2019?,No
+1141,1184,1,Did the soccer player M. Vargas play for RCD Espanyol de Barcelona in 2019?,No
+1142,1184,3,Was the soccer player M. Vargas born in Argentina?,No
+1143,1189,1,Did the soccer player Córdoba play for Athletic Club de Bilbao in 2019?,No
+1144,1189,3,Was the soccer player Córdoba born in Spain?,No
+1145,1189,4,Did the soccer player Córdoba participate in leauge named Spain Primera Division during the year 2019?,No
+1146,1192,0,Do you know the soccer player Gazzolisco?,No
+1147,1192,1,Did the soccer player Gazzolisco play for Internacional in 2019?,No
+1148,1192,2,Did the soccer player Gazzolisco wear jersey number 5 in 2019?,No
+1149,1192,3,Was the soccer player Gazzolisco born in Brazil?,No
+1150,1192,4,Did the soccer player Gazzolisco participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+1151,1193,0,Do you know the soccer player Vieirundinho?,No
+1152,1193,1,Did the soccer player Vieirundinho play for Santos in 2019?,No
+1153,1193,2,Did the soccer player Vieirundinho wear jersey number 3 in 2019?,No
+1154,1193,4,Did the soccer player Vieirundinho participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+1155,1194,1,Did the soccer player Simão Acunha play for Clube Atlético Mineiro in 2019?,No
+1156,1194,2,Did the soccer player Simão Acunha wear jersey number 10 in 2019?,No
+1157,1194,3,Was the soccer player Simão Acunha born in Brazil?,No
+1158,1194,4,Did the soccer player Simão Acunha participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+1159,1195,0,Do you know the soccer player Formosandrinho?,No
+1160,1195,1,Did the soccer player Formosandrinho play for Botafogo in 2019?,No
+1161,1195,4,Did the soccer player Formosandrinho participate in leauge named Campeonato Brasileiro Série A during the year 2019?,No
+1162,1200,1,Did the soccer player E. Palacios play for River Plate in 2019?,No
+1163,1200,3,Was the soccer player E. Palacios born in Argentina?,No
+1164,1204,2,Did the soccer player E. Mendy wear jersey number 16 in 2019?,No
+1165,1205,2,Did the soccer player J. Mæhle wear jersey number 31 in 2019?,No
+1166,1206,1,Did the soccer player P. Rosario play for PSV in 2019?,No
+1167,1206,3,Was the soccer player P. Rosario born in Netherlands?,No
+1168,1207,1,Did the soccer player R. Marin play for Ajax in 2019?,No
+1169,1207,3,Was the soccer player R. Marin born in Romania?,No
+1170,1210,2,Did the soccer player N. Mazraoui wear jersey number 12 in 2019?,No
+1171,1212,2,Did the soccer player A. Barák wear jersey number 72 in 2019?,No
+1172,1214,2,Did the soccer player S. McTominay wear jersey number 39 in 2019?,No
+1173,1216,2,Did the soccer player P. Cutrone wear jersey number 10 in 2019?,No
+1174,1216,4,Did the soccer player P. Cutrone participate in leauge named English Premier League during the year 2019?,No
+1175,1217,2,Did the soccer player Wendel wear jersey number 37 in 2019?,No
+1176,1217,4,Did the soccer player Wendel participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1177,1219,3,Was the soccer player L. Martínez born in Argentina?,No
+1178,1219,4,Did the soccer player L. Martínez participate in leauge named Holland Eredivisie during the year 2019?,No
+1179,1220,2,Did the soccer player Galeno wear jersey number 90 in 2019?,No
+1180,1221,2,Did the soccer player A. Paschalakis wear jersey number 31 in 2019?,No
+1181,1221,4,Did the soccer player A. Paschalakis participate in leauge named Rest of World during the year 2019?,No
+1182,1223,4,Did the soccer player N. Vlašić participate in leauge named Rest of World during the year 2019?,No
+1183,1226,2,Did the soccer player Reguilón wear jersey number 23 in 2019?,No
+1184,1227,2,Did the soccer player Renan Lodi wear jersey number 12 in 2019?,No
+1185,1228,1,Did the soccer player S. Proto play for Lazio in 2019?,No
+1186,1228,4,Did the soccer player S. Proto participate in leauge named Italian Serie A during the year 2019?,No
+1187,1229,1,Did the soccer player J. Defoe play for Rangers FC in 2019?,No
+1188,1229,4,Did the soccer player J. Defoe participate in leauge named Scottish Premiership during the year 2019?,No
+1189,1230,1,Did the soccer player P. Jagielka play for Sheffield United in 2019?,No
+1190,1230,2,Did the soccer player P. Jagielka wear jersey number 15 in 2019?,No
+1191,1231,1,Did the soccer player B. Schweinsteiger play for Chicago Fire Football Club in 2019?,No
+1192,1231,2,Did the soccer player B. Schweinsteiger wear jersey number 31 in 2019?,No
+1193,1231,4,Did the soccer player B. Schweinsteiger participate in leauge named USA Major League Soccer during the year 2019?,No
+1194,1233,1,Did the soccer player A. Hutchinson play for Beşiktaş JK in 2019?,No
+1195,1233,4,Did the soccer player A. Hutchinson participate in leauge named Turkish Süper Lig during the year 2019?,No
+1196,1234,1,Did the soccer player J. Briand play for FC Girondins de Bordeaux in 2019?,No
+1197,1234,2,Did the soccer player J. Briand wear jersey number 7 in 2019?,No
+1198,1235,2,Did the soccer player Gomes wear jersey number 1 in 2019?,No
+1199,1236,2,Did the soccer player B. Džemaili wear jersey number 31 in 2019?,No
+1200,1236,4,Did the soccer player B. Džemaili participate in leauge named Italian Serie A during the year 2019?,No
+1201,1238,1,Did the soccer player R. Klavan play for Cagliari in 2019?,No
+1202,1238,2,Did the soccer player R. Klavan wear jersey number 15 in 2019?,No
+1203,1238,4,Did the soccer player R. Klavan participate in leauge named Italian Serie A during the year 2019?,No
+1204,1239,1,Did the soccer player J. Dátolo play for Club Atlético Banfield in 2019?,No
+1205,1239,2,Did the soccer player J. Dátolo wear jersey number 10 in 2019?,No
+1206,1239,4,Did the soccer player J. Dátolo participate in leauge named Argentina Primera División during the year 2019?,No
+1207,1240,1,Did the soccer player A. Turan play for İstanbul Başakşehir FK in 2019?,No
+1208,1240,2,Did the soccer player A. Turan wear jersey number 10 in 2019?,No
+1209,1240,4,Did the soccer player A. Turan participate in leauge named Turkish Süper Lig during the year 2019?,No
+1210,1241,0,Do you know the soccer player S. Kırıntılı?,No
+1211,1241,2,Did the soccer player S. Kırıntılı wear jersey number 1 in 2019?,No
+1212,1243,1,Did the soccer player Soldado play for Granada CF in 2019?,No
+1213,1243,4,Did the soccer player Soldado participate in leauge named Spain Primera Division during the year 2019?,No
+1214,1244,3,Was the soccer player Diego Castro born in Spain?,No
+1215,1244,4,Did the soccer player Diego Castro participate in leauge named Australian Hyundai A-League during the year 2019?,No
+1216,1245,1,Did the soccer player M. Gómez play for VfB Stuttgart in 2019?,No
+1217,1245,3,Was the soccer player M. Gómez born in Germany?,No
+1218,1245,4,Did the soccer player M. Gómez participate in leauge named German 2. Bundesliga during the year 2019?,No
+1219,1247,0,Do you know the soccer player J. Sand?,No
+1220,1247,1,Did the soccer player J. Sand play for Club Atlético Lanús in 2019?,No
+1221,1247,3,Was the soccer player J. Sand born in Argentina?,No
+1222,1247,4,Did the soccer player J. Sand participate in leauge named Argentina Primera División during the year 2019?,No
+1223,1248,4,Did the soccer player P. Skjelbred participate in leauge named German 1. Bundesliga during the year 2019?,No
+1224,1249,0,Do you know the soccer player R. Palacio?,No
+1225,1249,1,Did the soccer player R. Palacio play for Bologna in 2019?,No
+1226,1249,2,Did the soccer player R. Palacio wear jersey number 24 in 2019?,No
+1227,1249,3,Was the soccer player R. Palacio born in Argentina?,No
+1228,1249,4,Did the soccer player R. Palacio participate in leauge named Italian Serie A during the year 2019?,No
+1229,1251,1,Did the soccer player R. Snodgrass play for West Ham United in 2019?,No
+1230,1252,1,Did the soccer player Markel Bergara play for Getafe CF in 2019?,No
+1231,1252,4,Did the soccer player Markel Bergara participate in leauge named Spain Primera Division during the year 2019?,No
+1232,1253,0,Do you know the soccer player A. Hunt?,No
+1233,1253,1,Did the soccer player A. Hunt play for Hamburger SV in 2019?,No
+1234,1253,3,Was the soccer player A. Hunt born in Germany?,No
+1235,1254,4,Did the soccer player Léo Matos participate in leauge named Rest of World during the year 2019?,No
+1236,1255,2,Did the soccer player S. Bolat wear jersey number 1 in 2019?,No
+1237,1256,2,Did the soccer player A. Mierzejewski wear jersey number 9 in 2019?,No
+1238,1257,1,Did the soccer player K. El Ahmadi play for Al Ittihad in 2019?,No
+1239,1257,3,Was the soccer player K. El Ahmadi born in Morocco?,No
+1240,1257,4,Did the soccer player K. El Ahmadi participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+1241,1258,2,Did the soccer player J. Orozco wear jersey number 1 in 2019?,No
+1242,1259,1,Did the soccer player S. Sessègnon play for Gençlerbirliği SK in 2019?,No
+1243,1259,2,Did the soccer player S. Sessègnon wear jersey number 10 in 2019?,No
+1244,1259,4,Did the soccer player S. Sessègnon participate in leauge named Turkish Süper Lig during the year 2019?,No
+1245,1260,1,Did the soccer player A. Diamanti play for Western United FC in 2019?,No
+1246,1260,2,Did the soccer player A. Diamanti wear jersey number 23 in 2019?,No
+1247,1260,4,Did the soccer player A. Diamanti participate in leauge named Australian Hyundai A-League during the year 2019?,No
+1248,1262,1,Did the soccer player F. Higuaín play for Columbus Crew in 2019?,No
+1249,1262,2,Did the soccer player F. Higuaín wear jersey number 10 in 2019?,No
+1250,1262,4,Did the soccer player F. Higuaín participate in leauge named USA Major League Soccer during the year 2019?,No
+1251,1263,1,Did the soccer player Marcelo Grohe play for Al Ittihad in 2019?,No
+1252,1263,2,Did the soccer player Marcelo Grohe wear jersey number 34 in 2019?,No
+1253,1263,4,Did the soccer player Marcelo Grohe participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+1254,1264,1,Did the soccer player S. Bocchetti play for Hellas Verona in 2019?,No
+1255,1264,2,Did the soccer player S. Bocchetti wear jersey number 40 in 2019?,No
+1256,1264,4,Did the soccer player S. Bocchetti participate in leauge named Italian Serie A during the year 2019?,No
+1257,1266,0,Do you know the soccer player J. Cork?,No
+1258,1266,1,Did the soccer player J. Cork play for Burnley in 2019?,No
+1259,1266,2,Did the soccer player J. Cork wear jersey number 4 in 2019?,No
+1260,1266,3,Was the soccer player J. Cork born in England?,No
+1261,1266,4,Did the soccer player J. Cork participate in leauge named English Premier League during the year 2019?,No
+1262,1267,1,Did the soccer player J. Rodriguez play for Burnley in 2019?,No
+1263,1267,3,Was the soccer player J. Rodriguez born in England?,No
+1264,1267,4,Did the soccer player J. Rodriguez participate in leauge named English Premier League during the year 2019?,No
+1265,1268,1,Did the soccer player G. dos Santos play for Club América in 2019?,No
+1266,1268,3,Was the soccer player G. dos Santos born in Mexico?,No
+1267,1270,1,Did the soccer player J. Maidana play for Deportivo Toluca in 2019?,No
+1268,1271,3,Was the soccer player D. Zurutuza born in France?,No
+1269,1273,1,Did the soccer player Adrián play for CA Osasuna in 2019?,No
+1270,1275,2,Did the soccer player W. Reid wear jersey number 2 in 2019?,No
+1271,1276,1,Did the soccer player D. Chygrynskyi play for AEK Athens in 2019?,No
+1272,1276,4,Did the soccer player D. Chygrynskyi participate in leauge named Rest of World during the year 2019?,No
+1273,1278,1,Did the soccer player O. Toivonen play for Melbourne Victory in 2019?,No
+1274,1278,4,Did the soccer player O. Toivonen participate in leauge named Australian Hyundai A-League during the year 2019?,No
+1275,1279,0,Do you know the soccer player Mossoró?,No
+1276,1279,1,Did the soccer player Mossoró play for İstanbul Başakşehir FK in 2019?,No
+1277,1279,4,Did the soccer player Mossoró participate in leauge named Turkish Süper Lig during the year 2019?,No
+1278,1280,1,Did the soccer player M. Fellaini play for Shandong Taishan in 2019?,No
+1279,1280,2,Did the soccer player M. Fellaini wear jersey number 25 in 2019?,No
+1280,1282,0,Do you know the soccer player F. Johnson?,No
+1281,1282,1,Did the soccer player F. Johnson play for Borussia Mönchengladbach in 2019?,No
+1282,1282,3,Was the soccer player F. Johnson born in United States?,No
+1283,1282,4,Did the soccer player F. Johnson participate in leauge named German 1. Bundesliga during the year 2019?,No
+1284,1283,4,Did the soccer player Vieirinha participate in leauge named Rest of World during the year 2019?,No
+1285,1284,4,Did the soccer player J. De Guzmán participate in leauge named German 1. Bundesliga during the year 2019?,No
+1286,1285,1,Did the soccer player Fabricio play for Fulham in 2019?,No
+1287,1285,2,Did the soccer player Fabricio wear jersey number 31 in 2019?,No
+1288,1285,3,Was the soccer player Fabricio born in Spain?,No
+1289,1285,4,Did the soccer player Fabricio participate in leauge named English League Championship during the year 2019?,No
+1290,1286,4,Did the soccer player D. Biseswar participate in leauge named Rest of World during the year 2019?,No
+1291,1287,0,Do you know the soccer player T. Mangani?,No
+1292,1287,3,Was the soccer player T. Mangani born in France?,No
+1293,1287,4,Did the soccer player T. Mangani participate in leauge named French Ligue 1 during the year 2019?,No
+1294,1288,1,Did the soccer player R. Donk play for Galatasaray SK in 2019?,No
+1295,1289,3,Was the soccer player Pablo Hernández born in Spain?,No
+1296,1290,1,Did the soccer player Ki Sung Yueng play for Newcastle United in 2019?,No
+1297,1292,4,Did the soccer player B. Dočkal participate in leauge named Czech Republic Gambrinus Liga during the year 2019?,No
+1298,1294,3,Was the soccer player D. Stephens born in England?,No
+1299,1294,4,Did the soccer player D. Stephens participate in leauge named English Premier League during the year 2019?,No
+1300,1295,3,Was the soccer player Beto born in Portugal?,No
+1301,1298,2,Did the soccer player M. Jørgensen wear jersey number 32 in 2019?,No
+1302,1299,4,Did the soccer player E. Choupo-Moting participate in leauge named French Ligue 1 during the year 2019?,No
+1303,1302,1,Did the soccer player F. Roncaglia play for CA Osasuna in 2019?,No
+1304,1302,2,Did the soccer player F. Roncaglia wear jersey number 12 in 2019?,No
+1305,1302,4,Did the soccer player F. Roncaglia participate in leauge named Spain Primera Division during the year 2019?,No
+1306,1303,1,Did the soccer player K. Papadopoulos play for Hamburger SV in 2019?,No
+1307,1305,3,Was the soccer player N. Sánchez born in Argentina?,No
+1308,1307,2,Did the soccer player M. Stoch wear jersey number 99 in 2019?,No
+1309,1307,4,Did the soccer player M. Stoch participate in leauge named Rest of World during the year 2019?,No
+1310,1308,2,Did the soccer player P. van Aanholt wear jersey number 3 in 2019?,No
+1311,1309,1,Did the soccer player F. Borini play for AC Milan in 2019?,No
+1312,1311,3,Was the soccer player T. Gebre Selassie born in Czech Republic?,No
+1313,1312,1,Did the soccer player I. Radovanović play for Genoa in 2019?,No
+1314,1312,4,Did the soccer player I. Radovanović participate in leauge named Italian Serie A during the year 2019?,No
+1315,1315,1,Did the soccer player O. El Kaddouri play for PAOK in 2019?,No
+1316,1315,4,Did the soccer player O. El Kaddouri participate in leauge named Rest of World during the year 2019?,No
+1317,1316,3,Was the soccer player Rochina born in Spain?,No
+1318,1318,1,Did the soccer player Diogo Viana play for SC Braga in 2019?,No
+1319,1318,4,Did the soccer player Diogo Viana participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1320,1319,4,Did the soccer player C. Villanueva participate in leauge named Saudi Abdul L. Jameel League during the year 2019?,No
+1321,1320,2,Did the soccer player M. Schmelzer wear jersey number 29 in 2019?,No
+1322,1322,2,Did the soccer player E. Berisha wear jersey number 99 in 2019?,No
+1323,1322,4,Did the soccer player E. Berisha participate in leauge named Italian Serie A during the year 2019?,No
+1324,1323,2,Did the soccer player A. McCarthy wear jersey number 1 in 2019?,No
+1325,1323,3,Was the soccer player A. McCarthy born in England?,No
+1326,1324,1,Did the soccer player Iturraspe play for RCD Espanyol de Barcelona in 2019?,No
+1327,1324,2,Did the soccer player Iturraspe wear jersey number 8 in 2019?,No
+1328,1324,4,Did the soccer player Iturraspe participate in leauge named Spain Primera Division during the year 2019?,No
+1329,1326,1,Did the soccer player T. Cleverley play for Watford in 2019?,No
+1330,1329,1,Did the soccer player T. Kolodziejczak play for Tigres U.A.N.L. in 2019?,No
+1331,1329,2,Did the soccer player T. Kolodziejczak wear jersey number 98 in 2019?,No
+1332,1329,4,Did the soccer player T. Kolodziejczak participate in leauge named Mexican Liga MX during the year 2019?,No
+1333,1332,1,Did the soccer player A. Hansen play for Rosenborg BK in 2019?,No
+1334,1332,2,Did the soccer player A. Hansen wear jersey number 1 in 2019?,No
+1335,1332,3,Was the soccer player A. Hansen born in Norway?,No
+1336,1333,3,Was the soccer player T. Jantschke born in Germany?,No
+1337,1334,1,Did the soccer player E. Mangala play for Valencia CF in 2019?,No
+1338,1334,4,Did the soccer player E. Mangala participate in leauge named Spain Primera Division during the year 2019?,No
+1339,1335,1,Did the soccer player S. Blanco play for Portland Timbers in 2019?,No
+1340,1335,3,Was the soccer player S. Blanco born in Argentina?,No
+1341,1335,4,Did the soccer player S. Blanco participate in leauge named USA Major League Soccer during the year 2019?,No
+1342,1338,0,Do you know the soccer player K. Théophile-Catherine?,No
+1343,1338,1,Did the soccer player K. Théophile-Catherine play for Dinamo Zagreb in 2019?,No
+1344,1338,2,Did the soccer player K. Théophile-Catherine wear jersey number 28 in 2019?,No
+1345,1338,4,Did the soccer player K. Théophile-Catherine participate in leauge named Rest of World during the year 2019?,No
+1346,1340,1,Did the soccer player Y. Ōsako play for SV Werder Bremen in 2019?,No
+1347,1341,2,Did the soccer player L. Chichizola wear jersey number 1 in 2019?,No
+1348,1342,1,Did the soccer player D. Reyes play for Fenerbahçe SK in 2019?,No
+1349,1342,2,Did the soccer player D. Reyes wear jersey number 2 in 2019?,No
+1350,1342,4,Did the soccer player D. Reyes participate in leauge named Turkish Süper Lig during the year 2019?,No
+1351,1343,3,Was the soccer player N. Araújo born in Mexico?,No
+1352,1344,1,Did the soccer player E. Cardona play for Pachuca in 2019?,No
+1353,1345,2,Did the soccer player S. Padt wear jersey number 1 in 2019?,No
+1354,1346,2,Did the soccer player Júnior Caiçara wear jersey number 80 in 2019?,No
+1355,1347,4,Did the soccer player M. Jajalo participate in leauge named Italian Serie A during the year 2019?,No
+1356,1349,1,Did the soccer player A. Schürrle play for Spartak Moskva in 2019?,No
+1357,1349,2,Did the soccer player A. Schürrle wear jersey number 20 in 2019?,No
+1358,1349,4,Did the soccer player A. Schürrle participate in leauge named Rest of World during the year 2019?,No
+1359,1350,1,Did the soccer player Aitor play for Levante Unión Deportiva in 2019?,No
+1360,1350,2,Did the soccer player Aitor wear jersey number 13 in 2019?,No
+1361,1350,4,Did the soccer player Aitor participate in leauge named Spain Primera Division during the year 2019?,No
+1362,1352,1,Did the soccer player Portillo play for Getafe CF in 2019?,No
+1363,1352,3,Was the soccer player Portillo born in Spain?,No
+1364,1352,4,Did the soccer player Portillo participate in leauge named Spain Primera Division during the year 2019?,No
+1365,1353,0,Do you know the soccer player A. Gray?,No
+1366,1353,3,Was the soccer player A. Gray born in England?,No
+1367,1353,4,Did the soccer player A. Gray participate in leauge named English Premier League during the year 2019?,No
+1368,1355,0,Do you know the soccer player Montoya?,No
+1369,1355,1,Did the soccer player Montoya play for Brighton & Hove Albion in 2019?,No
+1370,1355,3,Was the soccer player Montoya born in Spain?,No
+1371,1355,4,Did the soccer player Montoya participate in leauge named English Premier League during the year 2019?,No
+1372,1356,1,Did the soccer player Adrián play for Liverpool in 2019?,No
+1373,1360,4,Did the soccer player J. Martínez participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1374,1362,2,Did the soccer player T. Gutiérrez wear jersey number 29 in 2019?,No
+1375,1362,3,Was the soccer player T. Gutiérrez born in Colombia?,No
+1376,1362,4,Did the soccer player T. Gutiérrez participate in leauge named Colombian Liga Postobón during the year 2019?,No
+1377,1365,1,Did the soccer player D. Boyata play for Hertha BSC in 2019?,No
+1378,1365,4,Did the soccer player D. Boyata participate in leauge named German 1. Bundesliga during the year 2019?,No
+1379,1368,1,Did the soccer player Raúl Navas play for CA Osasuna in 2019?,No
+1380,1368,2,Did the soccer player Raúl Navas wear jersey number 3 in 2019?,No
+1381,1368,4,Did the soccer player Raúl Navas participate in leauge named Spain Primera Division during the year 2019?,No
+1382,1370,4,Did the soccer player S. Taïder participate in leauge named USA Major League Soccer during the year 2019?,No
+1383,1372,2,Did the soccer player H. Tekin wear jersey number 35 in 2019?,No
+1384,1373,1,Did the soccer player J. Clasie play for AZ Alkmaar in 2019?,No
+1385,1376,1,Did the soccer player J. Guidetti play for Deportivo Alavés in 2019?,No
+1386,1376,2,Did the soccer player J. Guidetti wear jersey number 10 in 2019?,No
+1387,1376,4,Did the soccer player J. Guidetti participate in leauge named Spain Primera Division during the year 2019?,No
+1388,1377,1,Did the soccer player D. Praet play for Leicester City in 2019?,No
+1389,1377,4,Did the soccer player D. Praet participate in leauge named English Premier League during the year 2019?,No
+1390,1378,1,Did the soccer player L. Unnerstall play for PSV in 2019?,No
+1391,1378,4,Did the soccer player L. Unnerstall participate in leauge named Holland Eredivisie during the year 2019?,No
+1392,1380,3,Was the soccer player A. Maher born in Netherlands?,No
+1393,1380,4,Did the soccer player A. Maher participate in leauge named Holland Eredivisie during the year 2019?,No
+1394,1381,0,Do you know the soccer player B. Raman?,No
+1395,1381,1,Did the soccer player B. Raman play for FC Schalke 04 in 2019?,No
+1396,1381,2,Did the soccer player B. Raman wear jersey number 9 in 2019?,No
+1397,1381,3,Was the soccer player B. Raman born in Belgium?,No
+1398,1381,4,Did the soccer player B. Raman participate in leauge named German 1. Bundesliga during the year 2019?,No
+1399,1382,1,Did the soccer player C. Schindler play for Huddersfield Town in 2019?,No
+1400,1384,4,Did the soccer player A. Wakaso participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1401,1386,2,Did the soccer player Cédric wear jersey number 2 in 2019?,No
+1402,1387,1,Did the soccer player R. Morrison play for Sheffield United in 2019?,No
+1403,1387,3,Was the soccer player R. Morrison born in England?,No
+1404,1387,4,Did the soccer player R. Morrison participate in leauge named English Premier League during the year 2019?,No
+1405,1389,0,Do you know the soccer player R. Brady?,No
+1406,1389,1,Did the soccer player R. Brady play for Burnley in 2019?,No
+1407,1389,2,Did the soccer player R. Brady wear jersey number 12 in 2019?,No
+1408,1389,3,Was the soccer player R. Brady born in Republic of Ireland?,No
+1409,1389,4,Did the soccer player R. Brady participate in leauge named English Premier League during the year 2019?,No
+1410,1390,1,Did the soccer player F. Fernández play for Newcastle United in 2019?,No
+1411,1390,4,Did the soccer player F. Fernández participate in leauge named English Premier League during the year 2019?,No
+1412,1392,1,Did the soccer player Aleix Vidal play for Deportivo Alavés in 2019?,No
+1413,1392,2,Did the soccer player Aleix Vidal wear jersey number 18 in 2019?,No
+1414,1392,4,Did the soccer player Aleix Vidal participate in leauge named Spain Primera Division during the year 2019?,No
+1415,1398,2,Did the soccer player S. Sanogo wear jersey number 35 in 2019?,No
+1416,1399,4,Did the soccer player J. Locadia participate in leauge named English Premier League during the year 2019?,No
+1417,1401,1,Did the soccer player J. Campbell play for Club León in 2019?,No
+1418,1401,3,Was the soccer player J. Campbell born in Costa Rica?,No
+1419,1401,4,Did the soccer player J. Campbell participate in leauge named Mexican Liga MX during the year 2019?,No
+1420,1403,0,Do you know the soccer player Toño García?,No
+1421,1403,1,Did the soccer player Toño García play for Levante Unión Deportiva in 2019?,No
+1422,1403,3,Was the soccer player Toño García born in Spain?,No
+1423,1403,4,Did the soccer player Toño García participate in leauge named Spain Primera Division during the year 2019?,No
+1424,1404,0,Do you know the soccer player C. Taylor?,No
+1425,1404,1,Did the soccer player C. Taylor play for Burnley in 2019?,No
+1426,1404,3,Was the soccer player C. Taylor born in England?,No
+1427,1404,4,Did the soccer player C. Taylor participate in leauge named English Premier League during the year 2019?,No
+1428,1406,4,Did the soccer player S. Kverkvelia participate in leauge named Rest of World during the year 2019?,No
+1429,1407,1,Did the soccer player Alberto Moreno play for Villarreal CF in 2019?,No
+1430,1407,2,Did the soccer player Alberto Moreno wear jersey number 18 in 2019?,No
+1431,1407,4,Did the soccer player Alberto Moreno participate in leauge named Spain Primera Division during the year 2019?,No
+1432,1409,4,Did the soccer player S. Denswil participate in leauge named Italian Serie A during the year 2019?,No
+1433,1410,4,Did the soccer player M. Livaja participate in leauge named Rest of World during the year 2019?,No
+1434,1411,1,Did the soccer player Y. Mvogo play for RB Leipzig in 2019?,No
+1435,1412,0,Do you know the soccer player I. Hayden?,No
+1436,1412,1,Did the soccer player I. Hayden play for Newcastle United in 2019?,No
+1437,1412,3,Was the soccer player I. Hayden born in England?,No
+1438,1412,4,Did the soccer player I. Hayden participate in leauge named English Premier League during the year 2019?,No
+1439,1413,0,Do you know the soccer player D. Heintz?,No
+1440,1413,1,Did the soccer player D. Heintz play for Sport-Club Freiburg in 2019?,No
+1441,1413,2,Did the soccer player D. Heintz wear jersey number 23 in 2019?,No
+1442,1413,4,Did the soccer player D. Heintz participate in leauge named German 1. Bundesliga during the year 2019?,No
+1443,1414,4,Did the soccer player D. Garmash participate in leauge named Rest of World during the year 2019?,No
+1444,1416,1,Did the soccer player Paulinho play for Portimonense SC in 2019?,No
+1445,1416,4,Did the soccer player Paulinho participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1446,1417,2,Did the soccer player Matheus wear jersey number 1 in 2019?,No
+1447,1417,4,Did the soccer player Matheus participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1448,1418,1,Did the soccer player G. González play for LA Galaxy in 2019?,No
+1449,1419,3,Was the soccer player A. Thomasson born in France?,No
+1450,1419,4,Did the soccer player A. Thomasson participate in leauge named French Ligue 1 during the year 2019?,No
+1451,1420,4,Did the soccer player Guilherme participate in leauge named Rest of World during the year 2019?,No
+1452,1425,1,Did the soccer player A. Szymanowski play for CD Leganés in 2019?,No
+1453,1425,3,Was the soccer player A. Szymanowski born in Argentina?,No
+1454,1425,4,Did the soccer player A. Szymanowski participate in leauge named Spain Primera Division during the year 2019?,No
+1455,1427,3,Was the soccer player R. Steffen born in Switzerland?,No
+1456,1428,4,Did the soccer player Paulo Oliveira participate in leauge named Spain Primera Division during the year 2019?,No
+1457,1429,0,Do you know the soccer player B. Engels?,No
+1458,1429,1,Did the soccer player B. Engels play for Aston Villa in 2019?,No
+1459,1429,2,Did the soccer player B. Engels wear jersey number 22 in 2019?,No
+1460,1429,4,Did the soccer player B. Engels participate in leauge named English Premier League during the year 2019?,No
+1461,1430,0,Do you know the soccer player C. McGregor?,No
+1462,1430,1,Did the soccer player C. McGregor play for Celtic in 2019?,No
+1463,1430,2,Did the soccer player C. McGregor wear jersey number 42 in 2019?,No
+1464,1430,3,Was the soccer player C. McGregor born in Scotland?,No
+1465,1430,4,Did the soccer player C. McGregor participate in leauge named Scottish Premiership during the year 2019?,No
+1466,1431,2,Did the soccer player Rubén Blanco wear jersey number 13 in 2019?,No
+1467,1432,1,Did the soccer player Fernandinho play for Hebei FC in 2019?,No
+1468,1432,2,Did the soccer player Fernandinho wear jersey number 32 in 2019?,No
+1469,1432,4,Did the soccer player Fernandinho participate in leauge named Chinese Super League during the year 2019?,No
+1470,1434,4,Did the soccer player Luiz Phellype participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1471,1435,2,Did the soccer player P. Gollini wear jersey number 95 in 2019?,No
+1472,1436,3,Was the soccer player Pere Pons born in Spain?,No
+1473,1437,1,Did the soccer player R. Khedira play for FC Augsburg in 2019?,No
+1474,1438,0,Do you know the soccer player D. Kohr?,No
+1475,1438,1,Did the soccer player D. Kohr play for Eintracht Frankfurt in 2019?,No
+1476,1438,4,Did the soccer player D. Kohr participate in leauge named German 1. Bundesliga during the year 2019?,No
+1477,1439,2,Did the soccer player Ricardo Esgaio wear jersey number 47 in 2019?,No
+1478,1439,4,Did the soccer player Ricardo Esgaio participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1479,1443,0,Do you know the soccer player J. Hendrix?,No
+1480,1443,1,Did the soccer player J. Hendrix play for PSV in 2019?,No
+1481,1443,2,Did the soccer player J. Hendrix wear jersey number 8 in 2019?,No
+1482,1443,3,Was the soccer player J. Hendrix born in Netherlands?,No
+1483,1443,4,Did the soccer player J. Hendrix participate in leauge named Holland Eredivisie during the year 2019?,No
+1484,1445,1,Did the soccer player F. Di Francesco play for SPAL in 2019?,No
+1485,1445,2,Did the soccer player F. Di Francesco wear jersey number 31 in 2019?,No
+1486,1445,4,Did the soccer player F. Di Francesco participate in leauge named Italian Serie A during the year 2019?,No
+1487,1446,1,Did the soccer player M. Uribe play for FC Porto in 2019?,No
+1488,1446,4,Did the soccer player M. Uribe participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1489,1448,1,Did the soccer player M. Benítez play for Club Atlético Independiente in 2019?,No
+1490,1449,1,Did the soccer player A. Aguerre play for Newell's Old Boys in 2019?,No
+1491,1449,2,Did the soccer player A. Aguerre wear jersey number 1 in 2019?,No
+1492,1450,3,Was the soccer player G. Herrera born in Argentina?,No
+1493,1451,2,Did the soccer player D. Türüç wear jersey number 23 in 2019?,No
+1494,1454,4,Did the soccer player A. Gunn participate in leauge named English Premier League during the year 2019?,No
+1495,1455,0,Do you know the soccer player Wallace?,No
+1496,1455,1,Did the soccer player Wallace play for Lazio in 2019?,No
+1497,1455,2,Did the soccer player Wallace wear jersey number 13 in 2019?,No
+1498,1455,4,Did the soccer player Wallace participate in leauge named Italian Serie A during the year 2019?,No
+1499,1456,2,Did the soccer player Gonçalo Paciência wear jersey number 39 in 2019?,No
+1500,1457,2,Did the soccer player Rúben Semedo wear jersey number 3 in 2019?,No
+1501,1457,4,Did the soccer player Rúben Semedo participate in leauge named Rest of World during the year 2019?,No
+1502,1459,3,Was the soccer player Sequeira born in Portugal?,No
+1503,1459,4,Did the soccer player Sequeira participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1504,1461,1,Did the soccer player J. Izquierdo play for Brighton & Hove Albion in 2019?,No
+1505,1461,4,Did the soccer player J. Izquierdo participate in leauge named English Premier League during the year 2019?,No
+1506,1463,1,Did the soccer player Camarasa play for Crystal Palace in 2019?,No
+1507,1463,2,Did the soccer player Camarasa wear jersey number 23 in 2019?,No
+1508,1463,4,Did the soccer player Camarasa participate in leauge named English Premier League during the year 2019?,No
+1509,1464,1,Did the soccer player S. Gigot play for Spartak Moskva in 2019?,No
+1510,1464,4,Did the soccer player S. Gigot participate in leauge named Rest of World during the year 2019?,No
+1511,1468,4,Did the soccer player E. Valencia participate in leauge named Mexican Liga MX during the year 2019?,No
+1512,1469,1,Did the soccer player Ó. Romero play for San Lorenzo de Almagro in 2019?,No
+1513,1470,1,Did the soccer player Jaume play for Valencia CF in 2019?,No
+1514,1470,2,Did the soccer player Jaume wear jersey number 1 in 2019?,No
+1515,1470,4,Did the soccer player Jaume participate in leauge named Spain Primera Division during the year 2019?,No
+1516,1471,4,Did the soccer player A. Živković participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1517,1472,1,Did the soccer player B. Ndiaye play for Stoke City in 2019?,No
+1518,1472,4,Did the soccer player B. Ndiaye participate in leauge named English League Championship during the year 2019?,No
+1519,1474,2,Did the soccer player M. Locatelli wear jersey number 73 in 2019?,No
+1520,1475,2,Did the soccer player B. Embolo wear jersey number 36 in 2019?,No
+1521,1476,4,Did the soccer player T. Castagne participate in leauge named Italian Serie A during the year 2019?,No
+1522,1477,4,Did the soccer player Otávio participate in leauge named French Ligue 1 during the year 2019?,No
+1523,1480,4,Did the soccer player F. Cervi participate in leauge named Portuguese Liga ZON SAGRES during the year 2019?,No
+1524,1481,0,Do you know the soccer player A. Briançon?,No
+1525,1481,1,Did the soccer player A. Briançon play for Nîmes Olympique in 2019?,No
+1526,1481,2,Did the soccer player A. Briançon wear jersey number 23 in 2019?,No
+1527,1481,4,Did the soccer player A. Briançon participate in leauge named French Ligue 1 during the year 2019?,No
+1528,1485,4,Did the soccer player M. Çelik participate in leauge named French Ligue 1 during the year 2019?,No
+1529,1487,2,Did the soccer player F. Andone wear jersey number 10 in 2019?,No
+1530,1487,4,Did the soccer player F. Andone participate in leauge named English Premier League during the year 2019?,No
+1531,1490,2,Did the soccer player R. Mandragora wear jersey number 38 in 2019?,No
+1532,1491,0,Do you know the soccer player J. Augustin?,No
+1533,1491,1,Did the soccer player J. Augustin play for RB Leipzig in 2019?,No
+1534,1491,3,Was the soccer player J. Augustin born in France?,No
+1535,1491,4,Did the soccer player J. Augustin participate in leauge named German 1. Bundesliga during the year 2019?,No
+1536,1492,1,Did the soccer player M. Díaz play for Boca Juniors in 2019?,No
+1537,1492,3,Was the soccer player M. Díaz born in Argentina?,No
+1538,1494,1,Did the soccer player Rubén Duarte play for Deportivo Alavés in 2019?,No
+1539,1494,3,Was the soccer player Rubén Duarte born in Spain?,No
+1540,1494,4,Did the soccer player Rubén Duarte participate in leauge named Spain Primera Division during the year 2019?,No
+1541,1495,2,Did the soccer player Álex Remiro wear jersey number 1 in 2019?,No
+1542,1498,3,Was the soccer player Pedraza born in Spain?,No

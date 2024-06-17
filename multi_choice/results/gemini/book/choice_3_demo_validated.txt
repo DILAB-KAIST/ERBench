@@ -1,0 +1,16 @@
+{
+    "num_total_entity": "1499",
+    "num_valid_entity": "845",
+    "num_questions": "2535",
+    "binding_error_rate": 0.0,
+    "qa_acc": 0.55,
+    "prompt_0_qa_acc": 0.55,
+    "prompt_1_qa_acc": 0.55,
+    "prompt_2_qa_acc": 0.54,
+    "rationale_acc": 0.13,
+    "prompt_0_rationale_acc": 0.13,
+    "prompt_1_rationale_acc": 0.13,
+    "prompt_2_rationale_acc": 0.13,
+    "answer and rationale accuracy": 0.13,
+    "hallucination rate": 0.45
+}

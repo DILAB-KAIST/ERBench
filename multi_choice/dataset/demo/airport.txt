@@ -1,0 +1,38 @@
+Q: What's the inaccurate option about the airport Arlanda? Provide an explanation.
+Option 1: ICAO Shortcode of the airport is ESSB.
+Option 2: Latitude of the airport is 59.649.
+Option 3: Longitude of the airport is 17.923.
+Option 4: Country code of the airport is SE.
+
+A: Option 1: ICAO Shortcode of the airport is ESSB.
+The ICAO code for Arlanda airport is ESSA.
+
+
+Q: What is the false option about the airport Tshane? Provide an explanation.
+Option 1: The abbreviated form (ICAO) for the airport is FBTE.
+Option 2: The latitude of the airport is 37.017.
+Option 3: The longitude of the airport is 21.882.
+Option 4: The country code of the airport is BW.
+
+A: Option 2: The latitude of the airport is 37.017.
+The latitude of Tshane airport is approximately -24.017.
+
+
+Q: What is the wrong option regarding the airport Oum el Bouaghi? Provide an explanation.
+Option 1: The ICAO shortcode for the airport is the same with DABO.
+Option 2: The airport is located at 35.879 latitude.
+Option 3: The airport is located at -110.200 longitude.
+Option 4: The airport has a country code of DZ.
+
+A: Option 3: The airport is located at -110.200 longitude.
+The longitude of Oum el Bouaghi airport is approximately 7.270.
+
+
+Q: What's the inaccurate option about the airport Bruny Island? Provide an explanation.
+Option 1: ICAO Shortcode of the airport is YBYI.
+Option 2: Latitude of the airport is -43.234.
+Option 3: Longitude of the airport is 147.380.
+Option 4: Country code of the airport is US.
+
+A: Option 4: Country code of the airport is US.
+Bruny Island airport is located in Australia, not the United States. Therefore, its country code is AU.

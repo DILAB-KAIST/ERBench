@@ -1,0 +1,698 @@
+,entity_idx,question_idx,question,model_response
+0,8,2,Is the movie Harry Potter and the Half-Blood Prince released in year 2009 produced in UK?,No.
+1,11,2,Is the movie Quantum of Solace released in year 2008 produced in UK?,No.
+2,15,2,Is the movie The Chronicles of Narnia: Prince Caspian released in year 2008 produced in USA?,No.
+3,17,1,Is the movie Pirates of the Caribbean: On Stranger Tides released in year 2011 directed by Rob Marshall?,No.
+4,21,1,Is the movie Robin Hood released in year 2010 directed by Ridley Scott?,No.
+5,21,2,Is the movie Robin Hood released in year 2010 produced in USA?,No.
+6,22,2,Is the movie The Hobbit: The Desolation of Smaug released in year 2013 produced in USA?,No.
+7,23,2,Is the movie The Golden Compass released in year 2007 produced in USA?,No.
+8,25,2,Is the movie Titanic released in year 1997 produced in USA?,No.
+9,32,2,Is the movie Alice in Wonderland released in year 2010 produced in USA?,No.
+10,32,3,Is the movie Alice in Wonderland released in year 2010 non-animation movie?,No.
+11,33,2,Is the movie X-Men: The Last Stand released in year 2006 produced in Canada?,No.
+12,41,1,Is the movie Green Lantern released in year 2011 directed by Martin Campbell?,No.
+13,48,1,Is the movie Jack the Giant Slayer released in year 2013 directed by Bryan Singer?,No.
+14,49,2,Is the movie The Great Gatsby released in year 2013 produced in Australia?,No.
+15,50,1,Is the movie Prince of Persia: The Sands of Time released in year 2010 directed by Mike Newell?,No.
+16,50,2,Is the movie Prince of Persia: The Sands of Time released in year 2010 produced in USA?,No.
+17,51,2,Is the movie Pacific Rim released in year 2013 produced in USA?,No.
+18,55,2,Is the movie Brave released in year 2012 produced in USA?,No.
+19,58,2,Is the movie Rush Hour 3 released in year 2007 produced in USA?,No.
+20,59,2,Is the movie 2012 released in year 2009 produced in USA?,No.
+21,60,2,Is the movie A Christmas Carol released in year 2009 produced in USA?,No.
+22,60,3,Is the movie A Christmas Carol released in year 2009 animation movie?,No.
+23,63,2,"Is the movie The Chronicles of Narnia: The Lion, the Witch and the Wardrobe released in year 2005 produced in USA?",No.
+24,69,2,Is the movie Hugo released in year 2011 produced in USA?,No.
+25,74,2,Is the movie Edge of Tomorrow released in year 2014 produced in USA?,No.
+26,78,2,Is the movie The Jungle Book released in year 2016 produced in UK?,No.
+27,78,3,Is the movie The Jungle Book released in year 2016 non-animation movie?,No.
+28,81,2,Is the movie Maleficent released in year 2014 produced in USA?,No.
+29,83,0,Do you know the movie The Lovers released in year 2015?,"No, I don't have specific knowledge about a movie called ""The Lovers"" released in 2015."
+30,83,1,Is the movie The Lovers released in year 2015 directed by Roland Joffé?,No.
+31,83,2,Is the movie The Lovers released in year 2015 produced in Belgium?,No.
+32,84,2,Is the movie 47 Ronin released in year 2013 produced in USA?,No.
+33,98,2,Is the movie The Hobbit: An Unexpected Journey released in year 2012 produced in USA?,No.
+34,105,2,Is the movie Alice Through the Looking Glass released in year 2016 produced in USA?,No.
+35,107,2,Is the movie Warcraft released in year 2016 produced in USA?,No.
+36,109,2,Is the movie The Chronicles of Narnia: The Voyage of the Dawn Treader released in year 2010 produced in USA?,No.
+37,112,2,Is the movie Alexander released in year 2004 produced in Germany?,No.
+38,117,2,Is the movie Charlie and the Chocolate Factory released in year 2005 produced in USA?,No.
+39,123,2,Is the movie The Matrix Revolutions released in year 2003 produced in Australia?,No.
+40,124,2,Is the movie Frozen released in year 2013 produced in USA?,No.
+41,126,2,Is the movie Thor: The Dark World released in year 2013 produced in USA?,No.
+42,128,2,Is the movie Angels & Demons released in year 2009 produced in USA?,No.
+43,132,2,Is the movie Wrath of the Titans released in year 2012 produced in USA?,No.
+44,134,2,Is the movie Mission: Impossible - Rogue Nation released in year 2015 produced in China?,No.
+45,136,1,Is the movie Bee Movie released in year 2007 directed by Steve Hickner?,No.
+46,143,2,Is the movie Pan released in year 2015 produced in USA?,No.
+47,148,2,Is the movie Ghostbusters released in year 2016 produced in USA?,No.
+48,151,2,Is the movie Beowulf released in year 2007 produced in USA?,No.
+49,157,2,Is the movie Exodus: Gods and Kings released in year 2014 produced in UK?,No.
+50,161,2,Is the movie Gods of Egypt released in year 2016 produced in USA?,No.
+51,167,2,Is the movie Sahara released in year 2005 produced in UK?,No.
+52,168,2,Is the movie Final Fantasy: The Spirits Within released in year 2001 produced in USA?,No.
+53,170,1,Is the movie The World Is Not Enough released in year 1999 directed by Michael Apted?,No.
+54,170,2,Is the movie The World Is Not Enough released in year 1999 produced in UK?,No.
+55,171,2,Is the movie Master and Commander: The Far Side of the World released in year 2003 produced in USA?,No.
+56,173,2,Is the movie Happy Feet 2 released in year 2011 produced in Australia?,No.
+57,175,3,Is the movie The BFG released in year 2016 non-animation movie?,No.
+58,181,1,Is the movie Kung Fu Panda released in year 2008 directed by Mark Osborne?,No.
+59,187,2,Is the movie Puss in Boots released in year 2011 produced in USA?,No.
+60,190,2,Is the movie The Adventures of Tintin released in year 2011 produced in USA?,No.
+61,190,3,Is the movie The Adventures of Tintin released in year 2011 non-animation movie?,No.
+62,194,1,Is the movie Dinosaur released in year 2000 directed by Eric Leighton?,No.
+63,195,1,Is the movie Harry Potter and the Deathly Hallows: Part II released in year 2011 directed by Matt Birch?,No.
+64,201,1,Is the movie Harry Potter and the Deathly Hallows: Part I released in year 2010 directed by Matt Birch?,No.
+65,204,2,Is the movie Rio 2 released in year 2014 produced in USA?,No.
+66,205,2,Is the movie X-Men 2 released in year 2003 produced in Canada?,No.
+67,207,2,Is the movie Sherlock Holmes: A Game of Shadows released in year 2011 produced in USA?,No.
+68,208,2,Is the movie Clash of the Titans released in year 2010 produced in USA?,No.
+69,210,2,Is the movie The 13th Warrior released in year 1999 produced in USA?,No.
+70,213,1,Is the movie How the Grinch Stole Christmas released in year 2000 directed by Ron Howard?,No.
+71,218,2,Is the movie Life of Pi released in year 2012 produced in USA?,No.
+72,220,2,Is the movie Jason Bourne released in year 2016 produced in UK?,No.
+73,226,2,Is the movie RoboCop released in year 2014 produced in USA?,No.
+74,229,1,Is the movie Knight and Day released in year 2010 directed by James Mangold?,No.
+75,234,2,Is the movie The Wolverine released in year 2013 produced in USA?,No.
+76,237,3,Is the movie Asterix at the Olympic Games released in year 2008 non-animation movie?,No.
+77,241,2,Is the movie Gravity released in year 2013 produced in UK?,No.
+78,247,2,Is the movie Tomorrow Never Dies released in year 1997 produced in UK?,No.
+79,248,1,Is the movie The Patriot released in year 2000 directed by Roland Emmerich?,No.
+80,249,2,Is the movie Ocean's Twelve released in year 2004 produced in USA?,No.
+81,253,2,Is the movie Gulliver's Travels released in year 2010 produced in USA?,No.
+82,255,2,Is the movie 300: Rise of an Empire released in year 2014 produced in USA?,No.
+83,257,1,Is the movie Home on the Range released in year 2004 directed by Will Finn?,No.
+84,260,2,Is the movie The Smurfs 2 released in year 2013 produced in USA?,No.
+85,261,2,Is the movie Speed 2: Cruise Control released in year 1997 produced in USA?,No.
+86,263,1,Is the movie Live Free or Die Hard released in year 2007 directed by Len Wiseman?,No.
+87,265,1,Is the movie Around the World in 80 Days released in year 2004 directed by Frank Coraci?,No.
+88,265,2,Is the movie Around the World in 80 Days released in year 2004 produced in USA?,No.
+89,265,3,Is the movie Around the World in 80 Days released in year 2004 non-animation movie?,No.
+90,267,3,Is the movie The Cat in the Hat released in year 2003 non-animation movie?,No.
+91,270,2,Is the movie Stuart Little released in year 1999 produced in Germany?,No.
+92,270,3,Is the movie Stuart Little released in year 1999 non-animation movie?,No.
+93,274,2,Is the movie Town & Country released in year 2001 produced in New Line?,No.
+94,276,2,Is the movie Gladiator released in year 2000 produced in USA?,No.
+95,279,2,Is the movie Casino Royale released in year 2006 produced in UK?,No.
+96,280,1,Is the movie Planet of the Apes released in year 2001 directed by Tim Burton?,No.
+97,280,2,Is the movie Planet of the Apes released in year 2001 produced in USA?,No.
+98,290,2,Is the movie The Hunchback of Notre Dame released in year 1996 produced in USA?,No.
+99,295,2,Is the movie Where the Wild Things Are released in year 2009 produced in Germany?,No.
+100,297,2,Is the movie The Tourist released in year 2010 produced in USA?,No.
+101,298,1,Is the movie End of Days released in year 1999 directed by Peter Hyams?,No.
+102,299,2,Is the movie Blood Diamond released in year 2006 produced in Germany?,No.
+103,303,2,Is the movie Cloud Atlas released in year 2012 produced in Germany?,No.
+104,304,1,Is the movie Legend of the Guardians: The Owls of Ga'Hoole released in year 2010 directed by Zack Snyder?,No.
+105,306,0,Do you know the movie Hercules released in year 2014?,"No, there was no major movie titled ""Hercules"" released in 2014. The most well-known live-action film based on the Greek mythological hero Hercules was released in 1997, starring Dwayne ""The Rock"" Johnson."
+106,306,1,Is the movie Hercules released in year 2014 directed by Brett Ratner?,No.
+107,306,2,Is the movie Hercules released in year 2014 produced in USA?,No.
+108,306,3,Is the movie Hercules released in year 2014 non-animation movie?,No.
+109,310,1,Is the movie Point Break released in year 2015 directed by Ericson Core?,No.
+110,310,2,Is the movie Point Break released in year 2015 produced in USA?,No.
+111,310,3,Is the movie Point Break released in year 2015 non-animation movie?,No.
+112,314,2,Is the movie Green Zone released in year 2010 produced in France?,No.
+113,321,1,Is the movie The Stepford Wives released in year 2004 directed by Frank Oz?,No.
+114,324,2,Is the movie The Fifth Element released in year 1997 produced in France?,No.
+115,326,2,Is the movie The Road to El Dorado released in year 2000 produced in USA?,No.
+116,328,2,Is the movie Cinderella released in year 2015 produced in USA?,No.
+117,328,3,Is the movie Cinderella released in year 2015 non-animation movie?,No.
+118,330,2,Is the movie Finding Nemo released in year 2003 produced in USA?,No.
+119,331,2,Is the movie The Lord of the Rings: The Return of the King released in year 2003 produced in USA?,No.
+120,332,2,Is the movie The Lord of the Rings: The Two Towers released in year 2002 produced in USA?,No.
+121,333,2,Is the movie Seventh Son released in year 2014 produced in USA?,No.
+122,334,2,Is the movie Lara Croft: Tomb Raider released in year 2001 produced in USA?,No.
+123,335,2,Is the movie Transcendence released in year 2014 produced in UK?,No.
+124,339,2,Is the movie A Good Day to Die Hard released in year 2013 produced in USA?,No.
+125,340,2,Is the movie The Alamo released in year 2004 produced in USA?,No.
+126,342,2,Is the movie Cutthroat Island released in year 1995 produced in USA?,No.
+127,343,1,Is the movie Percy Jackson & the Olympians: The Lightning Thief released in year 2010 directed by Chris Columbus?,No.
+128,343,2,Is the movie Percy Jackson & the Olympians: The Lightning Thief released in year 2010 produced in UK?,No.
+129,347,2,Is the movie Rush Hour 2 released in year 2001 produced in USA?,No.
+130,348,1,Is the movie What Lies Beneath released in year 2000 directed by Robert Zemeckis?,No.
+131,354,1,Is the movie Mulan released in year 1998 directed by Tony Bancroft?,No.
+132,354,2,Is the movie Mulan released in year 1998 produced in USA?,No.
+133,354,3,Is the movie Mulan released in year 1998 animation movie?,No.
+134,356,2,Is the movie The Girl with the Dragon Tattoo released in year 2011 produced in USA?,No.
+135,358,2,Is the movie Sherlock Holmes released in year 2009 produced in USA?,No.
+136,359,0,Do you know the movie Ben-Hur released in year 2016?,"No, there was no movie titled ""Ben-Hur"" released in 2016. The most recent major film adaptation of the novel ""Ben-Hur: A Tale of the Christ"" by Lew Wallace was released in 2016, but it was simply titled ""Ben-Hur."" This version starred Jack Huston, Toby Kebbell, and Morgan Freeman. However, the most famous and acclaimed film adaptation of ""Ben-Hur"" is the 1959 version directed by William Wyler and starring Charlton Heston in the title role. This 1959 film won 11 Academy Awards, including Best Picture."
+137,359,1,Is the movie Ben-Hur released in year 2016 directed by Timur Bekmambetov?,No.
+138,359,2,Is the movie Ben-Hur released in year 2016 produced in USA?,No.
+139,359,3,Is the movie Ben-Hur released in year 2016 non-animation movie?,No.
+140,362,1,Is the movie Valkyrie released in year 2008 directed by Bryan Singer?,No.
+141,362,2,Is the movie Valkyrie released in year 2008 produced in USA?,No.
+142,364,1,Is the movie Pixels released in year 2015 directed by Chris Columbus?,No.
+143,364,3,Is the movie Pixels released in year 2015 animation movie?,No.
+144,369,2,Is the movie The Interpreter released in year 2005 produced in UK?,No.
+145,371,1,Is the movie Lara Croft Tomb Raider: The Cradle of Life released in year 2003 directed by Jan de Bont?,No.
+146,371,2,Is the movie Lara Croft Tomb Raider: The Cradle of Life released in year 2003 produced in USA?,No.
+147,373,2,Is the movie The Saint released in year 1997 produced in USA?,No.
+148,374,2,Is the movie Spy Game released in year 2001 produced in Germany?,No.
+149,376,2,Is the movie Rio released in year 2011 produced in USA?,No.
+150,377,1,Is the movie Bicentennial Man released in year 1999 directed by Chris Columbus?,No.
+151,378,1,Is the movie Volcano released in year 1997 directed by Mick Jackson?,No.
+152,379,1,Is the movie The Devil's Own released in year 1997 directed by Alan J. Pakula?,No.
+153,380,1,Is the movie K-19: The Widowmaker released in year 2002 directed by Kathryn Bigelow?,No.
+154,380,2,Is the movie K-19: The Widowmaker released in year 2002 produced in UK?,No.
+155,381,2,Is the movie Conan the Barbarian released in year 1982 produced in USA?,No.
+156,383,1,Is the movie The Nutcracker in 3D released in year 2010 directed by Andrey Konchalovskiy?,No.
+157,383,2,Is the movie The Nutcracker in 3D released in year 2010 produced in UK?,No.
+158,383,3,Is the movie The Nutcracker in 3D released in year 2010 non-animation movie?,No.
+159,387,2,Is the movie Happy Feet released in year 2006 produced in USA?,No.
+160,391,2,Is the movie The Three Musketeers released in year 2011 produced in Germany?,No.
+161,395,2,Is the movie 102 Dalmatians released in year 2000 produced in USA?,No.
+162,401,1,Is the movie Open Season released in year 2006 directed by Roger Allers?,No.
+163,403,2,Is the movie Enemy at the Gates released in year 2001 produced in USA?,No.
+164,406,2,Is the movie Memoirs of a Geisha released in year 2005 produced in USA?,No.
+165,412,2,Is the movie Mirror Mirror released in year 2012 produced in USA?,No.
+166,416,3,Is the movie Scooby-Doo released in year 2002 non-animation movie?,No.
+167,417,2,Is the movie Dredd released in year 2012 produced in UK?,No.
+168,422,2,Is the movie Hellboy II: The Golden Army released in year 2008 produced in USA?,No.
+169,432,1,Is the movie Lilo & Stitch released in year 2002 directed by Dean DeBlois?,No.
+170,433,3,Is the movie Charlotte's Web released in year 2006 non-animation movie?,No.
+171,442,2,Is the movie Four Christmases released in year 2008 produced in Germany?,No.
+172,453,2,Is the movie The Haunting released in year 1999 produced in USA?,No.
+173,455,1,Is the movie The Pink Panther released in year 2006 directed by Shawn Levy?,No.
+174,455,2,Is the movie The Pink Panther released in year 2006 produced in USA?,No.
+175,456,1,Is the movie The Day the Earth Stood Still released in year 2008 directed by Scott Derrickson?,No.
+176,459,1,Is the movie Six Days Seven Nights released in year 1998 directed by Ivan Reitman?,No.
+177,464,1,Is the movie The Manchurian Candidate released in year 2004 directed by Jonathan Demme?,No.
+178,465,0,Do you know the movie Déjà Vu released in year 1997?,"No, there is no movie titled ""Déjà Vu"" released in 1997."
+179,465,1,Is the movie Déjà Vu released in year 1997 directed by Henry Jaglom?,No.
+180,465,2,Is the movie Déjà Vu released in year 1997 produced in USA?,No.
+181,465,3,Is the movie Déjà Vu released in year 1997 non-animation movie?,No.
+182,467,1,Is the movie Fantasia 2000 released in year 1999 directed by James Algar?,No.
+183,467,2,Is the movie Fantasia 2000 released in year 1999 produced in USA?,No.
+184,467,3,Is the movie Fantasia 2000 released in year 1999 animation movie?,No.
+185,468,2,Is the movie The Time Machine released in year 2002 produced in USA?,No.
+186,474,2,Is the movie The Brothers Grimm released in year 2005 produced in USA?,No.
+187,476,0,Do you know the movie Evolution released in year 2015?,"No, there is no major movie titled ""Evolution"" released in 2015."
+188,476,1,Is the movie Evolution released in year 2015 directed by Lucile Hadzihalilovic?,No.
+189,476,2,Is the movie Evolution released in year 2015 produced in France?,No.
+190,476,3,Is the movie Evolution released in year 2015 non-animation movie?,No.
+191,479,2,Is the movie Thirteen Days released in year 2000 produced in USA?,No.
+192,481,2,Is the movie Walking with Dinosaurs 3D released in year 2013 produced in USA?,No.
+193,482,1,Is the movie Battlefield Earth released in year 2000 directed by Roger Christian?,No.
+194,483,2,Is the movie Looney Tunes: Back in Action released in year 2003 produced in Germany?,No.
+195,484,2,Is the movie Nine released in year 2009 produced in USA?,No.
+196,485,1,Is the movie Timeline released in year 2003 directed by Richard Donner?,No.
+197,487,2,Is the movie Babe: Pig in the City released in year 1998 produced in Australia?,No.
+198,487,3,Is the movie Babe: Pig in the City released in year 1998 non-animation movie?,No.
+199,489,1,Is the movie Red Planet released in year 2000 directed by Antony Hoffman?,No.
+200,491,1,Is the movie Oceans released in year 2009 directed by Jacques Perrin?,No.
+201,491,2,Is the movie Oceans released in year 2009 produced in France?,No.
+202,491,3,Is the movie Oceans released in year 2009 non-animation movie?,No.
+203,492,2,Is the movie A Sound of Thunder released in year 2005 produced in UK?,No.
+204,493,2,Is the movie Pompeii released in year 2014 produced in Canada?,No.
+205,494,0,Do you know the movie Top Cat Begins released in year 2015?,No
+206,494,2,Is the movie Top Cat Begins released in year 2015 produced in Mexico?,No.
+207,496,2,Is the movie The Lion King released in year 1994 produced in USA?,No.
+208,497,2,Is the movie Journey 2: The Mysterious Island released in year 2012 produced in USA?,No.
+209,499,1,Is the movie Red Dragon released in year 2002 directed by Brett Ratner?,No.
+210,499,2,Is the movie Red Dragon released in year 2002 produced in Germany?,No.
+211,506,2,Is the movie The Secret Life of Pets released in year 2016 produced in Japan?,No.
+212,507,2,Is the movie The League of Extraordinary Gentlemen released in year 2003 produced in USA?,No.
+213,508,2,Is the movie Despicable Me 2 released in year 2013 produced in USA?,No.
+214,510,1,Is the movie The Lost World: Jurassic Park released in year 1997 directed by Steven Spielberg?,No.
+215,512,2,Is the movie Children of Men released in year 2006 produced in USA?,No.
+216,519,2,Is the movie Exorcist: The Beginning released in year 2004 produced in USA?,No.
+217,520,2,Is the movie Inspector Gadget released in year 1999 produced in USA?,No.
+218,525,1,Is the movie Vertical Limit released in year 2000 directed by Martin Campbell?,No.
+219,530,2,Is the movie Munich released in year 2005 produced in France?,No.
+220,538,2,Is the movie Anna and the King released in year 1999 produced in USA?,No.
+221,539,2,Is the movie Immortals released in year 2011 produced in USA?,No.
+222,541,1,Is the movie Titan A.E. released in year 2000 directed by Don Bluth?,No.
+223,543,2,Is the movie Soldier released in year 1998 produced in UK?,No.
+224,544,2,Is the movie Carriers released in year 2009 produced in USA?,No.
+225,545,1,Is the movie Monkeybone released in year 2001 directed by Henry Selick?,No.
+226,546,2,Is the movie Flight of the Phoenix released in year 2004 produced in USA?,No.
+227,548,2,Is the movie Minions released in year 2015 produced in USA?,No.
+228,550,1,Is the movie Snake Eyes released in year 1998 directed by Brian De Palma?,No.
+229,550,2,Is the movie Snake Eyes released in year 1998 produced in USA?,No.
+230,550,3,Is the movie Snake Eyes released in year 1998 non-animation movie?,No.
+231,552,2,Is the movie The Angry Birds Movie released in year 2016 produced in USA?,No.
+232,557,2,Is the movie Dr. Dolittle 2 released in year 2001 produced in USA?,No.
+233,558,2,Is the movie Braveheart released in year 1995 produced in USA?,No.
+234,559,2,Is the movie Jarhead released in year 2005 produced in Germany?,No.
+235,565,2,Is the movie Doctor Dolittle released in year 1998 produced in USA?,No.
+236,565,3,Is the movie Doctor Dolittle released in year 1998 non-animation movie?,No.
+237,573,2,Is the movie Inglourious Basterds released in year 2009 produced in USA?,No.
+238,579,1,Is the movie AVP: Alien vs. Predator released in year 2004 directed by Paul W.S. Anderson?,No.
+239,580,1,Is the movie Alvin and the Chipmunks: The Squeakquel released in year 2009 directed by Betty Thomas?,No.
+240,582,1,Is the movie Olympus Has Fallen released in year 2013 directed by Antoine Fuqua?,No.
+241,586,2,Is the movie Wolf released in year 1994 produced in USA?,No.
+242,587,2,Is the movie War Horse released in year 2011 produced in USA?,No.
+243,591,2,Is the movie Dracula Untold released in year 2014 produced in USA?,No.
+244,593,2,Is the movie Stardust released in year 2007 produced in UK?,No.
+245,594,2,Is the movie Seven Years in Tibet released in year 1997 produced in USA?,No.
+246,595,1,Is the movie The Dilemma released in year 2011 directed by Ron Howard?,No.
+247,596,1,Is the movie Bad Company released in year 2002 directed by Joel Schumacher?,No.
+248,596,2,Is the movie Bad Company released in year 2002 produced in USA?,No.
+249,597,2,Is the movie Doom released in year 2005 produced in UK?,No.
+250,602,2,Is the movie Killer Elite released in year 2011 produced in UK?,No.
+251,603,1,Is the movie Rollerball released in year 2002 directed by John McTiernan?,No.
+252,603,2,Is the movie Rollerball released in year 2002 produced in USA?,No.
+253,606,1,Is the movie Osmosis Jones released in year 2001 directed by Bobby Farrelly?,No.
+254,607,1,Is the movie Legends of Oz: Dorothy's Return released in year 2013 directed by Will Finn?,No.
+255,607,2,Is the movie Legends of Oz: Dorothy's Return released in year 2013 produced in USA?,No.
+256,610,2,Is the movie Basic Instinct 2 released in year 2006 produced in UK?,No.
+257,611,1,Is the movie Escape Plan released in year 2013 directed by Mikael Håfström?,No.
+258,612,2,Is the movie The Legend of Hercules released in year 2014 produced in USA?,No.
+259,615,1,Is the movie The Score released in year 2001 directed by Frank Oz?,No.
+260,616,1,Is the movie Despicable Me released in year 2010 directed by Pierre Coffin?,No.
+261,616,2,Is the movie Despicable Me released in year 2010 produced in USA?,No.
+262,620,1,Is the movie Mystery Men released in year 1999 directed by Kinka Usher?,No.
+263,627,2,Is the movie Entrapment released in year 1999 produced in USA?,No.
+264,628,1,Is the movie The X Files released in year 1998 directed by Rob Bowman?,No.
+265,629,1,Is the movie The Last Legion released in year 2007 directed by Doug Lefler?,No.
+266,629,2,Is the movie The Last Legion released in year 2007 produced in UK?,No.
+267,632,1,Is the movie What Women Want released in year 2000 directed by Nancy Meyers?,No.
+268,634,1,Is the movie Dreamcatcher released in year 2003 directed by Lawrence Kasdan?,No.
+269,639,2,Is the movie Les Misérables released in year 2012 produced in USA?,No.
+270,645,1,Is the movie Space Cowboys released in year 2000 directed by Clint Eastwood?,No.
+271,647,1,Is the movie Broken Arrow released in year 1996 directed by John Woo?,No.
+272,648,0,Do you know the movie The Kid released in year 2000?,"No, I don't have specific knowledge about a movie called ""The Kid"" released in 2000."
+273,648,1,Is the movie The Kid released in year 2000 directed by Jon Turteltaub?,No.
+274,648,2,Is the movie The Kid released in year 2000 produced in USA?,No.
+275,652,2,Is the movie Eyes Wide Shut released in year 1999 produced in UK?,No.
+276,657,2,Is the movie Red Dawn released in year 1984 produced in USA?,No.
+277,658,2,Is the movie Primary Colors released in year 1998 produced in France?,No.
+278,659,2,Is the movie Resident Evil: Retribution released in year 2012 produced in Germany?,No.
+279,665,1,Is the movie We Are Marshall released in year 2006 directed by McG?,No.
+280,667,1,Is the movie Lucky Numbers released in year 2000 directed by Nora Ephron?,No.
+281,667,2,Is the movie Lucky Numbers released in year 2000 produced in France?,No.
+282,669,0,Do you know the movie Oliver Twist released in year 2005?,"No, there was no major film adaptation of the Charles Dickens novel Oliver Twist released in 2005. Some notable film/TV adaptations of Oliver Twist include: - Oliver Twist (1948) - directed by David Lean - Oliver! (1968) - the famous musical film - Oliver Twist (1997) - directed by Tony Bill - Oliver Twist (1999) - a TV movie - Oliver Twist (2005) - a mini-series made for TV - Oliver Twist (2007) - directed by Coky Giedroyc But there was no mainstream theatrical movie release specifically in the year 2005 based on Oliver Twist."
+283,669,1,Is the movie Oliver Twist released in year 2005 directed by Roman Polanski?,No.
+284,669,2,Is the movie Oliver Twist released in year 2005 produced in UK?,No.
+285,669,3,Is the movie Oliver Twist released in year 2005 non-animation movie?,No.
+286,670,2,Is the movie Elektra released in year 2005 produced in Canada?,No.
+287,671,1,Is the movie Sin City: A Dame to Kill For released in year 2014 directed by Frank Miller?,No.
+288,673,2,Is the movie Everest released in year 2015 produced in UK?,No.
+289,676,1,Is the movie Astro Boy released in year 2009 directed by David Bowers?,No.
+290,676,2,Is the movie Astro Boy released in year 2009 produced in Hong Kong?,No.
+291,680,1,Is the movie Dragon Blade released in year 2015 directed by Daniel Lee?,No.
+292,681,0,Do you know the movie Littleman released in year 2006?,"No, there does not appear to be a movie called ""Littleman"" released in 2006."
+293,681,1,Is the movie Littleman released in year 2006 directed by Keenen Ivory Wayans?,No.
+294,681,2,Is the movie Littleman released in year 2006 produced in USA?,No.
+295,681,3,Is the movie Littleman released in year 2006 non-animation movie?,No.
+296,682,2,Is the movie U-571 released in year 2000 produced in France?,No.
+297,684,1,Is the movie The Love Guru released in year 2008 directed by Marco Schnabel?,No.
+298,689,1,Is the movie 300 released in year 2006 directed by Zack Snyder?,No.
+299,689,2,Is the movie 300 released in year 2006 produced in USA?,No.
+300,689,3,Is the movie 300 released in year 2006 non-animation movie?,No.
+301,699,1,Is the movie The Truman Show released in year 1998 directed by Peter Weir?,No.
+302,700,1,Is the movie The Prince of Egypt released in year 1998 directed by Brenda Chapman?,No.
+303,703,3,Is the movie Cats & Dogs released in year 2001 non-animation movie?,No.
+304,704,2,Is the movie The Italian Job released in year 2003 produced in USA?,No.
+305,707,1,Is the movie Couples Retreat released in year 2009 directed by Peter Billingsley?,No.
+306,711,1,Is the movie Eat Pray Love released in year 2010 directed by Ryan Murphy?,No.
+307,712,1,Is the movie The Family Man released in year 2000 directed by Brett Ratner?,No.
+308,721,2,Is the movie This Is It released in year 2009 produced in USA?,No.
+309,724,2,Is the movie Coraline released in year 2009 produced in USA?,No.
+310,733,2,Is the movie The Jackal released in year 1997 produced in USA?,No.
+311,736,2,Is the movie The Tale of Despereaux released in year 2008 produced in UK?,No.
+312,738,1,Is the movie Under Siege 2: Dark Territory released in year 1995 directed by Geoff Murphy?,No.
+313,738,2,Is the movie Under Siege 2: Dark Territory released in year 1995 produced in USA?,No.
+314,741,2,Is the movie London Has Fallen released in year 2016 produced in UK?,No.
+315,744,1,Is the movie The Boxtrolls released in year 2014 directed by Graham Annable?,No.
+316,744,2,Is the movie The Boxtrolls released in year 2014 produced in USA?,No.
+317,746,2,Is the movie The Lego Movie released in year 2014 produced in Australia?,No.
+318,748,2,Is the movie Reign of Fire released in year 2002 produced in USA?,No.
+319,751,2,Is the movie Invictus released in year 2009 produced in USA?,No.
+320,754,0,Do you know the movie My Favorite Martian released in year 1999?,No.
+321,754,2,Is the movie My Favorite Martian released in year 1999 produced in USA?,No.
+322,756,1,Is the movie Planet 51 released in year 2009 directed by Jorge Blanco?,No.
+323,756,2,Is the movie Planet 51 released in year 2009 produced in Spain?,No.
+324,757,1,Is the movie Star Trek: Nemesis released in year 2002 directed by Stuart Baird?,No.
+325,760,2,Is the movie Edge of Darkness released in year 2010 produced in UK?,No.
+326,761,2,Is the movie The Relic released in year 1997 produced in UK?,No.
+327,765,1,Is the movie The Soloist released in year 2009 directed by Joe Wright?,No.
+328,765,2,Is the movie The Soloist released in year 2009 produced in UK?,No.
+329,768,2,Is the movie Garfield 2 released in year 2006 produced in UK?,No.
+330,769,1,Is the movie xXx: State of the Union released in year 2005 directed by Lee Tamahori?,No.
+331,769,2,Is the movie xXx: State of the Union released in year 2005 produced in USA?,No.
+332,770,2,Is the movie Priest released in year 2011 produced in USA?,No.
+333,771,1,Is the movie Sinbad: Legend of the Seven Seas released in year 2003 directed by Patrick Gilmore?,No.
+334,772,2,Is the movie Event Horizon released in year 1997 produced in UK?,No.
+335,773,2,Is the movie Dragonfly released in year 2002 produced in USA?,No.
+336,774,2,Is the movie The Black Dahlia released in year 2006 produced in Germany?,No.
+337,775,1,Is the movie Flyboys released in year 2006 directed by Tony Bill?,No.
+338,775,2,Is the movie Flyboys released in year 2006 produced in UK?,No.
+339,777,1,Is the movie Supernova released in year 2000 directed by Walter Hill?,No.
+340,777,2,Is the movie Supernova released in year 2000 produced in USA?,No.
+341,777,3,Is the movie Supernova released in year 2000 non-animation movie?,No.
+342,781,1,Is the movie Dark Water released in year 2005 directed by Walter Salles?,No.
+343,781,2,Is the movie Dark Water released in year 2005 produced in USA?,No.
+344,786,2,Is the movie In the Name of the King: A Dungeon Siege Tale released in year 2007 produced in Germany?,No.
+345,787,1,Is the movie Beyond Borders released in year 2003 directed by Martin Campbell?,No.
+346,787,2,Is the movie Beyond Borders released in year 2003 produced in USA?,No.
+347,788,0,Do you know the movie Xi you ji zhi: Sun Wukong san da Baigu Jing released in year 2016?,"No, I don't have any specific information about a movie titled ""Xi you ji zhi: Sun Wukong san da Baigu Jing"" released in 2016."
+348,788,1,Is the movie Xi you ji zhi: Sun Wukong san da Baigu Jing released in year 2016 directed by Pou-Soi Cheang?,No.
+349,788,3,Is the movie Xi you ji zhi: Sun Wukong san da Baigu Jing released in year 2016 non-animation movie?,No
+350,789,1,Is the movie The Great Raid released in year 2005 directed by John Dahl?,No.
+351,796,1,Is the movie Rambo III released in year 1988 directed by Peter MacDonald?,No.
+352,796,2,Is the movie Rambo III released in year 1988 produced in USA?,No.
+353,798,0,Do you know the movie The Ridiculous 6 released in year 2015?,"No, the movie ""The Ridiculous 6"" was released in 2015 on Netflix. It was a comedy film directed by Frank Coraci and starring Adam Sandler, Terry Crews, Jorge Garcia, Taylor Lautner, Rob Schneider, and Luke Wilson."
+354,798,1,Is the movie The Ridiculous 6 released in year 2015 directed by Frank Coraci?,No.
+355,801,2,Is the movie Resident Evil: Afterlife released in year 2010 produced in Germany?,No.
+356,802,1,Is the movie Red Tails released in year 2012 directed by Anthony Hemingway?,No.
+357,805,2,Is the movie DragonHeart released in year 1996 produced in USA?,No.
+358,807,1,Is the movie Ghost Rider: Spirit of Vengeance released in year 2011 directed by Mark Neveldine?,No.
+359,808,2,Is the movie Captain Corelli's Mandolin released in year 2001 produced in UK?,No.
+360,809,2,Is the movie The Pacifier released in year 2005 produced in Canada?,No.
+361,822,3,Is the movie Casper released in year 1995 non-animation movie?,No.
+362,829,2,Is the movie City of Angels released in year 1998 produced in Germany?,No.
+363,831,1,Is the movie Bowfinger released in year 1999 directed by Frank Oz?,No.
+364,833,1,Is the movie Tango & Cash released in year 1989 directed by Andrey Konchalovskiy?,No.
+365,838,2,Is the movie The Forbidden Kingdom released in year 2008 produced in USA?,No.
+366,841,2,Is the movie Evita released in year 1996 produced in USA?,No.
+367,842,2,Is the movie Ronin released in year 1998 produced in UK?,No.
+368,844,3,Is the movie Paddington released in year 2014 animation movie?,No.
+369,845,1,Is the movie The Watch released in year 2012 directed by Akiva Schaffer?,No.
+370,849,1,Is the movie Semi-Pro released in year 2008 directed by Kent Alterman?,No.
+371,854,1,Is the movie The Phantom of the Opera released in year 2004 directed by Joel Schumacher?,No.
+372,854,2,Is the movie The Phantom of the Opera released in year 2004 produced in UK?,No.
+373,856,3,Is the movie Æon Flux released in year 2005 non-animation movie?,No.
+374,858,1,Is the movie Turbulence released in year 1997 directed by Robert Butler?,No.
+375,860,3,Is the movie Muppets Most Wanted released in year 2014 non-animation movie?,No.
+376,861,1,Is the movie Thunderbirds released in year 2004 directed by Jonathan Frakes?,No.
+377,861,2,Is the movie Thunderbirds released in year 2004 produced in UK?,No.
+378,861,3,Is the movie Thunderbirds released in year 2004 non-animation movie?,No.
+379,864,2,Is the movie Lolita released in year 1962 produced in UK?,No.
+380,865,1,Is the movie Eye See You released in year 2002 directed by Jim Gillespie?,No.
+381,865,2,Is the movie Eye See You released in year 2002 produced in USA?,No.
+382,868,1,Is the movie Bullet to the Head released in year 2012 directed by Walter Hill?,No.
+383,868,2,Is the movie Bullet to the Head released in year 2012 produced in USA?,No.
+384,871,1,"Is the movie You, Me and Dupree released in year 2006 directed by Anthony Russo?",No.
+385,872,2,Is the movie Superman II released in year 1980 produced in USA?,No.
+386,874,1,Is the movie All the King's Men released in year 2006 directed by Steven Zaillian?,No.
+387,874,2,Is the movie All the King's Men released in year 2006 produced in Germany?,No.
+388,875,2,Is the movie Shaft released in year 2000 produced in Germany?,No.
+389,876,1,Is the movie Anastasia released in year 1997 directed by Don Bluth?,No.
+390,876,2,Is the movie Anastasia released in year 1997 produced in USA?,No.
+391,877,2,Is the movie Moulin Rouge! released in year 2001 produced in USA?,No.
+392,881,1,Is the movie Law Abiding Citizen released in year 2009 directed by F. Gary Gray?,No.
+393,888,2,Is the movie Mamma Mia! released in year 2008 produced in USA?,No.
+394,893,1,Is the movie Man on the Moon released in year 1999 directed by Milos Forman?,No.
+395,893,2,Is the movie Man on the Moon released in year 1999 produced in UK?,No.
+396,895,2,Is the movie From Paris with Love released in year 2010 produced in France?,No.
+397,896,1,Is the movie Bulletproof Monk released in year 2003 directed by Paul Hunter?,No.
+398,898,2,Is the movie Barnyard released in year 2006 produced in Germany?,No.
+399,917,1,Is the movie Stepmom released in year 1998 directed by Chris Columbus?,No.
+400,926,1,Is the movie The Ring Two released in year 2005 directed by Hideo Nakata?,No.
+401,932,2,Is the movie Non-Stop released in year 2014 produced in UK?,No.
+402,934,2,Is the movie V for Vendetta released in year 2005 produced in USA?,No.
+403,935,2,Is the movie Shanghai Knights released in year 2003 produced in USA?,No.
+404,939,2,Is the movie Hansel & Gretel: Witch Hunters released in year 2013 produced in Germany?,No.
+405,946,1,Is the movie Absolute Power released in year 1997 directed by Clint Eastwood?,No.
+406,947,1,Is the movie G.I. Jane released in year 1997 directed by Ridley Scott?,No.
+407,950,1,Is the movie The Replacements released in year 2000 directed by Howard Deutch?,No.
+408,952,2,Is the movie The Negotiator released in year 1998 produced in Germany?,No.
+409,954,0,Do you know the movie Beverly Hills Cop III released in year 1994?,No.
+410,954,1,Is the movie Beverly Hills Cop III released in year 1994 directed by John Landis?,No.
+411,954,2,Is the movie Beverly Hills Cop III released in year 1994 produced in USA?,No.
+412,958,1,Is the movie Resident Evil: Apocalypse released in year 2004 directed by Alexander Witt?,No.
+413,958,2,Is the movie Resident Evil: Apocalypse released in year 2004 produced in Germany?,No.
+414,962,3,Is the movie The Adventures of Sharkboy and Lavagirl 3-D released in year 2005 non-animation movie?,No.
+415,963,2,Is the movie The Beach released in year 2000 produced in USA?,No.
+416,965,2,Is the movie Ninja Assassin released in year 2009 produced in USA?,No.
+417,966,1,Is the movie For Love of the Game released in year 1999 directed by Sam Raimi?,No.
+418,969,1,Is the movie Hereafter released in year 2010 directed by Clint Eastwood?,No.
+419,969,2,Is the movie Hereafter released in year 2010 produced in USA?,No.
+420,971,1,Is the movie Assassins released in year 1995 directed by Richard Donner?,No.
+421,971,2,Is the movie Assassins released in year 1995 produced in France?,No.
+422,972,2,Is the movie Hannibal Rising released in year 2007 produced in UK?,No.
+423,974,1,Is the movie The Host released in year 2013 directed by Andrew Niccol?,No.
+424,974,2,Is the movie The Host released in year 2013 produced in USA?,No.
+425,974,3,Is the movie The Host released in year 2013 non-animation movie?,No.
+426,975,1,Is the movie Basic released in year 2003 directed by John McTiernan?,No.
+427,975,2,Is the movie Basic released in year 2003 produced in Germany?,No.
+428,977,2,Is the movie The International released in year 2009 produced in USA?,No.
+429,982,1,Is the movie The Life of David Gale released in year 2003 directed by Alan Parker?,No.
+430,983,1,Is the movie Man of the House released in year 2005 directed by Stephen Herek?,No.
+431,983,2,Is the movie Man of the House released in year 2005 produced in USA?,No.
+432,985,2,Is the movie Eastern Promises released in year 2007 produced in USA?,No.
+433,987,1,Is the movie The Messenger: The Story of Joan of Arc released in year 1999 directed by Luc Besson?,No.
+434,987,2,Is the movie The Messenger: The Story of Joan of Arc released in year 1999 produced in France?,No.
+435,990,1,Is the movie Mad City released in year 1997 directed by Costa-Gavras?,No.
+436,994,2,Is the movie Domino released in year 2005 produced in France?,No.
+437,998,2,Is the movie Death to Smoochy released in year 2002 produced in UK?,No.
+438,1001,1,Is the movie What Planet Are You From? released in year 2000 directed by Mike Nichols?,No.
+439,1003,2,Is the movie Street Fighter: The Legend of Chun-Li released in year 2009 produced in Canada?,No.
+440,1004,2,Is the movie The One released in year 2001 produced in USA?,No.
+441,1009,2,Is the movie Anna Karenina released in year 2012 produced in UK?,No.
+442,1010,2,Is the movie Chappie released in year 2015 produced in USA?,No.
+443,1013,0,Do you know the movie The Tooth Fairy released in year 2006?,No
+444,1013,1,Is the movie The Tooth Fairy released in year 2006 directed by Chuck Bowman?,No.
+445,1013,2,Is the movie The Tooth Fairy released in year 2006 produced in USA?,No.
+446,1013,3,Is the movie The Tooth Fairy released in year 2006 non-animation movie?,No.
+447,1015,2,Is the movie Child 44 released in year 2015 produced in Czech Republic?,No.
+448,1016,2,Is the movie Rat Race released in year 2001 produced in Canada?,No.
+449,1019,1,Is the movie Bedazzled released in year 2000 directed by Harold Ramis?,No.
+450,1019,2,Is the movie Bedazzled released in year 2000 produced in USA?,No.
+451,1022,2,Is the movie Taken 3 released in year 2014 produced in France?,No.
+452,1025,0,Do you know the movie Earth released in year 1998?,"No, there is no movie titled ""Earth"" released in 1998."
+453,1025,1,Is the movie Earth released in year 1998 directed by Deepa Mehta?,No.
+454,1025,2,Is the movie Earth released in year 1998 produced in India?,No.
+455,1025,3,Is the movie Earth released in year 1998 non-animation movie?,No.
+456,1027,1,Is the movie The Thomas Crown Affair released in year 1999 directed by John McTiernan?,No.
+457,1028,1,Is the movie Riding in Cars with Boys released in year 2001 directed by Penny Marshall?,No.
+458,1033,1,Is the movie My Best Friend's Wedding released in year 1997 directed by P.J. Hogan?,No.
+459,1035,1,Is the movie Insomnia released in year 2002 directed by Christopher Nolan?,No.
+460,1035,2,Is the movie Insomnia released in year 2002 produced in USA?,No.
+461,1040,2,Is the movie The Infiltrator released in year 2016 produced in UK?,No.
+462,1041,1,Is the movie Inchon released in year 1981 directed by Terence Young?,No.
+463,1041,2,Is the movie Inchon released in year 1981 produced in South Korea?,No.
+464,1042,3,Is the movie The Flintstones released in year 1994 non-animation movie?,No.
+465,1043,2,Is the movie Taken 2 released in year 2012 produced in France?,No.
+466,1044,1,Is the movie Scary Movie 3 released in year 2003 directed by David Zucker?,No.
+467,1046,2,Is the movie Journey to the Center of the Earth released in year 2008 produced in USA?,No.
+468,1052,2,Is the movie Monster-in-Law released in year 2005 produced in Germany?,No.
+469,1056,1,Is the movie Scary Movie 2 released in year 2001 directed by Keenen Ivory Wayans?,No.
+470,1061,1,Is the movie Anaconda released in year 1997 directed by Luis Llosa?,No.
+471,1062,1,Is the movie Coyote Ugly released in year 2000 directed by David McNally?,No.
+472,1065,1,Is the movie From Hell released in year 2001 directed by Albert Hughes?,No.
+473,1065,2,Is the movie From Hell released in year 2001 produced in USA?,No.
+474,1066,1,Is the movie The Specialist released in year 1994 directed by Luis Llosa?,No.
+475,1066,2,Is the movie The Specialist released in year 1994 produced in Peru?,No.
+476,1068,2,"Is the movie Yours, Mine and Ours released in year 1968 produced in USA?",No.
+477,1070,2,Is the movie The Hitchhiker's Guide to the Galaxy released in year 2005 produced in USA?,No.
+478,1071,3,Is the movie Fat Albert released in year 2004 non-animation movie?,No.
+479,1072,2,Is the movie Resident Evil: Extinction released in year 2007 produced in France?,No.
+480,1081,0,Do you know the movie Dune released in year 1984?,No.
+481,1081,1,Is the movie Dune released in year 1984 directed by David Lynch?,No.
+482,1081,2,Is the movie Dune released in year 1984 produced in USA?,No.
+483,1081,3,Is the movie Dune released in year 1984 non-animation movie?,No.
+484,1084,1,Is the movie 16 Blocks released in year 2006 directed by Richard Donner?,No.
+485,1084,2,Is the movie 16 Blocks released in year 2006 produced in Germany?,No.
+486,1085,2,Is the movie Babylon A.D. released in year 2008 produced in France?,No.
+487,1086,1,Is the movie The Glimmer Man released in year 1996 directed by John Gray?,No.
+488,1089,1,Is the movie The Pledge released in year 2001 directed by Sean Penn?,No.
+489,1089,2,Is the movie The Pledge released in year 2001 produced in USA?,No.
+490,1090,1,Is the movie The Producers released in year 2005 directed by Susan Stroman?,No.
+491,1090,2,Is the movie The Producers released in year 2005 produced in USA?,No.
+492,1091,2,Is the movie The Phantom released in year 1996 produced in Australia?,No.
+493,1092,1,Is the movie All the Pretty Horses released in year 2000 directed by Billy Bob Thornton?,No.
+494,1092,2,Is the movie All the Pretty Horses released in year 2000 produced in USA?,No.
+495,1094,2,Is the movie The Ghost Writer released in year 2010 produced in France?,No.
+496,1098,1,Is the movie Bangkok Dangerous released in year 2008 directed by Danny Pang?,No.
+497,1098,2,Is the movie Bangkok Dangerous released in year 2008 produced in USA?,No.
+498,1100,1,Is the movie Love in the Time of Cholera released in year 2007 directed by Mike Newell?,No.
+499,1100,2,Is the movie Love in the Time of Cholera released in year 2007 produced in USA?,No.
+500,1101,0,Do you know the movie Shadow Conspiracy released in year 1997?,"No, I don't have any specific information about a movie called ""Shadow Conspiracy"" released in 1997."
+501,1101,1,Is the movie Shadow Conspiracy released in year 1997 directed by George P. Cosmatos?,No.
+502,1101,2,Is the movie Shadow Conspiracy released in year 1997 produced in USA?,No.
+503,1102,1,Is the movie Johnny English Reborn released in year 2011 directed by Oliver Parker?,No.
+504,1102,2,Is the movie Johnny English Reborn released in year 2011 produced in USA?,No.
+505,1103,0,Do you know the movie Foodfight! released in year 2012?,"No, I don't have specific knowledge about the movie ""Foodfight!"". However, based on a quick search, it appears to be an animated comedy film that had a very troubled and lengthy production history spanning over a decade. It was finally released in a limited theatrical run in 2012, but was widely panned by critics and audiences."
+506,1103,2,Is the movie Foodfight! released in year 2012 produced in USA?,No.
+507,1103,3,Is the movie Foodfight! released in year 2012 animation movie?,No.
+508,1110,1,Is the movie Pinocchio released in year 1940 directed by Norman Ferguson?,No.
+509,1113,2,Is the movie Victor Frankenstein released in year 2015 produced in USA?,No.
+510,1114,1,Is the movie Finding Forrester released in year 2000 directed by Gus Van Sant?,No.
+511,1116,2,Is the movie Unleashed released in year 2005 produced in France?,No.
+512,1127,2,Is the movie Cleopatra released in year 1963 produced in UK?,No.
+513,1128,1,Is the movie Here Comes the Boom released in year 2012 directed by Frank Coraci?,No.
+514,1132,2,Is the movie Brüno released in year 2009 produced in USA?,No.
+515,1133,2,Is the movie Licence to Kill released in year 1989 produced in UK?,No.
+516,1134,2,Is the movie Red Riding Hood released in year 2011 produced in USA?,No.
+517,1136,2,Is the movie Super Mario Bros. released in year 1993 produced in UK?,No.
+518,1141,2,Is the movie The Warrior's Way released in year 2010 produced in New Zealand?,No.
+519,1144,0,Do you know the movie Animal Kingdom: Let's go Ape released in year 2015?,"No, I don't have any information about a movie called ""Animal Kingdom: Let's go Ape"" released in 2015."
+520,1144,1,Is the movie Animal Kingdom: Let's go Ape released in year 2015 directed by Jamel Debbouze?,No.
+521,1144,2,Is the movie Animal Kingdom: Let's go Ape released in year 2015 produced in France?,No.
+522,1144,3,Is the movie Animal Kingdom: Let's go Ape released in year 2015 animation movie?,No.
+523,1146,2,Is the movie The Medallion released in year 2003 produced in Hong Kong?,No.
+524,1153,1,Is the movie Double Jeopardy released in year 1999 directed by Bruce Beresford?,No.
+525,1157,3,Is the movie Spy Kids 3-D: Game Over released in year 2003 non-animation movie?,No.
+526,1158,1,Is the movie A Time to Kill released in year 1996 directed by Joel Schumacher?,No.
+527,1162,2,Is the movie The Conjuring 2 released in year 2016 produced in USA?,No.
+528,1165,1,Is the movie Scary Movie 4 released in year 2006 directed by David Zucker?,No.
+529,1169,2,Is the movie Bram Stoker's Dracula released in year 1992 produced in USA?,No.
+530,1172,2,Is the movie The Talented Mr. Ripley released in year 1999 produced in USA?,No.
+531,1179,1,Is the movie Sin City released in year 2005 directed by Frank Miller?,No.
+532,1183,2,Is the movie JFK released in year 1991 produced in France?,No.
+533,1192,2,Is the movie Shall We Dance released in year 2004 produced in USA?,No.
+534,1195,2,Is the movie The Count of Monte Cristo released in year 2002 produced in UK?,No.
+535,1197,2,Is the movie Unknown released in year 2011 produced in UK?,No.
+536,1198,2,Is the movie The Prestige released in year 2006 produced in USA?,No.
+537,1201,2,Is the movie Apocalypto released in year 2006 produced in USA?,No.
+538,1204,1,Is the movie Legal Eagles released in year 1986 directed by Ivan Reitman?,No.
+539,1209,1,Is the movie Made of Honor released in year 2008 directed by Paul Weiland?,No.
+540,1210,1,Is the movie Jersey Boys released in year 2014 directed by Clint Eastwood?,No.
+541,1211,1,Is the movie The Rainmaker released in year 1997 directed by Francis Ford Coppola?,No.
+542,1212,1,Is the movie Gothika released in year 2003 directed by Mathieu Kassovitz?,No.
+543,1214,1,Is the movie Medicine Man released in year 1992 directed by John McTiernan?,No.
+544,1216,2,Is the movie Ri¢hie Ri¢h released in year 1994 produced in USA?,No.
+545,1217,1,Is the movie Autumn in New York released in year 2000 directed by Joan Chen?,No.
+546,1219,1,Is the movie Paul released in year 2011 directed by Greg Mottola?,No.
+547,1222,2,Is the movie 8MM released in year 1999 produced in Germany?,No.
+548,1225,2,Is the movie Hanging Up released in year 2000 produced in Germany?,No.
+549,1227,1,Is the movie Mickey Blue Eyes released in year 1999 directed by Kelly Makin?,No.
+550,1227,2,Is the movie Mickey Blue Eyes released in year 1999 produced in UK?,No.
+551,1229,1,Is the movie Fever Pitch released in year 2005 directed by Bobby Farrelly?,No.
+552,1236,2,Is the movie The Art of War released in year 2000 produced in USA?,No.
+553,1237,1,Is the movie Rent released in year 2005 directed by Chris Columbus?,No.
+554,1237,2,Is the movie Rent released in year 2005 produced in USA?,No.
+555,1241,2,Is the movie The Musketeer released in year 2001 produced in Germany?,No.
+556,1242,2,Is the movie The Other Boleyn Girl released in year 2008 produced in UK?,No.
+557,1243,1,Is the movie Sweet November released in year 2001 directed by Pat O'Connor?,No.
+558,1243,2,Is the movie Sweet November released in year 2001 produced in USA?,No.
+559,1246,1,Is the movie Renaissance Man released in year 1994 directed by Penny Marshall?,No.
+560,1247,2,Is the movie Colombiana released in year 2011 produced in France?,No.
+561,1248,2,Is the movie The Magic Sword: Quest for Camelot released in year 1998 produced in USA?,No.
+562,1250,1,Is the movie At First Sight released in year 1999 directed by Irwin Winkler?,No.
+563,1253,2,Is the movie Showgirls released in year 1995 produced in France?,No.
+564,1254,2,Is the movie Marie Antoinette released in year 2006 produced in USA?,No.
+565,1255,1,Is the movie Kiss of Death released in year 1995 directed by Barbet Schroeder?,No.
+566,1256,1,Is the movie Get Carter released in year 2000 directed by Stephen Kay?,No.
+567,1256,2,Is the movie Get Carter released in year 2000 produced in USA?,No.
+568,1257,2,Is the movie The Impossible released in year 2012 produced in Spain?,No.
+569,1259,2,Is the movie Fantastic Mr. Fox released in year 2009 produced in USA?,No.
+570,1264,1,Is the movie Alfie released in year 2004 directed by Charles Shyer?,No.
+571,1267,2,Is the movie Feardotcom released in year 2002 produced in UK?,No.
+572,1268,2,Is the movie Cirque du Freak: The Vampire's Assistant released in year 2009 produced in USA?,No
+573,1271,1,Is the movie Raise the Titanic released in year 1980 directed by Jerry Jameson?,No.
+574,1271,2,Is the movie Raise the Titanic released in year 1980 produced in UK?,No.
+575,1272,1,Is the movie Universal Soldier: The Return released in year 1999 directed by Mic Rodgers?,No.
+576,1272,2,Is the movie Universal Soldier: The Return released in year 1999 produced in USA?,No.
+577,1273,2,Is the movie Pandorum released in year 2009 produced in Germany?,No.
+578,1275,2,Is the movie Extreme Ops released in year 2002 produced in UK?,No.
+579,1276,2,Is the movie Just Visiting released in year 2001 produced in France?,No.
+580,1277,2,Is the movie Sunshine released in year 2007 produced in UK?,No.
+581,1279,2,Is the movie Delgo released in year 2008 produced in USA?,No.
+582,1280,1,Is the movie The Gunman released in year 2015 directed by Pierre Morel?,No.
+583,1280,2,Is the movie The Gunman released in year 2015 produced in USA?,No.
+584,1281,2,Is the movie Alex Rider: Operation Stormbreaker released in year 2006 produced in Germany?,No.
+585,1284,2,Is the movie The Hunting Party released in year 2007 produced in USA?,No.
+586,1285,2,Is the movie The Hudsucker Proxy released in year 1994 produced in UK?,No.
+587,1286,2,Is the movie The Warlords released in year 2007 produced in Hong Kong?,No.
+588,1287,0,Do you know the movie Nomad: The Warrior released in year 2005?,"No, I don't have any information about a movie called ""Nomad: The Warrior"" released in 2005."
+589,1287,1,Is the movie Nomad: The Warrior released in year 2005 directed by Sergey Bodrov?,No.
+590,1287,2,Is the movie Nomad: The Warrior released in year 2005 produced in France?,No.
+591,1287,3,Is the movie Nomad: The Warrior released in year 2005 non-animation movie?,No.
+592,1288,2,Is the movie Snowpiercer released in year 2013 produced in South Korea?,No.
+593,1290,1,Is the movie The Last Shot released in year 2004 directed by Jeff Nathanson?,No.
+594,1290,2,Is the movie The Last Shot released in year 2004 produced in USA?,No.
+595,1297,1,Is the movie Against the Ropes released in year 2004 directed by Charles S. Dutton?,No.
+596,1298,2,Is the movie Superman III released in year 1983 produced in UK?,No.
+597,1300,1,Is the movie Red Cliff released in year 2008 directed by John Woo?,No.
+598,1305,1,Is the movie Star Trek: Generations released in year 1994 directed by David Carson?,No.
+599,1308,0,Do you know the movie Dragon Nest: Warriors' Dawn released in year 2014?,"No, I don't have any specific information about the movie ""Dragon Nest: Warriors' Dawn"" or its release year."
+600,1308,1,Is the movie Dragon Nest: Warriors' Dawn released in year 2014 directed by Yuefeng Song?,No.
+601,1308,2,Is the movie Dragon Nest: Warriors' Dawn released in year 2014 produced in China?,No.
+602,1308,3,Is the movie Dragon Nest: Warriors' Dawn released in year 2014 animation movie?,No.
+603,1310,1,Is the movie Enough released in year 2002 directed by Michael Apted?,No.
+604,1313,1,Is the movie Angel Eyes released in year 2001 directed by Luis Mandoki?,No.
+605,1315,2,Is the movie The Ninth Gate released in year 1999 produced in Spain?,No.
+606,1317,1,Is the movie Rock Star released in year 2001 directed by Stephen Herek?,No.
+607,1319,1,Is the movie White Squall released in year 1996 directed by Ridley Scott?,No.
+608,1323,0,Do you know the movie Texas Rangers released in year 2001?,"No, there does not appear to be a movie titled ""Texas Rangers"" released in 2001."
+609,1323,1,Is the movie Texas Rangers released in year 2001 directed by Steve Miner?,No.
+610,1323,2,Is the movie Texas Rangers released in year 2001 produced in USA?,No.
+611,1326,0,Do you know the movie Virgin Territory released in year 2007?,"No, I don't have any specific information about a movie called ""Virgin Territory"" released in 2007."
+612,1326,1,Is the movie Virgin Territory released in year 2007 directed by David Leland?,No.
+613,1326,2,Is the movie Virgin Territory released in year 2007 produced in Italy?,No.
+614,1328,1,Is the movie The 5th Wave released in year 2016 directed by J Blakeson?,No.
+615,1331,1,Is the movie What to Expect When You're Expecting released in year 2012 directed by Kirk Jones?,No.
+616,1333,2,Is the movie Nim's Island released in year 2008 produced in USA?,No.
+617,1343,0,Do you know the movie Obitaemyy ostrov released in year 2009?,"No, I don't have any specific information about the movie ""Obitaemyy ostrov"" released in 2009."
+618,1343,1,Is the movie Obitaemyy ostrov released in year 2009 directed by Fedor Bondarchuk?,No.
+619,1343,3,Is the movie Obitaemyy ostrov released in year 2009 non-animation movie?,No.
+620,1345,1,Is the movie Never Say Never Again released in year 1983 directed by Irvin Kershner?,No.
+621,1353,2,Is the movie The Rite released in year 2011 produced in USA?,No.
+622,1355,0,Do you know the movie Isn't She Great released in year 2000?,"No, I don't have specific knowledge about the movie ""Isn't She Great"" from 2000."
+623,1355,1,Is the movie Isn't She Great released in year 2000 directed by Andrew Bergman?,No.
+624,1355,2,Is the movie Isn't She Great released in year 2000 produced in USA?,No.
+625,1355,3,Is the movie Isn't She Great released in year 2000 non-animation movie?,No.
+626,1367,1,Is the movie True Grit released in year 2010 directed by Ethan Coen?,No.
+627,1371,1,Is the movie Cape Fear released in year 1991 directed by Martin Scorsese?,No.
+628,1373,2,Is the movie Trainwreck released in year 2015 produced in Japan?,No.
+629,1375,2,Is the movie The English Patient released in year 1996 produced in USA?,No.
+630,1379,1,Is the movie Species released in year 1995 directed by Roger Donaldson?,No.
+631,1382,2,Is the movie The Man in the Iron Mask released in year 1998 produced in USA?,No.
+632,1384,2,Is the movie TMNT released in year 2007 produced in Hong Kong?,No.
+633,1384,3,Is the movie TMNT released in year 2007 animation movie?,No.
+634,1392,1,Is the movie Underworld: Rise of the Lycans released in year 2009 directed by Patrick Tatopoulos?,No.
+635,1392,2,Is the movie Underworld: Rise of the Lycans released in year 2009 produced in USA?,No.
+636,1397,2,Is the movie Resident Evil released in year 2002 produced in UK?,No.
+637,1400,2,Is the movie Max Payne released in year 2008 produced in Canada?,No.
+638,1404,1,Is the movie Black Knight released in year 2001 directed by Gil Junger?,No.
+639,1404,2,Is the movie Black Knight released in year 2001 produced in USA?,No.
+640,1406,1,Is the movie Street Fighter released in year 1994 directed by Steven E. de Souza?,No.
+641,1406,2,Is the movie Street Fighter released in year 1994 produced in Japan?,No.
+642,1407,2,Is the movie The Pianist released in year 2002 produced in France?,No.
+643,1408,1,Is the movie The Nativity Story released in year 2006 directed by Catherine Hardwicke?,No.
+644,1409,2,Is the movie House of Wax released in year 2005 produced in Australia?,No.
+645,1410,2,Is the movie Closer released in year 2004 produced in USA?,No.
+646,1417,2,Is the movie Flash Gordon released in year 1980 produced in UK?,No.
+647,1420,1,Is the movie Midnight in the Garden of Good and Evil released in year 1997 directed by Clint Eastwood?,No.
+648,1421,0,Do you know the movie Heist released in year 2015?,"No, I don't have any specific information about a movie titled ""Heist"" released in 2015."
+649,1421,1,Is the movie Heist released in year 2015 directed by Scott Mann?,No.
+650,1421,2,Is the movie Heist released in year 2015 produced in USA?,No.
+651,1421,3,Is the movie Heist released in year 2015 non-animation movie?,No.
+652,1422,2,Is the movie Nanny McPhee Returns released in year 2010 produced in UK?,No.
+653,1423,1,Is the movie Hoffa released in year 1992 directed by Danny DeVito?,No.
+654,1426,2,Is the movie Concussion released in year 2015 produced in UK?,No.
+655,1427,1,Is the movie Abduction released in year 2011 directed by John Singleton?,No.
+656,1428,1,Is the movie Valiant released in year 2005 directed by Gary Chapman?,No.
+657,1430,1,Is the movie Superhero Movie released in year 2008 directed by Craig Mazin?,No.
+658,1431,1,Is the movie Broken City released in year 2013 directed by Allen Hughes?,No.
+659,1432,1,Is the movie Cursed released in year 2005 directed by Wes Craven?,No.
+660,1432,2,Is the movie Cursed released in year 2005 produced in USA?,No.
+661,1435,1,Is the movie The Four Feathers released in year 2002 directed by Shekhar Kapur?,No.
+662,1435,2,Is the movie The Four Feathers released in year 2002 produced in UK?,No.
+663,1439,0,Do you know the movie Bait released in year 2012?,"No, I don't have any specific information about a movie titled ""Bait"" released in 2012."
+664,1439,1,Is the movie Bait released in year 2012 directed by Kimble Rendall?,No.
+665,1439,2,Is the movie Bait released in year 2012 produced in Australia?,No.
+666,1439,3,Is the movie Bait released in year 2012 non-animation movie?,No.
+667,1440,1,Is the movie Krull released in year 1983 directed by Peter Yates?,No.
+668,1440,2,Is the movie Krull released in year 1983 produced in UK?,No.
+669,1444,2,Is the movie The Shipping News released in year 2001 produced in USA?,No.
+670,1446,1,Is the movie The Young Victoria released in year 2009 directed by Jean-Marc Vallée?,No.
+671,1449,2,Is the movie Knock Off released in year 1998 produced in Aruba?,No.
+672,1451,1,Is the movie The Order released in year 2003 directed by Brian Helgeland?,No.
+673,1451,2,Is the movie The Order released in year 2003 produced in USA?,No.
+674,1453,2,Is the movie Zoom released in year 2006 produced in USA?,No.
+675,1454,2,Is the movie The Walk released in year 2015 produced in USA?,No.
+676,1455,2,Is the movie Warriors of Virtue released in year 1997 produced in USA?,No.
+677,1455,3,Is the movie Warriors of Virtue released in year 1997 non-animation movie?,No.
+678,1456,2,Is the movie A Good Year released in year 2006 produced in USA?,No.
+679,1460,2,Is the movie Femme Fatale released in year 2002 produced in France?,No.
+680,1461,2,Is the movie Lion of the Desert released in year 1980 produced in Libya?,No.
+681,1463,1,Is the movie Ride with the Devil released in year 1999 directed by Ang Lee?,No.
+682,1465,1,Is the movie Bandidas released in year 2006 directed by Joachim Rønning?,No.
+683,1465,2,Is the movie Bandidas released in year 2006 produced in France?,No.
+684,1466,0,Do you know the movie Black Water Transit released in year 2009?,"No, I don't have any specific information about a movie called ""Black Water Transit"" released in 2009."
+685,1466,1,Is the movie Black Water Transit released in year 2009 directed by Tony Kaye?,No.
+686,1466,2,Is the movie Black Water Transit released in year 2009 produced in USA?,No.
+687,1471,1,Is the movie Chill Factor released in year 1999 directed by Hugh Johnson?,No.
+688,1471,2,Is the movie Chill Factor released in year 1999 produced in USA?,No.
+689,1472,1,Is the movie Stolen released in year 2012 directed by Simon West?,No.
+690,1472,2,Is the movie Stolen released in year 2012 produced in USA?,No.
+691,1476,1,Is the movie I Dreamed of Africa released in year 2000 directed by Hugh Hudson?,No.
+692,1476,2,Is the movie I Dreamed of Africa released in year 2000 produced in USA?,No.
+693,1483,1,Is the movie Thunder and the House of Magic released in year 2013 directed by Jeremy Degruson?,No.
+694,1483,2,Is the movie Thunder and the House of Magic released in year 2013 produced in Belgium?,No.
+695,1484,1,Is the movie The Darkest Hour released in year 2011 directed by Chris Gorak?,No.
+696,1484,2,Is the movie The Darkest Hour released in year 2011 produced in USA?,No.
