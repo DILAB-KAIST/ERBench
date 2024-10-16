@@ -93,7 +93,7 @@ https://drive.google.com/drive/folders/1WXCGCG4ZPzkV1qUjR2Z0IegzkPgSSKwl?usp=dri
 
 (1) Prepare your FD based on your DB schema
     
-    movie title, released year &rarr director, length, movie publisher
+movie title, released year $\rightarrow$ director, length, movie publisher
 
 (2) Generate your question and corresponding options
 
