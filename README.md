@@ -109,7 +109,7 @@ movie title, released year $\rightarrow$ director, length, movie publisher
 
     ```Option C: The production company of this movie is {movie publisher}.```
 
-- Note that one of your options will be using a **FALSE** attribute value (e.g., different director name), which makes the option as the answer of this MC question. 
+- Note that one of your options will be using a **FALSE** attribute value (e.g., different director name), which makes the option as the answer of this MC question. Please refer to *run_qa* function in run_qa.py. 
 
 > ### How to run
 #### (1) multi_choice/source/run_qa.py
