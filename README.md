@@ -83,10 +83,36 @@ finetune_dataset.py -> finetune.ipynb -> run_qa.py -> error_analysis.py
 
 https://drive.google.com/drive/folders/1WXCGCG4ZPzkV1qUjR2Z0IegzkPgSSKwl?usp=drive_link 
 
-## Multi-choice Tasks
 
-### How to run
-#### multi_choice/source/run_qa.py
+---
+
+
+## Multi-choice (MC) Tasks
+
+> ### How to generate MC question templates with your DB
+
+(1) Prepare your FD based on your DB schema
+    
+    movie title, released year &rarr director, length, movie publisher
+
+(2) Generate your question and corresponding options
+
+- Include left-hand side attribute values in the question
+
+    ```What is the false option about the movie {movie title} released in {year}? Provide an explanation.```
+
+- Convert each right-hand side attribute value to each option
+
+    ```Option A: It was directed by {director}.```
+
+    ```Option B: The runtime of the movie is {length} minutes.```
+
+    ```Option C: The production company of this movie is {movie publisher}.```
+
+- Note that one of your options will be using a **FALSE** attribute value (e.g., different director name), which makes the option as the answer of this MC question. 
+
+> ### How to run
+#### (1) multi_choice/source/run_qa.py
 - Description
 
     This python file (1) preprocess dataset and (2) run QA/validation task.
@@ -138,7 +164,7 @@ https://drive.google.com/drive/folders/1WXCGCG4ZPzkV1qUjR2Z0IegzkPgSSKwl?usp=dri
     
         run QA with few-shot demonstrations. Before running code with demo mode, make sure you have demonstrations in dataset/demo.
 	
-#### multi_choice/source/error_analysis.py
+#### (2) multi_choice/source/error_analysis.py
 -	Description
 
     This python file must run after run_qa.py. This code (1) process validation log file to dataframe (.csv), (2) process QA log file to dataframe (.csv) and (2) analyze performance metrics w.r.t. these processed dataframes.
@@ -184,7 +210,7 @@ https://drive.google.com/drive/folders/1WXCGCG4ZPzkV1qUjR2Z0IegzkPgSSKwl?usp=dri
     
         save only type (3) analysis results.
 
-### Experiment Procedure
+> ### Experiment Procedure
 ```
 python run_qa.py --model [MODEL] --task [TASK] --tasktype validate
 python run_qa.py --model [MODEL] --task [TASK]
