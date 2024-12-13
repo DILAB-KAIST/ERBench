@@ -1,5 +1,45 @@
-# ERBench
+# ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models 
+NeurIPS 2024 Dataset & Benchmark Track Spotlight
+
+
+<img width="1088" alt="erbench" src="https://github.com/user-attachments/assets/39853b6d-566e-4e4e-ae7f-fbe0de8fab6b" />
+
+Paper: https://openreview.net/pdf?id=vJaWizbBdA
+
+Slides & Talk: https://neurips.cc/virtual/2024/poster/97458
+
+## Cite
+
+BibTeX:
+```bibtex
+@inproceedings{
+	oh2024erbench,
+	title={{ERB}ench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models},
+	author={Jio Oh and Soyeon Kim and Junseok Seo and Jindong Wang and Ruochen Xu and Xing Xie and Steven Euijong Whang},
+	booktitle={The Thirty-eighth Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+	year={2024},
+	url={https://openreview.net/forum?id=vJaWizbBdA}
+}
+```
+
 ## Binary Tasks
+
+
+> ### How to generate Binary question templates with your DB
+
+(1) Prepare your FD based on your DB schema
+    
+$\langle$ released year of movie, star, director $\rangle$  $\rightarrow$ $\langle$ movie title $\rangle$
+
+(2) Create your question template
+
+- Include left-hand side attribute values in the question asking for existence
+
+    ```Is there a movie, released in <1994>, starring <Tom Hanks> where <Robert Zemeckis> is the director?```
+
+
+
+
 ### How to Run
 #### binary/run_qa.py
 - Description
@@ -216,6 +256,26 @@ python run_qa.py --model [MODEL] --task [TASK] --tasktype validate
 python run_qa.py --model [MODEL] --task [TASK]
 python error_analysis.py --model [MODEL] --task [TASK]
 ```
+
+
+
+> ### Datasets Used in ERBENCH 
+
+- Movie: We use a relation with the attributes movie title, released year, director, country of origin, genre and 4 main stars. For multi-hop questioning, we join this relation with a separate Director relation with the attributes director name and birth year. We generate the Director relation using the crawled data from Wikipedia.
+(https://www.kaggle.com/datasets/thedevastator/imdb-movie-ratings-dataset)
+
+- Soccer: We use a relation with the attributes player name, club, jersey number, nationality, and league. For multi-hop questioning, we join this relation with a separate Club relation with the attributes club name and located city, and Olympic relation with the attributes city name and hosted years. Note that the Olympic relation encompasses information pertaining to the Summer Olympics; for the sake of brevity, we refer to it simply as Olympic. We generate the Club and Olympic relation using the crawled data from Wikipedia.
+(https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset)
+
+- Airport: We use a relation with the attributes airport name, shortcode, latitude, longitude, located city, and country code.
+(https://www.https://github.com/mwgg/Airports)
+
+- Music: We use a relation with the attributes music title, artist name, released year, and genre.
+(https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019)
+
+- Book: We use a relation with the attributes book title, author, published date, and publisher name.
+(https://www.kaggle.com/datasets/elvinrustam/books-dataset)
+
 
 
 
